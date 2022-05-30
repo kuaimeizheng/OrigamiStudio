@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Create a Document
+# Smooth Value
 
 Documents are **groups of pages** connected through:
 
