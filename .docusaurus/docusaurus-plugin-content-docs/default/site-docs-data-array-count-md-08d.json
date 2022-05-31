@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Data/Array Count",
+  "id": "Data/Array Count",
+  "title": "Array Count",
+  "description": "",
+  "source": "@site/docs/Data/Array Count.md",
+  "sourceDirName": "Data",
+  "slug": "/Data/Array Count",
+  "permalink": "/OrigamiStudio/docs/Data/Array Count",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Data/Array Count.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Array Append",
+    "permalink": "/OrigamiStudio/docs/Data/Array Append"
+  },
+  "next": {
+    "title": "Array Join",
+    "permalink": "/OrigamiStudio/docs/Data/Array Join"
+  }
+}

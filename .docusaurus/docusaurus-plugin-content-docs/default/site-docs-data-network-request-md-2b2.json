@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Data/Network Request",
+  "id": "Data/Network Request",
+  "title": "Network Request",
+  "description": "",
+  "source": "@site/docs/Data/Network Request.md",
+  "sourceDirName": "Data",
+  "slug": "/Data/Network Request",
+  "permalink": "/OrigamiStudio/docs/Data/Network Request",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Data/Network Request.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "JSON to Text",
+    "permalink": "/OrigamiStudio/docs/Data/JSON to Text"
+  },
+  "next": {
+    "title": "Open URL",
+    "permalink": "/OrigamiStudio/docs/Data/Open URL"
+  }
+}

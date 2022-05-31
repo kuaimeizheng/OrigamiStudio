@@ -1,0 +1,16 @@
+{
+  "title": "Canvas",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/canvas",
+  "permalink": "/OrigamiStudio/docs/category/canvas",
+  "navigation": {
+    "previous": {
+      "title": "Origami 入门",
+      "permalink": "/OrigamiStudio/docs/intro"
+    },
+    "next": {
+      "title": "Canvas",
+      "permalink": "/OrigamiStudio/docs/Canvas/"
+    }
+  }
+}

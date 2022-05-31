@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Math/Min",
+  "id": "Math/Min",
+  "title": "Min",
+  "description": "",
+  "source": "@site/docs/Math/Min.md",
+  "sourceDirName": "Math",
+  "slug": "/Math/Min",
+  "permalink": "/OrigamiStudio/docs/Math/Min",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Math/Min.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Max",
+    "permalink": "/OrigamiStudio/docs/Math/Max"
+  },
+  "next": {
+    "title": "Mod",
+    "permalink": "/OrigamiStudio/docs/Math/Mod"
+  }
+}

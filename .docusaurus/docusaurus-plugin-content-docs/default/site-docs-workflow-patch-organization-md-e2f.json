@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Workflow/Patch Organization",
+  "id": "Workflow/Patch Organization",
+  "title": "Patch Organization",
+  "description": "Documents are groups of pages connected through:",
+  "source": "@site/docs/Workflow/Patch Organization.md",
+  "sourceDirName": "Workflow",
+  "slug": "/Workflow/Patch Organization",
+  "permalink": "/OrigamiStudio/docs/Workflow/Patch Organization",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Workflow/Patch Organization.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Keyboard Shortcuts",
+    "permalink": "/OrigamiStudio/docs/Workflow/Keyboard Shortcuts"
+  },
+  "next": {
+    "title": "Previewing & Sharing",
+    "permalink": "/OrigamiStudio/docs/Workflow/Previewing & Sharing"
+  }
+}

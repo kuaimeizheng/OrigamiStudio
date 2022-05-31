@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Device/Interface Orientation",
+  "id": "Device/Interface Orientation",
+  "title": "Interface Orientation",
+  "description": "",
+  "source": "@site/docs/Device/Interface Orientation.md",
+  "sourceDirName": "Device",
+  "slug": "/Device/Interface Orientation",
+  "permalink": "/OrigamiStudio/docs/Device/Interface Orientation",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Device/Interface Orientation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Haptic",
+    "permalink": "/OrigamiStudio/docs/Device/Haptic"
+  },
+  "next": {
+    "title": "Location",
+    "permalink": "/OrigamiStudio/docs/Device/Location"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Math/Round",
+  "id": "Math/Round",
+  "title": "Round",
+  "description": "",
+  "source": "@site/docs/Math/Round.md",
+  "sourceDirName": "Math",
+  "slug": "/Math/Round",
+  "permalink": "/OrigamiStudio/docs/Math/Round",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Math/Round.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Power",
+    "permalink": "/OrigamiStudio/docs/Math/Power"
+  },
+  "next": {
+    "title": "Sine",
+    "permalink": "/OrigamiStudio/docs/Math/Sine"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Logic/Greater Than",
+  "id": "Logic/Greater Than",
+  "title": "Greater Than",
+  "description": "",
+  "source": "@site/docs/Logic/Greater Than.md",
+  "sourceDirName": "Logic",
+  "slug": "/Logic/Greater Than",
+  "permalink": "/OrigamiStudio/docs/Logic/Greater Than",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Logic/Greater Than.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Greater Than or Equal",
+    "permalink": "/OrigamiStudio/docs/Logic/Greater Than or Equal"
+  },
+  "next": {
+    "title": "Less Than or Equal",
+    "permalink": "/OrigamiStudio/docs/Logic/Less Than or Equal"
+  }
+}

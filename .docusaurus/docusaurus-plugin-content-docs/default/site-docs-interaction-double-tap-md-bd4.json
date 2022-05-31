@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Interaction/Double Tap",
+  "id": "Interaction/Double Tap",
+  "title": "Double Tap",
+  "description": "",
+  "source": "@site/docs/Interaction/Double Tap.md",
+  "sourceDirName": "Interaction",
+  "slug": "/Interaction/Double Tap",
+  "permalink": "/OrigamiStudio/docs/Interaction/Double Tap",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Interaction/Double Tap.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Interaction",
+    "permalink": "/OrigamiStudio/docs/Interaction/"
+  },
+  "next": {
+    "title": "Drag Settings",
+    "permalink": "/OrigamiStudio/docs/Interaction/Drag Settings"
+  }
+}

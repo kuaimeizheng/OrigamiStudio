@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Device/Vibrate",
+  "id": "Device/Vibrate",
+  "title": "Vibrate",
+  "description": "",
+  "source": "@site/docs/Device/Vibrate.md",
+  "sourceDirName": "Device",
+  "slug": "/Device/Vibrate",
+  "permalink": "/OrigamiStudio/docs/Device/Vibrate",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Device/Vibrate.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Trackpad",
+    "permalink": "/OrigamiStudio/docs/Device/Trackpad"
+  },
+  "next": {
+    "title": "And",
+    "permalink": "/OrigamiStudio/docs/Logic/And"
+  }
+}

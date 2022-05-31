@@ -1,0 +1,15 @@
+{
+  "title": "Patch Editor",
+  "slug": "/category/patch-editor",
+  "permalink": "/OrigamiStudio/docs/category/patch-editor",
+  "navigation": {
+    "previous": {
+      "title": "Scrollaway",
+      "permalink": "/OrigamiStudio/docs/Interaction/Scrollaway"
+    },
+    "next": {
+      "title": "Patches",
+      "permalink": "/OrigamiStudio/docs/Patch Editor/Patches"
+    }
+  }
+}

@@ -1,2 +1,0 @@
-# OrigamiStudio
-Origami Works

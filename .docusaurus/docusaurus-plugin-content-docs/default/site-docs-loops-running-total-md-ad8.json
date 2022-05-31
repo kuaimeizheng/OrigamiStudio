@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Loops/Running Total",
+  "id": "Loops/Running Total",
+  "title": "Running Total",
+  "description": "",
+  "source": "@site/docs/Loops/Running Total.md",
+  "sourceDirName": "Loops",
+  "slug": "/Loops/Running Total",
+  "permalink": "/OrigamiStudio/docs/Loops/Running Total",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Loops/Running Total.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Loop",
+    "permalink": "/OrigamiStudio/docs/Loops/Loop"
+  },
+  "next": {
+    "title": "+",
+    "permalink": "/OrigamiStudio/docs/Math/+"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Data/Array Join",
+  "id": "Data/Array Join",
+  "title": "Array Join",
+  "description": "",
+  "source": "@site/docs/Data/Array Join.md",
+  "sourceDirName": "Data",
+  "slug": "/Data/Array Join",
+  "permalink": "/OrigamiStudio/docs/Data/Array Join",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Data/Array Join.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Array Count",
+    "permalink": "/OrigamiStudio/docs/Data/Array Count"
+  },
+  "next": {
+    "title": "Array Sort",
+    "permalink": "/OrigamiStudio/docs/Data/Array Reverse"
+  }
+}
