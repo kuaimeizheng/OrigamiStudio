@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Interaction/Interaction",
+  "id": "Interaction/Interaction",
+  "title": "Interaction",
+  "description": "",
+  "source": "@site/docs/Interaction/Interaction.md",
+  "sourceDirName": "Interaction",
+  "slug": "/Interaction/",
+  "permalink": "/OrigamiStudio/docs/Interaction/",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Interaction/Interaction.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Quick Interactions",
+    "permalink": "/OrigamiStudio/docs/Canvas/Quick Interactions"
+  },
+  "next": {
+    "title": "Double Tap",
+    "permalink": "/OrigamiStudio/docs/Interaction/Double Tap"
+  }
+}

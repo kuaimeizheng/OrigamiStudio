@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Device/Sound Kit",
+  "id": "Device/Sound Kit",
+  "title": "Sound Kit",
+  "description": "",
+  "source": "@site/docs/Device/Sound Kit.md",
+  "sourceDirName": "Device",
+  "slug": "/Device/Sound Kit",
+  "permalink": "/OrigamiStudio/docs/Device/Sound Kit",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Device/Sound Kit.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Settings JSON",
+    "permalink": "/OrigamiStudio/docs/Device/Settings JSON"
+  },
+  "next": {
+    "title": "Sound Player Setting",
+    "permalink": "/OrigamiStudio/docs/Device/Sound Player Setting"
+  }
+}

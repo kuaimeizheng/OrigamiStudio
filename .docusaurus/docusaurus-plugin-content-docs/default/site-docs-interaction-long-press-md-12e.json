@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Interaction/Long Press",
+  "id": "Interaction/Long Press",
+  "title": "Long Press",
+  "description": "",
+  "source": "@site/docs/Interaction/Long Press.md",
+  "sourceDirName": "Interaction",
+  "slug": "/Interaction/Long Press",
+  "permalink": "/OrigamiStudio/docs/Interaction/Long Press",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Interaction/Long Press.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Keyboard",
+    "permalink": "/OrigamiStudio/docs/Interaction/Keyboard"
+  },
+  "next": {
+    "title": "Momentum Scrolling",
+    "permalink": "/OrigamiStudio/docs/Interaction/Momentum Scrolling"
+  }
+}

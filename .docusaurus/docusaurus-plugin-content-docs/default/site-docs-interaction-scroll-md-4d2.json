@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Interaction/Scroll",
+  "id": "Interaction/Scroll",
+  "title": "Scroll",
+  "description": "",
+  "source": "@site/docs/Interaction/Scroll.md",
+  "sourceDirName": "Interaction",
+  "slug": "/Interaction/Scroll",
+  "permalink": "/OrigamiStudio/docs/Interaction/Scroll",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Interaction/Scroll.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Scrolling Settings",
+    "permalink": "/OrigamiStudio/docs/Interaction/Scroll Settings"
+  },
+  "next": {
+    "title": "Scrollaway",
+    "permalink": "/OrigamiStudio/docs/Interaction/Scrollaway"
+  }
+}

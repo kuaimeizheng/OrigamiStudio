@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Animation/Classic Animation",
+  "id": "Animation/Classic Animation",
+  "title": "Classic Animation",
+  "description": "",
+  "source": "@site/docs/Animation/Classic Animation.md",
+  "sourceDirName": "Animation",
+  "slug": "/Animation/Classic Animation",
+  "permalink": "/OrigamiStudio/docs/Animation/Classic Animation",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Animation/Classic Animation.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bouncy Converter",
+    "permalink": "/OrigamiStudio/docs/Animation/Bouncy Converter"
+  },
+  "next": {
+    "title": "Cubic Bezier Animation",
+    "permalink": "/OrigamiStudio/docs/Animation/Cubic Bezier Animation"
+  }
+}
