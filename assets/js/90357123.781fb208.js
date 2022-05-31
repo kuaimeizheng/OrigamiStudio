@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkorigami_studio=self.webpackChunkorigami_studio||[]).push([[9129],{6759:function(o){o.exports=JSON.parse('{"permalink":"/OrigamiStudio/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
