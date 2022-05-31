@@ -2,5 +2,5 @@
 sidebar_position: 2
 ---
 
-# Hex Color
+# Loop Filter
 
