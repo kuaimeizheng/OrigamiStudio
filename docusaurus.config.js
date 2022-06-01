@@ -31,10 +31,11 @@ const config = {
 
   presets: [
     [
-      'classic',
-      /** @type {import('@docusaurus/preset-classic').Options} */
+      '@docusaurus/preset-classic',
       ({
         docs: {
+          path: 'docs',
+          routeBasePath: 'docs',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -54,6 +55,21 @@ const config = {
       }),
     ],
   ],
+plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'dev',
+        path: 'dev',
+        routeBasePath: 'dev',
+        sidebarPath: require.resolve('./sidebars.js'),
+        // ... other options
+      },
+    ],
+
+  
+
+  ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -64,6 +80,7 @@ const config = {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
+
         items: [
           {
             type: 'doc',
@@ -71,8 +88,24 @@ const config = {
             position: 'left',
             label: 'Origami 中文文档',
           },
+
+          {
+            to: '/dev/intro', // To highlight the navbar item, you must link to a document, not a top-level directory
+            //type: 'doc',
+            //docId: 'intro',
+            position: 'left',
+            label: 'Dev',
+            activeBaseRegex: `/dev/`,
+          },
+
         
-          {to: '/blog', label: '关于作者', position: 'left'},
+
+
+          {
+          to: '/blog', 
+          label: '关于作者', 
+          position: 'left'
+          },
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -80,6 +113,7 @@ const config = {
           },
         ],
       },
+
       footer: {
         style: 'dark',
         links: [
