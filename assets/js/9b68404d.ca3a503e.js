@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkorigami_studio=self.webpackChunkorigami_studio||[]).push([[2290],{7658:function(o){o.exports=JSON.parse('{"permalink":"/OrigamiStudio/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
