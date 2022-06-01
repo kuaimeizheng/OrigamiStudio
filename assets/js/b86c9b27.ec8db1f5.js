@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkorigami_studio=self.webpackChunkorigami_studio||[]).push([[2303],{7218:function(a){a.exports=JSON.parse('{"label":"docusaurus","permalink":"/OrigamiStudio/blog/tags/docusaurus","allTagsPath":"/OrigamiStudio/blog/tags","count":4}')}}]);
