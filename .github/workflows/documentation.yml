@@ -31,6 +31,7 @@ jobs:
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v3
       with:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}   #这行是新加的,解决Error: The deploy step encountered an error: The process '/usr/bin/git' failed with exit code 128 #
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         BRANCH: gh-pages
         FOLDER: build
