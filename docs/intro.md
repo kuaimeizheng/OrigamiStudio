@@ -1,47 +1,55 @@
 ---
-sidebar_position: 1
+sidebar_position: 0
 ---
 
-# Tutorial Intro
+# Introduction 入门
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Origami Studio is a free design tool created by Facebook and available for Mac. It allows designers to rapidly build and share interactive interfaces.
 
-## Getting Started
+Origami Sudio 是Facebook开发的一款免费的设计工具，支持Mac系统。设计人员可以快速构建和分享做好的交互原型。
 
-Get started by **creating a new site**.
+---
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+There are 6 main panels in Origami Studio:
 
-### What you'll need
+Origami Studio 有 6 个主要窗口：
 
-- [Node.js](https://nodejs.org/en/download/) version 14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+![https://origami.design/public/images/documentation/origami_introduction.png](https://origami.design/public/images/documentation/origami_introduction.png)
 
-## Generate a new site
+Origami Studio Interface
 
-Generate a new Docusaurus site using the **classic template**.
+### **1. Canvas 画布**
 
-The classic template will automatically be added to your project after you run the command:
+Visually drag, drop and resize to layout your prototype. Draw and edit shape layers, text, images, videos and layers imported from Sketch & Figma. Setup adaptive layouts in your artboards and groups using [Layout](https://www.notion.so/Layout-d865c2cba6e5404e9130467676dc6f65), and create [Quick Interactions](https://www.notion.so/Quick-Interactions-e9e6bfbdf3dd44d5bbb0ca4cbc6afe06) between artboards.
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+直观地拖放和调整您原型的大小。绘制以及编辑从 Sketch 和 Figma 导入的形状图层、文本、图像、视频和图层。使用 [布局](https://www.notion.so/Layout-d865c2cba6e5404e9130467676dc6f65) 功能可以在您的画板和图层组中设置自适应布局，并在画板之间快速创建交互。
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+### **2. Patch Editor 模块编辑器**
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+Add interaction, animation, and behavior to your prototype using blocks called [Patches](https://www.notion.so/Patches-136b7bd059b04869b5c2d6e386880dda). Connect patch outputs to layer properties in the Inspector.
 
-## Start your site
+使用我们定义的 [Patches模块](https://www.notion.so/Patches-136b7bd059b04869b5c2d6e386880dda) 向原型添加交互、动画和行为。然后将模块输出端口连接到检查器中的图层属性。
 
-Run the development server:
+### **3. Layer List 图层列表**
 
-```bash
-cd my-website
-npm run start
-```
+A list of layers in your prototype. Add a new layer with the **+** button in the toolbar. To add interactions to a layer, hover on it and click the Touch button to select from a list of interactions like Tap, Scroll, or Swipe.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+原型中的图层列表。**使用工具栏中的 +** 按钮添加一个新图层。要将交互添加到图层，请将鼠标悬停在图层上并单击 `“Touch 触摸”` 按钮以从交互列表中选择，例如 `“Tap 点击”`、`“Scroll 滚动”` 或 `“Swipe 滑动”`。
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+### **4. Inspector 检查**
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Select a layer and adjust its properties in the inspector.
+
+选择一个图层并在检查器中调整其属性。
+
+### **5. Viewer 查看器**
+
+View, interact with and record the prototype.
+
+查看、交互和记录原型。
+
+### **6. Patch Library ⌥⏎ 模块库**
+
+View a list of all patches and and their descriptions. To open the Patch Library, double click the Patch Editor or use the keyboard shortcut. To add a patch to a prototype, select it and press return.
+
+查看模块列表和描述。通过双击模块编辑窗口或快捷键打开。要将模块添加到原型，请选择并按下回车键。
