@@ -21,9 +21,9 @@ jobs:
       - name: FTP Deploy
         uses: SamKirkland/FTP-Deploy-Action@2.0.0
         with:
-          ftp-server: ftp://120.79.21.204:21//www/wwwroot/imeeil.cn
-          ftp-username: ${{ secrets.ftp_user }}
-          ftp-password: ${{ secrets.ftp_pwd }}
+          FTP_SERVER: ${{ secrets.ftp_host }}
+          FTP_USERNAME: ${{ secrets.ftp_user }}
+          FTP_PASSWORD: ${{ secrets.ftp_pwd }}
           local-dir: build/
         env:
           CI: true
