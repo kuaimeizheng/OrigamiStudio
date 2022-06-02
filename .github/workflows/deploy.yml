@@ -41,7 +41,6 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-website-
             
-      - run: npm cache clean --force
       - run: yarn install --frozen-lockfile
       - run: yarn build
 
