@@ -2,54 +2,54 @@
 sidebar_position: 2
 ---
 
-# HSL Color
+# HSL Color HSL颜色
 
-Documents are **groups of pages** connected through:
+Create a color from HSL, and alpha values from 0 to 1.
 
-- a **sidebar**
-- **previous/next navigation**
-- **versioning**
+创建一个HSL颜色，用 0～1 之间的数字表示透明度。
 
-## Create your first Doc
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/02cd1120-2b22-47ca-bf0f-0dd8dc5f3926/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T164054Z&X-Amz-Expires=86400&X-Amz-Signature=6276811f2a70592ecbb104b96f197adca299db29de8421be4e527a9701ae1379&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-Create a markdown file at `docs/hello.md`:
+**Hue 色相**
 
-```md title="docs/hello.md"
-# Hello
+A number from 0 to 1 that represents the hue of the color.
 
-This is my **first Docusaurus document**!
-```
+一个从 0 到 1 的数字，表示颜色的色相。
 
-A new document is now available at `http://localhost:3000/docs/hello`.
+**Saturation 饱和度**
 
-## Configure the Sidebar
+A number from 0 to 1 that represents the saturation of the color.
 
-Docusaurus automatically **creates a sidebar** from the `docs` folder.
+一个从 0 到 1 的数字，表示颜色的饱和度。
 
-Add metadata to customize the sidebar label and position:
+**Lightness 明度**
 
-```md title="docs/hello.md" {1-4}
----
-sidebar_label: 'Hi!'
-sidebar_position: 3
----
+A number from 0 to 1 that represents the lightness of the color.
 
-# Hello
+一个从 0 到 1 的数字，表示颜色的明度。
 
-This is my **first Docusaurus document**!
-```
+**Alpha 透明度**
 
-It is also possible to create your sidebar explicitly in `sidebars.js`:
+A number from 0 to 1 that represents the opacity of the color.
 
-```js title="sidebars.js"
-module.exports = {
-  tutorialSidebar: [
-    {
-      type: 'category',
-      label: 'Tutorial',
-      // highlight-next-line
-      items: ['hello'],
-    },
-  ],
-};
-```
+一个从 0 到 1 的数字，表示颜色的透明度。
+
+**Output 输出**
+
+The color.
+
+输出后的颜色。
+
+------
+
+### ***\*Related Patches 相关模块\****
+
+[Color to Hex 转换为 Hex 色彩](https://www.notion.so/Color-to-Hex-Hex-5a62a4d5be8e4450b7fa43ecb153e2b4)
+
+[Color to RGB 转换为 RGB 色彩](https://www.notion.so/Color-to-RGB-RGB-0a8c20236572452e96fa8d87825b0636)
+
+[Color to HSL 转换为 HSL 色彩](https://www.notion.so/Color-to-HSL-HSL-6e2a89ea828d4210be6dd41e9457a80d)
+
+[Hex Color Hex色彩](https://www.notion.so/Hex-Color-Hex-3b7127f39b2d4d25af8190fd8f84976b)
+
+[RGB Color RGB色彩](https://www.notion.so/RGB-Color-RGB-2e777e1624bf47d8a8aac3685e087705)

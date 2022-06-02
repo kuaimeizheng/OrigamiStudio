@@ -2,54 +2,36 @@
 sidebar_position: 2
 ---
 
-# Hex Color
+# Hex Color Hex 颜色
 
-Documents are **groups of pages** connected through:
+Create a color from hex.
 
-- a **sidebar**
-- **previous/next navigation**
-- **versioning**
+创建一个十六进制值颜色。
 
-## Create your first Doc
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a72057ed-1cac-47a3-b6a9-7cfc3811fd0c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T164136Z&X-Amz-Expires=86400&X-Amz-Signature=4092febf2d8e6dcbe4f6851303ea9a160f676e33c83432a6b821c22cd3f7bcb1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-Create a markdown file at `docs/hello.md`:
+**Hex 十六进制**
 
-```md title="docs/hello.md"
-# Hello
+The hex representation of color as a text string.
 
-This is my **first Docusaurus document**!
-```
+表示十六进制色值的文本字符串。
 
-A new document is now available at `http://localhost:3000/docs/hello`.
+**Output 输出**
 
-## Configure the Sidebar
+The color.
 
-Docusaurus automatically **creates a sidebar** from the `docs` folder.
+输出色值
 
-Add metadata to customize the sidebar label and position:
+------
 
-```md title="docs/hello.md" {1-4}
----
-sidebar_label: 'Hi!'
-sidebar_position: 3
----
+### ***\*Related Patches 相关模块\****
 
-# Hello
+[Color to Hex 转换为 Hex 色彩](https://www.notion.so/Color-to-Hex-Hex-5a62a4d5be8e4450b7fa43ecb153e2b4)
 
-This is my **first Docusaurus document**!
-```
+[Color to RGB 转换为 RGB 色彩](https://www.notion.so/Color-to-RGB-RGB-0a8c20236572452e96fa8d87825b0636)
 
-It is also possible to create your sidebar explicitly in `sidebars.js`:
+[Color to HSL 转换为 HSL 色彩](https://www.notion.so/Color-to-HSL-HSL-6e2a89ea828d4210be6dd41e9457a80d)
 
-```js title="sidebars.js"
-module.exports = {
-  tutorialSidebar: [
-    {
-      type: 'category',
-      label: 'Tutorial',
-      // highlight-next-line
-      items: ['hello'],
-    },
-  ],
-};
-```
+[HSL Color HSL色彩](https://www.notion.so/HSL-Color-HSL-37a8d828a5c2467a814546c9136e2cf0)
+
+[RGB Color RGB色彩](https://www.notion.so/RGB-Color-RGB-2e777e1624bf47d8a8aac3685e087705)

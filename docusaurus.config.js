@@ -47,7 +47,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/kuaimeizheng/OrigamiStudio/tree/main/docs',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -106,7 +106,7 @@ plugins: [
           position: 'left'
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/kuaimeizheng/OrigamiStudio',
             label: 'GitHub',
             position: 'right',
           },
@@ -151,7 +151,7 @@ plugins: [
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/kuaimeizheng/OrigamiStudio',
               },
             ],
           },
