@@ -36,7 +36,7 @@ The triangle shape. Connect to a [Shape Layer](https://www.notion.so/Shape-63814
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Union 合并](https://www.notion.so/Union-25b8641484f545799ac0f5e2fd48620d)
 

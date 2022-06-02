@@ -36,6 +36,6 @@ The base value to the subsequent exponents’ powers.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [**[√](https://origami.design/documentation/patches/builtin.math.sqrt.html) 根号**](https://www.notion.so/b40c51ddb88e4c7d813587de212037da)

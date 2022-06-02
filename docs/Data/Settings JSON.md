@@ -30,7 +30,7 @@ The JSON Object containing the input ports as keys and values.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [JSON Array JSON数组](https://www.notion.so/JSON-Array-JSON-c04f26109f71497c95627e1ad6b7cbed)
 

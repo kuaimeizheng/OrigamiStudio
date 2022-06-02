@@ -66,7 +66,7 @@ The current value of the counter (ex: 0, 1, 2…)
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Switch 开关](https://www.notion.so/Switch-bd684625ec8b4aaa9ff9b5ae3e396e86)
 

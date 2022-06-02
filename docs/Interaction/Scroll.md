@@ -70,7 +70,7 @@ The current vertical scroll page index.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Pop Switch 流行开关](https://www.notion.so/Pop-Switch-e83d8b2e102c466db20fbe80716861c3)
 

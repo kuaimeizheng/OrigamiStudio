@@ -24,7 +24,7 @@ JSON数组中项目的数量。
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [JSON Array JSON数组](https://www.notion.so/JSON-Array-JSON-c04f26109f71497c95627e1ad6b7cbed)
 

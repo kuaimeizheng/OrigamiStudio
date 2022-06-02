@@ -114,7 +114,7 @@ A Loop of Integer values that tries to identify the same face from a previous fr
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [QR Code Detection 二维码检测](https://www.notion.so/QR-Code-Detection-9223c3bc77014abda406359bcb6c9c7b)
 

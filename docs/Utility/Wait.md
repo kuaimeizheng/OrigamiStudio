@@ -32,6 +32,6 @@ A boolean that is true when the wait is finished
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [When Prototype Starts 当原型启动时](https://www.notion.so/When-Prototype-Starts-12d376a890464eafb4479f301add9e73)

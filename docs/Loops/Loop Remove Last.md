@@ -44,7 +44,7 @@ A loop of indices
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Loop Insert 循环插入](https://www.notion.so/Loop-Insert-d237b5fec9bc481e9feb193f79f81fbf)
 

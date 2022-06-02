@@ -30,7 +30,7 @@ The elapsed time of the video, in seconds.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Video 视频](https://www.notion.so/Video-b20fc56064024814a3b7408ab447641c)
 

@@ -40,7 +40,7 @@ A text string that represents the formatted time or date.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Time 时间](https://www.notion.so/Time-1ff0676f9141430d815d2b0cbde18457)
 

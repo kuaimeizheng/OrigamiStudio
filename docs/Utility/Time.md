@@ -28,4 +28,4 @@ The number of frames have have passed since the start of the prototypes, startin
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块

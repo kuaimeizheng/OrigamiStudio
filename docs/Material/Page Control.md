@@ -58,7 +58,7 @@ The color of the unselected page control dots.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Option Sender 选项发送器](https://www.notion.so/Option-Sender-d36296ca4f44472094031e55ef7546ce)
 

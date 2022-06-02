@@ -60,7 +60,7 @@ Connect this to the [Audio Metering](https://www.notion.so/Audio-Metering-fbcb62
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Microphone 话筒](https://www.notion.so/Microphone-914ed4dc27d647cf99e18bf98cf3e874)
 

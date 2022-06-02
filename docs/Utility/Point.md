@@ -30,7 +30,7 @@ A point with 2 dimensions.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Point Unpack 点解组](https://www.notion.so/Point-Unpack-2b4874a049d34f898bc64c27879e191e)
 

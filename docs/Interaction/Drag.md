@@ -50,7 +50,7 @@ The current position of the draggable layer.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Drag Settings 拖拽设置](https://www.notion.so/Drag-Settings-d4fd1e22aaa74ce0a0c7426c00c15dad)
 

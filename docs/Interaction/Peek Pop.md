@@ -48,7 +48,7 @@ Allows you to build prototypes using Apple’s Peek/Pop 3D Touch feature from iO
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Interaction 交互](https://www.notion.so/Interaction-8cd3ac66434546eda4b4bcf8173958fc)
 

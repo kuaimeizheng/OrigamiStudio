@@ -36,7 +36,7 @@ A boolean that enables the forward button. Use [Browser Buttons](https://www.not
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Browser Buttons 浏览器按钮](https://www.notion.so/Browser-Buttons-5655198330234faa92680d36d26f6675)
 

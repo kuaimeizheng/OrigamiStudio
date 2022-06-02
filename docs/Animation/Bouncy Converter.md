@@ -38,9 +38,9 @@ A number that represents spring tension.
 
 ### Related Patches 相关模块
 
-Pop Animation 流行动画
+[Pop Animation 流行动画](./Pop Animation.md)
 
-Spring Converter 弹性转换器
+[Spring Converter 弹性转换器](./Curve)
 
 历史版本：
 

@@ -28,7 +28,7 @@ The input as a positive value.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [**[−](https://origami.design/documentation/patches/builtin.math.sub.html) 减**](https://www.notion.so/0afa370ec4654441a88e6ee0597a5b24)
 

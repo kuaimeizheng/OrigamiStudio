@@ -30,7 +30,7 @@ A value to broadcast.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Variable Receiver 变量接收器](https://www.notion.so/Variable-Receiver-b69081bd045242db938094502ae25052)
 

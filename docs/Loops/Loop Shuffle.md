@@ -38,7 +38,7 @@ The resulting loop with reordered values.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Loop Dedupe 循环重复数据删除](https://www.notion.so/Loop-Dedupe-83be0f1e23794b9ebebe7b7ddc66aed2)
 

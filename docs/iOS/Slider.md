@@ -88,7 +88,7 @@ A boolean that is true when the knob is being dragged.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 ------
 

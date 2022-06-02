@@ -40,7 +40,7 @@ See [Animation Basics](https://www.notion.so/cbf103e362354b7dbb0217e916ed392e) f
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Transition 过渡](https://www.notion.so/Transition-105402795ee34baea7dd7a6b4bb251cc)
 

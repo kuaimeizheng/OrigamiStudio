@@ -42,7 +42,7 @@ The color.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Color to Hex 转换为 Hex 色彩](https://www.notion.so/Color-to-Hex-Hex-5a62a4d5be8e4450b7fa43ecb153e2b4)
 

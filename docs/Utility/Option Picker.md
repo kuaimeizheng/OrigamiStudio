@@ -50,7 +50,7 @@ The picked value.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Option Switch 选项开关](https://www.notion.so/Option-Switch-214202427d7b4db4a407a7c0dae2f209)
 

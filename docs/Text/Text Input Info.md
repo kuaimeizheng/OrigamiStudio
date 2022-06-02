@@ -24,7 +24,7 @@ The type of keyboard of the currently focused text field.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Text Length 文本长短](https://www.notion.so/Text-Length-4f520beee1fd463aa41737d2afd76ae2)
 

@@ -56,7 +56,7 @@ A number between 0 and 6.67 that represents the force of the touch.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Hover 悬停](https://www.notion.so/Hover-8a951bdf20e149c38bef9ac012568e7c)
 

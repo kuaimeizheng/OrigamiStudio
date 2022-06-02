@@ -54,7 +54,7 @@ A number from 0 to 1 that represents the wifi signal strength.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Time 时间](https://www.notion.so/Time-1ff0676f9141430d815d2b0cbde18457)
 

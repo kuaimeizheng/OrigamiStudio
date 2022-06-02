@@ -34,7 +34,7 @@ The combined formatted text range to pass to the Style Override input on a [Text
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Text Style 文本样式](https://www.notion.so/Text-Style-971a1442321d4e04a09ba0219f755ef6)
 

@@ -84,7 +84,7 @@ A boolean that is true when the circular progress uses an indeterminate animatio
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Classic Animation 经典动画](https://www.notion.so/Classic-Animation-8996317e957c4b8893a175bd266112e5)
 

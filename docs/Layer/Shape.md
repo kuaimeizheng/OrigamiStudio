@@ -98,7 +98,7 @@ A number from 0 to 1 that represents the end of the stroke.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Rounded Rectangle 圆角矩形](https://www.notion.so/Rounded-Rectangle-682f601349ac4e8985eb9b70c98792ca)
 

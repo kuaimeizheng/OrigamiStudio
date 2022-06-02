@@ -42,7 +42,7 @@ The JSON array of values.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [JSON to Text JSON转文本](https://www.notion.so/JSON-to-Text-JSON-4588bc744b584d629fb8dc1091173864)
 

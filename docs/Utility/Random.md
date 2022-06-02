@@ -36,6 +36,6 @@ A random number (with decimals). Use the [Round](https://www.notion.so/Round-c7e
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Round 四舍五入](https://www.notion.so/Round-c7e0fed9dca4490892e8aec69bb2dfd2)

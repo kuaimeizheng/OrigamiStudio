@@ -36,7 +36,7 @@ This is the signal to actually change the cursor. When this pulse is on then the
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Mouse 鼠标](https://www.notion.so/Mouse-7e67b503f9a44bc8bfff08505144b8c0)
 

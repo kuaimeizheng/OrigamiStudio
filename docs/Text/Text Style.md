@@ -88,7 +88,7 @@ The formatted text range to pass to the Style Override input on a [Text Layer](h
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Text Style Builder 文本样式生成器](https://www.notion.so/Text-Style-Builder-34b2f60c5d654b7988c1e059a8a3c422)
 

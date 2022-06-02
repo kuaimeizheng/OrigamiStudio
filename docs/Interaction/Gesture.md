@@ -54,7 +54,7 @@ The translation of the touch relative to where the touch initially started.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Spring Animation 弹性动画](https://www.notion.so/Spring-Animation-a19684147ec740ccbf6d62d962990a98)
 

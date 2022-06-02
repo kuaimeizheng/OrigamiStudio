@@ -20,7 +20,7 @@ A JSON object containing information about the position of every touch on the tr
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Splitter 分离器](https://www.notion.so/Splitter-6ad291b734314bfdaace0a4b8abf3d91)
 

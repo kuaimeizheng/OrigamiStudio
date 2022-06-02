@@ -24,7 +24,7 @@ The number of characters in the text string.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Text Size 文本大小](https://www.notion.so/Text-Size-72cf71974e544a7f9b2fc9fb5de9143e)
 

@@ -48,4 +48,4 @@ A boolean that is true if the switch is on.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块

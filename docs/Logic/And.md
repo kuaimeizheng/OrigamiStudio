@@ -34,7 +34,7 @@ A boolean that is true if all inputs are true.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Or 或](https://www.notion.so/Or-56678c7752aa4df99e3945a1ee68da69)
 

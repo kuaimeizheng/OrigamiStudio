@@ -28,7 +28,7 @@ The image.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Image Info 图片信息](https://www.notion.so/Image-Info-80997164df094ad3a7db5f943922597e)
 

@@ -30,6 +30,6 @@ A pulse that informs if the location was successfully opened.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Network Request 网络请求](https://www.notion.so/Network-Request-4d28772e260f42d2b0e98ce63e1577dd)

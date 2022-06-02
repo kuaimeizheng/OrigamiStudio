@@ -34,7 +34,7 @@ A number in degrees that represents the angle of the triangle.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Sine 正弦](https://www.notion.so/Sine-a84bfb743fc84edea3071a388051ecb5)
 

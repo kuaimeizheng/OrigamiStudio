@@ -60,6 +60,6 @@ Latitude and longitude delta spanning visible portion of the map
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Location 位置](https://www.notion.so/Location-a7708eea59364bd495bd5dccb9e8c324)

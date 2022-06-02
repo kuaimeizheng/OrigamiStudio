@@ -24,7 +24,7 @@ A boolean that is true when the back button is clicked down. is down or not.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Browser Chrome 浏览器](https://www.notion.so/Browser-Chrome-3dc0b5def4d840f4ae838ce4794cf470)
 

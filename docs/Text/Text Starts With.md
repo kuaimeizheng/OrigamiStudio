@@ -30,7 +30,7 @@ A boolean that is true if the text starts with the prefix.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Text Ends With 文本结尾](https://www.notion.so/Text-Ends-With-c0b22a74c519440b8f2f838d77c2392c)
 

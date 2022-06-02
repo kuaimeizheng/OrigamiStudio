@@ -34,7 +34,7 @@ The union of the input shapes.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Circle 圆形](https://www.notion.so/Circle-aa0ece9d86a14149a015fd0fc12db088)
 

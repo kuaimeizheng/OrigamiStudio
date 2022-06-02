@@ -36,7 +36,7 @@ The time elapsed since the stopwatch started, in seconds.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Wait 等待](https://www.notion.so/Wait-6f1674d3f8dc48299a11e12261ef991c)
 

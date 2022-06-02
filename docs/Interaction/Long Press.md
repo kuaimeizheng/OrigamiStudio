@@ -34,7 +34,7 @@ Turns on when the press passes the duration specified in Delay input
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Interaction 交互](https://www.notion.so/Interaction-8cd3ac66434546eda4b4bcf8173958fc)
 

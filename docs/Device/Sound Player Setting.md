@@ -42,7 +42,7 @@ The settings to pass to a [Sound Player](https://www.notion.so/Sound-Player-7d68
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Sound Player 声音播放器](https://www.notion.so/Sound-Player-7d68cd2d64774da9a303098f46cf93bb)
 

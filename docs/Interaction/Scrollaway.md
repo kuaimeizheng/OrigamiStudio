@@ -42,7 +42,7 @@ A number from 0-1 that represents the progress of the scrollaway. Connect to Tra
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Transition 过渡](https://www.notion.so/Transition-105402795ee34baea7dd7a6b4bb251cc)
 

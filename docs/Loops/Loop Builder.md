@@ -52,7 +52,7 @@ A loop of the input values. ex: [“apple”, “carrot”, “orange”]
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Loop 循环](https://www.notion.so/Loop-6cc974bf77e84e7aaf7836927011540b)
 

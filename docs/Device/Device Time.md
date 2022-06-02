@@ -20,7 +20,7 @@ The number of seconds since January 1st, 1970. Use [Date & Time Formatter](https
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Date & Time Formatter 日期&时间格式](https://www.notion.so/Date-Time-Formatter-aecf2541232d4eae835f22a8bac70e48)
 

@@ -36,7 +36,7 @@ A point 3d that represents the rotation rate around the X, Y and Z axes. Use [Ve
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Velocity 速度](https://www.notion.so/Velocity-6b25ad0e957d44bf83ee4a382b49a67d)
 

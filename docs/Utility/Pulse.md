@@ -34,7 +34,7 @@ A pulse that is output when the input turns off.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Repeating Animation 重复动画](https://www.notion.so/Repeating-Animation-ca27da5b351a41b085023483915a3503)
 

@@ -22,7 +22,7 @@ A pulse that vibrates the phone or tablet.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Haptic 触觉](https://www.notion.so/Haptic-17714d111d294a8bb8782164c0eda6b5)
 

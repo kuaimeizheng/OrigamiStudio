@@ -28,7 +28,7 @@ A number that represents the Y dimension of the triangle.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Arctangent 反正切函数](https://www.notion.so/Arctangent-6c99112ce29a40f4a4a24b813d95e3fd)
 

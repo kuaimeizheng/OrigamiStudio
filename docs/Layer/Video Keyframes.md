@@ -116,7 +116,7 @@ The original size of the Keyframes output.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Video Info 视频信息](https://www.notion.so/Video-Info-4d10e3612b784ced9bd23631b9e3a68b)
 

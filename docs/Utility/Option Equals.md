@@ -52,7 +52,7 @@ A boolean that is true if the value input matches any of the option inputs.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Option Picker 选项选择器](https://www.notion.so/Option-Picker-26fa02ba463b47be8b9c4098357d5dfb)
 

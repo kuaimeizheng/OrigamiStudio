@@ -34,6 +34,6 @@ The image of the snapshot.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Image 图片](https://www.notion.so/Image-826d9097aca041e8a8aa1a102e87b9d8)

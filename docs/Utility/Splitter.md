@@ -36,7 +36,7 @@ The same value from the input.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Variable Broadcaster 变量发送器](https://www.notion.so/Variable-Broadcaster-700b3940314d4b37bf8f33fcf31cfc35)
 

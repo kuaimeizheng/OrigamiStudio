@@ -36,7 +36,7 @@ The trimmed text string.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Text Starts With 文本开始](https://www.notion.so/Text-Starts-With-e6dde3b5c45a4fbe981287d09b9858cb)
 

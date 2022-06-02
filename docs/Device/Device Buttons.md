@@ -18,7 +18,7 @@ A pulse when the back button is tapped on an Android phone or tablet.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Device Info 设备信息](https://www.notion.so/Device-Info-1f043807b0da429880fe8c2d2592cd2a)
 

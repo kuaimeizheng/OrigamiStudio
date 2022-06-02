@@ -158,7 +158,7 @@ A pulse that represents when the return key is pressed.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Text Input Info 文本输入信息](https://www.notion.so/Text-Input-Info-dfa5b72d8f5e4bd8b1f679117406f268)
 

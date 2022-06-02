@@ -24,7 +24,7 @@ The hex representation of color as a text string.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Color to HSL 转换为 HSL 色彩](https://www.notion.so/Color-to-HSL-HSL-6e2a89ea828d4210be6dd41e9457a80d)
 

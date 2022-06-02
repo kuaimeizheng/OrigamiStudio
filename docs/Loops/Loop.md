@@ -28,7 +28,7 @@ A loop of indices.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Loop Builder 循环生成器](https://www.notion.so/Loop-Builder-64d346e189494fa9b48050aac8eb8eff)
 

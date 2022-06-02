@@ -78,6 +78,6 @@ The image sizing behavior: fit, fill, stretch.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Camera 摄像头](https://www.notion.so/Camera-9c7180dffcf04adb954c5c9980b953e1)

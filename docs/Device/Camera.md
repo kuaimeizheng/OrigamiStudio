@@ -54,7 +54,7 @@ The last captured image. Connect to an [Image Layer](https://www.notion.so/Image
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Video File 视频文件](https://www.notion.so/Video-File-460f7fd4e7db40328e354f6306ede79a)
 

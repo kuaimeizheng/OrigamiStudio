@@ -28,7 +28,7 @@ A pulse on every frame the input value changes.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Pulse 脉冲](https://www.notion.so/Pulse-ac15ab739fed400496866264e653095f)
 

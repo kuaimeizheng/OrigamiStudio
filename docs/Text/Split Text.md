@@ -44,7 +44,7 @@ A loop of the parts of the text split by the token. The entire text will be retu
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Trim Text 修剪文本](https://www.notion.so/Trim-Text-1c15e6b94a6541b396788d4a55fba679)
 

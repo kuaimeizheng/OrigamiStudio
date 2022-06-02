@@ -48,7 +48,7 @@ The settings to pass to a Drag patch.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Drag 拖拽](https://www.notion.so/Drag-3a3c7a4a7cc140e0b845728f2cb2b68f)
 

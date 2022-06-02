@@ -42,7 +42,7 @@ The converted value.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Pop Animation 流行动画](https://www.notion.so/Pop-Animation-fa14e93b7f1a480f933420a19fa15fad)
 

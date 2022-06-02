@@ -34,7 +34,7 @@ JSON 对象中键的值。
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Value at Index 索引值](https://www.notion.so/Value-at-Index-e23667c4b77b44b882f3936b67309eac)
 

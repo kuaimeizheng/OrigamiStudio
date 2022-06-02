@@ -70,7 +70,7 @@ A Loop of positions for the bottom right corner.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Face Detection 人脸检测](https://www.notion.so/Face-Detection-1bfb78c83579410897d67b6fb94f8875)
 

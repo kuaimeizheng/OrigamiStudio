@@ -38,7 +38,7 @@ The position of the mouse or touch, relative to the center of the viewer.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Interaction 交互](https://www.notion.so/Interaction-8cd3ac66434546eda4b4bcf8173958fc)
 

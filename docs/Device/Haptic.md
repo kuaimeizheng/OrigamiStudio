@@ -28,7 +28,7 @@ The type of haptic response to activate on the iPhone (Selection, Impact Light, 
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Vibrate 震动](https://www.notion.so/Vibrate-97bf0dd1247c4b09950dec95d1951a02)
 

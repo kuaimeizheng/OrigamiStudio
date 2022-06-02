@@ -44,4 +44,4 @@ A boolean that is true when the hit area is in setup mode.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块

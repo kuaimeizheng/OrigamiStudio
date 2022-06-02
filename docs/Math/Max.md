@@ -34,7 +34,7 @@ The largest of the input values.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [**[+](https://origami.design/documentation/patches/builtin.math.add.html) 加**](https://www.notion.so/8f03e4d8996f49ad994e405ad7cb58d5)
 

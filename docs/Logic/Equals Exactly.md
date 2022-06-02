@@ -38,7 +38,7 @@ A boolean that is true if the values are exactly equal to each other.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [And 和](https://www.notion.so/And-fe3dd6120a59454ebcd90cbf19fa03af)
 

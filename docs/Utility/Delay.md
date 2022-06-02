@@ -42,7 +42,7 @@ The value, which will be output only after the delay has elapsed.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Delay 1 延迟1](https://www.notion.so/Delay-1-1-4bd4396418f74122a4f8fd5edb13e888)
 

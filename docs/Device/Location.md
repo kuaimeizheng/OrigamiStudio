@@ -38,7 +38,7 @@ The name of the current location.
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Map 地图](https://www.notion.so/Map-8e098483af14447a962533858565d5fb)
 

@@ -40,7 +40,7 @@ A loop of the indices for the output values. ex: [0, 1, 2]
 
 ------
 
-### ***\*Related Patches 相关模块\****
+### Related Patches 相关模块
 
 [Loop Remove 循环移除](https://www.notion.so/Loop-Remove-be83847723104a9c8d553130b28dd826)
 
