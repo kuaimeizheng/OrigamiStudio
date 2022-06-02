@@ -115,7 +115,7 @@ plugins: [
 
       footer: {
         style: 'dark',
-        links: [
+        /*links: [
           {
             title: 'Docs',
             items: [
@@ -155,8 +155,8 @@ plugins: [
               },
             ],
           },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        ],*/
+        copyright: `Copyright © ${new Date().getFullYear()} Origami Studio, Personal. Built with kuaimeizheng.`,
       },
       prism: {
         theme: lightCodeTheme,
