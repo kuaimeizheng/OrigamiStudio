@@ -34,8 +34,8 @@ const config = {
       '@docusaurus/preset-classic',
       ({
         docs: {
-          path: 'docs/doc',
-          routeBasePath: 'docs/doc',
+          path: 'docs',
+          routeBasePath: 'docs',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -60,8 +60,8 @@ plugins: [
       '@docusaurus/plugin-content-docs',
       {
         id: 'patches',
-        path: 'docs/patches',
-        routeBasePath: 'docs/patches',
+        path: 'patches',
+        routeBasePath: 'patches',
         sidebarPath: require.resolve('./sidebars.js'),
         // ... other options
       },
@@ -90,16 +90,15 @@ plugins: [
           },
 
           {
-            to: 'docs/patches/intro', // To highlight the navbar item, you must link to a document, not a top-level directory
+            to: '/patches/intro', // To highlight the navbar item, you must link to a document, not a top-level directory
             //type: 'doc',
             //docId: 'intro',
             position: 'left',
-            label: '自定义 Patch',
-            activeBaseRegex: `docs/patches`,
+            label: '个人模块',
+            activeBaseRegex: `docs/dev`,
           },
 
-        
-
+      
 
           {
           to: '/blog', 
