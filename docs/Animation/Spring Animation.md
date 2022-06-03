@@ -60,7 +60,7 @@ The current value of the animation.
 
 [Pop Animation 流行动画](./Pop%20Animation)
 
-[Gesture 手势](../Interaction/Geature)
+[Gesture 手势](./../Interaction/Gesture.md)
 
 历史版本
 

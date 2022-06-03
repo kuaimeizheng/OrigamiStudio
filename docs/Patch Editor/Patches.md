@@ -28,17 +28,17 @@ The  [+] patch takes two number inputs on the left, and outputs the sum on the r
 
 - 模块 在左边端口接收两个数字输入，在右边输出它们的和。例如：2 + 3 = 5。
 
-… to patches that add [interactions](../Interaction/Interaction) to layers:
+… to patches that add [interactions](./../Interaction/Interaction.md) to layers:
 
 添加图层交互的模块:
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/da889ea9-c51f-49a9-b189-f69ef8beb698/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T162003Z&X-Amz-Expires=86400&X-Amz-Signature=9d232fba6e5dfa828b0baafd8764de9f4299235396264b3159fcffad83ac1c59&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-The [Interaction](../Interaction/Interaction) patch outputs information about touches on the Viewer on a layer. When a finger is touching down on Rectangle, it outputs ✓ in the Down port.
+The [Interaction](./../Interaction/Interaction.md) patch outputs information about touches on the Viewer on a layer. When a finger is touching down on Rectangle, it outputs ✓ in the Down port.
 
 交互模块在图层的查看器上输出关于触摸的信息。当手指按下选择的图层时，在down端口输出 ✓。
 
-… to patches that manage [states]:
+… to patches that manage states:
 
 管理状态的模块：
 
@@ -46,9 +46,9 @@ The [Interaction](../Interaction/Interaction) patch outputs information about to
 
 
 
-The [Switch](../Utility/Switch)  patch can be turned on or off by the inputs on the left, and outputs the current state on the right.
+The [Switch](./../Utility/Switch.md)  patch can be turned on or off by the inputs on the left, and outputs the current state on the right.
 
-[Switch](../Utility/Switch) 开关模块可以通过左边的输入端口设置打开或关闭，右边输出当前开关状态。
+[Switch](./../Utility/Switch.md) 开关模块可以通过左边的输入端口设置打开或关闭，右边输出当前开关状态。
 
 … to patches that control layer properties:
 
@@ -62,7 +62,7 @@ Add layer property patches by clicking on any property in the Layer inspector. T
 
 # Ports 端口
 
-Ports allow patches to receive information in and pass information back out. The ports on the left side of a patch are ### inputs### , and the ones on the right are ### outputs### . Edit ### Inputsby clicking the port’s ### value(unless a cable from another patch is connected to the Input already).
+Ports allow patches to receive information in and pass information back out. The ports on the left side of a patch are inputs, and the ones on the right are outputs. Edit Inputsby clicking the port’s value(unless a cable from another patch is connected to the Input already).
 
 端口允许模块接收信息并返回信息。模块左边的端口为输入端口，右边的端口为输出端口。通过单击端口的值编辑(如果另一个模块的连线已经连接到输入端口，将不能编辑)。
 
@@ -70,26 +70,26 @@ Each port has a different type of information it can receive — the important t
 
 每个端口都有它可以接收的不同类型的信息——Origami 中使用的常用值类型包括：
 
-- ### Number: An integer or decimal.
-- ### Boolean### : A boolean value, which can have two possible values (ex: true/false, yes/no, on/off, 0/1). Boolean ports are often labeled On/Off, and the On value is represented with a checkmark. Similar to programming, a boolean can be converted to a number 0 (off) or 1 (on) when passing values between patches.
-- ### Text: Any text string.
-- ### Image: Any image that you drag or paste.
-- ### Video### : Any video that you drag or paste.
-- ### Sound### : Any sound that you drag or paste.
-- ### Color: Any RGB or HSL color.
-- ### IndeX: Any non-negative, integer (ex: 0, 1, 2)
-- ### JSON Data### : Any number of values of any type in JSON format. JSON (JavaScript Object Notation) is a common format for storing and exchanging data.
-- ### Point: A value that represents numbers in 2D, 3D, or 4D. Points can represent any set of X, Y, Z values (ex: Position X, Y, Z; Rotation X, Y, Z).
-- ### 值：整数或小数。
-- ### 布尔值：一个布尔值，可以有两个可能的值（例如：真/假、是/否、开/关、0/1）。布尔值的端口通常标记为 开/关，并且 打开 时用复选框的标记表示。与编程类似，在模块之间传递值时，布尔值可以转换为数字 0（关闭）或 1（打开）
-- ### 文本：任何文本字符串。
-- ### 图像### ：您拖动或粘贴的图像。
-- ### 视频：您拖动或粘贴的视频。
-- ### 声音### ：您拖动或粘贴的声音。
-- ### 颜色：任何RGB或HSL颜色。
-- ### 索引：任何非负整数（例如：0、1、2）
-- ### JSON数据：JSON 格式的任意类型和数量的值。JSON（JavaScript Object Notation）是一种用于存储和交换数据的通用格式。
-- ### Point：表示2D、3D或4D的数值。点可以表示任意一组 X, Y, Z 值(例如:位置 X, Y, Z; 旋转 X, Y, Z)。
+- Number: An integer or decimal.
+- Boolean: A boolean value, which can have two possible values (ex: true/false, yes/no, on/off, 0/1). Boolean ports are often labeled On/Off, and the On value is represented with a checkmark. Similar to programming, a boolean can be converted to a number 0 (off) or 1 (on) when passing values between patches.
+- **Text:** Any text string.
+- **Image:** Any image that you drag or paste.
+- **Video:** Any video that you drag or paste.
+- **Sound:** Any sound that you drag or paste.
+- **Color:** Any RGB or HSL color.
+- **IndeX:** Any non-negative, integer (ex: 0, 1, 2)
+- **JSON Data:** Any number of values of any type in JSON format. JSON (JavaScript Object Notation) is a common format for storing and exchanging data.
+- **Point:** A value that represents numbers in 2D, 3D, or 4D. Points can represent any set of X, Y, Z values (ex: Position X, Y, Z; Rotation X, Y, Z).
+- **值：**整数或小数。
+- **布尔值：**一个布尔值，可以有两个可能的值（例如：真/假、是/否、开/关、0/1）。布尔值的端口通常标记为 开/关，并且 打开 时用复选框的标记表示。与编程类似，在模块之间传递值时，布尔值可以转换为数字 0（关闭）或 1（打开）
+- **文本：**任何文本字符串。
+- **图像：**您拖动或粘贴的图像。
+- **视频：**您拖动或粘贴的视频。
+- **声音：**您拖动或粘贴的声音。
+- **颜色：**任何RGB或HSL颜色。
+- **索引：**任何非负整数（例如：0、1、2）
+- **JSON数据：**JSON 格式的任意类型和数量的值。JSON（JavaScript Object Notation）是一种用于存储和交换数据的通用格式。
+- **Point：**表示2D、3D或4D的数值。点可以表示任意一组 X, Y, Z 值(例如:位置 X, Y, Z; 旋转 X, Y, Z)。
 
 Some patches can change the number of ports it has or the type of value it supports. Right-click any patch to see the options available.
 
@@ -97,7 +97,7 @@ Some patches can change the number of ports it has or the type of value it suppo
 
 # Cables 连线
 
-Cables pass information (values) from patch to patch via their ports. Think of values like water, and cables as the pipes that move it from place to place. The values flow in one direction: ### left-to-right from an output to an input.
+Cables pass information (values) from patch to patch via their ports. Think of values like water, and cables as the pipes that move it from place to place. The values flow in one direction: left-to-right from an output to an input.
 
 连线通过端口将信息(值)从一个模块传递到另一个模块。把信息(值)想象成水，把连线看作是把它从一个地方连接到另一个地方的管道。这些信息(值)按照特定的方向流动: 从输出到输入，从左到右。
 
@@ -130,4 +130,4 @@ In the example below, three different patches pass values to each other with cab
 - 模块可以让你在原型中快速添加交互，动画和行为。
 - 一个模块有输入和输出端口，可以与其他模块进行通信。
 - 一个大的模块库帮助你快速实现想法，大多数原型只需要用到 15-20 个。
-- 学习 [键盘快捷键](../Workflow/Keyboard Shortcuts) 节省你的工作时间。
+- 学习 [键盘快捷键](./../Workflow/Keyboard%20Shortcuts.md) 节省你的工作时间。

@@ -8,11 +8,11 @@ Loops are a powerful feature for easily building dynamic repeating UI and intera
 
 循环是一个强大的功能，可以在 Origami 中轻松创建动态以及重复设计和交互，例如列表或照片网格。因此，我们无需手动复制和粘贴图层五次，而是通过模块编辑器中的相应属性将图层连接到循环模块，计数端口输入为 5。如果你有编程知识，循环的行为类似于数组 for 语句。循环主要是为了减少原型的复杂性和重复性。
 
-Loops are especially powerful when combined with [Layout](../Canvas/Layout) in the Canvas. By default looped layers will stack on top of each other on the Canvas, but when added to a [Layout-enabled Group](../Layer/Group) the looped layers will automatically be arranged based on the Layout settings on the Group, such as a vertical list or a grid.
+Loops are especially powerful when combined with [Layout](./../Canvas/Layout.md) in the Canvas. By default looped layers will stack on top of each other on the Canvas, but when added to a [Layout-enabled Group](./../Layer/Group.md) the looped layers will automatically be arranged based on the Layout settings on the Group, such as a vertical list or a grid.
 
 循环与画布中的布局结合使用时，循环尤其强大。默认情况下，循环图层会在画布上相互堆叠，但当添加到启用布局的组时，循环图层将根据组的布局设置进行排列，例如垂直列表或网格。
 
-We can also use Loops to generate repeating Layers or Components from real dynamic data sources, for example we could create a list of daily [weather forecasts](https://origami.design/examples/weather-forecast.html) from a weather API using the [Network Request](../Data/Network%20Request) patch. Check out the Prototyping with [Data tutorial](https://origami.design/tutorials/smarter-interactions/Prototyping-with-Data.html) for an example of how to do this. Thinking in Loops can be helpful when handing-off a prototype to an engineer to get built since they translate more closely to how the design will be implemented in code.
+We can also use Loops to generate repeating Layers or Components from real dynamic data sources, for example we could create a list of daily [weather forecasts](https://origami.design/examples/weather-forecast.html) from a weather API using the [Network Request](./../Data/Network%20Request.md) patch. Check out the Prototyping with [Data tutorial](https://origami.design/tutorials/smarter-interactions/Prototyping-with-Data.html) for an example of how to do this. Thinking in Loops can be helpful when handing-off a prototype to an engineer to get built since they translate more closely to how the design will be implemented in code.
 
 我们还可以使用循环从真实的动态数据源生成重复的图层或组件，例如，我们可以使用网络请求模块从天气 API 创建每日天气预报列表。关于如何做这个，请请查看[Data tutorial 使用数据制作原型教程](https://origami.design/tutorials/smarter-interactions/Prototyping-with-Data.html)。在将原型交给工程师进行开发时，循环思维很有帮助，因为更接近于如何用代码实现设计。
 
@@ -44,19 +44,19 @@ https://origami.design/public/images/videos/loop_patch.mp4
 
 ### ### Loop Builder Patch 循环生成器模块### 
 
-Another way to create a loop is with the Loop Builder patch. This patch allows more control over what value you’d like each item in your loop to be. By default this will a loop of numbers but we can change the [type](../Patch%20Editor/Patches) by clicking on the patch header and selecting a different type. For example we could create a loop of colors as seen below or a loop of On/Off boolean values.
+Another way to create a loop is with the Loop Builder patch. This patch allows more control over what value you’d like each item in your loop to be. By default this will a loop of numbers but we can change the [type](./../Patch%20Editor/States.md) by clicking on the patch header and selecting a different type. For example we could create a loop of colors as seen below or a loop of On/Off boolean values.
 
 创建循环的另一种方法是使用 Loop Builder 循环生成器 模块。此模块允许您更方便地控制环中每个项目的值。默认情况下，这是一个数字循环，但我们可以通过单击模块标题，并选择其他类型来更改类型。例如，我们可以创建如下所示的颜色循环或 On/Off 布尔值循环。
 
 https://origami.design/public/images/videos/loop_builder.mp4
 
-Note: If you’re only seeing one layer show up on the Canvas and in the Viewer, make sure your Layer is a child of a [Layout-enabled](../Canvas/Layout) group.
+Note: If you’re only seeing one layer show up on the Canvas and in the Viewer, make sure your Layer is a child of a [Layout-enabled](./../Canvas/Layout.md) group.
 
 注意：如果您在画布和查看器中只看到一个图层，请确保您的图层是一个启用了布局的组的子图层。
 
 ### ### Loops and Layout 循环和布局### 
 
-Layout lets you control how looped layers are arranged on the canvas. Make your looped layer a child of a [Layout-enabled](../Canvas/Layout) Group and change the Group Layout properties in the Inspector.
+Layout lets you control how looped layers are arranged on the canvas. Make your looped layer a child of a [Layout-enabled](./../Canvas/Layout.md) Group and change the Group Layout properties in the Inspector.
 
 布局可以让你控制如何在画布上排列循环图层。使循环图层成为启用布局的组的子级，并在检查器中更改组布局的属性。
 
@@ -76,7 +76,7 @@ https://origami.design/public/images/videos/group_into_component.mp4
 
 # Loops and Data 循环和数据
 
-Loops can also be created from Arrays by using the [Loop Over Array](../Loops/Loop%20Over%20Array) patch. This is useful when working with a web API data source with using the [Network Request](../Data/Network%20Request) patch.
+Loops can also be created from Arrays by using the [Loop Over Array](./../Loops/Loop%20Over%20Array.md) patch. This is useful when working with a web API data source with using the [Network Request](./../Data/Network%20Request.md) patch.
 
 循环也可以通过使用 Loop Over Array 数组遍历 模块从数组中创建。这一般用于使用网络请求模块处理web API数据源。
 
@@ -120,7 +120,7 @@ https://origami.design/public/images/videos/loop_of_loops.mp4
 
 ### ### Nested arrays to Loops of Loops 嵌套数组到循环的循环
 
-Another way of building looped components is using the [Loop Over Array](../Loops/Loop%20Over%20Array) patch with a nested array. This is useful for working with data from a web API that includes multidimensional arrays.
+Another way of building looped components is using the [Loop Over Array](./../Loops/Loop%20Over%20Array.md) patch with a nested array. This is useful for working with data from a web API that includes multidimensional arrays.
 
 构建循环组件的另一种方法是使用带有嵌套数组的Loop Over Array数组遍历模块。这一般用于处理包含多维数组的web API的数据。
 
@@ -152,7 +152,7 @@ Loop Filter 循环筛选 和 Loop Select 循环选择 是用于从循环中选�
 
 ### ### Loops & Interactions 循环&交互### 
 
-When we add an [Interaction](.../Interaction/Interaction) patch to a looper layer, the Interactions output will then be looped as well. Using the [Loop Option Switch](../Loop/Loop%20Option%20Switch) patch with the [Loop Select](../Loops/Loop%20Select) patch we can get the value of the tapped on item
+When we add an [Interaction](/Interaction/Interaction.md) patch to a looper layer, the Interactions output will then be looped as well. Using the [Loop Option Switch](./../Loops/Loop%20Option%20Switch.md) patch with the [Loop Select](./../Loops/Loop%20Select.md) patch we can get the value of the tapped on item
 
 当我们向循环图层添加一个交互模块时，交互输出也将被循环。通过使用Loop Option Switch 循环选项开关 模块和 Loop Select 循环选择模块，我们可以得到项目上被选中的值
 
