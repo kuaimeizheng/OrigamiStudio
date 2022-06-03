@@ -28,13 +28,13 @@ The  [+] patch takes two number inputs on the left, and outputs the sum on the r
 
 - 模块 在左边端口接收两个数字输入，在右边输出它们的和。例如：2 + 3 = 5。
 
-… to patches that add [interactions] to layers:
+… to patches that add [interactions](../Interaction/Interaction) to layers:
 
 添加图层交互的模块:
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/da889ea9-c51f-49a9-b189-f69ef8beb698/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T162003Z&X-Amz-Expires=86400&X-Amz-Signature=9d232fba6e5dfa828b0baafd8764de9f4299235396264b3159fcffad83ac1c59&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-The [Interaction] patch outputs information about touches on the Viewer on a layer. When a finger is touching down on Rectangle, it outputs ✓ in the Down port.
+The [Interaction](../Interaction/Interaction) patch outputs information about touches on the Viewer on a layer. When a finger is touching down on Rectangle, it outputs ✓ in the Down port.
 
 交互模块在图层的查看器上输出关于触摸的信息。当手指按下选择的图层时，在down端口输出 ✓。
 
@@ -46,9 +46,9 @@ The [Interaction] patch outputs information about touches on the Viewer on a lay
 
 
 
-The [Switch]  patch can be turned on or off by the inputs on the left, and outputs the current state on the right.
+The [Switch](../Utility/Switch)  patch can be turned on or off by the inputs on the left, and outputs the current state on the right.
 
-Switch开关模块可以通过左边的输入端口设置打开或关闭，右边输出当前开关状态。
+[Switch](../Utility/Switch) 开关模块可以通过左边的输入端口设置打开或关闭，右边输出当前开关状态。
 
 … to patches that control layer properties:
 
@@ -130,4 +130,4 @@ In the example below, three different patches pass values to each other with cab
 - 模块可以让你在原型中快速添加交互，动画和行为。
 - 一个模块有输入和输出端口，可以与其他模块进行通信。
 - 一个大的模块库帮助你快速实现想法，大多数原型只需要用到 15-20 个。
-- 学习 [键盘快捷键] 节省你的工作时间。
+- 学习 [键盘快捷键](../Workflow/Keyboard Shortcuts) 节省你的工作时间。

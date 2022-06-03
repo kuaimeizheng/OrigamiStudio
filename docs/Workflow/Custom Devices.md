@@ -54,9 +54,9 @@ All installed devices are stored in `~/Library/Application Support/Diamond/Devic
 
 # info.json Documentation info.json 文档
 
-Many of the properties of the device `info.json` file are exposed via the [Device Info patch](https://www.notion.so/Device-Info-1f043807b0da429880fe8c2d2592cd2a).
+Many of the properties of the device `info.json` file are exposed via the [Device Info](../Device/Device%20Info) patch.
 
-设备 info.json 文件的许多属性都通过设备信息模块获取。
+设备 info.json 文件的许多属性都通过 [设备信息](../Device/Device%20Info) 模块获取。
 
 ### **`key` 键**
 

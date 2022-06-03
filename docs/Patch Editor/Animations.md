@@ -6,7 +6,7 @@ sidebar_position: 4
 
 Animation patches in Origami are designed to be fluid and reversible: they take any changing number and tween it to be smooth.
 
-Origami 中的动画模块的设计流畅且可反转。为了动画平滑采用一直变化的数字和补间。reverse
+Origami 中的动画模块的设计流畅且可反转。为了动画平滑采用一直变化的数字和补间。
 
 ------
 

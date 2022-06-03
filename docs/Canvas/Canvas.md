@@ -6,7 +6,7 @@ sidebar_position: 1
 
 The Canvas in Origami works the way one might expect coming from Sketch or Figma. Visually drag, drop and resize to layout your prototype. Draw and edit shape layers, text, images, videos and layers imported from Sketch & Figma. Setup adaptive layouts in your artboards and groups using layout.
 
-Origami 中的画布类似 Sketch 和 Figma 中的画布。可以直观地拖放和调整您原型的大小。也可以绘制以及编辑从 Sketch 和 Figma 导入的形状图层、文本、图像、视频和图层。使用 [布局](https://www.notion.so/Layout-d865c2cba6e5404e9130467676dc6f65) 功能可以在您的画板和图层组中设置自适应布局。
+Origami 中的画布类似 Sketch 和 Figma 中的画布。可以直观地拖放和调整您原型的大小。也可以绘制以及编辑从 Sketch 和 Figma 导入的形状图层、文本、图像、视频和图层。使用 [布局](./Layout) 功能可以在您的画板和图层组中设置自适应布局。
 
 ------
 
