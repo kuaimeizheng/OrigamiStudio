@@ -10,47 +10,47 @@ A Material page control with a customizable number of dots and colors.
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7abd0a7e-fc00-4724-beb9-4515a55094a3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190256Z&X-Amz-Expires=86400&X-Amz-Signature=eeda77faf7371c466a06fd0aef852634f3e194142673f01f31f00913195ae85d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Enable 启用**
+### Enable 启用
 
 A boolean that is true when the page control is displayed.
 
 一个布尔值，表示显示页面控件时为 true。
 
-**Count 数量**
+### Count 数量
 
 The number of page control dots.
 
 页面控制点的数量。
 
-**Selected Index 选中索引**
+### Selected Index 选中索引### 
 
 The currently selected page control dot, starting at 0.
 
 当前选中的页面控制点，从 0 开始。
 
-**Position 位置**
+### Position 位置
 
 The position to display the page control.
 
 显示页面控件的位置。
 
-**Anchor 锚点**
+### Anchor 锚点
 
 The anchor point to position the page control relative to. See [Coordinates](https://www.notion.so/Coordinates-bd835085db7c48e49e00a66e5e44caf2) for more information. 相对于定位页面控件的锚点。有关详细信息，请参阅坐标。
 
-**Opacity 不透明度**
+### Opacity 不透明度
 
 The opacity of the page control.
 
 页面控件的不透明度。
 
-**Current Page 当前页面**
+### Current Page 当前页面
 
 The color of the selected page control dot.
 
 所选页面控制点的颜色。
 
-**Tint Color 色调颜色**
+### Tint Color 色调颜色
 
 The color of the unselected page control dots.
 

@@ -10,37 +10,37 @@ A particle emitter. Configure the specific birthrate, velocity, angle and color 
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/57ccc77d-febc-44d7-b6d3-c6dab5a2b2e8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185430Z&X-Amz-Expires=86400&X-Amz-Signature=4fbcd38889464af878d3519d2dfabc41cf8e182f2df0159905b4dcec4469cf53&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Enable 启用**
+### Enable 启用
 
 A boolean that is true when the layer is displayed.
 
 勾选启用图层。
 
-**Opacity 不透明度**
+### Opacity 不透明度
 
 The opacity of the layer.
 
 图层的不透明度。
 
-**Position 位置**
+### Position 位置
 
 The position to display the layer. Use [Point 3D](https://www.notion.so/Point-3D-6d2c3b3df3f74659ae0d647876ce3aa9) to set Z position.
 
 显示图层的位置。使用 Point 3D 设置 Z 位置。
 
-**Scale 比例**
+### Scale 比例
 
 The scale of a particle.
 
 粒子的比例
 
-**Color 颜色**
+### Color 颜色
 
 The color of a particle when it is generated.
 
 粒子生成后的颜色。
 
-**Lifetime 寿命**
+### Lifetime 寿命### 
 
 The duration a particle lasts, in seconds.
 
@@ -50,7 +50,7 @@ The duration a particle lasts, in seconds.
 
 ![4055792-4f59736d715796d4.gif](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/224ff8c2-e109-4d02-bfc5-80a834975775/4055792-4f59736d715796d4.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185449Z&X-Amz-Expires=86400&X-Amz-Signature=268038f6aa1425f3ea2ff30daa2ceb84be6e035e263ca1636cbaf72b7c31479d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%224055792-4f59736d715796d4.gif%22&x-id=GetObject)
 
-**Birthrate 出生率**
+### Birthrate 出生率### 
 
 The number of particles generated.
 
@@ -60,13 +60,13 @@ The number of particles generated.
 
 生成的粒子数量。
 
-**Color Change 颜色变化**
+### Color Change 颜色变化### 
 
 The color of a particle when it disappears.
 
 粒子消失时的颜色。（示例图中颜色浅的那边）
 
-**Velocity 速度**
+### Velocity 速度
 
 The base speed of a particle as it flies out.
 
@@ -76,13 +76,13 @@ The base speed of a particle as it flies out.
 
 ![4055792-122b9f571f57b784.gif](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6a67d140-4edf-4ec3-b87b-e8b099f90209/4055792-122b9f571f57b784.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185518Z&X-Amz-Expires=86400&X-Amz-Signature=7d932d2ca640d53c461e28f52a7a2210b038f08cdabbbf52905a1de444371734&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%224055792-122b9f571f57b784.gif%22&x-id=GetObject)
 
-**Velocity Variance 随机速度范围**
+### Velocity Variance 随机速度范围### 
 
 A number that represents the range of randomized speeds of a particle.
 
 表示粒子的随机速度范围的值。
 
-**Angle 角度**
+### Angle 角度
 
 The base angle of a particle as it flies out.
 
@@ -92,7 +92,7 @@ The base angle of a particle as it flies out.
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9b67990a-dd91-4ffc-bdac-087e5c8f6f39/Untitled.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185529Z&X-Amz-Expires=86400&X-Amz-Signature=c7e4f7d0b25b8843fc9238847671120f10a4c434e1a06599f7b781c43ea71216&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.gif%22&x-id=GetObject)
 
-**Angle Range 随机角度范围**
+### Angle Range 随机角度范围### 
 
 A number that represents the range of randomized angles of a particle.
 
@@ -102,7 +102,7 @@ A number that represents the range of randomized angles of a particle.
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/afe07d5e-fe1a-45ae-8cd3-12537678efa3/Untitled.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185540Z&X-Amz-Expires=86400&X-Amz-Signature=98213a4c390babaa4619efc64e16bb410279fd82e4c2c07c229496bedc6f65d7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.gif%22&x-id=GetObject)
 
-**Acceleration 加速度**
+### Acceleration 加速度
 
 A vector that represents the acceleration of particles in each axis.
 
@@ -118,7 +118,7 @@ A vector that represents the acceleration of particles in each axis.
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a4730a8a-8a0d-4027-b23c-6bd940ced516/Untitled.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185559Z&X-Amz-Expires=86400&X-Amz-Signature=0169c447e47ba75e59292ac1dcdfb974eaff733ec43bde5029e96babc71df671&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.gif%22&x-id=GetObject)
 
-**Delta 大小增量**
+### Delta 大小增量
 
 A number that represents the range of randomized sizes of a particle.
 
@@ -128,7 +128,7 @@ A number that represents the range of randomized sizes of a particle.
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d0f32cb0-fbc1-4a9a-9399-af3b7329bdcf/Untitled.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185607Z&X-Amz-Expires=86400&X-Amz-Signature=7aaef0395b2690c293050a751141a947093eb0d9ce72da37722d648b32676948&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.gif%22&x-id=GetObject)
 
-**Image 图像**
+### Image 图像### 
 
 An image that replaces the default circle as the particle.
 

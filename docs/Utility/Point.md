@@ -10,19 +10,19 @@ Create a point with 2 dimensions (X, Y). Useful when providing position, size, a
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/15fe80d1-186c-4c17-90bc-4b73f66b2370/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T181543Z&X-Amz-Expires=86400&X-Amz-Signature=c7f9b9fd304b9f90d9f2a5b3d9e972a6d2e361f3db961664e4f407b00c21b329&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**X**
+### X
 
 A number that represents the horizontal X value.
 
 一个数值，表示水平位置的X值。
 
-**Y**
+### Y
 
 A number that represents the vertical Y value.
 
 一个数值，表示垂直位置的Y值。
 
-**Output**
+### Output### 
 
 A point with 2 dimensions.
 

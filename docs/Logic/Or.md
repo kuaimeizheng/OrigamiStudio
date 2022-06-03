@@ -14,19 +14,19 @@ Right-click to check more booleans.
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/45a525f6-20a3-439f-a32a-7c90728dc10c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172222Z&X-Amz-Expires=86400&X-Amz-Signature=3a948e12afbedfffe3d89a6dd525100d5610c64d61dc7c6e0aea381b9992a09e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Input 输入**
+### Input 输入
 
 A boolean (true/false, on/off, or 0/1).
 
 一个布尔值(真/假, 开启/关闭，或0/1)。
 
-**Input 输入**
+### Input 输入
 
 A boolean (true/false, on/off, or 0/1).
 
 一个布尔值(真/假, 开启/关闭，或0/1)。
 
-**Output 输出**
+### Output 输出
 
 A boolean that is true if at least one input is true.
 

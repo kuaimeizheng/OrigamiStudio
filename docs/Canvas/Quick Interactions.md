@@ -14,7 +14,7 @@ Quick Interactions are a faster way to create flows between screens in the Origa
 
 To create a Quick Interaction, click on the Quick Interaction icon in the toolbar and then click on the layer you’d like to trigger the Interaction from to the arboard you’d like to present. You can also Ctrl + Drag from the layer to the artboard.
 
-要创建快捷交互，请单击工具栏中的“快捷交互”图标，然后单击要触发交互的图层和要显示的画板。也可以按住 **Ctrl +** 键将其从图层拖动到画板。
+要创建快捷交互，请单击工具栏中的“快捷交互”图标，然后单击要触发交互的图层和要显示的画板。也可以按住 ### Ctrl +键将其从图层拖动到画板。
 
 ![https://origami.design/public/images/documentation/quick_interaction_icon.png](https://origami.design/public/images/documentation/quick_interaction_icon.png)
 
@@ -32,9 +32,9 @@ Trigger a present transition using a Tap, Double Tap or Long Press interaction. 
 
 使用轻按、双击或长按交互来触发当前的过渡。您可以在Origami右侧的检查器面板中，选择Push、Modal或None来更改过渡类型。
 
-- **Push** Default iOS transition, will slide in the next screen being presented from right to left
-- **Modal** Will transition in the next screen from the bottom up
-- **None** Will present the next screen immediately with no transition.
+- ### PushDefault iOS transition, will slide in the next screen being presented from right to left
+- ### ModalWill transition in the next screen from the bottom up
+- ### NoneWill present the next screen immediately with no transition.
 - 推动 默认iOS过渡，下一个屏幕将从右向左显示
 - 模态 下一个屏幕将从下向上过渡
 - 无 下一个屏幕没有过渡立即出现。

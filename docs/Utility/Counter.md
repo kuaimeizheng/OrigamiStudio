@@ -28,37 +28,37 @@ Often used to track a sequential state (ex: an onboarding flow) interchangeably 
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c4361c08-4276-4ff5-9885-1c0c4c66274a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180938Z&X-Amz-Expires=86400&X-Amz-Signature=de162e22cb66baaeb7dd6fc9055a31ece8267217e1137099a6fb7f12cc2dc22e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Increase 递增**
+### Increase 递增### 
 
 A pulse that increases the counter value by 1.
 
 一个脉冲，表示当接收到值时，计数器的值加 1。
 
-**Decrease**
+### Decrease### 
 
 A pulse that decreases the counter value by 1.
 
 一个脉冲，表示当接收到值时，计数器的值减 1。
 
-**Jump 跳转**
+### Jump 跳转
 
 A pulse that resets the counter to the value specified by the Jump to Number port.
 
 一个脉冲，表示当接收到值时，计数器跳转到 Jump to Number 设置的值。
 
-**Jump to Number 跳转到的值**
+### Jump to Number 跳转到的值
 
 The number to use as the counter value when the Jump port is pulsed.
 
 设置 Jump 端口接收到值时要跳转到的数值。
 
-**Maximum Count 最大计数**
+### Maximum Count 最大计数### 
 
 The maximum counter value. The counter will reset to zero when the maximum value is reached. Note that the counter will always remain *less* than this value.
 
 值的最大计数值。当达到最大值时，计算器将重置为零。请注意，计数器将始终保持小于此值。
 
-**Output 输出**
+### Output 输出
 
 The current value of the counter (ex: 0, 1, 2…)
 

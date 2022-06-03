@@ -16,19 +16,19 @@ To calculate the total sum of all numbers, use the [Sum](https://www.notion.so/L
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2bc3350c-7467-4839-99ff-764d4322c229/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T173823Z&X-Amz-Expires=86400&X-Amz-Signature=6acb7512688df9ff443eb7817895578df8aa468998a50067d3a67629313a092d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Input 输入**
+### Input 输入
 
 A loop of numbers, indices, or booleans.
 
 数字、索引或布尔值的循环。
 
-**Output 输出**
+### Output 输出
 
 A loop of sums.
 
 一个循环的总和。
 
-**支持类型**
+### 支持类型
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/aef1dd11-084e-4e3e-a1aa-92be28f5f7ac/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T173815Z&X-Amz-Expires=86400&X-Amz-Signature=8eca7b5c2242ddac490abe0bc27cd2bdbbe2209cf562093c61c969206202ed1d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 

@@ -10,19 +10,19 @@ Turn a point with 2 dimensions (position, size, anchor, pivot) into its individu
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/41428d71-8cda-4d08-b67f-0993273182ec/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T181710Z&X-Amz-Expires=86400&X-Amz-Signature=db1801ab1f268136ae8b73c9a0923353f2032062c874224c99233e1cfd1c31f6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Input 输入**
+### Input 输入
 
 A point with 2 dimensions.
 
 一个 2 个维度的点。
 
-**X**
+### X
 
 A number that represents the horizontal X value.
 
 一个数值，表示水平位置的X值。
 
-**Y**
+### Y
 
 A number that represents the vertical Y value.
 

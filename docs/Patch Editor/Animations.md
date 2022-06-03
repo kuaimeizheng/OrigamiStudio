@@ -23,7 +23,7 @@ Origami 中的动画模块的设计流畅且可反转。为了动画平滑采用
 
 # Animating values 动画值
 
-In combination with an [Interaction] or a [Switch] patch, which output 0 or 1, an Animation patch can tween that value so it smoothly animates from 0 to 1, and vice versa. Origami refers to this 0 to 1 value generally as **progress**.
+In combination with an [Interaction] or a [Switch] patch, which output 0 or 1, an Animation patch can tween that value so it smoothly animates from 0 to 1, and vice versa. Origami refers to this 0 to 1 value generally as ### progress### .
 
 与输出 0 或 1 的j交互或Switch开关模块结合使用时，动画模块可以对该值进行补间，使其平滑地从0过渡到1，反之亦然。Origami 通常将这个 0 到 1 的值称为 进度。
 

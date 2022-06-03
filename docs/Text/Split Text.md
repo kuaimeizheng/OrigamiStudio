@@ -10,19 +10,19 @@ Splits the text into a loop using the token.
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/72278616-ab25-4904-8785-7c72e1748624/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180045Z&X-Amz-Expires=86400&X-Amz-Signature=da54886bdc1fcfbb6be0e2b52f2167f2e2071a46e2fab286409b1614967c2d10&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Text 文本**
+### Text 文本
 
 A text string to evaluate.
 
 待处理的文本
 
-**Token 标记**
+### Token 标记### 
 
 A text string to find and split the the text into parts around.
 
 一个文本字符串，用于查找以这个标记文本位置将整个文本分割为几个部分。
 
-**Output 输出**
+### Output 输出
 
 A loop of the parts of the text split by the token. The entire text will be returned if the token is not found.
 
@@ -30,15 +30,15 @@ A loop of the parts of the text split by the token. The entire text will be retu
 
 ------
 
-### **Sample  示例**
+### ### Sample  示例
 
 如图：
 
-输入的 **Text 文本** 文本字符串为：这是示例文本。
+输入的 ### Text 文本文本字符串为：这是示例文本。
 
-输入的 **Token 标记** 文本字符串为：示例。
+输入的 ### Token 标记文本字符串为：示例。
 
-**Output 输出** 将输出循环为：[这是] [文本]。
+### Output 输出将输出循环为：[这是] [文本]。
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f2f87f86-ffb6-465e-939e-cba59253ed79/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180052Z&X-Amz-Expires=86400&X-Amz-Signature=fa08ccb462ea472379fb353fc80e129a3c3ab624d9c7738df3e4ff451b611118&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 

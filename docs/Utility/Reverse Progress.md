@@ -14,13 +14,13 @@ Useful to sync an animation that is reversed (ex: a photo that fades in as anoth
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ed853abc-433b-44e3-bd4b-7bc93f57e81f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T182006Z&X-Amz-Expires=86400&X-Amz-Signature=5df5a8bcb18a72ca13862171960396f6b9de3582a99535d7ad9088d718fd281a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Progress 进度**
+### Progress 进度
 
 A progress value. See [Animation Basics](https://www.notion.so/Animations-b81db69b4bcd4eb5a2ab5f31de3ce7c9) for more information.
 
 一个进度值。有关详细信息，请参阅动画基础知识。
 
-**Progress 进度**
+### Progress 进度
 
 The reversed progress value. See [Animation Basics](https://www.notion.so/Animations-b81db69b4bcd4eb5a2ab5f31de3ce7c9) for more information.
 

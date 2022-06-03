@@ -120,38 +120,38 @@ A pulse that represents when the sixth action button is tapped.
 
 ### Related Patches 相关模块
 
-[Interaction 交互](https://www.notion.so/Interaction-8cd3ac66434546eda4b4bcf8173958fc)
+[Interaction 交互](./../Interaction/Interaction.md)
 
 ------
 
 ### Related Layers 相关图层
 
-[Action Sheet 操作列表](https://www.notion.so/Action-Sheet-925afa64e9fa42a5b2a9374fb41f8dbc)
+[Action Sheet 操作列表](./Action%20Sheet.md)
 
-[Activity Indicator 状态指示器](https://www.notion.so/Activity-Indicator-98b85e24705347b1bc147511e19aca54)
+[Activity Indicator 状态指示器](./Activity%20Indicator.md)
 
-[Alert View 警示框](https://www.notion.so/Alert-View-a05a8e1476e543919ccf453585ce8850)
+[Alert View 警示框](./Alert%20View.md)
 
-[Fake Keyboard 模拟键盘](https://www.notion.so/Fake-Keyboard-bf839e8038924161b2ca5b401ebc6faf)
+[Fake Keyboard 模拟键盘](./Fake%20Keyboard.md)
 
-[Navigation Bar 导航栏](https://www.notion.so/Navigation-Bar-2465c6dafddd4a6baeef32d390b015d3)
+[Navigation Bar 导航栏](./Navigation%20Bar.md)
 
-[Notification 通知](https://www.notion.so/Notification-093ed757b8764a1c936d4c12d632fde7)
+[Notification 通知](./Notification.md)
 
-[Page Control 分页控制器](https://www.notion.so/Page-Control-b89791a9a0334256b622a5afacfe80ca)
+[Page Control 分页控制器](./Page%20Control.md)
 
-[Screen 屏幕](https://www.notion.so/Screen-4c35850047fb4f6db41a03ffa66007a4)
+[Screen 屏幕](./Screen.md)
 
-[Segmented Control 分段控制器](https://www.notion.so/Segmented-Control-b1867e80759140748500b210f18f90e5)
+[Segmented Control 分段控制器](./Segmented%20Control.md)
 
-[Slider 滑块](https://www.notion.so/Slider-db6e484091084d90a58cba409bb59e9a)
+[Slider 滑块](./Slider.md)
 
-[Status Bar 状态栏](https://www.notion.so/Status-Bar-5aec10025d1b402f83d61811505d89c0)
+[Status Bar 状态栏](./Status%20bar.md)
 
-[Switch 开关](https://www.notion.so/Switch-8e35180bcd1747a282e0b12af1095015)
+[Switch 开关](./Switch.md)
 
-[Tab Bar 标签栏](https://www.notion.so/Tab-Bar-12b5f2f77b1a42688677f942a9f1a2e7)
+[Tab Bar 标签栏](./Tab%20Bar.md)
 
-[Text Field 文本输入框](https://www.notion.so/Text-Field-35f7f23e5f714582ab1c7d7af511281b)
+[Text Field 文本输入框](./Text%20Field.md)
 
-[Visual Effect 毛玻璃效果](https://www.notion.so/Visual-Effect-4df6115644d141dab240ae1a8f882c66)
+[Visual Effect 毛玻璃效果](./Visual%20Effect.md)

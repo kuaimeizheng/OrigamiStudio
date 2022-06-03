@@ -40,31 +40,31 @@ Use Loop Builder to make a boolean or number loop.
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ece207c0-76ae-4478-ba9a-e2799faaa79d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172946Z&X-Amz-Expires=86400&X-Amz-Signature=b496a13206942b0534fe9b1d833d1ac20e841c10a827e063103ca0377b6a42e4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Input 输入**
+### Input 输入
 
 A loop of values.
 
 包含值的循环。
 
-**Include 包含**
+### Include 包含### 
 
 A loop of booleans (to include or not include), or a loop of numbers (to decide how many times a value is repeated).
 
 一个布尔循环（包括或不包括），或一个数字循环（决定一个值重复多少次）。
 
-**Loop 循环**
+### Loop 循环### 
 
 The result loop, with values either filtered or repeated
 
 结果循环，值已被过滤或重复。
 
-**Index 索引**
+### Index 索引### 
 
 A loop of indices for the result loop
 
 结果循环的索引循环
 
-**支持的类型**
+### 支持的类型
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c81df63d-45fa-4b22-9d3e-49a293f5c1cb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172956Z&X-Amz-Expires=86400&X-Amz-Signature=c7d06b8b283e7efeb0fb5461ecdaa09a042786258ce19581d9aebfa57f4075b7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 

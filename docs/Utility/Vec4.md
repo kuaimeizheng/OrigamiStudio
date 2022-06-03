@@ -10,31 +10,31 @@ Create a point with 4 dimensions (X, Y, Z, W).
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/eeae993b-cbd3-4fc7-9f5a-1944f05b5779/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T182542Z&X-Amz-Expires=86400&X-Amz-Signature=ff1b4f2aa2ea5d66471850376b4ec0e10678509a37afb1a35cfc45b910468704&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**X**
+### X
 
 A number that represents the X value.
 
 表示 X 值的数字。
 
-**Y**
+### Y
 
 A number that represents the Y value.
 
 表示 Y 值的数字。
 
-**Z**
+### Z### 
 
 A number that represents the Z value.
 
 表示 Z 值的数字。
 
-**W**
+### W### 
 
 A number that represents the W value.
 
 表示 W 值的数字。
 
-**Output 输出**
+### Output 输出
 
 A point with 4 dimensions.
 

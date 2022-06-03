@@ -10,31 +10,31 @@ Convert a value between 0 and 1 to a new range defined by the start and end valu
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d4f99296-7e12-46e6-b786-e628539cdaff/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180756Z&X-Amz-Expires=86400&X-Amz-Signature=9b2d0227d077d7dd5dac47273de19133c9f8dd5c0ed622425e93a331a68a6e99&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Progress 进度**
+### Progress 进度
 
 A progress value. See [Animation Basics](https://www.notion.so/Animations-b81db69b4bcd4eb5a2ab5f31de3ce7c9) for more information.
 
 一个进度值。有关详情信息，请参考 Animation Basic
 
-**Start 开始**
+### Start 开始
 
 The start value of the new range.
 
 新范围的开始值。
 
-**Middle 中间**
+### Middle 中间### 
 
 The middle value of the new range.
 
 新范围的中间值。
 
-**End 结束**
+### End 结束
 
 The end value of the new range.
 
 新范围的结束值。
 
-**Output 输出**
+### Output 输出
 
 The converted value.
 

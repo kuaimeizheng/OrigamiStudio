@@ -58,7 +58,7 @@ Many of the properties of the device `info.json` file are exposed via the [Devic
 
 设备 info.json 文件的许多属性都通过 [设备信息](../Device/Device%20Info) 模块获取。
 
-### **`key` 键**
+### ### `key` 键
 
 Type: String, Required
 
@@ -68,7 +68,7 @@ This is the most important item in the bundle. The key will be saved to designer
 
 这是包中最重要的项目。密钥将保存到设计师的作品中，因此一旦被设置就无法更改。该键应与设备的常见名称相关，但如果有多种屏幕尺寸或分辨率，则该组合必须是唯一的。密钥中不应该包含设备颜色；这可以在设备图像体现。
 
-### **`displayName` 显示名称**
+### ### `displayName` 显示名称
 
 Type: String, Required
 
@@ -78,7 +78,7 @@ The display name shows in the Device picker menu in Studio. It can be changed af
 
 名称显示在 Studio 的设备选择菜单中。它可以在之后更改，因为它没有保存在合成中。
 
-### **`screenSize` 屏幕尺寸**
+### ### `screenSize` 屏幕尺寸### 
 
 Type: Array of 2 numbers, Required
 
@@ -90,7 +90,7 @@ This is exposed to compositions via the Device Info port “Screen Size”
 
 通过设备信息的“屏幕大小”端口呈现给合成。
 
-### **`screenScale` 屏幕倍数**
+### ### `screenScale` 屏幕倍数### 
 
 Type: Number, Required
 
@@ -104,7 +104,7 @@ For example, an iOS Retina screen is typically a scale of 2.0. The iPhone 6 Plus
 
 例如，iOS Retina 屏幕的比例通常为 2.0。 iPhone 6 Plus 的比例为 3.0。 Android 设备的比例范围是 0.75 到 4.0，对应于 ldpi (0.75) mdpi (1.0)、hdpi (1.5)、xhdpi (2.0)、xxhdpi (3.0) 和 xxxhdpi (4.0)。
 
-### **`type` 类型**
+### ### `type` 类型
 
 Type: String, Optional
 
@@ -114,7 +114,7 @@ The menu item in Device picker menu where this device is available. Available ty
 
 设备选择菜单中此设备可用的菜单项。可用类型包括`computer`, `phone`, `tablet`, `tv`, `watch`, `window`, `custom`。如果未指定，则默认为`custom`。
 
-### **`platform` 平台**
+### ### `platform` 平台### 
 
 Type: String, Optional
 
@@ -122,7 +122,7 @@ Type: String, Optional
 
 e.g. `iOS`, `Android`, `AndroidWear`, `WindowsPhone`, `Windows`, `OSX`, `tvOS`, or `watchOS`
 
-### **`mouseInput` 鼠标输入**
+### ### `mouseInput` 鼠标输入
 
 Type: Boolean, Optional
 
@@ -132,7 +132,7 @@ Whether this device uses a Mouse or Trackpad for input
 
 此设备是否使用鼠标或触控板进行输入
 
-### **`viewerWindowNative` 查看本机窗口**
+### ### `viewerWindowNative` 查看本机窗口### 
 
 Type: Boolean, Optional
 
@@ -142,7 +142,7 @@ Whether this device uses a native mac window to display when popped out into its
 
 当弹出自己的窗口时，设备是否使用本机mac窗口来显示。然后屏幕大小可以自由调整。
 
-### **`deviceInsets` 设备插件**
+### ### `deviceInsets` 设备插件### 
 
 Type: Array of 4 Numbers, Required
 
@@ -152,7 +152,7 @@ Describes the distance around the device. Influences how the shadow is drawn and
 
 描述设备周围的距离。影响阴影的设计方式以及设备相对于包含视图框架的位置。
 
-### **`shadowOffset` 阴影偏移**
+### ### `shadowOffset` 阴影偏移
 
 Type: Array of 2 Numbers, Optional
 
@@ -162,7 +162,7 @@ If you want the builtin shadow, set this to something non-zero and you can posit
 
 如果你想要内置阴影，将其设置为非零值，你就可以相对于设备定位阴影。
 
-### **`deviceImages` 设备图像**
+### ### `deviceImages` 设备图像### 
 
 Type: Dictionary of Strings to Strings
 
@@ -170,7 +170,7 @@ The keys in the dictionary describe colors the device is available in, the value
 
 字典中的键描述了设备可用的颜色，值是包中 .png 文件的名称，将在 Origami Studio 中显示符合的设备框架。
 
-### **`deviceImageOffset` 设备图像偏移**
+### ### `deviceImageOffset` 设备图像偏移
 
 Type: Array of 2 Numbers, Optional
 
@@ -180,7 +180,7 @@ How much to offset the device image from the screen
 
 设备图像相对于屏幕偏移多少
 
-### **`deviceImageScale` 设备图片缩放**
+### ### `deviceImageScale` 设备图片缩放### 
 
 Type: Number, Required if deviceImages is used
 
@@ -190,7 +190,7 @@ How much to scale up or down the device image compared to the screen scale
 
 与屏幕相比，设备图像放大或缩小多少
 
-### **`deviceOverlayImages` 设备图片叠加**
+### ### `deviceOverlayImages` 设备图片叠加### 
 
 Type: Dictionary of Strings to Strings
 
@@ -198,7 +198,7 @@ Overlay images for devices that obscure parts of the screen, like Samsung Galaxy
 
 为部分屏幕被遮挡的设备（例如三星 Galaxy S8 或 iPhone X）叠加图像。按键需要与`deviceImages`中提供的颜色相匹配，并且图像大小必须相同。
 
-### **`handsImageOffset` 手势图片偏移**
+### ### `handsImageOffset` 手势图片偏移
 
 Type: Array of 2 Numbers, Optional
 
@@ -208,7 +208,7 @@ How much to offset the hand image from the device image
 
 手部图像与设备图像的偏移量
 
-### **`handsImageScale` 手势图片缩放**
+### ### `handsImageScale` 手势图片缩放### 
 
 Type: Float, Optional
 
@@ -218,7 +218,7 @@ How much to scale the hands image compared to the screen
 
 与屏幕相比，手形图像比例多少
 
-### **`handsImages` 手势图片**
+### ### `handsImages` 手势图片### 
 
 Type: Array of Strings, Optional
 
@@ -228,7 +228,7 @@ Each entry here should refer to a hand image provided in the device bundle.
 
 这里的每个条目都应该引用设备包中提供的手形图像。
 
-### **`handsOnTop` 手在前面**
+### ### `handsOnTop` 手在前面
 
 Type: Boolean, Optional
 
@@ -238,7 +238,7 @@ Whether or not the hand is on top of the device. Useful for devices like iPad wh
 
 手是否在设备顶部。一般用于手持 iPad 大屏幕这样拇指经常放在顶部的设备。
 
-### **`defaultDeviceOrientation` 默认设备方向**
+### ### `defaultDeviceOrientation` 默认设备方向### 
 
 Type: String, Optional
 
@@ -248,13 +248,13 @@ The default device orientation to show the device in for the provided screen siz
 
 根据提供的屏幕大小和设备图片显示设备的默认方向。例如，如果设备是横向的电视或平板电脑，则该值应为 `LandscapeLeft`或 `LandscapeRight`。可用的方向是`Portrait`, `LandscapeLeft`, `LandscapeRight`, `PortraitUpsideDown`.。如果未指定，则默认为`Portrait`。
 
-### **`supportsDeviceOrientationPortrait`,**
+### ### `supportsDeviceOrientationPortrait`,### 
 
-### **`supportsDeviceOrientationLandscapeLeft`,**
+### ### `supportsDeviceOrientationLandscapeLeft`,### 
 
-### **`supportsDeviceOrientationLandscapeRight`,**
+### ### `supportsDeviceOrientationLandscapeRight`,### 
 
-### **`supportsDeviceOrientationPortraitUpsideDown`**
+### ### `supportsDeviceOrientationPortraitUpsideDown`### 
 
 Type: Boolean, Optional
 

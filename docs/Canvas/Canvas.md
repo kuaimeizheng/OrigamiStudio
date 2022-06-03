@@ -20,7 +20,7 @@ Artboards allow you to contain the layers for each screen you’re designing. Th
 
 Add a layer with the layer insertion popover using ⌘⇧N or the + button in the toolbar. (Explain how the layer library is different from the patch library).
 
-使用 **⌘⇧N** 或工具栏中的 **+** 按钮在弹出窗口中添加一个图层。(也是图层库和模块库的区别)。
+使用 ### ⌘⇧N或工具栏中的 ### +按钮在弹出窗口中添加一个图层。(也是图层库和模块库的区别)。
 
 ![](https://origami.design/public/images/documentation/layer_library.png)
 
@@ -74,13 +74,13 @@ Clicking on a property with multiple coordinates (ex: Position, Size, Rotation) 
 
 Layers can be grouped by selecting any number of layers and pressing ⌘G. Layer groups in Origami Studio have their own size and position, and clip layers within.
 
-可以选择任意数量的图层并按下 **⌘G** 来对图层进行分组。Origami的图层组有自己的大小和位置，并剪辑组中的图层。
+可以选择任意数量的图层并按下 ### ⌘G来对图层进行分组。Origami的图层组有自己的大小和位置，并剪辑组中的图层。
 
 # Masking 蒙版
 
 Layers can be masked by other layers. Pressing ⌘⌥M will turn the layer to an alpha mask, clipping the layer right above it. To add additional layers to be masked, you can select the layers and press ⌘⌥⇧M.
 
-图层可以被其他图层遮罩。**⌘⌥M** 可以把该图层变成 alpha 蒙版，将在它的正上方剪切该图层。要给其他图层添加遮罩，您可以选择图层并按下 **⌘⌥⇧M**。
+图层可以被其他图层遮罩。### ⌘⌥M可以把该图层变成 alpha 蒙版，将在它的正上方剪切该图层。要给其他图层添加遮罩，您可以选择图层并按下 ### ⌘⌥⇧M### 。
 
 All masks are alpha masks, which can let you do advanced masks like gradient masks or composite masks based on a group of shapes.
 
@@ -94,7 +94,7 @@ There is a growing collection of pre-built components for quickly prototyping wi
 
 Create custom components by selecting layers and pressing ⌘⌥G to group them into a component. Double-click the component to enter it and make changes. Add it to your Library and share it with others by pressing ⌘⌥C.
 
-通过选择图层并按快捷键 **⌘⌥G** 将它们组合在一起来创建自定义模块。双击模块进入内部进行编辑。也可以将其添加到库中，然后按快捷键 **⌘⌥C** 与其他人共享
+通过选择图层并按快捷键 ### ⌘⌥G将它们组合在一起来创建自定义模块。双击模块进入内部进行编辑。也可以将其添加到库中，然后按快捷键 ### ⌘⌥C与其他人共享
 
 ------
 

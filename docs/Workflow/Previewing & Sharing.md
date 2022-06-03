@@ -16,17 +16,17 @@ Connect an iOS or Android device via USB and run Origami live. The frontmost pro
 
 通过 USB 连接 iOS 或 Android 设备并运行 Origami。当前的原型将立即开始在手机或平板电脑上显示预览。您在 Origami Studio 中所做的任何更改都会立即显示在预览中，无需重新启动。
 
-### **Origami Live for iOS**
+### ### Origami Live for iOS### 
 
 1. [Download it from the App Store](https://itunes.apple.com/us/app/origami-live-design-prototyping/id942636206)
 2. Connect your iPhone or iPad with a USB cable
 3. Open Origami Studio and make sure you have at least one document open
 
-### **Origami live for Android**
+### ### Origami live for Android### 
 
 1. [Download it from Google Play](https://play.google.com/store/apps/details?id=com.facebook.Origami)
 2. [Enable Developer Mode and USB Debugging](https://developer.android.com/tools/help/adb.html#Enabling). You may need to enable USB Data Transfer as well.
-3. Connect your Android phone or tablet with a USB cable. **Note: a cable that supports data transfer is required. Some cables only support charging the device.**
+3. Connect your Android phone or tablet with a USB cable. ### Note: a cable that supports data transfer is required. Some cables only support charging the device.### 
 4. Open Origami Studio and make sure you have at least one document open
 
 # Exporting Prototypes 导出原型
@@ -53,7 +53,7 @@ Origami Studio doesn’t mirror custom fonts to your device.
 
 Origami Studio 不会将自定义字体镜像到您的设备。
 
-### **iOS**
+### ### iOS### 
 
 To get a custom font on your iOS device, use [Anyfont](https://itunes.apple.com/us/app/anyfont/id821560738?mt=8) for iOS or [Apple Configurator 2](https://itunes.apple.com/us/app/apple-configurator-2/id1037126344?mt=12) on the Mac. Using Apple Configurator:
 
@@ -67,7 +67,7 @@ To get a custom font on your iOS device, use [Anyfont](https://itunes.apple.com/
 4. Save the profile using File > Save and transfer the .mobileconfig file to your device (using email for example)
 5. Open the file on your device. You should now see your custom font mirroring from Origami Studio
 
-### **Android**
+### ### Android### 
 
 The procedure of installing a custom font on Android varies [depending on the device](https://www.google.com/#q=how+to+install+fonts+on+android).
 

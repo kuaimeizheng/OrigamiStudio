@@ -10,19 +10,19 @@ Determine if some text starts with the given prefix.
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ba63c5ed-4d6e-49e5-bd24-054100d03b00/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180346Z&X-Amz-Expires=86400&X-Amz-Signature=dfb9b26d39f922ae87ea7f7e9664c5b2006b57b2daa5643c77bf38a46ba340cb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Text 文本**
+### Text 文本
 
 A text string to evaluate.
 
 要判断的文本字符串。
 
-**Prefix 前缀**
+### Prefix 前缀### 
 
 A text string that might appear at the start of the given text.
 
 一个文本字符串，显示在特定文本的开头。
 
-**Output 输出**
+### Output 输出
 
 A boolean that is true if the text starts with the prefix.
 

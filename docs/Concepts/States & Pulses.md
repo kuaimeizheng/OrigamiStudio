@@ -18,7 +18,7 @@ A state is a value that persists over time. The simplest version of state is in 
 
 状态是一个值持续的时间。
 
-举个例子，最简单的能实现状态切换的模块是 **Switch 开关** 模块。在没有 **打开** 或 **关闭** 前，状态是会保持不变的。
+举个例子，最简单的能实现状态切换的模块是 ### Switch 开关模块。在没有 ### 打开或 ### 关闭前，状态是会保持不变的。
 
 If we look at a state as it changes over time, it might look something like this:
 
@@ -44,20 +44,20 @@ A pulse over time looks like this:
 
 You can see that pulses are only On ✓ for a single frame.
 
-They’re used to tell patches to **perform an action**, like telling a Switch to turn on or turn off. They’re also useful for passing along user interactions like tapping on the screen or pressing a key on the keyboard.
+They’re used to tell patches to ### perform an action### , like telling a Switch to turn on or turn off. They’re also useful for passing along user interactions like tapping on the screen or pressing a key on the keyboard.
 
-可以在图上看到脉冲只在 Frame 5 上显示了一下。用于告诉模块 **赶紧的切换状态** ，打开或关闭开关。
+可以在图上看到脉冲只在 Frame 5 上显示了一下。用于告诉模块 ### 赶紧的切换状态，打开或关闭开关。
 
 脉冲还可用于传递用户交互，例如在屏幕上点击或按键盘上的键。
 
 # Examples of State & Pulses 状态&脉冲示例
 
-- The [Switch](../Utility/Switch) patch outputs the **state** of the switch (on / off) and accepts **pulses** to flip the switch, turn it on, or turn it off.
-- **Switch** 模块接收一个交互模块发出的**脉冲**，根据指令输出开关的**状态**将其打开或关闭。
-- The [Interaction](../Interaction/Interaction) patch has Down and Tap outputs. Down represents the **state** of whether the finger is currently down on the screen. The Tap port outputs a **pulse** when the finger is released from the screen.
-- **Interaction** 模块有 Down 和 Tap 输出口。Down 表示手指在屏幕上按下时的**状态**，按下时输出脉冲。Tap 表示手指在屏幕上按下 - 松开时的**状态**，松开输出脉冲。
-- The [Counter](../Utility/Counter) patch outputs the **state** of the counter (the number value) and accepts **pulses** to increase it or decrease it.
-- **Counter** 模块输出计数器的**状态**(数值)并接受来自其他模块的**脉冲**增加或减少数值。
+- The [Switch](../Utility/Switch) patch outputs the ### stateof the switch (on / off) and accepts ### pulsesto flip the switch, turn it on, or turn it off.
+- ### Switch模块接收一个交互模块发出的### 脉冲### ，根据指令输出开关的### 状态### 将其打开或关闭。
+- The [Interaction](../Interaction/Interaction) patch has Down and Tap outputs. Down represents the ### stateof whether the finger is currently down on the screen. The Tap port outputs a ### pulsewhen the finger is released from the screen.
+- ### Interaction模块有 Down 和 Tap 输出口。Down 表示手指在屏幕上按下时的### 状态### ，按下时输出脉冲。Tap 表示手指在屏幕上按下 - 松开时的### 状态### ，松开输出脉冲。
+- The [Counter](../Utility/Counter) patch outputs the ### stateof the counter (the number value) and accepts ### pulsesto increase it or decrease it.
+- ### Counter模块输出计数器的### 状态### (数值)并接受来自其他模块的### 脉冲### 增加或减少数值。
 
 # Creating Pulses from State 给状态创建脉冲
 

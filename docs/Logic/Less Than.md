@@ -18,19 +18,19 @@ Right-click to add more values to compare, or change the type (ex: number, index
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/31872288-0d57-430e-a712-4eab21bdc2b2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172151Z&X-Amz-Expires=86400&X-Amz-Signature=7e2cfbd95631017fc6713ad4af0d131d9e3f2b0ffdb4fab50b6817d854236c6e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Input 输入**
+### Input 输入
 
 The base value.
 
 基础值。
 
-**Input 输入**
+### Input 输入
 
 The value to compare to the base.
 
 和基础值做比较的值。
 
-**Output 输出**
+### Output 输出
 
 A boolean that is true if the base value is less than the subsequent values.
 

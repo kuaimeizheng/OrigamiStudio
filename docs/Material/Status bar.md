@@ -10,43 +10,43 @@ A Material status bar that is responsive and customizable.
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cd76b6d7-c13b-446b-9773-5163121ba7db/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190337Z&X-Amz-Expires=86400&X-Amz-Signature=67d436f65d6073355f77e5b643de649ae7d4b8016302e5b922934f92a772a66f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Enable 启用**
+### Enable 启用
 
 A boolean that is true when the status bar is displayed.
 
 一个布尔值，表示显示状态栏时，布尔值是否。
 
-**Theme 主题**
+### Theme 主题### 
 
 The theme of the status bar contents: light or dark.
 
 状态栏内容的主题：浅色或深色。
 
-**Background 背景**
+### Background 背景
 
 The color of the status bar background.
 
 状态栏背景的颜色。
 
-**Time 时间**
+### Time 时间
 
 A text string that is shown as the time on the device. By default, this is blank and uses the current phone, tablet or computer time.
 
 作为设备上的时间显示的文本字符串。默认情况下，这是空白的，并使用当前的电话，平板电脑或计算机时间。
 
-**Battery 电量**
+### Battery 电量
 
 A number from 0 to 1 that represents the battery level in the top right.
 
 从0到1的数字表示右上角的电池电量。
 
-**Signal 信号**
+### Signal 信号### 
 
 A number from 0 to 1 that represents the cell signal strength.
 
 从0到1的数字表示单元信号强度。
 
-**Wifi Level Wifi 强度**
+### Wifi Level Wifi 强度
 
 A number from 0 to 1 that represents the wifi signal strength.
 

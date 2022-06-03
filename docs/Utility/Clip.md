@@ -14,13 +14,13 @@ For example, if an input value is 1.5, but the Max bound is set to 1, the output
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d9239ed6-187e-4a3d-827d-916a68ce6244/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180823Z&X-Amz-Expires=86400&X-Amz-Signature=21f2603419bed9745f7bdaa661669a12abf57ebac1292250af7530dbce525127&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Value 值**
+### Value 值
 
 A number to clip.
 
 要裁剪的值。
 
-**Min 最小值**
+### Min 最小值
 
 The lowest number to allow. The output value must be greater than or equal to this number.
 
@@ -28,7 +28,7 @@ The lowest number to allow. The output value must be greater than or equal to th
 
 输出值必须大于或等于此数值。
 
-**Max 最大值**
+### Max 最大值
 
 The highest number to allow. The output value must be lower than or equal to this number.
 
@@ -36,7 +36,7 @@ The highest number to allow. The output value must be lower than or equal to thi
 
 输出值必须小于或等于此数值。
 
-**Output 输出**
+### Output 输出
 
 The clipped value.
 

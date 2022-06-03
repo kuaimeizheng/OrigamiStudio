@@ -22,9 +22,9 @@ To edit the expression used in a Math Expression patch, right-click the patch an
 
 要编辑 Math expression 模块中使用的表达式，右键单击模块，在菜单中选择“patch Info”(或按下⌘I)。编辑完成后，按回车键保存更新。注意，更改模块的标题不会影响表达式。
 
-Expressions can include any mathematical operations (+, -, *, /, %, **) or functions from the [JavaScript Math library](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math). Any expression that is valid in JavaScript can be used, but the inputs and outputs can only be numbers. If you type an invalid expression into the editor, it will not be saved and will be highlighted in red.
+Expressions can include any mathematical operations (+, -, *, /, %, ### ) or functions from the [JavaScript Math library](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math). Any expression that is valid in JavaScript can be used, but the inputs and outputs can only be numbers. If you type an invalid expression into the editor, it will not be saved and will be highlighted in red.
 
-表达式可以包含任何数学运算(+，-，*，/，%，**)或 JavaScript Math 库中的函数。任何在JavaScript中有效的表达式都可以使用，但输入和输出只能是数字。如果您在编辑器中输入无效的表达式，它将不会被保存，并以红色高亮显示。
+表达式可以包含任何数学运算(+，-，*，/，%，### )或 JavaScript Math 库中的函数。任何在JavaScript中有效的表达式都可以使用，但输入和输出只能是数字。如果您在编辑器中输入无效的表达式，它将不会被保存，并以红色高亮显示。
 
 # Example Math Expressions 数学表达式示例
 
@@ -33,7 +33,7 @@ Compute the distance between two points using the following expression patch. No
 使用下面的表达式模块计算两点之间的距离。请注意，我们如何在表达式的开头包含“distance =”来命名模块的输出。
 
 ```
-distance = Math.sqrt((x2-x1) ** 2 + (y2-y1) ** 2)
+distance = Math.sqrt((x2-x1) 2 + (y2-y1) 2)
 ```
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d3db38aa-d1aa-40fc-8333-765bb9b118f8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T040652Z&X-Amz-Expires=86400&X-Amz-Signature=e1f656eeb420687cd28121c9a2511c4ed169c88d88dafe8308faa88cf7ebebbd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

@@ -14,19 +14,19 @@ Use [Array Builder](https://www.notion.so/JSON-Array-JSON-c04f26109f71497c95627e
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e16eb560-a916-4c04-8965-a6fc6103df2d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T173255Z&X-Amz-Expires=86400&X-Amz-Signature=bbea16c710e9666c2da86c4f285c380d3b078ffc698deb124851159d8ed2ae39&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Array 数组**
+### Array 数组### 
 
 A JSON array of values.
 
 值的JSON数组。
 
-**Index 索引**
+### Index 索引### 
 
 A loop of the indices for the input values. ex: [0, 1, 2]
 
 输入值的索引循环。例如：[0, 1, 2]
 
-**Items 选项**
+### Items 选项### 
 
 A loop of values from the array.
 

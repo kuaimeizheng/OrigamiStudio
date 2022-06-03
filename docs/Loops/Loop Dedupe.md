@@ -14,25 +14,25 @@ Right-click to change the type of the loop.
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/93c013c8-0508-472a-9b6a-43448fbe8dee/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172824Z&X-Amz-Expires=86400&X-Amz-Signature=fcfe7c4ad85d7cf13a5d89b268465631d7e4ac1c583d94f39cda78d4d1b489a8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Loop 循环**
+### Loop 循环### 
 
 A loop to remove duplicate values from.
 
 需要删除重复数据的循环。
 
-**Loop 循环**
+### Loop 循环### 
 
 The resulting loop without duplicated values.
 
 没有重复数据的循环。
 
-**Index 索引**
+### Index 索引### 
 
 A loop of the indices for the output values. ex: [0, 1, 2]
 
 输出数据的索引循环。例如：[0, 1, 2]
 
-**支持的类型**
+### 支持的类型
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/31f38a0e-6c2f-4046-bf0d-20edcdf6d696/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172833Z&X-Amz-Expires=86400&X-Amz-Signature=dbab68a4dcd630591be9fa9c2acbbe671f7e7f8121237ae030f0a8549f6a75f1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 

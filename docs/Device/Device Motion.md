@@ -10,25 +10,25 @@ Access accelerometer and gyroscope information from the phone, tablet, or comput
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/613637c1-fb71-4ab3-9ee4-1f9939ddc9fb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165555Z&X-Amz-Expires=86400&X-Amz-Signature=4a39d62b41ec64c4205f78048ddb05c1f69edf4881f64fbe77770e078e4bec36&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Has Acceleration 有加速**
+### Has Acceleration 有加速### 
 
 A boolean that is true when the phone, tablet, or computer has acceleration information.
 
 一个布尔值，表示当手机、平板、电脑有加速信息时为真。
 
-**Acceleration 加速**
+### Acceleration 加速### 
 
 A point 3d that represents the acceleration in X, Y and Z directions. Use [Point 3D Unpack](./../Utility/Point%203D%20Unpack.md) to get the individual acceleration values.
 
 一个3D点，表示x、y和z方向的加速度。使用[Point 3D Unpack](./../Utility/Point%203D%20Unpack.md)模块获取加速度值。
 
-**Has Rotation Rate  有旋转速度**
+### Has Rotation Rate  有旋转速度
 
 A boolean that is true when the phone, tablet, or computer has rotation information.
 
 一个布尔值，表示当手机、平板、电脑有旋转信息时为真。
 
-**Rotation Rate 旋转速率**
+### Rotation Rate 旋转速率### 
 
 A point 3d that represents the rotation rate around the X, Y and Z axes. Use [Velocity](./../Utility/Velocity.md) to calculate total rotation over time.
 

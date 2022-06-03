@@ -10,19 +10,19 @@ Turn spacing with 2 dimensions into its individual X and Y values. Useful when w
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/336306ac-2946-46f6-9787-38d84a4bc2a6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T182207Z&X-Amz-Expires=86400&X-Amz-Signature=28a2cec3008f8e3291ba7e6b3d3a8ce42e076b75e84f50ab96c20dbc10ba18fa&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Input 输入**
+### Input 输入
 
 Spacing with 2 dimensions.
 
 二维间距。
 
-**X**
+### X
 
 The amount of spacing on the X axis.
 
 X 轴上的间距。
 
-**Y**
+### Y
 
 The amount of spacing on the Y axis.
 

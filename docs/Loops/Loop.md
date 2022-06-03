@@ -14,13 +14,13 @@ To learn more about loops, see the [Introduction to Loops](https://www.notion.so
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3598e0e4-0a14-4f14-b725-1e3fef380e83/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172556Z&X-Amz-Expires=86400&X-Amz-Signature=0b2196267bdc133dda8d4fa5b13105b92388c6a010d9656b4dfabbf0fea931ec&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Count 数量**
+### Count 数量
 
 A number that represents the number of indices in the loop.
 
 一个数值，表述循环中目录的数量。
 
-**Index 索引**
+### Index 索引### 
 
 A loop of indices.
 

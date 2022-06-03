@@ -20,19 +20,19 @@ You can right-click to add more values to compare (will only output 1 if every v
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2717c6ac-6b65-4a9a-a783-4d829432406c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172117Z&X-Amz-Expires=86400&X-Amz-Signature=96b14d6a82b4af2d13a78d5fb9b4eed9c76d479693d176e960586adb9ce46d9f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Input 输入**
+### Input 输入
 
 The base value.
 
 基础值。
 
-**Input 输入**
+### Input 输入
 
 The value to compare to the base.
 
 和基础值做比较的值。
 
-**Output 输出**
+### Output 输出
 
 A boolean that is true if the base value is greater than or equal to the subsequent values.
 

@@ -10,25 +10,25 @@ Record sound from the phone, tablet, or computer microphone. Connect to a Sound 
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ad80c3fa-6467-48fd-98c7-648180b8ae5a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165952Z&X-Amz-Expires=86400&X-Amz-Signature=4e2f02babda7325d13f417277fb28b94bced7210bb2527660ee062fbf65e114a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Enable 启用**
+### Enable 启用
 
 A boolean that is true when the microphone is on.
 
 一个布尔值，表示当话筒打开时为真。
 
-**Record 录音**
+### Record 录音### 
 
 A boolean that is true when the microphone is recording sound.
 
 一个布尔值，表示当话筒录音时为真。
 
-**Sound 声音**
+### Sound 声音### 
 
 The recorded sound. Connect to a [Sound Player](./Sound%20Player.md).
 
 录制好的声音。连接到 [Sound Player](./Sound%20Player.md) 。
 
-**Metering 测量**
+### Metering 测量
 
 Connect this to the [Audio Metering](./../Media/Audio%20Metering.md) patch to make visualizations based on the microphone.
 

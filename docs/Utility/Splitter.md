@@ -18,19 +18,19 @@ Can be used interchangeably with Variable Broadcasters and Variable Receivers.
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/20e1e5fb-38bd-4cbb-bf3d-1c2f404e5926/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T182226Z&X-Amz-Expires=86400&X-Amz-Signature=3950c5523b929e62ab31c6530b1ba6df382817d36a6b0bc625cbf2f0083fd3ae&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Input 输入**
+### Input 输入
 
 A value to pass on.
 
 要传递的值。
 
-**Output 输出**
+### Output 输出
 
 The same value from the input.
 
 不改变输入端口的值在这直接输出。
 
-**Type 类型**
+### Type 类型
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2bef7b6f-d029-492a-8c06-8fdf87a24eeb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T182233Z&X-Amz-Expires=86400&X-Amz-Signature=161e27b1dd7f1faee9ad6e1d772a505b6e3f27aa89387f4830f41b19f6e5640f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 

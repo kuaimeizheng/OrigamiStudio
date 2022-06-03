@@ -18,19 +18,19 @@ Right-click to add more values to compare, or change the type (ex: number, index
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d84f08a2-8f42-45cf-9dd6-0c7610b23a6a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T171959Z&X-Amz-Expires=86400&X-Amz-Signature=1d770abbbfa1c3bb4b56958868395588c32a0aae8e53ee9fcc85755869117e90&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Input**
+### Input### 
 
 The base value.
 
 基础值。
 
-**Input**
+### Input### 
 
 The value to compare to the base.
 
 和基础值比较的值
 
-**Output**
+### Output### 
 
 A boolean that is true if the values are exactly equal to each other.
 

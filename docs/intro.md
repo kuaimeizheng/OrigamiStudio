@@ -32,9 +32,9 @@ Add interaction, animation, and behavior to your prototype using blocks called 
 
 ### 3. Layer List 图层列表
 
-A list of layers in your prototype. Add a new layer with the **+** button in the toolbar. To add interactions to a layer, hover on it and click the Touch button to select from a list of interactions like Tap, Scroll, or Swipe.
+A list of layers in your prototype. Add a new layer with the ### +###  button in the toolbar. To add interactions to a layer, hover on it and click the Touch button to select from a list of interactions like Tap, Scroll, or Swipe.
 
-原型中的图层列表。**使用工具栏中的 +** 按钮添加一个新图层。要将交互添加到图层，请将鼠标悬停在图层上并单击 `“Touch 触摸”` 按钮以从交互列表中选择，例如 `“Tap 点击”`、`“Scroll 滚动”` 或 `“Swipe 滑动”`。
+原型中的图层列表。### 使用工具栏中的 +按钮添加一个新图层。要将交互添加到图层，请将鼠标悬停在图层上并单击 `“Touch 触摸”` 按钮以从交互列表中选择，例如 `“Tap 点击”`、`“Scroll 滚动”` 或 `“Swipe 滑动”`。
 
 ### 4. Inspector 检查
 

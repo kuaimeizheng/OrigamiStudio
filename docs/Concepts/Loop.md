@@ -24,7 +24,7 @@ Origami 中的循环模块都是绿色的，任何连接到循环的模块都将
 
 https://origami.design/public/images/videos/loop_connections.mp4
 
-### **Loop Patch 循环模块**
+### ### Loop Patch 循环模块### 
 
 The simplest loop in Origami is created using the Loop patch, this will output a loop counting up to the number of items in the Count input. Loops in Origami are Zero-Indexed, which means they start counting from 0, so a Loop with a Count of 5 will be “0, 1, 2, 3, 4“.
 
@@ -42,7 +42,7 @@ You’ll see below when we hover through each item in the loop popover the numbe
 
 https://origami.design/public/images/videos/loop_patch.mp4
 
-### **Loop Builder Patch 循环生成器模块**
+### ### Loop Builder Patch 循环生成器模块### 
 
 Another way to create a loop is with the Loop Builder patch. This patch allows more control over what value you’d like each item in your loop to be. By default this will a loop of numbers but we can change the [type](../Patch%20Editor/Patches) by clicking on the patch header and selecting a different type. For example we could create a loop of colors as seen below or a loop of On/Off boolean values.
 
@@ -54,7 +54,7 @@ Note: If you’re only seeing one layer show up on the Canvas and in the Viewer,
 
 注意：如果您在画布和查看器中只看到一个图层，请确保您的图层是一个启用了布局的组的子图层。
 
-### **Loops and Layout 循环和布局**
+### ### Loops and Layout 循环和布局### 
 
 Layout lets you control how looped layers are arranged on the canvas. Make your looped layer a child of a [Layout-enabled](../Canvas/Layout) Group and change the Group Layout properties in the Inspector.
 
@@ -62,7 +62,7 @@ Layout lets you control how looped layers are arranged on the canvas. Make your 
 
 https://origami.design/public/images/videos/loop_builder.mp4
 
-### **Looping Components 循环组件**
+### ### Looping Components 循环组件### 
 
 Using loops with Components allows us to specify what point in the layer hierarchy we want our loop to repeat. For example if we were creating a list of contacts from a loop of names, and we passed the names loop to the Text Layer, it would create multiple Text Layers for each name.
 
@@ -98,7 +98,7 @@ When we combine loops together by connecting multiple loops to multiple properti
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/657c4342-9536-465e-b453-e06824bab8a6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T040304Z&X-Amz-Expires=86400&X-Amz-Signature=bc3c058370b67030fc6c1d434b934391d4160196fa969861f3f74aed6c875035&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-### **Loop Behavior 循环特性**
+### ### Loop Behavior 循环特性
 
 *Pass into Component* - Makes the loop available inside the component by passing it through without looping the component. Passing in (Default in Origami Version 81 and older)
 
@@ -118,7 +118,7 @@ The loop passed to the “Loop the Component” will create multiple instances o
 
 https://origami.design/public/images/videos/loop_of_loops.mp4
 
-### **Nested arrays to Loops of Loops 嵌套数组到循环的循环**
+### ### Nested arrays to Loops of Loops 嵌套数组到循环的循环### 
 
 Another way of building looped components is using the [Loop Over Array](../Loops/Loop%20Over%20Array) patch with a nested array. This is useful for working with data from a web API that includes multidimensional arrays.
 
@@ -130,7 +130,7 @@ Nested arrays to Loops of Loops
 
 嵌套数组到循环的循环
 
-### **Looped Component Outputs 循环组件输出**
+### ### Looped Component Outputs 循环组件输出
 
 An important caveat about Looped Components is that components cannot *output* a loop of loops. Outputs from looped components are appended to one another into a flat loop.
 
@@ -144,13 +144,13 @@ An example of this is adding a tap Output to the Looped Component shown earlier 
 
 Looped Component Outputs 循环组件输出
 
-### **Manipulating Loops 操作循环**
+### ### Manipulating Loops 操作循环### 
 
 [Loop Filter](../Loops/Loop%20Filter) and [Loop Select](../Loops/Loop%20Select) are the two patches for selecting items from a loop, useful for working with the [Loop Option Switch](../Loop/Loop%20Option%20Switch) for getting the selected item in a loop.
 
 Loop Filter 循环筛选 和 Loop Select 循环选择 是用于从循环中选择项目的两个模块，一般用于在使用Loop Option Switch 循环选项开关 在循环中获取所选项目。
 
-### **Loops & Interactions 循环&交互**
+### ### Loops & Interactions 循环&交互### 
 
 When we add an [Interaction](.../Interaction/Interaction) patch to a looper layer, the Interactions output will then be looped as well. Using the [Loop Option Switch](../Loop/Loop%20Option%20Switch) patch with the [Loop Select](../Loops/Loop%20Select) patch we can get the value of the tapped on item
 

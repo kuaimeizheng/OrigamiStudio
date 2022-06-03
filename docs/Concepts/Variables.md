@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Variables 变量
 
-Variables are a way to organize and simplify the patch graph of your prototype. At the simplest level, a **Variable Broadcaster** and **Variable Receivers** can replace the cables that normally connect one patch’s output to other patches’ inputs. (In previous versions of Origami these patches were named Wireless Broadcasters and Receivers, because they removed the “wires” between patches!)
+Variables are a way to organize and simplify the patch graph of your prototype. At the simplest level, a ### Variable Broadcasterand ### Variable Receiverscan replace the cables that normally connect one patch’s output to other patches’ inputs. (In previous versions of Origami these patches were named Wireless Broadcasters and Receivers, because they removed the “wires” between patches!)
 
 变量是整理和简化原型图的一种方法。在最简单的层面上，变量发送器和变量接收器可以替换通常连接一个模块的输出到其他模块的输入的连线。(在Origami的早期版本中，这些模块被命名为无线发送和接收器，因为它们删除了模块之间的“连线”!)
 
@@ -18,17 +18,17 @@ Here’s a basic example where a variable has been used to clean up the patch gr
 
 ![](https://origami.design/public/images/documentation/variables-before-broadcast.png)
 
-**Before:** The Scroll Y position is connected to 3 different inputs, with cables overlapping parts of the patch graph.
+### Before:The Scroll Y position is connected to 3 different inputs, with cables overlapping parts of the patch graph.
 
-**开始:** Scroll Y 位置连接3个不同的输入，连线与模块图的部分重叠。
+### 开始:Scroll Y 位置连接3个不同的输入，连线与模块图的部分重叠。
 
 https://origami.design/public/images/videos/variables-radio-wave.mp4
 
 ![](https://origami.design/public/images/documentation/variables-after-broadcast.png)
 
-**After:** A variable broadcaster for Scroll Y position has been connected to the scroll patch, and 3 variable receivers have replaced the cables from the scroll patch
+### After:A variable broadcaster for Scroll Y position has been connected to the scroll patch, and 3 variable receivers have replaced the cables from the scroll patch
 
-**结束:** Scroll Y 位置的一个变量发送器已连接到滚动模块，3个变量接收器已替换滚动模块的连线
+### 结束:Scroll Y 位置的一个变量发送器已连接到滚动模块，3个变量接收器已替换滚动模块的连线
 
 Variables can also help you navigate around a large patch graph. If you click on the ‘radio wave’ icon of a wireless receiver, Origami will pan the patch graph to reveal the source broadcaster. As your prototype grows in size, this can be a helpful way to understand what values are affecting your prototype, and where they’re being modified.
 
@@ -44,7 +44,7 @@ For instance, in the example above, there is a toolbar that fades out as the con
 
 ![](https://origami.design/public/images/documentation/variables-example.png)
 
-**Example:** Using variables to centralize & reuse values
+### Example:Using variables to centralize & reuse values
 
 示例:使用变量来集中和复用值
 
@@ -64,7 +64,7 @@ For instance, you might set up several variables for the UI text in your design,
 
 例如，你可以在设计中为UI文本设置多个变量，然后将其与团队中的作者共享，以便编辑和尝试不同的标签，而无需浏览原型的所有逻辑。
 
-As your prototype becomes more complex, you’ll probably want to encapsulate functionality using **[Components.](../Workflow/Components)** The components you create can also take advantage of these centralized values with **Global Variables**.
+As your prototype becomes more complex, you’ll probably want to encapsulate functionality using ### [Components.](../Workflow/Components)The components you create can also take advantage of these centralized values with ### Global Variables### .
 
 随着原型变得越来越复杂，您可能想要使用组件封装功能。您创建的组件也可以利用这些集中的值和全局变量。
 

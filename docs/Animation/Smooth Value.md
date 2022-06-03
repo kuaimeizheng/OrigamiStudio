@@ -8,7 +8,7 @@ For advanced use only — use the Pop Animation or Classic Animation patch inste
 
 Smooth a value as it changes.
 
-高级模块，可用**Pop Animation**或 **Classic Animation**替代。
+高级模块，可用Pop Animation### 或 ### Classic Animation### 替代。
 
 平滑改变中的值。
 

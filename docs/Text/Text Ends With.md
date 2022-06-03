@@ -10,19 +10,19 @@ Determine if some text ends with the given suffix.
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5435fb80-305d-4663-becd-19a74d7aae69/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180118Z&X-Amz-Expires=86400&X-Amz-Signature=ce90adb75b702147960e7aa2d597694ae864d93c30bc3398a31dd4654c1d18e7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Text 文本**
+### Text 文本
 
 A text string to evaluate.
 
 要判断的文本字符串。
 
-**Suffix 后缀**
+### Suffix 后缀### 
 
 A text string that might appear at the end of the given text.
 
 一个文本字符串，显示在特定文本的结尾。
 
-**Output 输出**
+### Output 输出
 
 A boolean that is true if the text ends with the suffix.
 

@@ -24,7 +24,7 @@ While there is a large library of patches, there is a core set of patches that s
 
 虽然模块库中有丰富的模块，但是一般情况并不需要用到全部模块，熟悉一小部分的常用模块就能实现大多数交互，常用模块都有对应的快捷键。
 
-### **Inserting Patches 插入模块**
+### ### Inserting Patches 插入模块### 
 
 Tip: Use these shortcuts when hovering/selecting a port to quickly connect patches together.
 
@@ -59,7 +59,7 @@ Tip: Use these shortcuts when hovering/selecting a port to quickly connect patch
 | ⇧ R    | Progress             | 进度       |
 | R      | Reverse Progress     | 反转进度   |
 
-### **Organizing Patches 整理模块**
+### ### Organizing Patches 整理模块### 
 
 | 快捷键  | 英文                                 | 中文                 |
 | ------- | ------------------------------------ | -------------------- |

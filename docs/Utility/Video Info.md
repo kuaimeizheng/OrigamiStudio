@@ -10,19 +10,19 @@ Access information about a video. Useful when building video player controls and
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3a8f5208-5ca9-4e81-bcb7-05b0d67d97ed/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T182716Z&X-Amz-Expires=86400&X-Amz-Signature=02410cbf2b7d88804e1ac3bcf6f1dc773bdbf127779a1e8973f72f765bcde39f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Layer 图层**
+### Layer 图层
 
 The layer to display information for.
 
 要显示其信息的图层。
 
-**Duration 持续时间**
+### Duration 持续时间### 
 
 The length of the video, in seconds.
 
 视频的长度，以秒为单位。
 
-**Current Time 当前时间**
+### Current Time 当前时间### 
 
 The elapsed time of the video, in seconds.
 

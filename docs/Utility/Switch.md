@@ -22,25 +22,25 @@ See [State Basics](https://origami.design/documentation/patch-editor/States.html
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6e3d8fbd-ae7e-4012-b87a-e3af576a60e7/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T182340Z&X-Amz-Expires=86400&X-Amz-Signature=a38bef191cfd43b606667aa077d5c26a0ceda59794dd6eb91476cad248cd5ebb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Flip 反转**
+### Flip 反转
 
 A pulse that flips the state of the switch (from on to off, or vice versa).
 
 翻转开关状态的脉冲（开、关之间循环切换）。一般连接交互模块。
 
-**Turn On 打开**
+### Turn On 打开
 
 A pulse that turns the switch on. If the switch is already on, the pulse has no effect.
 
 打开开关的脉冲。如果开关已经是打开状态则无效。一般连接交互模块。
 
-**Turn Off 关闭**
+### Turn Off 关闭
 
 A pulse that turns the switch off. If the switch is already off, the pulse has no effect.
 
 关闭开关的脉冲。如果开关已经是关闭状态则无效。一般连接交互模块。
 
-**On / Off 输出**
+### On / Off 输出
 
 A boolean that is true if the switch is on.
 

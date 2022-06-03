@@ -14,19 +14,19 @@ See [Wikipedia](https://en.wikipedia.org/wiki/Trigonometric_functions) for more 
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3e040b42-3442-4f38-9e48-ee6092b7213a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T174151Z&X-Amz-Expires=86400&X-Amz-Signature=aa24e6b8387067176e00a02aededc5a963ecb90bef219afae408ba8881d0b9f7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Y**
+### Y
 
 A positive or negative number that represents the vertical dimension of the triangle.
 
 表示三角形垂直坐标尺寸的正数或负数。
 
-**X**
+### X
 
 A positive or negative number that represents the horizontal dimension of the triangle.
 
 表示三角形水平坐标尺寸的正数或负数。
 
-**Output输出**
+### Output输出
 
 A number in degrees that represents the angle of the triangle.
 

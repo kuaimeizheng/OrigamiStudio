@@ -16,13 +16,13 @@ Often used with an [Interaction](https://www.notion.so/Interaction-8cd3ac6643454
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/99c6f0f4-001c-4ae5-b500-9307dfc4113f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T173218Z&X-Amz-Expires=86400&X-Amz-Signature=a5cbc1c37bddb1c5e8c22acafcf90b83f5d7756359ff29dd3be84bc8163be28c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Input 输入**
+### Input 输入
 
 A loop of pulses.
 
 一个脉冲循环
 
-**Option 选项**
+### Option 选项### 
 
 An index that represents the last pulsed item in a loop.
 
@@ -34,7 +34,7 @@ An index that represents the last pulsed item in a loop.
 
 [Option Switch 选项开关](https://www.notion.so/Option-Switch-214202427d7b4db4a407a7c0dae2f209)
 
-[Interaction 交互](https://www.notion.so/Interaction-8cd3ac66434546eda4b4bcf8173958fc)
+[Interaction 交互](./../Interaction/Interaction.md)
 
 [Loop 循环](https://www.notion.so/Loop-6cc974bf77e84e7aaf7836927011540b)
 

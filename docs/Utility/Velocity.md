@@ -14,13 +14,13 @@ Often used to measure the distance a touch has moved (ex: Drag, Scroll).
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6e5ae9f8-00d0-48d5-9431-1c43d35d12c8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T182624Z&X-Amz-Expires=86400&X-Amz-Signature=e81a677787179b83bd55e099b491daf3cc5aabaa6f885fe7825ff2b085e1214a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Input 输入**
+### Input 输入
 
 The number to measure.
 
 要测量的数字。
 
-**Output 输出**
+### Output 输出
 
 The change in the number between the current and previous frame.
 
@@ -34,4 +34,4 @@ The change in the number between the current and previous frame.
 
 [Scroll 滚动](https://www.notion.so/Scroll-2f1508bfbec742279786513c26602209)
 
-[**[+](https://origami.design/documentation/patches/builtin.math.add.html) 加**](https://www.notion.so/8f03e4d8996f49ad994e405ad7cb58d5)
+[### [+](https://origami.design/documentation/patches/builtin.math.add.html) 加### ](https://www.notion.so/8f03e4d8996f49ad994e405ad7cb58d5)

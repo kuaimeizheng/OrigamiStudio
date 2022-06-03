@@ -26,13 +26,13 @@ Right-click the patch to change the expected type of the Input loop.
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f7b7c9b1-f9a4-4974-851d-59c2158c3c64/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T173546Z&X-Amz-Expires=86400&X-Amz-Signature=4f775fb49480010f0e57e2f6627ff888ec3ccfe9ee82c53bbebef926587d75ef&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Input 输入**
+### Input 输入
 
 A loop of values.
 
 包含值的循环。
 
-**Index Loop 循环索引**
+### Index Loop 循环索引### 
 
 An index of the value to select. By default, the index is 0. Select multiple values using a loop of indices.
 
@@ -40,19 +40,19 @@ An index of the value to select. By default, the index is 0. Select multiple val
 
 使用索引循环选择多个值。
 
-**Loop 循环**
+### Loop 循环### 
 
 A value (or loop of values) from the loop at the selected index (or indices).
 
 从循环所选索引处(或多个索引处)获得的一个值(或值的循环)。
 
-**Index 索引**
+### Index 索引### 
 
 The new index or set of indices to related to the output loop.
 
 与输出循环相关的新索引或一组索引。
 
-**支持类型**
+### 支持类型
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2618d2d2-cfba-44fd-8aac-64658ebfad0b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T173556Z&X-Amz-Expires=86400&X-Amz-Signature=36777bcf190f5cb68922f006fd43ba0f2600acf3e415956f7f6f4655ef433a08&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 

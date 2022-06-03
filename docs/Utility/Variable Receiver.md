@@ -14,7 +14,7 @@ Click the patch name to select the value to receive. Click the wireless icon to 
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/23334ccf-3439-49b2-b582-990ffaa3d425/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T182518Z&X-Amz-Expires=86400&X-Amz-Signature=69173b6798252202be7a5c7f3413ea9b2f25ad5593932772eb4a7cb1f20b3449&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Output 输出**
+### Output 输出
 
 The value received from a matching broadcaster.
 

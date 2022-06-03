@@ -18,21 +18,21 @@ See [State Basics](https://www.notion.so/States-f6b16f4ab5014bbabfa37251885c1d09
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c84c92d2-ce0c-440e-b8ff-f050c9e3edb7/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T181514Z&X-Amz-Expires=86400&X-Amz-Signature=c203ef53041e85ba8b6014a0c73c312c9b5ed4fde5e0a5226c7a0ed1cfc4a298&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-**Set to 0 接口 1**
+### Set to 0 接口 1### 
 
 A pulse that sets the Option Switch to option 0.
 
 将端口接收到脉冲输出到右侧的Option端口
 
-**Set to 1 接口 2**
+### Set to 1 接口 2### 
 
 A pulse that sets the Option Switch to option 1.
 
-**Set to 2 接口 3**
+### Set to 2 接口 3### 
 
 A pulse that sets the Option Switch to option 2.
 
-**Option 输出选项索引**
+### Option 输出选项索引### 
 
 An index that represents the state of the Option Switch
 
