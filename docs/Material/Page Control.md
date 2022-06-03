@@ -22,7 +22,7 @@ The number of page control dots.
 
 页面控制点的数量。
 
-### Selected Index 选中索引### 
+### Selected Index 选中索引
 
 The currently selected page control dot, starting at 0.
 
@@ -36,7 +36,7 @@ The position to display the page control.
 
 ### Anchor 锚点
 
-The anchor point to position the page control relative to. See [Coordinates](https://www.notion.so/Coordinates-bd835085db7c48e49e00a66e5e44caf2) for more information. 相对于定位页面控件的锚点。有关详细信息，请参阅坐标。
+The anchor point to position the page control relative to. See [Coordinates 坐标](./../Concepts/Coordinates.md) for more information. 相对于定位页面控件的锚点。有关详细信息，请参阅坐标。
 
 ### Opacity 不透明度
 
@@ -60,30 +60,30 @@ The color of the unselected page control dots.
 
 ### Related Patches 相关模块
 
-[Option Sender 选项发送器](https://www.notion.so/Option-Sender-d36296ca4f44472094031e55ef7546ce)
+[Option Sender 选项发送器](./../Utility/Option%20Sender.md)
 
-[Option Switch 选项开关](https://www.notion.so/Option-Switch-214202427d7b4db4a407a7c0dae2f209)
+[Option Switch 选项开关](./../Utility/Option%20Switch.md)
 
-[Scroll 滚动](https://www.notion.so/Scroll-2f1508bfbec742279786513c26602209)
+[Scroll 滚动](./../Interaction/Scroll.md)
 
-[Scroll Settings 滚动设置](https://www.notion.so/Scroll-Settings-f02d6e63775f43b1a74337b9611b029a)
+[Scroll Settings 滚动设置](./../Interaction/Scroll%20Settings.md)
 
 ------
 
 ### Related Layers 相关图层
 
-[Alert View 警示框](https://www.notion.so/Alert-View-82a7c414b0c04e489c7efe4bea7a239d)
+[Alert View 警示框](./Alert%20View.md)
 
-[Checkbox 复选框](https://www.notion.so/Checkbox-3b26d11b40fe4fd6b4331fa09afc1b47)
+[Checkbox 复选框](./Checkbox.md)
 
-[Fake Keyboard 模拟键盘](https://www.notion.so/Fake-Keyboard-3feb346590de4ff3822b6079c7dc17b9)
+[Fake Keyboard 模拟键盘](./Fake%20Keyboard.md)
 
-[Circular Progress 环形进度](https://www.notion.so/Circular-Progress-df848ba8986b4983aaa59dbf7c05faae)
+[Circular Progress 环形进度](./Circular%20Progress.md)
 
-[Screen 屏幕](https://www.notion.so/Screen-a0d1e5fd463540a6b93c635a9706cab2)
+[Screen 屏幕](./Screen.md)
 
-[Status Bar 状态栏](https://www.notion.so/Status-Bar-c2583cf542a241949665528cff2c5031)
+[Status Bar 状态栏](./Status%20bar.md)
 
-[Switch 开关](https://www.notion.so/Switch-4171567de6384966b26842c68b41155d)
+[Switch 开关](./Switch.md)
 
-[Text Field 文本输入框](https://www.notion.so/Text-Field-4a2ab8b08c3a49d19b19e4f715dedf41)
+[Text Field 文本输入框](./Text%20Field.md)

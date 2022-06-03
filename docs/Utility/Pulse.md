@@ -36,7 +36,7 @@ A pulse that is output when the input turns off.
 
 ### Related Patches 相关模块
 
-[Repeating Animation 重复动画](https://www.notion.so/Repeating-Animation-ca27da5b351a41b085023483915a3503)
+[Repeating Animation 重复动画](./../Animation/Repeating%20Animation.md)
 
 [Switch 开关](https://www.notion.so/Switch-bd684625ec8b4aaa9ff9b5ae3e396e86)
 

@@ -78,7 +78,7 @@ The display name shows in the Device picker menu in Studio. It can be changed af
 
 名称显示在 Studio 的设备选择菜单中。它可以在之后更改，因为它没有保存在合成中。
 
-### ### `screenSize` 屏幕尺寸### 
+### ### `screenSize` 屏幕尺寸
 
 Type: Array of 2 numbers, Required
 
@@ -90,7 +90,7 @@ This is exposed to compositions via the Device Info port “Screen Size”
 
 通过设备信息的“屏幕大小”端口呈现给合成。
 
-### ### `screenScale` 屏幕倍数### 
+### ### `screenScale` 屏幕倍数
 
 Type: Number, Required
 
@@ -180,7 +180,7 @@ How much to offset the device image from the screen
 
 设备图像相对于屏幕偏移多少
 
-### ### `deviceImageScale` 设备图片缩放### 
+### ### `deviceImageScale` 设备图片缩放
 
 Type: Number, Required if deviceImages is used
 
@@ -208,7 +208,7 @@ How much to offset the hand image from the device image
 
 手部图像与设备图像的偏移量
 
-### ### `handsImageScale` 手势图片缩放### 
+### ### `handsImageScale` 手势图片缩放
 
 Type: Float, Optional
 

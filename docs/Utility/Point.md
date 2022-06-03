@@ -22,7 +22,7 @@ A number that represents the vertical Y value.
 
 一个数值，表示垂直位置的Y值。
 
-### Output### 
+### Output
 
 A point with 2 dimensions.
 

@@ -22,7 +22,7 @@ The start value of the new range.
 
 新范围的开始值。
 
-### Middle 中间### 
+### Middle 中间
 
 The middle value of the new range.
 
@@ -46,7 +46,7 @@ The converted value.
 
 [Pop Animation 流行动画](https://www.notion.so/Pop-Animation-fa14e93b7f1a480f933420a19fa15fad)
 
-[Classic Animation 经典动画](https://www.notion.so/Classic-Animation-8996317e957c4b8893a175bd266112e5)
+[Classic Animation 经典动画](./../Animation/Classic%20Animation.md)
 
 [Transition 过渡](https://www.notion.so/Transition-105402795ee34baea7dd7a6b4bb251cc)
 

@@ -30,7 +30,7 @@ The path to draw. Add a shape patch like Rectangle, Triangle, Oval, or Union of 
 
 ### Position 位置
 
-The position to display the layer. Use [Point 3D](https://www.notion.so/Point-3D-6d2c3b3df3f74659ae0d647876ce3aa9) to set Z position.
+The position to display the layer. Use [Point 3D](./../Utility/Point%203D.md) to set Z position.
 
 显示图层的位置。使用 Point 3D 设置 Z 位置。
 
@@ -60,7 +60,7 @@ The opacity of the shadow. By default, the opacity is 0, which disables the shad
 
 阴影的不透明度。 默认值为0，不显示阴影。
 
-### Shadow Radius 阴影半径### 
+### Shadow Radius 阴影半径
 
 The blur radius of the shadow.
 
@@ -102,7 +102,7 @@ A number from 0 to 1 that represents the end of the stroke.
 
 [Rounded Rectangle 圆角矩形](https://www.notion.so/Rounded-Rectangle-682f601349ac4e8985eb9b70c98792ca)
 
-[Oval 椭圆形](https://www.notion.so/Oval-a93bcffdb9d94ba1a4dbd968ba185a87)
+[Oval 椭圆形](./../Shapes/Oval.md)
 
 [Union 合并](https://www.notion.so/Union-25b8641484f545799ac0f5e2fd48620d)
 
@@ -112,6 +112,6 @@ A number from 0 to 1 that represents the end of the stroke.
 
 ### Related Layers 相关图层
 
-[Oval 椭圆形](https://www.notion.so/Oval-a93bcffdb9d94ba1a4dbd968ba185a87)
+[Oval 椭圆形](./../Shapes/Oval.md)
 
 [Rectangle 矩形](https://www.notion.so/Rectangle-d4f77c73db8f4c9393d1a4616cd27912)

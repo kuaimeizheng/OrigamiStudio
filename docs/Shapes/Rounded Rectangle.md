@@ -16,13 +16,13 @@ The position of the rounded rectangle.
 
 圆角矩形的位置。
 
-### Size 尺寸### 
+### Size 尺寸
 
 The size of the rounded rectangle.
 
 圆角矩形尺寸。
 
-### Radius 圆角### 
+### Radius 圆角
 
 The corner radius of the rounded rectangle.
 

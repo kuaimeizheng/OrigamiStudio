@@ -30,9 +30,9 @@ A number that represents the X dimension of the triangle.
 
 ### Related Patches 相关模块
 
-[Arctangent 反正切函数](https://www.notion.so/Arctangent-6c99112ce29a40f4a4a24b813d95e3fd)
+[Arctangent 反正切函数](./Arctangent.md)
 
-[Sine 正弦](https://www.notion.so/Sine-a84bfb743fc84edea3071a388051ecb5)
+[Sine 正弦](./Sine.md)
 
 
 

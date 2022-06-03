@@ -16,13 +16,13 @@ The position of the oval.
 
 椭圆形的位置，
 
-### Size 尺寸### 
+### Size 尺寸
 
 The size of the oval.
 
 椭圆形的尺寸。
 
-### Shape### 
+### Shape
 
 The oval shape. Connect to a [Shape Layer](https://www.notion.so/Shape-6381402c7a90468d97365c58ab562ea1).
 

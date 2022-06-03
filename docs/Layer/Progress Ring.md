@@ -22,7 +22,7 @@ A progress value from 0 to 1 that controls how much of the progress ring is fill
 
 一个从 0 到 1 的进度值，用于控制进度环的进度。
 
-### Thickness 粗细### 
+### Thickness 粗细
 
 A number that represents the thickness of the progress ring, in points.
 
@@ -40,7 +40,7 @@ The color of the background part of the ring.
 
 圆环中背景部分的颜色。
 
-### Radius 圆角### 
+### Radius 圆角
 
 A number that represents the radius of the ring, in points.
 
@@ -54,7 +54,7 @@ The position of the progress ring.
 
 ### Anchor 锚点
 
-The anchor point to position the layer relative to. See [Coordinates](https://www.notion.so/Coordinates-bd835085db7c48e49e00a66e5e44caf2) for more information.
+The anchor point to position the layer relative to. See [Coordinates 坐标](./../Concepts/Coordinates.md) for more information.
 
 相对于定位图层的锚点。有关详细信息，请参阅坐标。
 
@@ -70,7 +70,7 @@ The rotation of the progress ring.
 
 进度环的旋转。
 
-### Scale 缩放### 
+### Scale 缩放
 
 The scale of the progress ring.
 
@@ -78,6 +78,6 @@ The scale of the progress ring.
 
 ### Pivot 轴心点
 
-The pivot to rotate and scale the layer about. See [Coordinates](https://www.notion.so/Coordinates-bd835085db7c48e49e00a66e5e44caf2) for more information.
+The pivot to rotate and scale the layer about. See [Coordinates 坐标](./../Concepts/Coordinates.md) for more information.
 
 旋转和缩放图层的轴心点。有关详细信息，请参阅坐标。

@@ -28,7 +28,7 @@ A boolean that is true when the phone, tablet, or computer has rotation informat
 
 一个布尔值，表示当手机、平板、电脑有旋转信息时为真。
 
-### Rotation Rate 旋转速率### 
+### Rotation Rate 旋转速率
 
 A point 3d that represents the rotation rate around the X, Y and Z axes. Use [Velocity](./../Utility/Velocity.md) to calculate total rotation over time.
 

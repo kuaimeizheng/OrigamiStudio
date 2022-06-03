@@ -70,16 +70,16 @@ Each port has a different type of information it can receive — the important t
 
 每个端口都有它可以接收的不同类型的信息——Origami 中使用的常用值类型包括：
 
-- ### Number### : An integer or decimal.
+- ### Number: An integer or decimal.
 - ### Boolean### : A boolean value, which can have two possible values (ex: true/false, yes/no, on/off, 0/1). Boolean ports are often labeled On/Off, and the On value is represented with a checkmark. Similar to programming, a boolean can be converted to a number 0 (off) or 1 (on) when passing values between patches.
-- ### Text### : Any text string.
-- ### Image### : Any image that you drag or paste.
+- ### Text: Any text string.
+- ### Image: Any image that you drag or paste.
 - ### Video### : Any video that you drag or paste.
 - ### Sound### : Any sound that you drag or paste.
-- ### Color### : Any RGB or HSL color.
+- ### Color: Any RGB or HSL color.
 - ### IndeX: Any non-negative, integer (ex: 0, 1, 2)
 - ### JSON Data### : Any number of values of any type in JSON format. JSON (JavaScript Object Notation) is a common format for storing and exchanging data.
-- ### Point### : A value that represents numbers in 2D, 3D, or 4D. Points can represent any set of X, Y, Z values (ex: Position X, Y, Z; Rotation X, Y, Z).
+- ### Point: A value that represents numbers in 2D, 3D, or 4D. Points can represent any set of X, Y, Z values (ex: Position X, Y, Z; Rotation X, Y, Z).
 - ### 值：整数或小数。
 - ### 布尔值：一个布尔值，可以有两个可能的值（例如：真/假、是/否、开/关、0/1）。布尔值的端口通常标记为 开/关，并且 打开 时用复选框的标记表示。与编程类似，在模块之间传递值时，布尔值可以转换为数字 0（关闭）或 1（打开）
 - ### 文本：任何文本字符串。
@@ -87,9 +87,9 @@ Each port has a different type of information it can receive — the important t
 - ### 视频### ：您拖动或粘贴的视频。
 - ### 声音### ：您拖动或粘贴的声音。
 - ### 颜色：任何RGB或HSL颜色。
-- ### 索引### ：任何非负整数（例如：0、1、2）
-- ### JSON数据### ：JSON 格式的任意类型和数量的值。JSON（JavaScript Object Notation）是一种用于存储和交换数据的通用格式。
-- ### Point### ：表示2D、3D或4D的数值。点可以表示任意一组 X, Y, Z 值(例如:位置 X, Y, Z; 旋转 X, Y, Z)。
+- ### 索引：任何非负整数（例如：0、1、2）
+- ### JSON数据：JSON 格式的任意类型和数量的值。JSON（JavaScript Object Notation）是一种用于存储和交换数据的通用格式。
+- ### Point：表示2D、3D或4D的数值。点可以表示任意一组 X, Y, Z 值(例如:位置 X, Y, Z; 旋转 X, Y, Z)。
 
 Some patches can change the number of ports it has or the type of value it supports. Right-click any patch to see the options available.
 
@@ -97,7 +97,7 @@ Some patches can change the number of ports it has or the type of value it suppo
 
 # Cables 连线
 
-Cables pass information (values) from patch to patch via their ports. Think of values like water, and cables as the pipes that move it from place to place. The values flow in one direction: ### left-to-right from an output to an input### .
+Cables pass information (values) from patch to patch via their ports. Think of values like water, and cables as the pipes that move it from place to place. The values flow in one direction: ### left-to-right from an output to an input.
 
 连线通过端口将信息(值)从一个模块传递到另一个模块。把信息(值)想象成水，把连线看作是把它从一个地方连接到另一个地方的管道。这些信息(值)按照特定的方向流动: 从输出到输入，从左到右。
 

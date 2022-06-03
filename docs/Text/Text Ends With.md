@@ -40,7 +40,7 @@ A boolean that is true if the text ends with the suffix.
 
 [Trim Text 修剪文本](https://www.notion.so/Trim-Text-1c15e6b94a6541b396788d4a55fba679)
 
-[Equals Exactly 完全等于](https://www.notion.so/Equals-Exactly-c31ca42d3bec4c55a053fcffa3a05d6e)
+[Equals Exactly 完全等于](./Equals%20Exactly.md)
 
 ------
 

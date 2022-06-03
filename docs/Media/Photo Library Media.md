@@ -28,13 +28,13 @@ The corresponding video if the photo media asset is video type or an empty video
 
 如果照片媒体资产为视频类型，则为对应的视频；如果资产为图像，则为空视频。
 
-### Natural Size 原始尺寸### 
+### Natural Size 原始尺寸
 
 The original size of the photo media asset.
 
 照片媒体资产的原始大小。
 
-### isPlayable 可播放### 
+### isPlayable 可播放
 
 A boolean value representing if the photo media asset can be played. It returns true only for videos.
 

@@ -16,13 +16,13 @@ The layer to display information for.
 
 要显示其信息的图层。
 
-### Duration 持续时间### 
+### Duration 持续时间
 
 The length of the video, in seconds.
 
 视频的长度，以秒为单位。
 
-### Current Time 当前时间### 
+### Current Time 当前时间
 
 The elapsed time of the video, in seconds.
 

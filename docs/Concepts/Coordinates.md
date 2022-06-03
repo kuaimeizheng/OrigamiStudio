@@ -8,7 +8,7 @@ Origami Studio use pt/dp coordinates instead of pixels. Specify position or size
 
 Origami Studio使用pt / dp单位为坐标，不是像素。 用pt / dp指定位置和大小 (板栗：设计图的1倍值，Sketch里的内置的设备的尺寸) ，Origami将以合适的密度显示图层。 例如，iPhone 7的点数为375x667 (例如：设计的1倍图) ，但像素为750x1334 (例如：设计的2倍图) 。
 
-(例如：图层属性窗口中有两种坐标，一种是锚点Anchor### 坐标，用于对象的定位和对齐方式；另一种的图层的中心点Pivot### 坐标，像Ps中旋转时会有一个中心点，旋转时以那个点为圆心)
+(例如：图层属性窗口中有两种坐标，一种是锚点Anchor坐标，用于对象的定位和对齐方式；另一种的图层的中心点Pivot坐标，像Ps中旋转时会有一个中心点，旋转时以那个点为圆心)
 
 By default, the origin (x: 0, y: 0) is in the center of the device screen. On the X axis, coordinates increase as you move right, and decrease as you move left. On the Y axis, coordinates increase as you move down, and decrease as you move up.
 

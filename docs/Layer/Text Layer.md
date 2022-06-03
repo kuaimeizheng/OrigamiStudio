@@ -42,19 +42,19 @@ The color of the layer.
 
 ### Position 位置
 
-The position to display the layer. Use [Point 3D](https://www.notion.so/Point-3D-6d2c3b3df3f74659ae0d647876ce3aa9) to set Z position.
+The position to display the layer. Use [Point 3D](./../Utility/Point%203D.md) to set Z position.
 
 位置。点击属性名称 ### Position可以显示3个轴向并设置值。
 
 ### Anchor 锚点
 
-The anchor point to position the layer relative to. Determines text alignment See [Coordinates](https://origami.design/documentation/concepts/Coordinates.html) for more information.
+The anchor point to position the layer relative to. Determines text alignment See [Coordinates](./../Concepts/Coordinates.md) for more information.
 
 相对于图层定位的锚点。确定文本对齐方式。
 
-详细信息阅读[Coordinates 坐标](https://www.notion.so/Coordinates-bd835085db7c48e49e00a66e5e44caf2)。
+详细信息阅读[Coordinates 坐标](./../Concepts/Coordinates.md)。
 
-### Size 尺寸### 
+### Size 尺寸
 
 The size of the layer. Any text overflowing the width will be wrapped to subsequent lines.
 
@@ -74,15 +74,15 @@ The scale of the layer.
 
 ### Rotation 角度
 
-The rotation of the layer. Use [Point 3D](https://origami.design/documentation/patches/builtin.point3D.html) to set X or Y rotations.
+The rotation of the layer. Use [Point 3D](./../Utility/Point%203D.md) to set X or Y rotations.
 
-图层的角度。使用 [Point 3D](https://www.notion.so/Point-3D-6d2c3b3df3f74659ae0d647876ce3aa9) 模块设置Z、Y轴角度。
+图层的角度。使用 [Point 3D](./../Utility/Point%203D.md) 模块设置Z、Y轴角度。
 
 ### Pivot 轴心点
 
-The pivot to rotate and scale the layer about. See [Coordinates](https://origami.design/documentation/concepts/Coordinates.html) for more information.
+The pivot to rotate and scale the layer about. See [Coordinates](./../Concepts/Coordinates.md) for more information.
 
-图层缩放、旋转、移动时的中心点或初始点。详细信息阅读[Coordinates 坐标](https://www.notion.so/Coordinates-bd835085db7c48e49e00a66e5e44caf2)。
+图层缩放、旋转、移动时的中心点或初始点。详细信息阅读[Coordinates 坐标](./../Concepts/Coordinates.md)。
 
 阴影：
 
@@ -98,7 +98,7 @@ The opacity of the shadow. By default, the opacity is 0, which disables the shad
 
 阴影的不透明度。 默认值为0，不显示阴影。
 
-### Shadow Radius 阴影半径### 
+### Shadow Radius 阴影半径
 
 The blur radius of the shadow.
 
@@ -132,14 +132,14 @@ A number that represents the vertical space between paragraphs, in points.
 
 ### Related Patches 相关模块
 
-[Text Size 文本大小](https://www.notion.so/Text-Size-72cf71974e544a7f9b2fc9fb5de9143e)
+[Text Size 文本大小](./../Text/Text%20Size.md)
 
-[Text Length 文本长短](https://www.notion.so/Text-Length-4f520beee1fd463aa41737d2afd76ae2)
+[Text Length 文本长短](./../Text/Text%20Length.md)
 
-[Text Style 文本样式](https://www.notion.so/Text-Style-971a1442321d4e04a09ba0219f755ef6)
+[Text Style 文本样式](./../Text/Text%20Style.md)
 
 ------
 
 ### Related Layers 相关图层
 
-[Text Field 文本输入框](./Text%20Field.md)
+[Text Field 文本输入框](./../iOS/Text%20Field.md)

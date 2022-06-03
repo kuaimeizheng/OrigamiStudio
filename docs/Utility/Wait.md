@@ -18,7 +18,7 @@ A pulse that starts the timer.
 
 启动定时器的脉冲。
 
-### Duration 持续时间### 
+### Duration 持续时间
 
 The time to wait.
 

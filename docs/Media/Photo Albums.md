@@ -21,13 +21,13 @@ The criteria by which the Albums output is going to be sorted. The options are:
 3. Start Date. (This is based on the starting date of its contents, it is not the creation date of the Album) 开始日期。(这是基于其内容的开始日期，而不是相册的创建日期)
 4. End Date. 结束日期
 
-### Order 顺序### 
+### Order 顺序
 
 Works together with Sort By to determine if the list should be in Ascending or Descending order.
 
 与 Sort By 一起使用以确定列表应该按升序还是降序排列。
 
-### Index 索引### 
+### Index 索引
 
 A loop of photo media indices.
 

@@ -44,7 +44,7 @@ The group of patches above will be replaced by a new single patch component name
 
 ### ### Editing Patch Components 编辑模块组件### 
 
-To enter a patch group, double-click it or press ⌥↓. To leave it and go back, press ⌥↑. Menu items for entering and leaving a patch group are ### Component > Enter Componentand ### Component > Exit Component### .
+To enter a patch group, double-click it or press ⌥↓. To leave it and go back, press ⌥↑. Menu items for entering and leaving a patch group are ### Component > Enter Componentand ### Component > Exit Component.
 
 双击或按⌥↓ 进入模块组。按 ⌥↑ 离开并返回。进入和离开模块组的菜单项为“### Component 组件 > Enter Component 进入组件### ”和“### Component 组件 > Exit Component 退出组件### ”。
 
@@ -58,7 +58,7 @@ Editing Patch Components 编辑模块组件
 
 # Creating Layer Components 创建图层组件
 
-To create a component, select the patches from the Patch Editor and/or the layers from the Layers Panel/Canvas that you would like to be included in your component. Then, with those selected, from the menu bar click on ### Component > Group Into Component⌃⌘G. Choose a name for your component then click ### Create### .
+To create a component, select the patches from the Patch Editor and/or the layers from the Layers Panel/Canvas that you would like to be included in your component. Then, with those selected, from the menu bar click on ### Component > Group Into Component⌃⌘G. Choose a name for your component then click ### Create.
 
 要创建组件，从模块编辑器中选择模块以及从图层面板中选择你想要设置为组件的图层。然后，在菜单栏中单击 ### Component 组件 > Group Into Component 组为组件 ⌃⌘G### 。为组件输入一个名称，然后单击 Create 创建。
 
@@ -86,7 +86,7 @@ Once you enter the component you will see some patches that show the published i
 
 进入组件后，你会看到一些模块，显示该组件的已发布的输入和输出。发布的属性是组件的一部分，然后可以从主视图中进行编辑。你还会看到你在创建组件时添加的模块和图层。
 
-Exit the component by clicking on ### Components > Exit Component### ⌃⌥↑or using the back arrow at the top of the Layer List.
+Exit the component by clicking on ### Components > Exit Component⌃⌥↑or using the back arrow at the top of the Layer List.
 
 通过点击 ### Components 组件 > Exit component 退出组件 ⌃⌥↑或使用层列表顶部的返回箭头退出组件。
 
@@ -144,7 +144,7 @@ Custom components that have been saved to the user’s library and available in 
 
 # Patch Library 组件库
 
-If you have a patch component that you use over and over, it may make sense to add it to your patch library. Select the patch component and choose ### Component > Add to User Library⌘⌥L. Reveal the patch library folder by choosing ### Component > Show Patch Folder### .
+If you have a patch component that you use over and over, it may make sense to add it to your patch library. Select the patch component and choose ### Component > Add to User Library⌘⌥L. Reveal the patch library folder by choosing ### Component > Show Patch Folder.
 
 如果您有一个重复使用的模块组件，就建议将其添加到您的模块库中。选择模块组件，然后选择 ### Component 组件 > Add to User Library 添加到用户库 ⌘⌥L。选择 ### Component 组件”> Show Patch Folder 显示模块文件夹来显示在电脑上的模块库文件夹。
 

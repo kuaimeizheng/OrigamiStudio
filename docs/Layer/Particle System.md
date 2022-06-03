@@ -24,7 +24,7 @@ The opacity of the layer.
 
 ### Position 位置
 
-The position to display the layer. Use [Point 3D](https://www.notion.so/Point-3D-6d2c3b3df3f74659ae0d647876ce3aa9) to set Z position.
+The position to display the layer. Use [Point 3D](./../Utility/Point%203D.md) to set Z position.
 
 显示图层的位置。使用 Point 3D 设置 Z 位置。
 
@@ -50,7 +50,7 @@ The duration a particle lasts, in seconds.
 
 ![4055792-4f59736d715796d4.gif](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/224ff8c2-e109-4d02-bfc5-80a834975775/4055792-4f59736d715796d4.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185449Z&X-Amz-Expires=86400&X-Amz-Signature=268038f6aa1425f3ea2ff30daa2ceb84be6e035e263ca1636cbaf72b7c31479d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%224055792-4f59736d715796d4.gif%22&x-id=GetObject)
 
-### Birthrate 出生率### 
+### Birthrate 出生率
 
 The number of particles generated.
 
@@ -142,4 +142,4 @@ An image that replaces the default circle as the particle.
 
 ### Related Patches 相关模块
 
-[Image 图片](https://www.notion.so/Image-826d9097aca041e8a8aa1a102e87b9d8)
+[Image 图片](./Image%20Layer.md)

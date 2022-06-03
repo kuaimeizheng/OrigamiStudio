@@ -32,7 +32,7 @@ A loop of values.
 
 包含值的循环。
 
-### Index Loop 循环索引### 
+### Index Loop 循环索引
 
 An index of the value to select. By default, the index is 0. Select multiple values using a loop of indices.
 
@@ -40,13 +40,13 @@ An index of the value to select. By default, the index is 0. Select multiple val
 
 使用索引循环选择多个值。
 
-### Loop 循环### 
+### Loop 循环
 
 A value (or loop of values) from the loop at the selected index (or indices).
 
 从循环所选索引处(或多个索引处)获得的一个值(或值的循环)。
 
-### Index 索引### 
+### Index 索引
 
 The new index or set of indices to related to the output loop.
 
@@ -60,10 +60,10 @@ The new index or set of indices to related to the output loop.
 
 ### Related Patches 相关模块
 
-[Loop 循环](https://www.notion.so/Loop-6cc974bf77e84e7aaf7836927011540b)
+[Loop 循环](./Loop.md)
 
-[Loop Builder 循环生成器](https://www.notion.so/Loop-Builder-64d346e189494fa9b48050aac8eb8eff)
+[Loop Builder 循环生成器](./Loop%20Builder.md)
 
-[Loop Filter 循环筛选](https://www.notion.so/Loop-Filter-8ea17b26dfa242f6a78d8c4e23f0f69f)
+[Loop Filter 循环筛选](./Loop%20Filter.md)
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4e10ce59-8d47-48a6-bf49-19d5d631b54a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T173605Z&X-Amz-Expires=86400&X-Amz-Signature=b348350b67373f254a8368a6689d4d5b8d676805f6987cc1f2fc9d3d13279138&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

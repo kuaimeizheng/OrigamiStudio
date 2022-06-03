@@ -28,7 +28,7 @@ An Image or Video layer to search for faces.
 
 用于搜索人脸的图像或视频图层。
 
-### Max Faces 最大人脸数### 
+### Max Faces 最大人脸数
 
 Limit the number of faces.
 

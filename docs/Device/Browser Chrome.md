@@ -16,7 +16,7 @@ A boolean that is true when the viewer window is styled like a web browser.
 
 一个布尔值，当查看器窗口样式类似于web浏览器时为真。
 
-### URL 链接### 
+### URL 链接
 
 The URL to display in the address bar.
 

@@ -24,7 +24,7 @@ The position to display the indicator.
 
 ### Anchor 锚点
 
-The anchor point to position the indicator relative to. See [Coordinates](https://www.notion.so/Coordinates-bd835085db7c48e49e00a66e5e44caf2) for more information.
+The anchor point to position the indicator relative to. See [Coordinates 坐标](./../Concepts/Coordinates.md) for more information.
 
 定位指示器所相对的锚点。有关更多信息，请参阅坐标。
 

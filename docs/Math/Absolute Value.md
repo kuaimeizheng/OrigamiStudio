@@ -30,6 +30,6 @@ The input as a positive value.
 
 ### Related Patches 相关模块
 
-[### [−](https://origami.design/documentation/patches/builtin.math.sub.html) 减### ](https://www.notion.so/0afa370ec4654441a88e6ee0597a5b24)
+[− 减](./-.md)
 
-[### [×](https://origami.design/documentation/patches/builtin.math.mul.html) 乘### ](https://www.notion.so/ccedb0e308684762aad3fcd8545a8c9d)
+[x 乘](./x.md)

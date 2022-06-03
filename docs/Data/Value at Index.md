@@ -10,13 +10,13 @@ Get a value from a JSON array. Use a [Splitter](../Utility/Splitter) to cast it 
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/af6061f5-a41b-4b5b-a012-038641e3dac3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T164954Z&X-Amz-Expires=86400&X-Amz-Signature=a61c301f4b8fcbc6ba768e9f5e8fee6f33a585e22fa84a4ce2771d6eb116857a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-### Array 数组### 
+### Array 数组
 
 A JSON array to get a value from.
 
 要从中获取值的 JSON 数组。
 
-### Index 索引### 
+### Index 索引
 
 The index (starting at 0) of the value in the array.
 

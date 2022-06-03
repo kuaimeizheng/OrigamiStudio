@@ -16,7 +16,7 @@ Example input - edit patch settings to replace this with your desired input name
 
 示例输入 - 编辑模块设置以将其替换为您想要的输入名称。
 
-### Bar### 
+### Bar
 
 Example input - edit patch settings to replace this with your desired input name.
 

@@ -14,13 +14,13 @@ Right-click to change the type (image, JSON, or text) of the request.
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/098d2a8f-93ef-492e-93ae-45c0c4489920/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T164737Z&X-Amz-Expires=86400&X-Amz-Signature=12a4b3d390163f38e222111e50a9a3a32aa476aa31542ed81ada5259d2b8b308&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-### URL 链接### 
+### URL 链接
 
 An HTTP or HTTPS URL string to query. Origami Live for iOS only supports HTTPS URL’s.
 
 要查询的 HTTP 或 HTTPS URL 字符串。 Origami Live for iOS 仅支持 HTTPS URL。
 
-### URL Parameters 链接参数### 
+### URL Parameters 链接参数
 
 A JSON object for any parameters to include with the request.
 

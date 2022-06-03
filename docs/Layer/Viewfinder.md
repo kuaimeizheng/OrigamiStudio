@@ -22,7 +22,7 @@ The camera to use: front-facing or back-facing.
 
 要使用的相机：前置或后置。
 
-### Freeze 冻结### 
+### Freeze 冻结
 
 A boolean that is true when the camera is frozen on a shot. Useful when prototyping taking a photo.
 
@@ -30,17 +30,17 @@ A boolean that is true when the camera is frozen on a shot. Useful when prototyp
 
 ### Position 位置
 
-The position to display the layer. Use [Point 3D](https://www.notion.so/Point-3D-6d2c3b3df3f74659ae0d647876ce3aa9) to set Z position.
+The position to display the layer. Use [Point 3D](./../Utility/Point%203D.md) to set Z position.
 
 位置。点击属性名称 ### Position可以显示3个轴向并设置值。
 
 ### Anchor 锚点
 
-The anchor point to position the layer relative to. See [Coordinates](https://www.notion.so/Coordinates-bd835085db7c48e49e00a66e5e44caf2) for more information.
+The anchor point to position the layer relative to. See [Coordinates 坐标](./../Concepts/Coordinates.md) for more information.
 
-组位于屏幕中的锚点，详细信息阅读[Coordinates 坐标](https://www.notion.so/Coordinates-bd835085db7c48e49e00a66e5e44caf2)。
+组位于屏幕中的锚点，详细信息阅读[Coordinates 坐标](./../Concepts/Coordinates.md)。
 
-### Size 尺寸### 
+### Size 尺寸
 
 The size of the layer.
 
@@ -60,15 +60,15 @@ The scale of the layer.
 
 ### Rotation 角度
 
-The rotation of the layer. Use [Point 3D](https://www.notion.so/Point-3D-6d2c3b3df3f74659ae0d647876ce3aa9) to set X or Y rotations.
+The rotation of the layer. Use [Point 3D](./../Utility/Point%203D.md) to set X or Y rotations.
 
 图层的角度。点击属性名称 ### Rotation可以显示3个角度并设置值。
 
 ### Pivot 轴心点
 
-The pivot to rotate and scale the layer about. See [Coordinates](https://www.notion.so/Coordinates-bd835085db7c48e49e00a66e5e44caf2) for more information.
+The pivot to rotate and scale the layer about. See [Coordinates 坐标](./../Concepts/Coordinates.md) for more information.
 
-图层缩放、旋转、移动时的中心点或初始点。详细信息阅读[Coordinates 坐标](https://www.notion.so/Coordinates-bd835085db7c48e49e00a66e5e44caf2)。
+图层缩放、旋转、移动时的中心点或初始点。详细信息阅读[Coordinates 坐标](./../Concepts/Coordinates.md)。
 
 ### Content Mode 内容模式
 
@@ -80,4 +80,4 @@ The image sizing behavior: fit, fill, stretch.
 
 ### Related Patches 相关模块
 
-[Camera 摄像头](https://www.notion.so/Camera-9c7180dffcf04adb954c5c9980b953e1)
+[Camera 摄像头](./../Device/Camera.md)

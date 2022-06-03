@@ -18,7 +18,7 @@ The value to delay.
 
 要延迟的值连接到这里。
 
-### Duration 持续时间### 
+### Duration 持续时间
 
 The number of seconds to wait.
 

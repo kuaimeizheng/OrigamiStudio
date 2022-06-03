@@ -16,7 +16,7 @@ A pulse that triggers the URL open.
 
 一个脉冲，表示触发 URL 的打开。
 
-### URL 链接### 
+### URL 链接
 
 A URL specifying the location to open. It can start with HTTP://, HTTPS:// or a custom app scheme like fb://
 

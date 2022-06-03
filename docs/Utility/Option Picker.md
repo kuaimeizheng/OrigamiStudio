@@ -36,7 +36,7 @@ A value that represents option 1.
 
 一个值，表示选项 1.
 
-### Output### 
+### Output
 
 The picked value.
 

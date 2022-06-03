@@ -118,7 +118,7 @@ The loop passed to the “Loop the Component” will create multiple instances o
 
 https://origami.design/public/images/videos/loop_of_loops.mp4
 
-### ### Nested arrays to Loops of Loops 嵌套数组到循环的循环### 
+### ### Nested arrays to Loops of Loops 嵌套数组到循环的循环
 
 Another way of building looped components is using the [Loop Over Array](../Loops/Loop%20Over%20Array) patch with a nested array. This is useful for working with data from a web API that includes multidimensional arrays.
 
@@ -144,7 +144,7 @@ An example of this is adding a tap Output to the Looped Component shown earlier 
 
 Looped Component Outputs 循环组件输出
 
-### ### Manipulating Loops 操作循环### 
+### ### Manipulating Loops 操作循环
 
 [Loop Filter](../Loops/Loop%20Filter) and [Loop Select](../Loops/Loop%20Select) are the two patches for selecting items from a loop, useful for working with the [Loop Option Switch](../Loop/Loop%20Option%20Switch) for getting the selected item in a loop.
 

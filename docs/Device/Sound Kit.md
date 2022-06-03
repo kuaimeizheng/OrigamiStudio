@@ -16,7 +16,7 @@ The sound effect to play (buttons, navigation, complete, success, error, cancel,
 
 要播放的音效（按钮、导航、完成、成功、错误、取消、通知、警报）。
 
-### Play 播放### 
+### Play 播放
 
 A pulse that plays the selected sound effect.
 

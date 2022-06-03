@@ -38,7 +38,7 @@ A number of the current volume as a percent or in decibels.
 
 当前音量的百分数或分贝数。
 
-### Waveform Data 波形数据### 
+### Waveform Data 波形数据
 
 A loop of low, mid, and high ranges of the audio output as a percent or in decibels.
 

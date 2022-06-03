@@ -14,7 +14,7 @@ Right-click to change the type of the loop and inserted value.
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a8a125dd-1b74-4239-85f4-4d1dabfae75d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T173128Z&X-Amz-Expires=86400&X-Amz-Signature=63065279eb32c000e27bd31a01e9eb53c94e26cbe10f6bce3b4b2b7cd2cd37c0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-### Loop 循环### 
+### Loop 循环
 
 A loop of to insert a value to.
 
@@ -26,7 +26,7 @@ A value to insert into the loop.
 
 要插入循环的值。
 
-### Index 索引### 
+### Index 索引
 
 A loop index to insert the value at.
 
@@ -38,13 +38,13 @@ A pulse that inserts the value into the loop.
 
 一个脉冲，表示将值插入循环。
 
-### Loop 循环### 
+### Loop 循环
 
 The resulting loop with the inserted value.
 
 带有插入值的结果循环。
 
-### Index 索引### 
+### Index 索引
 
 A loop of indices.
 
@@ -58,10 +58,10 @@ A loop of indices.
 
 ### Related Patches 相关模块
 
-[Loop Insert at End 循环结尾插入](https://www.notion.so/Loop-Insert-at-End-4c86d7dcfe2041158b9228f5a811ce9c)
+[Loop Insert at End 循环结尾插入](./Loop%20Insert%20at%20End.md)
 
-[Loop Remove 循环移除](https://www.notion.so/Loop-Remove-be83847723104a9c8d553130b28dd826)
+[Loop Remove 循环移除](./Loop%20Remove.md)
 
-[Loop Remove Last 循环末尾移除](https://www.notion.so/Loop-Remove-Last-ff12494e41924023a562477ec3e109af)
+[Loop Remove Last 循环末尾移除](./Loop%20Remove%20Last.md)
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c0ebe22c-11fd-458d-bbc3-2a65e73ef910/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T173147Z&X-Amz-Expires=86400&X-Amz-Signature=1600bc80f21bf6969c396c3b6743b189b4e9e352b043f09c7c7c01d3c7ebe8fc&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

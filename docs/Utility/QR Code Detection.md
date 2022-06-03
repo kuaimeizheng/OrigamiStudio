@@ -38,7 +38,7 @@ A Boolean value that is true when at least one QR code has been detected.
 
 一个布尔值，当至少检测到一个二维码时为真。
 
-### Message 消息### 
+### Message 消息
 
 A Loop of Texts with the messages decoded for each detected QR code.
 

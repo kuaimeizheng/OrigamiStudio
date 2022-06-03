@@ -36,6 +36,6 @@ The type of keyboard of the currently focused text field.
 
 [Text Layer 文本图层](https://www.notion.so/Text-Layer-55f5163900ed47698f1ccc1752423a88)
 
-[Text Field 文本输入框](./Text%20Field.md)
+[Text Field 文本输入框](./../iOS/Text%20Field.md)
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1b5d8de7-bdd0-4e20-a6d4-4f4f2cb1489d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180148Z&X-Amz-Expires=86400&X-Amz-Signature=e4f7557b75e5f1fb8399973fae763ba6f4849680cb7c21c71cdfe2d4867a0b5c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

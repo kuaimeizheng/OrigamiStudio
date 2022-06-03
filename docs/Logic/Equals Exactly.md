@@ -18,19 +18,19 @@ Right-click to add more values to compare, or change the type (ex: number, index
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d84f08a2-8f42-45cf-9dd6-0c7610b23a6a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T171959Z&X-Amz-Expires=86400&X-Amz-Signature=1d770abbbfa1c3bb4b56958868395588c32a0aae8e53ee9fcc85755869117e90&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-### Input### 
+### Input
 
 The base value.
 
 基础值。
 
-### Input### 
+### Input
 
 The value to compare to the base.
 
 和基础值比较的值
 
-### Output### 
+### Output
 
 A boolean that is true if the values are exactly equal to each other.
 
@@ -40,18 +40,18 @@ A boolean that is true if the values are exactly equal to each other.
 
 ### Related Patches 相关模块
 
-[And 和](https://www.notion.so/And-fe3dd6120a59454ebcd90cbf19fa03af)
+[And 和](./And.md)
 
-[Or 或](https://www.notion.so/Or-56678c7752aa4df99e3945a1ee68da69)
+[Or 或](./Or.md)
 
-[Not 非](https://www.notion.so/Not-12e7821fbf1048dcb9fc65cc80ccdd5a)
+[Not 非](./Not.md)
 
-[Greater Than 大于](https://www.notion.so/Greater-Than-1dd58751afa94e7c9805855439af4133)
+[Greater Than 大于](./Greater%20Than.md)
 
-[Greater Than or Equal 大于等于](https://www.notion.so/Greater-Than-or-Equal-a97a6966c3fc464581a31a0ff464f5ba)
+[Greater Than or Equal 大于等于](./Greater%20Than%20or%20Equal.md)
 
-[Less Than 小于](https://www.notion.so/Less-Than-e312107d39104d79912a39339e56a2ef)
+[Less Than 小于](./Less%20Than.md)
 
-[Less Than or Equal 小于等于](https://www.notion.so/Less-Than-or-Equal-9eb2808ade6c4ecb9d31c4c7d43e96d0)
+[Less Than or Equal 小于等于](./Less%20Than%20or%20Equal.md)
 
-[Equals 等于](https://www.notion.so/Equals-b52f17a2688049cca34e1bc4da763bd7)
+[Equals 等于](./Equals.md)

@@ -18,15 +18,15 @@ A boolean that is true when the layer is displayed.
 
 ### Position 位置
 
-The position to display the layer. Use [Point 3D](https://www.notion.so/Point-3D-6d2c3b3df3f74659ae0d647876ce3aa9) to set Z position.
+The position to display the layer. Use [Point 3D](./../Utility/Point%203D.md) to set Z position.
 
 图层的显示位置。使用 Point 3D 设置 Z 位置。
 
 ### Anchor 锚点
 
-The anchor point to position the layer relative to. See [Coordinates](https://www.notion.so/Coordinates-bd835085db7c48e49e00a66e5e44caf2) for more information.
+The anchor point to position the layer relative to. See [Coordinates 坐标](./../Concepts/Coordinates.md) for more information.
 
-相对于图层定位的锚点。详细信息阅读[Coordinates 坐标](https://www.notion.so/Coordinates-bd835085db7c48e49e00a66e5e44caf2)。
+相对于图层定位的锚点。详细信息阅读[Coordinates 坐标](./../Concepts/Coordinates.md)。
 
 ### Size 大小
 
@@ -48,23 +48,23 @@ The scale of the layer.
 
 ### Rotation 旋转
 
-The rotation of the layer. Use [Point 3D](https://www.notion.so/Point-3D-6d2c3b3df3f74659ae0d647876ce3aa9) to set X or Y rotations.
+The rotation of the layer. Use [Point 3D](./../Utility/Point%203D.md) to set X or Y rotations.
 
 图层的旋转。使用 Point 3D 设置 X 或 Y 旋转角度。
 
 ### Pivot 中心点
 
-The pivot to rotate and scale the layer about. See [Coordinates](https://www.notion.so/Coordinates-bd835085db7c48e49e00a66e5e44caf2) for more information.
+The pivot to rotate and scale the layer about. See [Coordinates 坐标](./../Concepts/Coordinates.md) for more information.
 
-图层缩放、旋转、移动时的中心点或初始点。详细信息阅读[Coordinates 坐标](https://www.notion.so/Coordinates-bd835085db7c48e49e00a66e5e44caf2)。
+图层缩放、旋转、移动时的中心点或初始点。详细信息阅读[Coordinates 坐标](./../Concepts/Coordinates.md)。
 
-### URL 链接### 
+### URL 链接
 
 A text string that represents the source URL of the .m3u8 video stream to play.
 
 一个文本字符串，表示要播放的.m3u8视频流的链接。
 
-### Play 播放### 
+### Play 播放
 
 A boolean that is true when the video is playing.
 
@@ -90,7 +90,7 @@ The opacity of the shadow. By default, the opacity is 0, which disables the shad
 
 阴影的不透明度。 默认值为0，不显示阴影。
 
-### Shadow Radius 阴影半径### 
+### Shadow Radius 阴影半径
 
 The blur radius of the shadow.
 
@@ -102,13 +102,13 @@ The size of the shadow relative to the size of the layer.
 
 阴影相对于图层的距离和角度。
 
-### Video Rate 视频速率### 
+### Video Rate 视频速率
 
 A number that represents the speed multiplier to play the video. 0 pauses the video. 2 plays it at twice the speed.
 
 一个数字，表示播放视频的速度速率。0暂停视频。2以两倍的速度播放。
 
-### Loop 循环### 
+### Loop 循环
 
 A boolean that is true when the video will loop to the beginning at the end.
 
@@ -124,6 +124,6 @@ A number from 0-1 that represents the loudness of the video.
 
 ### Related Patches 相关模块
 
-[Video Info 视频信息](https://www.notion.so/Video-Info-4d10e3612b784ced9bd23631b9e3a68b)
+[Video Info 视频信息](./../Utility/Video%20Info.md)
 
-[Video File 视频文件](https://www.notion.so/Video-File-460f7fd4e7db40328e354f6306ede79a)
+[Video File 视频文件](./Video%20File.md)

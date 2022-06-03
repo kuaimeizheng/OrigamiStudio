@@ -21,7 +21,7 @@ The criteria by which the Photo media output is going to be sorted. The options 
 3. Size. 大小
 4. Duration. (only available for media type video) 持续时间。（仅适用于媒体类型视频）
 
-### Order 顺序### 
+### Order 顺序
 
 Works together with Sort By to determine if the list should be in Ascending or Descending order.
 
@@ -43,7 +43,7 @@ A string that filters the output to elements that are only present in that Album
 
 一个字符串，用于过滤只出现在该专辑中的元素的输出。如果提供一个空字符串，它将带来“所有照片”从图书馆。查询相册的方法请参见“相册”
 
-### Index 索引### 
+### Index 索引
 
 A loop of photo media indices.
 

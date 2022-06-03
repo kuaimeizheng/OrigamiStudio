@@ -38,7 +38,7 @@ A value that represents option 2.
 
 表示选项1的值。
 
-### Option 选项### 
+### Option 选项
 
 The option input that the value is equal to.
 

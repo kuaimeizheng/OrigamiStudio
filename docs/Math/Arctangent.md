@@ -36,6 +36,6 @@ A number in degrees that represents the angle of the triangle.
 
 ### Related Patches 相关模块
 
-[Sine 正弦](https://www.notion.so/Sine-a84bfb743fc84edea3071a388051ecb5)
+[Sine 正弦](./Sine.md)
 
-[Cosine 余弦函数](https://www.notion.so/Cosine-d8b99358c7914410af76fa84990f9106)
+[Cosine 余弦函数](./Cosine.md)

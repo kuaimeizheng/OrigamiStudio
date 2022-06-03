@@ -26,7 +26,7 @@ The title text of the alert view.
 
 警示框的标题
 
-### Message 消息### 
+### Message 消息
 
 The message text of the alert view.
 
@@ -54,7 +54,7 @@ The button style: Default, Cancel, or Destructive.
 
 The text string for the second button.
 
-### Button 2 Style### 
+### Button 2 Style
 
 The button style: Default, Cancel, or Destructive.
 
@@ -62,7 +62,7 @@ The button style: Default, Cancel, or Destructive.
 
 The text string for the third button.
 
-### Button 3 Style### 
+### Button 3 Style
 
 The button style: Default, Cancel, or Destructive.
 
@@ -70,7 +70,7 @@ The button style: Default, Cancel, or Destructive.
 
 The text string for the fourth button.
 
-### Button 4 Style### 
+### Button 4 Style
 
 The button style: Default, Cancel, or Destructive.
 

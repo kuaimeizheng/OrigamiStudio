@@ -24,7 +24,7 @@ The opacity of the layer.
 
 ### Position 位置
 
-The position to display the layer. Use [Point 3D](https://www.notion.so/Point-3D-6d2c3b3df3f74659ae0d647876ce3aa9) to set Z position.
+The position to display the layer. Use [Point 3D](./../Utility/Point%203D.md) to set Z position.
 
 显示图层的位置。使用 Point 3D 设置 Z 位置。
 
@@ -36,13 +36,13 @@ The scale of the layer.
 
 ### Rotation 旋转
 
-The rotation of the layer. Use [Point 3D](https://www.notion.so/Point-3D-6d2c3b3df3f74659ae0d647876ce3aa9) to set X or Y rotations.
+The rotation of the layer. Use [Point 3D](./../Utility/Point%203D.md) to set X or Y rotations.
 
 图层的旋转。使用 Point 3D 设置 X 或 Y 旋转。
 
 ### Pivot 中心点
 
-The pivot to rotate and scale the layer about. See [Coordinates](https://www.notion.so/Coordinates-bd835085db7c48e49e00a66e5e44caf2) for more information.
+The pivot to rotate and scale the layer about. See [Coordinates 坐标](./../Concepts/Coordinates.md) for more information.
 
 旋转和缩放图层的中心点。有关详细信息，请参阅坐标。
 
@@ -62,4 +62,4 @@ Latitude and longitude delta spanning visible portion of the map
 
 ### Related Patches 相关模块
 
-[Location 位置](https://www.notion.so/Location-a7708eea59364bd495bd5dccb9e8c324)
+[Location 位置](./../Device/Location.md)

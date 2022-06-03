@@ -10,13 +10,13 @@ Convert a loop to an array.
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/46f2e117-7b9b-423f-96d0-64c2de505193/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T173727Z&X-Amz-Expires=86400&X-Amz-Signature=a6b6b952c05d090bbd116d29eda69c8227ca55eb39907f3b2f3187cf8dde5994&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-### Loop 循环### 
+### Loop 循环
 
 A loop of values.
 
 包含值的循环
 
-### Array 数组### 
+### Array 数组
 
 A JSON array of values.
 
@@ -30,8 +30,8 @@ A JSON array of values.
 
 ### Related Patches 相关模块
 
-[Loop 循环](https://www.notion.so/Loop-6cc974bf77e84e7aaf7836927011540b)
+[Loop 循环](./Loop.md)
 
-[Loop Builder 循环生成器](https://www.notion.so/Loop-Builder-64d346e189494fa9b48050aac8eb8eff)
+[Loop Builder 循环生成器](./Loop%20Builder.md)
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6035b1af-e461-42df-a181-f2714f89d88c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T173741Z&X-Amz-Expires=86400&X-Amz-Signature=1639e9d62230179e8a2afc0d29222b5ea4bc2ccdb4fff5f23ae2013b29dc6a72&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

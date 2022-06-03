@@ -16,7 +16,7 @@ The sound to play. Drag a sound file into the patch editor and connect it to the
 
 播放的声音。将声音文件拖动到模块编辑器中，并将其连接到这端口。
 
-### Play 播放### 
+### Play 播放
 
 A boolean that is true when the sound is playing.
 
@@ -28,7 +28,7 @@ A pulse that resets the sound being played.
 
 重置声音播放。
 
-### Loop 循环### 
+### Loop 循环
 
 A boolean that is true when the sound is looped continuously.
 
@@ -40,13 +40,13 @@ The settings from [Sound Player Settings](./Sound%20Player%20Setting.md).
 
 从 Sound Player Setting 连接过来的设置。
 
-### Current Time 当前时间### 
+### Current Time 当前时间
 
 This shows how far into the sound the player is at.
 
 显示播放器所处的进度离结束还有多久。
 
-### Duration 持续时间### 
+### Duration 持续时间
 
 This is the total time of the sound file.
 

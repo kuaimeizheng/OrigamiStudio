@@ -16,7 +16,7 @@ A pulse that plays the selected haptic feedback.
 
 一个脉冲，播放选定的触觉反馈。
 
-### Type### 
+### Type
 
 The type of haptic response to activate on the macOS trackpad (Alignment, Level Change)
 

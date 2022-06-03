@@ -30,10 +30,10 @@ The calculated length.
 
 ### Related Patches 相关模块
 
-[Point 点](https://www.notion.so/Point-d0bcf4a54de44976b38131205fb968bf)
+[Point 点](./../Utility/Point.md)
 
-[Point 3D 三维点](https://www.notion.so/Point-3D-6d2c3b3df3f74659ae0d647876ce3aa9)
+[Point 3D 三维点](./../Utility/Point%203D.md)
 
-[Vec4 四维](https://www.notion.so/Vec4-4e9adec7fabb49509840ad10622d2f5c)
+[Vec4 四维](./../Utility/Vec4.md)
 
-[Absolute Value 绝对值](https://www.notion.so/Absolute-Value-476b214ea9954b198dc233dbad6dfef3)
+[Absolute Value 绝对值](./Absolute%20Value.md)

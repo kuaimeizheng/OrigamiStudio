@@ -174,7 +174,7 @@ A text string that is displayed as the title of the sixth tab.
 
 一个文本字符串，显示第 6 个选项卡的标题。
 
-### Selected Tab Index 选中标签索引### 
+### Selected Tab Index 选中标签索引
 
 An index that represents the currently selected tab, starting at 0.
 

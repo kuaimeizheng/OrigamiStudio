@@ -36,14 +36,14 @@ The largest of the input values.
 
 ### Related Patches 相关模块
 
-[### [+](https://origami.design/documentation/patches/builtin.math.add.html) 加### ](https://www.notion.so/8f03e4d8996f49ad994e405ad7cb58d5)
+[+ 加](./+.md)
 
-[### [−](https://origami.design/documentation/patches/builtin.math.sub.html) 减### ](https://www.notion.so/0afa370ec4654441a88e6ee0597a5b24)
+[− 减](./-.md)
 
-[### [×](https://origami.design/documentation/patches/builtin.math.mul.html) 乘### ](https://www.notion.so/ccedb0e308684762aad3fcd8545a8c9d)
+[x 乘](./x.md)
 
-[### [÷](https://origami.design/documentation/patches/builtin.math.div.html) 除](https://www.notion.so/f9baa8e9945d4782947f6cbf7de3193e)
+[÷ 除](./%C3%B7.md)
 
-[Round 四舍五入](https://www.notion.so/Round-c7e0fed9dca4490892e8aec69bb2dfd2)
+[Round 四舍五入](./Round.md)
 
-[Min 最小值](https://www.notion.so/Min-6ddcecef2efa4336a357f27f29f64d9b)
+[Min 最小值](./Min.md)

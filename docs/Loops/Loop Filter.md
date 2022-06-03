@@ -52,13 +52,13 @@ A loop of booleans (to include or not include), or a loop of numbers (to decide 
 
 一个布尔循环（包括或不包括），或一个数字循环（决定一个值重复多少次）。
 
-### Loop 循环### 
+### Loop 循环
 
 The result loop, with values either filtered or repeated
 
 结果循环，值已被过滤或重复。
 
-### Index 索引### 
+### Index 索引
 
 A loop of indices for the result loop
 
@@ -72,10 +72,10 @@ A loop of indices for the result loop
 
 ### Related Patches 相关模块
 
-[Loop 循环](https://www.notion.so/Loop-6cc974bf77e84e7aaf7836927011540b)
+[Loop 循环](./Loop.md)
 
-[Loop Builder 循环生成器](https://www.notion.so/Loop-Builder-64d346e189494fa9b48050aac8eb8eff)
+[Loop Builder 循环生成器](./Loop%20Builder.md)
 
-[Loop Select 循环选择](https://www.notion.so/Loop-Select-bb035c1f66a9408da5d038084f713378)
+[Loop Select 循环选择](./Loop%20Select.md)
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/91ca4083-f65d-4d4f-9476-113330085dd2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T173004Z&X-Amz-Expires=86400&X-Amz-Signature=c308b0657ec182c6947bfc241745b4b5eff850e03c2415249fc79b39809f372c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

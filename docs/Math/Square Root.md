@@ -30,4 +30,4 @@ The square root of the value.
 
 ### Related Patches 相关模块
 
-[Power 幂值](https://www.notion.so/Power-12999362c504431f8d452d375f76ffc4)
+[Power 幂值](./Power.md)

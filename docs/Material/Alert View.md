@@ -26,13 +26,13 @@ The title text of the alert view.
 
 警示框的标题文本。
 
-### Message 信息### 
+### Message 信息
 
 The message text of the alert view.
 
 警示框的信息文本。
 
-### Button 1 按钮 1### 
+### Button 1 按钮 1
 
 The text string for the first button.
 
@@ -60,18 +60,18 @@ A pulse that represents when Button 2 is tapped.
 
 ### Related Layers 相关图层
 
-[Checkbox 复选框](https://www.notion.so/Checkbox-3b26d11b40fe4fd6b4331fa09afc1b47)
+[Checkbox 复选框](./Checkbox.md)
 
-[Fake Keyboard 模拟键盘](https://www.notion.so/Fake-Keyboard-3feb346590de4ff3822b6079c7dc17b9)
+[Fake Keyboard 模拟键盘](./Fake%20Keyboard.md)
 
-[Page Control 分页控制器](https://www.notion.so/Page-Control-73fd8adb143a4b34a3267ece18dfd876)
+[Page Control 分页控制器](./Page%20Control.md)
 
-[Circular Progress 环形进度](https://www.notion.so/Circular-Progress-df848ba8986b4983aaa59dbf7c05faae)
+[Circular Progress 环形进度](./Circular%20Progress.md)
 
-[Screen 屏幕](https://www.notion.so/Screen-a0d1e5fd463540a6b93c635a9706cab2)
+[Screen 屏幕](./Screen.md)
 
-[Status Bar 状态栏](https://www.notion.so/Status-Bar-c2583cf542a241949665528cff2c5031)
+[Status Bar 状态栏](./Status%20bar.md)
 
-[Switch 开关](https://www.notion.so/Switch-4171567de6384966b26842c68b41155d)
+[Switch 开关](./Switch.md)
 
-[Text Field 文本输入框](https://www.notion.so/Text-Field-4a2ab8b08c3a49d19b19e4f715dedf41)
+[Text Field 文本输入框](./Text%20Field.md)

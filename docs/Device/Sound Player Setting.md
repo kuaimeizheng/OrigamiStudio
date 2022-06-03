@@ -16,7 +16,7 @@ A number from 0-1 that represents the volume of the sound.
 
 0～1之间的数字值表示音量。
 
-### Rate 速率### 
+### Rate 速率
 
 A number from .03 to 32 that represents the speed of the sound.
 

@@ -8,7 +8,7 @@ An iOS text field that uses an Android phone or tablet’s native keyboard when 
 
 在设备上运行时使用Android手机或平板电脑本机键盘的IOS文本字段。
 
-When no device is connected, use the [Fake Keyboard](https://www.notion.so/Fake-Keyboard-3feb346590de4ff3822b6079c7dc17b9).
+When no device is connected, use the [Fake Keyboard](./Fake%20Keyboard.md).
 
 没有连接设备时，请使用模拟键盘。
 
@@ -38,7 +38,7 @@ The width of the text field.
 
 ### Anchor 锚点
 
-The anchor point to position the text field relative to. See [Coordinates](https://www.notion.so/Coordinates-bd835085db7c48e49e00a66e5e44caf2) for more information.
+The anchor point to position the text field relative to. See [Coordinates 坐标](./../Concepts/Coordinates.md) for more information.
 
 用于定位文本字段的相对位置的锚点。有关更多信息，请参阅坐标。
 
@@ -142,24 +142,23 @@ A pulse that represents when the return key is pressed.
 
 ### Related Patches 相关模块
 
-[Text Input Info 文本输入信息](https://www.notion.so/Text-Input-Info-dfa5b72d8f5e4bd8b1f679117406f268)
+[Text Input Info 文本输入信息](./../Text/Text%20Input%20Info.md)
 
 ------
 
 ### Related Layers 相关图层
 
-[Alert View 警示框](https://www.notion.so/Alert-View-82a7c414b0c04e489c7efe4bea7a239d)
+[Alert View 警示框](./Alert%20View.md)
 
-[Checkbox 复选框](https://www.notion.so/Checkbox-3b26d11b40fe4fd6b4331fa09afc1b47)
+[Checkbox 复选框](./Checkbox.md)
 
-[Fake Keyboard 模拟键盘](https://www.notion.so/Fake-Keyboard-3feb346590de4ff3822b6079c7dc17b9)
+[Fake Keyboard 模拟键盘](./Fake%20Keyboard.md)
 
-[Page Control 分页控制器](https://www.notion.so/Page-Control-73fd8adb143a4b34a3267ece18dfd876)
+[Page Control 分页控制器](./Page%20Control.md)
+[Circular Progress 环形进度](./Circular%20Progress.md)
 
-[Circular Progress 环形进度](https://www.notion.so/Circular-Progress-df848ba8986b4983aaa59dbf7c05faae)
+[Screen 屏幕](./Screen.md)
 
-[Screen 屏幕](https://www.notion.so/Screen-a0d1e5fd463540a6b93c635a9706cab2)
+[Status Bar 状态栏](./Status%20bar.md)
 
-[Status Bar 状态栏](https://www.notion.so/Status-Bar-c2583cf542a241949665528cff2c5031)
-
-[Switch 开关](https://www.notion.so/Switch-4171567de6384966b26842c68b41155d)
+[Switch 开关](./Switch.md)

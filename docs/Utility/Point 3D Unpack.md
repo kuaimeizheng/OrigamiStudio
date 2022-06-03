@@ -10,7 +10,7 @@ Turn a point with 2 dimensions (position, rotation) into its individual X, Y, an
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a3309559-bbdb-40b7-b2ca-e07c8838ddcb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T181647Z&X-Amz-Expires=86400&X-Amz-Signature=cc5a566c3e002fbd4ed26c4ef0c358e61a12092188aaf9adf9b234745becf3ed&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-### Input### 
+### Input
 
 A point with 3 dimensions.
 

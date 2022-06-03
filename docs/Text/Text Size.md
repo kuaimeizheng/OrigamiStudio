@@ -16,7 +16,7 @@ A text string to measure.
 
 要测量的文本字符串。
 
-### Box Size 盒子尺寸### 
+### Box Size 盒子尺寸
 
 The width and height of the box that the text should fit within.
 

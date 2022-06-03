@@ -16,7 +16,7 @@ In order to use Layout, you have to enable it on Artboards and Group layers. Any
 
 # Position 位置
 
-Position determines where an object is in relation to other objects in the group. Position applies to any layer that has a parent group with Layout enabled. When setting Position, there are two parameters to choose from: ### Relativeand ### Absolute### .
+Position determines where an object is in relation to other objects in the group. Position applies to any layer that has a parent group with Layout enabled. When setting Position, there are two parameters to choose from: ### Relativeand ### Absolute.
 
 位置决定了一个对象与组中其他对象的关系。位置应用于任何启用布局的父组中的图层。在设置位置时，有两个参数可供选择:相对位置和绝对位置。
 
@@ -29,7 +29,7 @@ https://origami.design/public/images/videos/layout_position.mp4
 
 # Size 尺寸
 
-Size determines the width and height of an object or group. It applies to any layer that has a parent group with Layout enabled AND any parent group with Layout enabled. When setting ### Size### , there are three parameters to choose from: ### Auto### , ### Grow### , and ### Fixed### .
+Size determines the width and height of an object or group. It applies to any layer that has a parent group with Layout enabled AND any parent group with Layout enabled. When setting ### Size, there are three parameters to choose from: ### Auto### , ### Grow### , and ### Fixed### .
 
 大小决定了对象或组的宽度和高度。它适用于启用布局的父组和启用布局的父组图层。设置大小时，有三个参数可供选择:自动、增长和固定。
 
@@ -48,7 +48,7 @@ The direction determines how they layers in an AutoLayout group are arranged. Wh
 
 方向决定了在启用了自动布局的组中图层的排列方式。
 
-设置### 方向### 时，有三个参数可供选择：### 水平### 、### 垂直### 和### 栅格### 。
+设置### 方向### 时，有三个参数可供选择：### 水平### 、### 垂直### 和栅格### 。
 
 - ### Horizontalmeans the group’s objects will arrange side-to-side.
 - ### Verticalmeans the group’s objects will arrange top-to-bottom.

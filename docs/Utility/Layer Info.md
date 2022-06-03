@@ -22,7 +22,7 @@ A boolean that is true when the layer is enabled.
 
 一个布尔值，当图层启用时为真。
 
-### Size 尺寸### 
+### Size 尺寸
 
 The size of the layer. Use [Size Unpack](https://www.notion.so/Point-Unpack-2b4874a049d34f898bc64c27879e191e) to get the individual width and height.
 

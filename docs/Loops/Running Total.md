@@ -10,7 +10,7 @@ Calculate the sums of a loop of numbers, where the sum at each index is the sum 
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c090872c-4907-4c70-a2a4-fb7b03f95069/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T173830Z&X-Amz-Expires=86400&X-Amz-Signature=412da3afd841335850ce0583f4288bc5c47747f98291c6bad72cc31f2e2816ef&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-To calculate the total sum of all numbers, use the [Sum](https://www.notion.so/Loop-Sum-04443a38a18840d89e3985c09e1517a7) patch.
+To calculate the total sum of all numbers, use the [Sum](./Loop%20Sum.md) patch.
 
 要计算所有数字的总和，请使用 Sum 模块。
 
@@ -36,12 +36,12 @@ A loop of sums.
 
 ### Related Patches 相关模块
 
-[Loop 循环](https://www.notion.so/Loop-6cc974bf77e84e7aaf7836927011540b)
+[Loop 循环](./Loop.md)
 
-[Loop Builder 循环生成器](https://www.notion.so/Loop-Builder-64d346e189494fa9b48050aac8eb8eff)
+[Loop Builder 循环生成器](./Loop%20Builder.md)
 
-[Loop Count 循环数量](https://www.notion.so/Loop-Count-31b77cd94794494697ed150022ce99df)
+[Loop Count 循环数量](./Loop%20Count.md)
 
-[Loop Sum 循环总和](https://www.notion.so/Loop-Sum-04443a38a18840d89e3985c09e1517a7)
+[Loop Sum 循环总和](./Loop%20Sum.md)
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d5517710-2588-4484-a940-15cc7393a718/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T173807Z&X-Amz-Expires=86400&X-Amz-Signature=cfeed395df4892525b14fcb1af1e54f2fc30b329b0be2c21cda81d69ee84c7e7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

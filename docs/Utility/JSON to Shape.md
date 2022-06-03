@@ -50,7 +50,7 @@ A JSON Object that follows the path structure.
 
 遵循路径结构的JSON对象。
 
-### Coordinate Space 坐标空间### 
+### Coordinate Space 坐标空间
 
 A width and height value that will act as a scale multiplier for every x,y component on the shape.
 

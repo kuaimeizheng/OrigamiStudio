@@ -27,7 +27,7 @@ The JSON object or array to get the value from.
 
 要从中获取值的 JSON 对象或数组。
 
-### Path 路径### 
+### Path 路径
 
 A text string of the path in dot notation.
 

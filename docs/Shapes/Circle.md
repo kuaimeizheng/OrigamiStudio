@@ -16,13 +16,13 @@ The position of the circle.
 
 圆形的位置。
 
-### Radius 圆角### 
+### Radius 圆角
 
 The radius of the circle.
 
 圆形的圆角大小。
 
-### Shape### 
+### Shape
 
 The circle shape. Connect to a [Shape Layer](https://www.notion.so/Shape-6381402c7a90468d97365c58ab562ea1).
 

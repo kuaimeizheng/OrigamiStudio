@@ -16,7 +16,7 @@ The image to display information for. Paste or drag an image into the patch edit
 
 要显示信息的图片。将图片粘贴或拖动到模块编辑器中，或双击缩略图添加图片。
 
-### Size 尺寸### 
+### Size 尺寸
 
 The size of the image. Use [Size Unpack](https://www.notion.so/Point-Unpack-2b4874a049d34f898bc64c27879e191e) to get the individual width and height.
 

@@ -10,7 +10,7 @@ Control your prototype using any [MFI-compatible](https://developer.apple.com/pr
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/30689e11-a284-435c-8e3b-7959acd75370/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165650Z&X-Amz-Expires=86400&X-Amz-Signature=adca4261ff2e0187320b9fa68c0fb7d43a2728793c0c24b5ce0bee2ffc084a84&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-### Connected 连接### 
+### Connected 连接
 
 A boolean that is true when a controller is paired and connected.
 
@@ -22,7 +22,7 @@ A boolean that is true when the bottom face button is pressed.
 
 一个布尔值，表示当按下 A 按钮时为真。
 
-### B### 
+### b
 
 A boolean that is true when the right face button is pressed.
 
@@ -40,13 +40,13 @@ A boolean that is true when the top face button is pressed.
 
 一个布尔值，表示当按下 Y 按钮时为真。
 
-### L1### 
+### L1
 
 A boolean that is true when the left shoulder button is pressed.
 
 一个布尔值，表示当按下 L1 按钮时为真。
 
-### R1### 
+### R1
 
 A boolean that is true when the right shoulder button is pressed.
 

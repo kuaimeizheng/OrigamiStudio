@@ -32,6 +32,6 @@ The color of the layer.
 
 ### Related Layers 相关图层
 
-[Gradient Fill 渐变填充](https://www.notion.so/Gradient-Fill-09415ddd522a4befa509d5a15ef3b0a4)
+[Gradient Fill 渐变填充](./Grdient%20Fill.md)
 
-[Group 组](https://www.notion.so/Group-8fe10633d0c049a0b6866820a46c0ddc)
+[Group 组](./Group.md)

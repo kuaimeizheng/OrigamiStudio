@@ -34,7 +34,7 @@ A value to add to the JSON array. Use a [Splitter](../Utility/Splitter)  to set 
 
 要添加到JSON数组的值。使用 [Splitter](../Utility/Splitter)  设置该值。
 
-### Array 数组### 
+### Array 数组
 
 The JSON array of values.
 

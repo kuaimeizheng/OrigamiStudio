@@ -34,7 +34,7 @@ A pulse that increases the counter value by 1.
 
 一个脉冲，表示当接收到值时，计数器的值加 1。
 
-### Decrease### 
+### Decrease
 
 A pulse that decreases the counter value by 1.
 
@@ -52,7 +52,7 @@ The number to use as the counter value when the Jump port is pulsed.
 
 设置 Jump 端口接收到值时要跳转到的数值。
 
-### Maximum Count 最大计数### 
+### Maximum Count 最大计数
 
 The maximum counter value. The counter will reset to zero when the maximum value is reached. Note that the counter will always remain *less* than this value.
 

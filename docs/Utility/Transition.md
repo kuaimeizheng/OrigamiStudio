@@ -91,7 +91,7 @@ The converted value.
 
 [Pop Animation 流行动画](https://www.notion.so/Pop-Animation-fa14e93b7f1a480f933420a19fa15fad)
 
-[Classic Animation 经典动画](https://www.notion.so/Classic-Animation-8996317e957c4b8893a175bd266112e5)
+[Classic Animation 经典动画](./../Animation/Classic%20Animation.md)
 
 [Switch 开关](https://www.notion.so/Switch-bd684625ec8b4aaa9ff9b5ae3e396e86)
 

@@ -42,18 +42,18 @@ A boolean that is true if the base value is greater than or equal to the subsequ
 
 ### Related Patches 相关模块
 
-[And 和](https://www.notion.so/And-fe3dd6120a59454ebcd90cbf19fa03af)
+[And 和](./And.md)
 
-[Or 或](https://www.notion.so/Or-56678c7752aa4df99e3945a1ee68da69)
+[Or 或](./Or.md)
 
-[Not 非](https://www.notion.so/Not-12e7821fbf1048dcb9fc65cc80ccdd5a)
+[Not 非](./Not.md)
 
-[Equals Exactly 完全等于](https://www.notion.so/Equals-Exactly-c31ca42d3bec4c55a053fcffa3a05d6e)
+[Equals Exactly 完全等于](./Equals%20Exactly.md)
 
-[Greater Than 大于](https://www.notion.so/Greater-Than-1dd58751afa94e7c9805855439af4133)
+[Greater Than 大于](./Greater%20Than.md)
 
-[Less Than 小于](https://www.notion.so/Less-Than-e312107d39104d79912a39339e56a2ef)
+[Less Than 小于](./Less%20Than.md)
 
-[Less Than or Equal 小于等于](https://www.notion.so/Less-Than-or-Equal-9eb2808ade6c4ecb9d31c4c7d43e96d0)
+[Less Than or Equal 小于等于](./Less%20Than%20or%20Equal.md)
 
-[Equals 等于](https://www.notion.so/Equals-b52f17a2688049cca34e1bc4da763bd7)
+[Equals 等于](./Equals.md)
