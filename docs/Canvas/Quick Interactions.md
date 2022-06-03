@@ -16,13 +16,13 @@ To create a Quick Interaction, click on the Quick Interaction icon in the toolba
 
 要创建快捷交互，请单击工具栏中的“快捷交互”图标，然后单击要触发交互的图层和要显示的画板。也可以按住 ### Ctrl +键将其从图层拖动到画板。
 
-![https://origami.design/public/images/documentation/quick_interaction_icon.png](https://origami.design/public/images/documentation/quick_interaction_icon.png)
+![](https://origami.design/public/images/documentation/quick_interaction_icon.png)
 
 Presenting and dismissing will use the corresponding transition styles of whichever device platform you have selected in the Devices dropdown in the Origami toolbar. So an iPhone will use the iOS presentation and dismiss transitions while a Pixel will use the Material presentation and dismiss transitions.
 
 显示和关闭将使用您在工具栏中的“设备”下拉菜单中选择的设备对应的过渡样式，所以iPhone会使用iOS的过渡样式，而Pixel会使用Material的样式。
 
-![https://origami.design/public/images/documentation/quick_interactions_present@2x.png](https://origami.design/public/images/documentation/quick_interactions_present@2x.png)
+![](https://origami.design/public/images/documentation/quick_interactions_present@2x.png)
 
 Presenting screens with Quick Interations
 

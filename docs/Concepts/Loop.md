@@ -146,13 +146,13 @@ Looped Component Outputs 循环组件输出
 
 ### ### Manipulating Loops 操作循环
 
-[Loop Filter](../Loops/Loop%20Filter) and [Loop Select](../Loops/Loop%20Select) are the two patches for selecting items from a loop, useful for working with the [Loop Option Switch](../Loop/Loop%20Option%20Switch) for getting the selected item in a loop.
+[Loop Filter](./../Loops/Loop%20Filter.md) and [Loop Select](./../Loops/Loop%20Select.md) are the two patches for selecting items from a loop, useful for working with the [Loop Option Switch](./../Loops/Loop%20Option%20Switch.md) for getting the selected item in a loop.
 
 Loop Filter 循环筛选 和 Loop Select 循环选择 是用于从循环中选择项目的两个模块，一般用于在使用Loop Option Switch 循环选项开关 在循环中获取所选项目。
 
 ### ### Loops & Interactions 循环&交互### 
 
-When we add an [Interaction](/Interaction/Interaction.md) patch to a looper layer, the Interactions output will then be looped as well. Using the [Loop Option Switch](./../Loops/Loop%20Option%20Switch.md) patch with the [Loop Select](./../Loops/Loop%20Select.md) patch we can get the value of the tapped on item
+When we add an [Interaction](./../Interaction/Interaction.md) patch to a looper layer, the Interactions output will then be looped as well. Using the [Loop Option Switch](./../Loops/Loop%20Option%20Switch.md) patch with the [Loop Select](./../Loops/Loop%20Select.md) patch we can get the value of the tapped on item
 
 当我们向循环图层添加一个交互模块时，交互输出也将被循环。通过使用Loop Option Switch 循环选项开关 模块和 Loop Select 循环选择模块，我们可以得到项目上被选中的值
 

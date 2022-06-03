@@ -62,13 +62,13 @@ The X, Y position of the input progress on the curve. This can be used to plot t
 
 ### Related Patches 相关模块
 
-[Classic Animation 经典动画](./Classic%20Animation)
+[Classic Animation 经典动画](./Classic%20Animation.md)
 
-[Cubic Bezier Curve 三次贝塞尔曲线](./Cubic%20Bezier%20Curve)
+[Cubic Bezier Curve 三次贝塞尔曲线](./Cubic%20Bezier%20Curve.md)
 
-[Progress 进度](../Utility/Progress)
+[Progress 进度](./../Utility/Progress.md)
 
-[Transition 过渡](../Utility/Transition)
+[Transition 过渡](./../Utility/Transition.md)
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f97aaa67-f8a9-47de-aa1a-18d68657dbfe/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T151158Z&X-Amz-Expires=86400&X-Amz-Signature=3144a15bc5b0b4a702d497044557f0375b2d83efa45b91259523bf91038b5d4c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 

@@ -44,12 +44,12 @@ A number from 0 to 1 that represents the opacity of the color.
 
 ### Related Patches 相关模块
 
-[Color to Hex 转换为 Hex 颜色](./Color%20to%20Hex)
+[Color to Hex 转换为 Hex 颜色](./Color%20to%20Hex.md)
 
-[Color to HSL 转换为 HSL 颜色](./Color%20to%20HSL)
+[Color to HSL 转换为 HSL 颜色](./Color%20to%20HSL.md)
 
-[HSL Color HSL颜色](./HSL%20Color)
+[HSL Color HSL颜色](./HSL%20Color.md)
 
-[Hex Color Hex颜色](./Hex%20Color)
+[Hex Color Hex颜色](./Hex%20Color.md)
 
-[RGB Color RGB颜色](./RGB%20Color)
+[RGB Color RGB颜色](./RGB%20Color.md)

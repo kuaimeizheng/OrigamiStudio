@@ -50,18 +50,18 @@ A pulse that returns the animation to the beginning.
 
 A progress value. See [Animation Basics] for more information.
 
-一个进度值。更多信息参考 [动画基础]。
+一个进度值。更多信息参考 [动画基础](./../Patch%20Editor/Animations.md)。
 
 ---
 
 ### Related Patches 相关模块
 
-[Pop Animation 流行动画](./Pop%20Animation)
+[Pop Animation 流行动画](./Pop%20Animation.md)
 
-[Classic Animation 经典动画](./Classic%20Animation)
+[Classic Animation 经典动画](./Classic%20Animation.md)
 
-[Curve 曲线](./Curve)
+[Curve 曲线](./Curve.md)
 
-[Repeating Pulse 重复脉冲](../Utility/Repeating%20Pulse)
+[Repeating Pulse 重复脉冲](./../Utility/Repeating%20Pulse.md)
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1bfc2873-ba16-4e8e-b6ac-537a2e137454/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T151551Z&X-Amz-Expires=86400&X-Amz-Signature=6dcfa420f49be58855e03ed530ffaf31f958e71bc6b7b6a537278e943123aa2b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

@@ -44,12 +44,12 @@ A number from 0 to 1 that represents the opacity of the color.
 
 ### Related Patches 相关模块
 
-[Color to Hex 转换为 Hex 颜色](./Color%20to%20Hex)
+[Color to Hex 转换为 Hex 颜色](./Color%20to%20Hex.md)
 
-[Color to RGB 转换为 RGB 颜色](./Color%20to%20RGB)
+[Color to RGB 转换为 RGB 颜色](./Color%20to%20RGB.md)
 
-[HSL Color HSL色彩](https://www.notion.so/HSL-Color-HSL-37a8d828a5c2467a814546c9136e2cf0)
+[HSL Color HSL色彩](./HSL%20Color.md)
 
-[Hex Color Hex色彩](https://www.notion.so/Hex-Color-Hex-3b7127f39b2d4d25af8190fd8f84976b)
+[Hex Color Hex色彩](./Hex%20Color.md)
 
-[RGB Color RGB色彩](https://www.notion.so/RGB-Color-RGB-2e777e1624bf47d8a8aac3685e087705)
+[RGB Color RGB色彩](./RGB%20Color.md)

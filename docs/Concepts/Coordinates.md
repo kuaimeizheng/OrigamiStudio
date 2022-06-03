@@ -50,7 +50,7 @@ If you want to inset it by 40 pixels, give it an X Position of -40 and a Y Posit
 
 The pivot port changes the point about which a layer scales and rotates, and can be controlled separately from anchor points. Pivots can be defined in the Patch Editor with a Point patch, where X and Y are any decimal 0-1.
 
-### Pivot 的### 端口是图层缩放和旋转的中心点，这个中心点可以和锚点分开控制。中心点可以通过[Point]模块控制，X和Y的值可以是0～1之间的任何数。
+Pivot端口是图层缩放和旋转的中心点，这个中心点可以和锚点分开控制。中心点可以通过[Point](./../Utility/Point.md)模块控制，X和Y的值可以是0～1之间的任何数。
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e74e97d5-2b1b-415a-8c39-cd2269f0ead7/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T040513Z&X-Amz-Expires=86400&X-Amz-Signature=b9c20d13c5ec8f77cf638b719d4eaa9f5ab490df35cee7f066d2d7e277b82453&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 

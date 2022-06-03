@@ -26,12 +26,12 @@ The color.
 
 ### Related Patches 相关模块
 
-[Color to Hex 转换为 Hex 颜色](./Color%20to%20Hex)
+[Color to Hex 转换为 Hex 颜色](./Color%20to%20Hex.md)
 
-[Color to RGB 转换为 RGB 颜色](./Color%20to%20RGB)
+[Color to RGB 转换为 RGB 颜色](./Color%20to%20RGB.md)
 
-[Color to HSL 转换为 HSL 颜色](./Color%20to%20HSL)
+[Color to HSL 转换为 HSL 颜色](./Color%20to%20HSL.md)
 
-[HSL Color HSL颜色](./HSL%20Color)
+[HSL Color HSL颜色](./HSL%20Color.md)
 
-[RGB Color RGB颜色](./RGB%20Color)
+[RGB Color RGB颜色](./RGB%20Color.md)

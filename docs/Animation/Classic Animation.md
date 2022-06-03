@@ -10,7 +10,7 @@ Animate a number (ex: position, opacity, scale) using a standard animation curve
 
 See [Animation Basics] for more information.
 
-有关详细信息，请参考 [动画基础]。
+有关详细信息，请参考 [动画基础](./../Patch%20Editor/Animations.md)。
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3dac0a9f-76e2-467d-b233-8c22bc7f89c2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T151035Z&X-Amz-Expires=86400&X-Amz-Signature=bd57eea89d2330c58aa53fbb5709bc776459cf48f61ad1896c35e969feb9c4f4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
@@ -72,17 +72,17 @@ A number that is tweened with an easing curve as it moves toward the Number inpu
 
 Typically a progress value. See [Animation Basics]for more information.
 
-通常是一个进度值，更多信息请参考 [动画基础]。
+通常是一个进度值，更多信息请参考 [动画基础](./../Patch%20Editor/Animations.md)。
 
 ---
 
 ### Related Patches 相关模块
 
-[Pop Animation 流行动画](./Pop%20Animation)
+[Pop Animation 流行动画](./Pop%20Animation.md)
 
-[Repeating Animation 重复动画](./Repeating%20Animation)
+[Repeating Animation 重复动画](./Repeating%20Animation.md)
 
-[Transition 过渡](../Utility/Transition)
+[Transition 过渡](./../Utility/Transition.md)
 
 历史版本
 

@@ -26,12 +26,12 @@ The hex representation of color as a text string.
 
 ### Related Patches 相关模块
 
-[Color to HSL 转换为 HSL 颜色](./Color%20to%20HSL)
+[Color to HSL 转换为 HSL 颜色](./Color%20to%20HSL.md)
 
-[Color to RGB 转换为 RGB 颜色](./Color%20to%20RGB)
+[Color to RGB 转换为 RGB 颜色](./Color%20to%20RGB.md)
 
-[HSL Color HSL色彩](https://www.notion.so/HSL-Color-HSL-37a8d828a5c2467a814546c9136e2cf0)
+[HSL Color HSL色彩](./HSL%20Color.md)
 
-[Hex Color Hex色彩](https://www.notion.so/Hex-Color-Hex-3b7127f39b2d4d25af8190fd8f84976b)
+[Hex Color Hex色彩](./Hex%20Color.md)
 
-[RGB Color RGB色彩](https://www.notion.so/RGB-Color-RGB-2e777e1624bf47d8a8aac3685e087705)
+[RGB Color RGB色彩](./RGB%20Color.md)

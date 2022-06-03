@@ -4,9 +4,9 @@ sidebar_position: 1
 
 # Math Expressions 数学表达式
 
-Math Expressions are a powerful tool to create more complex logic in Origami prototypes. Instead of adding patches for each arithmetic operation and connecting them together, you can insert a single [Math Expression](../Math/Math%20Expression)  patch, type the expression you want to compute, and connect its inputs and outputs. Here’s a simple example:
+Math Expressions are a powerful tool to create more complex logic in Origami prototypes. Instead of adding patches for each arithmetic operation and connecting them together, you can insert a single [Math Expression](./../Math/Math%20Expression.md)  patch, type the expression you want to compute, and connect its inputs and outputs. Here’s a simple example:
 
-数学表达式是一个强大的工具，可以创建更复杂的逻辑原型。您可以插入单个 [Math Expression](../Math/Math%20Expression) 模块，输入要计算的表达式，并连接其输入和输出，而不是为每个计算操作添加模块并将它们连接在一起。下面是一个简单的例子:
+数学表达式是一个强大的工具，可以创建更复杂的逻辑原型。您可以插入单个 [Math Expression](./../Math/Math%20Expression.md) 模块，输入要计算的表达式，并连接其输入和输出，而不是为每个计算操作添加模块并将它们连接在一起。下面是一个简单的例子:
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/81616290-ef38-4aeb-be02-f79bf86569ab/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T040636Z&X-Amz-Expires=86400&X-Amz-Signature=edd811b5241e7d3509d0c09ed14434357c13244bb64729ba98e2c23ae1b298df&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 

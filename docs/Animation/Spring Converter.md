@@ -50,8 +50,8 @@ A number that represents spring speed (Pop Animation)
 
 ### Related Patches 相关模块
 
-[Pop Animation 流行动画](./Pop%20Animation)
+[Pop Animation 流行动画](./Pop%20Animation.md)
 
-[Bouncy Converter 弹性转换器](./Bouncy%20Converter)
+[Bouncy Converter 弹性转换器](./Bouncy%20Converter.md)
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/867122ea-46b5-4df3-a833-85c665f63ab5/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T151749Z&X-Amz-Expires=86400&X-Amz-Signature=f2c612458874d231803c1d16f6fea3b586545e531629b9a12664e8dee13396d3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
