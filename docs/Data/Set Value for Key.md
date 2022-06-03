@@ -42,6 +42,6 @@ The JSON object with the new value.
 
 ### Related Patches 相关模块
 
-[Value for Key 关键值](https://www.notion.so/Value-for-Key-5e3c5536dbcf4c0b8a73f1d9fd20a380)
+[Value for Key 关键值](./Value%20for%20Key)
 
-[JSON Object JSON对象](https://www.notion.so/JSON-Object-JSON-b1f58ef7035a45b59c4f3fa1ded80e45)
+[JSON Object JSON 对象](./JSON%20Object)

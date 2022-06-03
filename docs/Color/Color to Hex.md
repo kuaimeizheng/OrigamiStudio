@@ -2,54 +2,36 @@
 sidebar_position: 2
 ---
 
-# Color to Hex 转换为 HSL 颜色
+# Color to Hex 转换为 Hex 颜色
 
-Convert a color to HSL and alpha values from 0 to 1.
+Convert a color to hex. The alpha value of the color is discarded.
 
-将颜色转换为HSL颜色，并将透明度从 0 转换到 1。
+将颜色转换为十六进制。颜色的透明度值将不再使用。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bea9a927-7111-4098-bcdb-fb72fc865364/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T163925Z&X-Amz-Expires=86400&X-Amz-Signature=36332df41a204ef75b737698819965c83919315d4e9dcb19ae5a5aafd7b7e118&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/510b6b46-1250-48af-885a-2b76919fd9e9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T163956Z&X-Amz-Expires=86400&X-Amz-Signature=31b3315f6ed4b65fac93e67f6d52c871eea2a13fd99ffbd2afb78aa51e3bf3f3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-### Input 输入
+### Color 颜色
 
-The color to convert.
+A color to convert.
 
 需要转换的颜色。
 
-### Hue 色相
+### Hex 十六进制
 
-A number from 0 to 1 that represents the hue of the color.
+The hex representation of color as a text string.
 
-一个从 0 到 1 的数字，表示颜色的色相。
-
-### Saturation 饱和度
-
-A number from 0 to 1 that represents the saturation of the color.
-
-一个从 0 到 1 的数字，表示颜色的饱和度。
-
-### Lightness 明度
-
-A number from 0 to 1 that represents the lightness of the color.
-
-一个从 0 到 1 的数字，表示颜色的明度。
-
-### Alpha 透明度
-
-A number from 0 to 1 that represents the opacity of the color.
-
-一个从 0 到 1 的数字，表示颜色的透明度。
+表示十六进制色值的文本字符串。
 
 ------
 
 ### Related Patches 相关模块
 
-[Color to Hex 转换为 Hex 颜色](./Color%20to%20Hex)
+[Color to HSL 转换为 HSL 颜色](./Color%20to%20HSL)
 
 [Color to RGB 转换为 RGB 颜色](./Color%20to%20RGB)
 
-[HSL Color HSL颜色](./HSL%20Color)
+[HSL Color HSL色彩](https://www.notion.so/HSL-Color-HSL-37a8d828a5c2467a814546c9136e2cf0)
 
-[Hex Color Hex颜色](./Hex%20Color)
+[Hex Color Hex色彩](https://www.notion.so/Hex-Color-Hex-3b7127f39b2d4d25af8190fd8f84976b)
 
-[RGB Color RGB颜色](./RGB%20Color)
+[RGB Color RGB色彩](https://www.notion.so/RGB-Color-RGB-2e777e1624bf47d8a8aac3685e087705)

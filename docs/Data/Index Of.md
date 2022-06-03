@@ -38,8 +38,8 @@ A boolean that is true if the item exists in the array.
 
 ### Related Patches 相关模块
 
-[JSON Array JSON数组](https://www.notion.so/JSON-Array-JSON-c04f26109f71497c95627e1ad6b7cbed)
+[JSON Array JSON 数组](./JSON%20Array)
 
-[Array Append 数组添加](https://www.notion.so/Array-Append-dbfec52d66f94e1db81c8ef5d8bc3606)
+[Array Append 数组添加](./Array%20Append)
 
-[Value at Index 索引值](https://www.notion.so/Value-at-Index-e23667c4b77b44b882f3936b67309eac)
+[Value at Index 索引值](./Value%20at%20Index)

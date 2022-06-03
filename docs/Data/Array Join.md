@@ -34,4 +34,4 @@ A single joined array.
 
 ### Related Patches 相关模块
 
-[Array Append 数组添加](https://www.notion.so/Array-Append-dbfec52d66f94e1db81c8ef5d8bc3606)
+[Array Append 数组添加](./Array%20Append)

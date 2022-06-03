@@ -8,13 +8,13 @@ Create a JSON array from any number of values. Use a Splitter set to a type to d
 
 从任意数量的值创建一个JSON数组。可以使用 Splitter 设置类型来定义选项。
 
-Get a value with [Value at Index](https://www.notion.so/Value-at-Index-e23667c4b77b44b882f3936b67309eac).
+Get a value with [Value at Index 索引值](./Value%20at%20Index)
 
-可以使用 [Value at Index](https://www.notion.so/Value-at-Index-e23667c4b77b44b882f3936b67309eac) 获取值。
+可以使用 [Value at Index 索引值](./Value%20at%20Index) 获取值。
 
-In some cases, use an [Option Picker](https://www.notion.so/Option-Picker-26fa02ba463b47be8b9c4098357d5dfb) instead.
+In some cases, use an [Option Picker](../Utility/Option%20Picker) instead.
 
-在某些情况下，可以使用 [Option Picker](https://www.notion.so/Option-Picker-26fa02ba463b47be8b9c4098357d5dfb) 代替。
+在某些情况下，可以使用 [Option Picker](../Utility/Option%20Picker) 代替。
 
 Right-click to add additional values.
 
@@ -24,15 +24,15 @@ Right-click to add additional values.
 
 **Input 输入**
 
-A value to add to the JSON array. Use a [Splitter](https://www.notion.so/Splitter-6ad291b734314bfdaace0a4b8abf3d91) to set the value.
+A value to add to the JSON array. Use a [Splitter](../Utility/Splitter) to set the value.
 
-要添加到JSON数组的值。使用 [Splitter](https://www.notion.so/Splitter-6ad291b734314bfdaace0a4b8abf3d91) 设置该值。
+要添加到JSON数组的值。使用 [Splitter](../Utility/Splitter) 设置该值。
 
 **Input 输入**
 
-A value to add to the JSON array. Use a [Splitter](https://www.notion.so/Splitter-6ad291b734314bfdaace0a4b8abf3d91) to set the value.
+A value to add to the JSON array. Use a [Splitter](../Utility/Splitter)  to set the value.
 
-要添加到JSON数组的值。使用 [Splitte](https://www.notion.so/Splitter-6ad291b734314bfdaace0a4b8abf3d91)r 设置该值。
+要添加到JSON数组的值。使用 [Splitter](../Utility/Splitter)  设置该值。
 
 **Array 数组**
 
@@ -44,12 +44,12 @@ The JSON array of values.
 
 ### Related Patches 相关模块
 
-[JSON to Text JSON转文本](https://www.notion.so/JSON-to-Text-JSON-4588bc744b584d629fb8dc1091173864)
+[JSON to Text JSON 转文本](./JSON%20to%20Text)
 
-[Array Count 数组数量](https://www.notion.so/Array-Count-d3eb7de9a25945ef8525e52317509c86)
+[Array Count 数组数量](./Array%20Count)
 
-[Array Append 数组添加](https://www.notion.so/Array-Append-dbfec52d66f94e1db81c8ef5d8bc3606)
+[Array Append 数组添加](./Array%20Append)
 
-[Value at Index 索引值](https://www.notion.so/Value-at-Index-e23667c4b77b44b882f3936b67309eac)
+[Value at Index 索引值](./Value%20at%20Index)
 
-[Subarray 子数组](https://www.notion.so/Subarray-ae5b652af97844f2942aad3e639c1f51)
+[Subarray 子数组](./Subarray)

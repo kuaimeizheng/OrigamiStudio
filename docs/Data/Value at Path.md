@@ -64,6 +64,6 @@ The value at the path.
 
 ### Related Patches 相关模块
 
-[Value for Key 关键值](https://www.notion.so/Value-for-Key-5e3c5536dbcf4c0b8a73f1d9fd20a380)
+[Value for Key 关键值](./Value%20for%20Key)
 
-[Value at Index 索引值](https://www.notion.so/Value-at-Index-e23667c4b77b44b882f3936b67309eac)
+[Value at Index 索引值](./Value%20at%20Index)

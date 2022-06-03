@@ -26,14 +26,14 @@ A text string that represents the JSON data.
 
 ### Related Patches 相关模块
 
-[JSON Array JSON数组](https://www.notion.so/JSON-Array-JSON-c04f26109f71497c95627e1ad6b7cbed)
+[JSON Array JSON 数组](./JSON%20Array)
 
-[Value at Index 索引值](https://www.notion.so/Value-at-Index-e23667c4b77b44b882f3936b67309eac)
+[Value at Index 索引值](./Value%20at%20Index)
 
-[Set Value for Key 设置键值](https://www.notion.so/Set-Value-for-Key-7e6cb6d6435c46e99a44ca2a50498cf4)
+[Set Value for Key 设置键值](./Set%20Value%20for%20Key)
 
 ------
 
 ### Related Layers 相关图层
 
-[Text Layer 文本图层](https://www.notion.so/Text-Layer-55f5163900ed47698f1ccc1752423a88)
+[Text Layer 文本图层](../Layer/Text%20Layer)

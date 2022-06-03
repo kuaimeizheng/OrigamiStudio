@@ -36,6 +36,6 @@ JSON 对象中键的值。
 
 ### Related Patches 相关模块
 
-[Value at Index 索引值](https://www.notion.so/Value-at-Index-e23667c4b77b44b882f3936b67309eac)
+[Value at Index 索引值](./Value%20at%20Index)
 
-[Value at Path 路径值](https://www.notion.so/Value-at-Path-46243915b4c74c1eb8c5edefb77263eb)
+[Value at Path 路径值](./Value%20at%20Path)

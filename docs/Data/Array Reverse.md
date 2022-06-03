@@ -26,4 +26,4 @@ The reversed array.
 
 ### Related Patches 相关模块
 
-[Array Sort 数组排序](https://www.notion.so/Array-Sort-0f5d316239454f9abdce72bf2c370f1d)
+[Array Sort 数组排序](./Array%20Sort)

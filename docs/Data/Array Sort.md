@@ -32,4 +32,4 @@ The sorted array.
 
 ### Related Patches 相关模块
 
-[Array Reverse 数组反转](https://www.notion.so/Array-Reverse-862693b3da0c4124aaa5d7c888350592)
+[Array Reverse 数组反转](./Array%20Reverse)

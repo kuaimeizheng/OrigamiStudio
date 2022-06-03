@@ -36,8 +36,8 @@ The JSON Object containing the key-value pair.
 
 ### Related Patches 相关模块
 
-[Set Value for Key 设置键值](https://www.notion.so/Set-Value-for-Key-7e6cb6d6435c46e99a44ca2a50498cf4)
+[Set Value for Key 设置键值](./Set%20Value%20for%20Key)
 
-[Set Value for Key 设置键值](https://www.notion.so/Set-Value-for-Key-7e6cb6d6435c46e99a44ca2a50498cf4)
+[Value for Key 关键值](./Value%20for%20Key)
 
-[JSON Array JSON数组](https://www.notion.so/JSON-Array-JSON-c04f26109f71497c95627e1ad6b7cbed)
+[JSON Array JSON 数组](./JSON%20Array)

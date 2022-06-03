@@ -38,8 +38,8 @@ The JSON array with the new item appended.
 
 ### Related Patches 相关模块
 
-[JSON Array JSON数组](https://www.notion.so/JSON-Array-JSON-c04f26109f71497c95627e1ad6b7cbed)
+[JSON Array JSON 数组](./JSON%20Array)
 
-[Value at Index 索引值](https://www.notion.so/Value-at-Index-e23667c4b77b44b882f3936b67309eac)
+[Value at Index 索引值](./Value%20at%20Index)
 
-[Subarray 子数组](https://www.notion.so/Subarray-ae5b652af97844f2942aad3e639c1f51)
+[Subarray 子数组](./Subarray)
