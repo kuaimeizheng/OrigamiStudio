@@ -56,11 +56,11 @@ The current value of the animation.
 
 ### Related Patches 相关模块
 
-[Spring Converter 弹性转换器]
+[Spring Converter 弹性转换器](./Curve)
 
-[Pop Animation 流行动画]
+[Pop Animation 流行动画](./Pop%20Animation)
 
-[Gesture 手势]
+[Gesture 手势](../Interaction/Geature)
 
 历史版本
 

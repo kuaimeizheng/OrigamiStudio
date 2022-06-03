@@ -49,15 +49,15 @@ Typically a progress value. See Animation Basics for more information.
 
 ### Related Patches 相关模块
 
-Classic Animation 经典动画
+[Classic Animation 经典动画](./Classic%20Animation)
 
-Repeating Animation 重复动画
+[Repeating Animation 重复动画](./Repeating%20Animation)
 
-Bouncy Converter 弹性转换器
+[Bouncy Converter 弹性转换器](./Bouncy%20Converter)
 
-Spring Converter 弹性转换器
+[Spring Converter 弹性转换器](./Spring%20Converter)
 
-Transition 过渡
+[Transition 过渡](../Utility/Transition)
 
 历史版本
 

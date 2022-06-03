@@ -78,11 +78,11 @@ Typically a progress value. See [Animation Basics]for more information.
 
 ### Related Patches 相关模块
 
-Pop Animation 流行动画
+[Pop Animation 流行动画](./Pop%20Animation)
 
-Repeating Animation 重复动画
+[Repeating Animation 重复动画](./Repeating%20Animation)
 
-Transition 过渡
+[Transition 过渡](../Utility/Transition)
 
 历史版本
 
