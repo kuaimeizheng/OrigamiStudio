@@ -8,7 +8,7 @@ Output a pulse at regular intervals.
 
 定期输出一个脉冲。
 
-See [States & Pulses](https://www.notion.so/States-Pulses-758351d7e4104b75b06da93560565bc0) for more information.
+See [States & Pulses](./../Concepts/States%20&%20Pulses.md) for more information.
 
 有关更多信息，请参阅状态和脉冲。
 
@@ -32,4 +32,4 @@ A pulse repeated at regular intervals.
 
 [Repeating Animation 重复动画](./../Animation/Repeating%20Animation.md)
 
-[Pulse 脉冲](https://www.notion.so/Pulse-ac15ab739fed400496866264e653095f)
+[Pulse 脉冲](./Pulse.md)

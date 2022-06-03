@@ -22,7 +22,7 @@ The camera to use: front-facing or back-facing.
 
 使用的相机：前置或者后置
 
-### Record Video 录制视频### 
+### Record Video 录制视频
 
 A boolean that is true when recording video.
 
@@ -40,13 +40,13 @@ A continuous video stream of the current camera feed.
 
 当前相机反馈的连续视频流。
 
-### Video 视频### 
+### Video 视频
 
 The last recorded video. Connect to a [Video Layer](https://www.notion.so/Video-Layer-915cdce337764d249dda387ba65eebfd).
 
 最后录制的视频。连接到 Video Layer 。
 
-### Image 图片### 
+### Image 图片
 
 The last captured image. Connect to an [Image Layer](https://www.notion.so/Image-Layer-d7f13553f3764219a1004bfb8e77150f).
 

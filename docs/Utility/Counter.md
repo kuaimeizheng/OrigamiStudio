@@ -22,13 +22,13 @@ Constrain the counter by specifying a value in the Maximum Count port. If the co
 
 通过在最大计数端口中指定值来约束计数器。如果计数器在达到该最大值后递增，它将重置为零。将计数器从其初始值递减将使其返回最大值。如果计数器受到约束，“跳转到数字”值必须在范围内，否则计数器将返回到起始值。
 
-Often used to track a sequential state (ex: an onboarding flow) interchangeably with [Option Switch](https://www.notion.so/Option-Switch-214202427d7b4db4a407a7c0dae2f209). See [State Basics](https://www.notion.so/States-f6b16f4ab5014bbabfa37251885c1d09) for more information.
+Often used to track a sequential state (ex: an onboarding flow) interchangeably with [Option Switch](./Option%20Switch.md). See [State Basics](./../Patch%20Editor/States.md) for more information.
 
 通常用于跟踪顺序状态(例如:加载流程)，可与Option Switch互换。更多信息请参考 状态基础。
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c4361c08-4276-4ff5-9885-1c0c4c66274a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180938Z&X-Amz-Expires=86400&X-Amz-Signature=de162e22cb66baaeb7dd6fc9055a31ece8267217e1137099a6fb7f12cc2dc22e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-### Increase 递增### 
+### Increase 递增
 
 A pulse that increases the counter value by 1.
 
@@ -68,6 +68,6 @@ The current value of the counter (ex: 0, 1, 2…)
 
 ### Related Patches 相关模块
 
-[Switch 开关](https://www.notion.so/Switch-bd684625ec8b4aaa9ff9b5ae3e396e86)
+[Switch 开关](./Switch.md)
 
-[Option Switch 选项开关](https://www.notion.so/Option-Switch-214202427d7b4db4a407a7c0dae2f209)
+[Option Switch 选项开关](./Option%20Switch.md)

@@ -37,9 +37,9 @@ Filters the results by media type. The possible media types are:
 2. Photos. 照片
 3. Videos. 视频
 
-### Album 相册### 
+### Album 相册
 
-A string that filters the output to elements that are only present in that Album. If an empty string is provided it will bring “All Photos” from the Library. For querying the Albums see: [Photo Albums](https://www.notion.so/Photo-Albums-a46ad8c7f21b4c4f89d6845b0fa2889b)
+A string that filters the output to elements that are only present in that Album. If an empty string is provided it will bring “All Photos” from the Library. For querying the Albums see: [Photo Albums](./Photo%20Albums.md)
 
 一个字符串，用于过滤只出现在该专辑中的元素的输出。如果提供一个空字符串，它将带来“所有照片”从图书馆。查询相册的方法请参见“相册”
 
@@ -49,13 +49,13 @@ A loop of photo media indices.
 
 照片媒体索引循环。
 
-### Photo Media 照片媒体### 
+### Photo Media 照片媒体
 
 A loop of photo media assets (Each photo media asset can be an image or a video.)
 
 照片媒体资产循环（每个照片媒体资产可以是图像或视频。）
 
-### Error 错误### 
+### Error 错误
 
 A boolean if there is an error retrieving photo media assets. Usually due to permission issues.
 

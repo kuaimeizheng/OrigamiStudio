@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Image 图片
 
-An image represented as a patch. Double-click the thumbnail to select an image from Finder. Drag an image into the graph to create an Image patch. Connect to an [Image Layer](https://www.notion.so/Image-Layer-d7f13553f3764219a1004bfb8e77150f) to display it in the viewer.
+An image represented as a patch. Double-click the thumbnail to select an image from Finder. Drag an image into the graph to create an Image patch. Connect to an [Image Layer](./../Layer/Image%20Layer.md) to display it in the viewer.
 
 表示图像的模块。
 
@@ -30,10 +30,10 @@ The image.
 
 ### Related Patches 相关模块
 
-[Image Info 图片信息](https://www.notion.so/Image-Info-80997164df094ad3a7db5f943922597e)
+[Image Info 图片信息](./Image%20Info.md)
 
 ------
 
 ### Related Layers 相关图层
 
-[Image File 图像文件](https://www.notion.so/Image-File-a86eff7ee4704c31b00057723d0e659f)
+[Image File 图像文件](./../Layer/Image%20File.md)

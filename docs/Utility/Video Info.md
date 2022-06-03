@@ -32,10 +32,10 @@ The elapsed time of the video, in seconds.
 
 ### Related Patches 相关模块
 
-[Video 视频](https://www.notion.so/Video-b20fc56064024814a3b7408ab447641c)
+[Video 视频](./Video.md)
 
 ------
 
 ### Related Layers 相关图层
 
-[Video File 视频文件](https://www.notion.so/Video-File-460f7fd4e7db40328e354f6306ede79a)
+[Video File 视频文件](./../Layer/Video%20File.md)

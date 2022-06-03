@@ -60,7 +60,7 @@ The pivot to rotate and scale the layer about. See [Coordinates 坐标](./../Con
 
 图层缩放、旋转、移动时的中心点或初始点。详细信息阅读[Coordinates 坐标](./../Concepts/Coordinates.md)。
 
-### Video 视频### 
+### Video 视频
 
 A video to play.
 

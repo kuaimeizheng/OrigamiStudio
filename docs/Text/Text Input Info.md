@@ -26,15 +26,15 @@ The type of keyboard of the currently focused text field.
 
 ### Related Patches 相关模块
 
-[Text Length 文本长短](https://www.notion.so/Text-Length-4f520beee1fd463aa41737d2afd76ae2)
+[Text Length 文本长短](./Text%20Length.md)
 
-[Text Size 文本大小](https://www.notion.so/Text-Size-72cf71974e544a7f9b2fc9fb5de9143e)
+[Text Size 文本大小](./Text%20Size.md)
 
 ------
 
 ### Related Layers 相关图层
 
-[Text Layer 文本图层](https://www.notion.so/Text-Layer-55f5163900ed47698f1ccc1752423a88)
+[Text Layer 文本图层](./../Layer/Text%20Layer.md)
 
 [Text Field 文本输入框](./../iOS/Text%20Field.md)
 

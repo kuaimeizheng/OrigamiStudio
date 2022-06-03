@@ -20,13 +20,13 @@ The layer to take the snapshot from. ‘None’ will snapshot the entire screen.
 
 要从中获取快照的图层。 “无”将快照整个屏幕。
 
-### Sample 采样### 
+### Sample 采样
 
 A pulse to take the snapshot of the current state.
 
 一个脉冲，表示用于拍摄当前状态快照。
 
-### Image 图片### 
+### Image 图片
 
 The image of the snapshot.
 
@@ -36,4 +36,4 @@ The image of the snapshot.
 
 ### Related Patches 相关模块
 
-[Image 图片](https://www.notion.so/Image-826d9097aca041e8a8aa1a102e87b9d8)
+[Image 图片](./Image.md)

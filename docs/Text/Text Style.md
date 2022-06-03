@@ -8,7 +8,7 @@ Set the style of a specific range of characters on a text layer.
 
 设置文本图层上特定范围字符的样式。
 
-Use [Text Style Builder](https://www.notion.so/Text-Style-Builder-34b2f60c5d654b7988c1e059a8a3c422) to combine with multiple Text Style patches.
+Use [Text Style Builder](./Text%20Style%20Builder.md) to combine with multiple Text Style patches.
 
 使用文本样式生成器与多个文本样式模块组合。
 
@@ -68,13 +68,13 @@ A number that represents the horizontal space between characters, in points.
 
 一个数字，表示字符之间的水平间距，以磅为单位。
 
-### Decoration 装饰### 
+### Decoration 装饰
 
 The type of decorative lines, underline or strikethrough, used on the text.
 
 文本上使用的装饰线类型，下划线或删除线。
 
-### Transform 转换### 
+### Transform 转换
 
 The type of transform to control the capitalization of the text.
 
@@ -82,7 +82,7 @@ The type of transform to control the capitalization of the text.
 
 ### Style 样式
 
-The formatted text range to pass to the Style Override input on a [Text Layer](https://www.notion.so/Text-Layer-55f5163900ed47698f1ccc1752423a88).
+The formatted text range to pass to the Style Override input on a [Text Layer](./../Layer/Text%20Layer.md).
 
 格式化的文本样式传递到文本图层。
 
@@ -90,14 +90,14 @@ The formatted text range to pass to the Style Override input on a [Text Layer](h
 
 ### Related Patches 相关模块
 
-[Text Style Builder 文本样式生成器](https://www.notion.so/Text-Style-Builder-34b2f60c5d654b7988c1e059a8a3c422)
+[Text Style Builder 文本样式生成器](./Text%20Style%20Builder.md)
 
-[Text Length 文本长短](https://www.notion.so/Text-Length-4f520beee1fd463aa41737d2afd76ae2)
+[Text Length 文本长短](./Text%20Length.md)
 
 ------
 
 ### Related Layers 相关图层
 
-[Text Layer 文本图层](https://www.notion.so/Text-Layer-55f5163900ed47698f1ccc1752423a88)
+[Text Layer 文本图层](./../Layer/Text%20Layer.md)
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4620337d-6f3f-4c70-9540-fc7c08094f53/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180447Z&X-Amz-Expires=86400&X-Amz-Signature=c761b693415a82ed6eb075b8fde5384e71ff1d3a8cb185ae48ec5e349ef04f47&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

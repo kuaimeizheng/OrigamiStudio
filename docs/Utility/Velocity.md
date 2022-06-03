@@ -30,8 +30,8 @@ The change in the number between the current and previous frame.
 
 ### Related Patches 相关模块
 
-[Drag 拖拽](https://www.notion.so/Drag-3a3c7a4a7cc140e0b845728f2cb2b68f)
+[Drag 拖拽](./../Interaction/Drag.md)
 
-[Scroll 滚动](https://www.notion.so/Scroll-2f1508bfbec742279786513c26602209)
+[Scroll 滚动](./../Interaction/Scroll.md)
 
-[### [+](https://origami.design/documentation/patches/builtin.math.add.html) 加### ](https://www.notion.so/8f03e4d8996f49ad994e405ad7cb58d5)
+[+ 加](./+.md)

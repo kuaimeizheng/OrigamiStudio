@@ -42,16 +42,16 @@ A text string that represents the formatted time or date.
 
 ### Related Patches 相关模块
 
-[Time 时间](https://www.notion.so/Time-1ff0676f9141430d815d2b0cbde18457)
+[Time 时间](./Time.md)
 
-[Stopwatch 秒表](https://www.notion.so/Stopwatch-540c6cc481f2444bb0bd0e05a248d36e)
+[Stopwatch 秒表](./Stopwatch.md)
 
-[Video Info 视频信息](https://www.notion.so/Video-Info-4d10e3612b784ced9bd23631b9e3a68b)
+[Video Info 视频信息](./Video%20Info.md)
 
-[Device Time 设备时间](https://www.notion.so/Device-Time-a7710a1e2a824f8ead4c61f72a22aa7a)
+[Device Time 设备时间](./../Device/Device%20Time.md)
 
 ------
 
 ### Related Layers 相关图层
 
-[Video File 视频文件](https://www.notion.so/Video-File-460f7fd4e7db40328e354f6306ede79a)
+[Video File 视频文件](./../Layer/Video%20File.md)

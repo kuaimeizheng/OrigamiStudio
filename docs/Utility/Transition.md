@@ -23,11 +23,11 @@ The number wraps when progress exceeds the 0 to 1 range:
 - a progress of -.5 will output 25 -.5进度时将输出25
 - a progress of 2 will output 150 2进度时将输出150
 
-Convert a number from any range to 0 to 1 with [Progress](https://www.notion.so/Progress-9e7dae7cad624cd9a8666d13c8d56246).
+Convert a number from any range to 0 to 1 with [Progress](./Progress.md).
 
 使用 Progress 可以将任意范围内的数值转换为 0 到 1。
 
-Often used with a [Switch](https://www.notion.so/Switch-bd684625ec8b4aaa9ff9b5ae3e396e86) and [Pop](https://www.notion.so/Pop-Animation-fa14e93b7f1a480f933420a19fa15fad)/[Classic Animation](https://www.notion.so/Classic-Animation-8996317e957c4b8893a175bd266112e5). See [Animation Basics](https://www.notion.so/cbf103e362354b7dbb0217e916ed392e) for more information.
+Often used with a [Switch](./Switch.md) and [Pop](./../Animation/Pop%20Animation.md)/[Classic Animation](./../Animation/Classic%20Animation.md). See [Animation Basics](./../Patch%20Editor/Animations.md) for more information.
 
 Right-click to change the type (ex: number, position, color).
 
@@ -59,7 +59,7 @@ Size Axis
 
 ### Progress 进度
 
-A progress value. See [Animation Basics](https://www.notion.so/cbf103e362354b7dbb0217e916ed392e) for more information.
+A progress value. See [Animation Basics](./../Patch%20Editor/Animations.md) for more information.
 
 进度值。更多信息请参考 Animation Basics
 
@@ -89,14 +89,14 @@ The converted value.
 
 ### Related Patches 相关模块
 
-[Pop Animation 流行动画](https://www.notion.so/Pop-Animation-fa14e93b7f1a480f933420a19fa15fad)
+[Pop Animation 流行动画](./../Animation/Pop%20Animation.md)
 
 [Classic Animation 经典动画](./../Animation/Classic%20Animation.md)
 
-[Switch 开关](https://www.notion.so/Switch-bd684625ec8b4aaa9ff9b5ae3e396e86)
+[Switch 开关](./Switch.md)
 
-[Progress 进度](https://www.notion.so/Progress-9e7dae7cad624cd9a8666d13c8d56246)
+[Progress 进度](./Progress.md)
 
-[Option Picker 选项选择器](https://www.notion.so/Option-Picker-26fa02ba463b47be8b9c4098357d5dfb)
+[Option Picker 选项选择器](./Option%20Picker.md)
 
-[Clip 裁剪](https://www.notion.so/Clip-a5ecb147ada6467e982695ba6670f474)
+[Clip 裁剪](./Clip.md)

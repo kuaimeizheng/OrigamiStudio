@@ -24,8 +24,8 @@ A pulse on the first frame of a prototype.
 
 ### Related Patches 相关模块
 
-[Pulse 脉冲](https://www.notion.so/Pulse-ac15ab739fed400496866264e653095f)
+[Pulse 脉冲](./Pulse.md)
 
-[Pulse on Change 脉冲变化](https://www.notion.so/Pulse-on-Change-e3f5933f7eda432fb68934f7416fdb06)
+[Pulse on Change 脉冲变化](./Pulse%20on%20Change.md)
 
-[Wait 等待](https://www.notion.so/Wait-6f1674d3f8dc48299a11e12261ef991c)
+[Wait 等待](./Wait.md)

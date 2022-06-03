@@ -40,7 +40,7 @@ A number that represents the horizontal space between characters, in points.
 
 一个数字，表示字符之间的水平间距，以磅为单位。
 
-### Line Height 行高### 
+### Line Height 行高
 
 A number that represents the distance between baselines, in points.
 
@@ -62,12 +62,12 @@ The measured size of the text.
 
 ### Related Patches 相关模块
 
-[Text Length 文本长短](https://www.notion.so/Text-Length-4f520beee1fd463aa41737d2afd76ae2)
+[Text Length 文本长短](./Text%20Length.md)
 
 ------
 
 ### Related Layers 相关图层
 
-[Text Layer 文本图层](https://www.notion.so/Text-Layer-55f5163900ed47698f1ccc1752423a88)
+[Text Layer 文本图层](./../Layer/Text%20Layer.md)
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a44ce78a-b595-4838-90e2-516036a5adae/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180326Z&X-Amz-Expires=86400&X-Amz-Signature=d9fb1f6334250163a37d95ad7cc0dc5ad7922dac7809d9afee73f8e0d14b5483&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

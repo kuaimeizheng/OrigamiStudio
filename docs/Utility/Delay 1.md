@@ -30,4 +30,4 @@ The number, which is output only after the delay has elapsed.
 
 ### Related Patches 相关模块
 
-[Delay 延迟](https://www.notion.so/Delay-1c13fd0e8b174959baf510b49a291927)
+[Delay 延迟](./Delay.md)

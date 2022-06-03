@@ -12,7 +12,7 @@ Convert a value between 0 and 1 to a new range defined by the start and end valu
 
 ### Progress 进度
 
-A progress value. See [Animation Basics](https://www.notion.so/Animations-b81db69b4bcd4eb5a2ab5f31de3ce7c9) for more information.
+A progress value. See [Animation Basics](./../Patch%20Editor/Animations.md) for more information.
 
 一个进度值。有关详情信息，请参考 Animation Basic
 
@@ -44,10 +44,10 @@ The converted value.
 
 ### Related Patches 相关模块
 
-[Pop Animation 流行动画](https://www.notion.so/Pop-Animation-fa14e93b7f1a480f933420a19fa15fad)
+[Pop Animation 流行动画](./../Animation/Pop%20Animation.md)
 
 [Classic Animation 经典动画](./../Animation/Classic%20Animation.md)
 
-[Transition 过渡](https://www.notion.so/Transition-105402795ee34baea7dd7a6b4bb251cc)
+[Transition 过渡](./Transition.md)
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/631a8f21-1f0f-4fdd-a06f-d6ee6a464f03/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180802Z&X-Amz-Expires=86400&X-Amz-Signature=61fce40aff86e6c60faf8d39d7f1760e7ecd8c5392504ab52e31a65ac6cefb34&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

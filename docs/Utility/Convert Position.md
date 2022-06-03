@@ -14,7 +14,7 @@ If you want to have layer B follow layer A, add layer A as the “From parent”
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e418892b-a888-4ff9-bf9a-4e5ff5e6cf19/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180908Z&X-Amz-Expires=86400&X-Amz-Signature=9fd766a7b19bdb8aa0dacc797af87c16ad95c07006f99b09a60934270789d796&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-### From Parent 从父级### 
+### From Parent 从父级
 
 The layer you would like to get the position of.
 
@@ -32,7 +32,7 @@ Use this to determine whether you are converting the top left, middle, bottom ri
 
 使用此选项来确定您是否正在转换左上、中间、右下等等
 
-### To Parent 到父级### 
+### To Parent 到父级
 
 The parent layer you would like to get your converted position in context of
 
@@ -50,7 +50,7 @@ The converted X / Y position. (Use a Point Unpack patch to get each individual c
 
 转换后的 X / Y 位置。 （使用 Point Unpack 模块获取每个单独的坐标值）
 
-### Error 错误### 
+### Error 错误
 
 A boolean if there was an error getting the converted position coordinates. Typically this is caused by one of the layers being disabled.
 

@@ -60,7 +60,7 @@ The number of particles generated.
 
 生成的粒子数量。
 
-### Color Change 颜色变化### 
+### Color Change 颜色变化
 
 The color of a particle when it disappears.
 

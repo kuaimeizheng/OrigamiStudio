@@ -20,7 +20,7 @@ The number of loops to return from the Waveform output.
 
 从波形输出返回的循环数。
 
-### Format 格式化### 
+### Format 格式化
 
 An enum of the output type to return, either as a percentage from 0 to 1 or as decibels (-160 (silence) to 0).
 

@@ -4,9 +4,9 @@ sidebar_position: 2
 
 # Stopwatch 秒表
 
-Measure elapsed time. Use [Wait](https://www.notion.so/Wait-6f1674d3f8dc48299a11e12261ef991c) to create a countdown/timer.
+Measure elapsed time. Use [Wait](./Wait.md) to create a countdown/timer.
 
-测量经过的时间。使用 [Wait 等待](https://www.notion.so/Wait-6f1674d3f8dc48299a11e12261ef991c) 模块创建倒计时/计时器。
+测量经过的时间。使用 [Wait 等待](./Wait.md) 模块创建倒计时/计时器。
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f6c6a243-eabc-4c6c-b866-bec23a816b09/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T182313Z&X-Amz-Expires=86400&X-Amz-Signature=28aaf9f22ed2400d4c3d3b4b9ea5207a76a91538f7e7ecfb79b4e0f63df3050b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
@@ -38,8 +38,8 @@ The time elapsed since the stopwatch started, in seconds.
 
 ### Related Patches 相关模块
 
-[Wait 等待](https://www.notion.so/Wait-6f1674d3f8dc48299a11e12261ef991c)
+[Wait 等待](./Wait.md)
 
-[Time 时间](https://www.notion.so/Time-1ff0676f9141430d815d2b0cbde18457)
+[Time 时间](./Time.md)
 
-[Device Time 设备时间](https://www.notion.so/Device-Time-a7710a1e2a824f8ead4c61f72a22aa7a)
+[Device Time 设备时间](./../Device/Device%20Time.md)

@@ -44,8 +44,8 @@ The value, which will be output only after the delay has elapsed.
 
 ### Related Patches 相关模块
 
-[Delay 1 延迟1](https://www.notion.so/Delay-1-1-4bd4396418f74122a4f8fd5edb13e888)
+[Delay 1 延迟1](./Delay%201.md)
 
-[Switch 开关](https://www.notion.so/Switch-bd684625ec8b4aaa9ff9b5ae3e396e86)
+[Switch 开关](./Switch.md)
 
 [Interaction 交互](./../Interaction/Interaction.md)

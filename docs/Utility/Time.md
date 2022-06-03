@@ -20,7 +20,7 @@ The number of seconds have have passed since the start of the prototypes, starti
 
 自原型开始以来已经过去的秒数，从 0 开始。
 
-### Frame 帧### 
+### Frame 帧
 
 The number of frames have have passed since the start of the prototypes, starting at 0. When running at 60 frames per second, frames should be time * 60.
 

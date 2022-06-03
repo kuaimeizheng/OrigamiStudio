@@ -6,7 +6,7 @@ sidebar_position: 2
 
 Pick one of the outputs to send the value to. Often used with Option Switch to control which output to send the value to. Formerly known as Demultiplexer.
 
-把值发送到选中的一个输出口。 通常与 [Option Switch](https://www.notion.so/Option-Switch-214202427d7b4db4a407a7c0dae2f209) 一起使用来控制把值发送哪个输出口。
+把值发送到选中的一个输出口。 通常与 [Option Switch](./Option%20Switch.md) 一起使用来控制把值发送哪个输出口。
 
 Right-click to change the type (ex: color, boolean), or to add additional options.
 
@@ -26,7 +26,7 @@ A value to be passed to the selected output.
 
 传递到所选输出端口的值。
 
-### Default 默认### 
+### Default 默认
 
 A value to be passed to the unselected outputs.
 
@@ -48,6 +48,6 @@ If selected (option is 1), the value. Otherwise, the default.
 
 ### Related Patches 相关模块
 
-[Option Picker 选项选择器](https://www.notion.so/Option-Picker-26fa02ba463b47be8b9c4098357d5dfb)
+[Option Picker 选项选择器](./Option%20Picker.md)
 
-[Option Equals 选项相等](https://www.notion.so/Option-Equals-638d7c82510948fbbdba0bbd8a18ba7f)
+[Option Equals 选项相等](./Option%20Equals.md)

@@ -16,15 +16,15 @@ The commands accepted in the array are the following:
 
 数组中接受的命令如下:
 
-### moveTo### : Move the current point to (x, y) and begin a new subpath.
+moveTo: Move the current point to (x, y) and begin a new subpath.
 
-### moveTo### : 将当前点移动到(x, y)并开始一个新的子路径。
+moveTo: 将当前点移动到(x, y)并开始一个新的子路径。
 
 ```
 {   "type" : "moveTo"   "point" : {     "x" : 0,     "y" : 0   } }
 ```
 
-### lineTo### : Append a straight line segment from the current point to (x, y) in shape and move the current point to (x, y).
+lineTo: Append a straight line segment from the current point to (x, y) in shape and move the current point to (x, y).
 
 ### lineTo### : 将当前点的直线段附加到(x, y)，并将当前点移动到(x, y)。
 
@@ -32,9 +32,9 @@ The commands accepted in the array are the following:
 {   "type" : "lineTo"   "point" : {     "x" : 0,     "y" : 0   } }
 ```
 
-### curveTo### : Append a cubic bézier curve from the current point to “curveTo(x,y)” with control points “curveFrom(x, y)” and “point(x, y)” in “shape” and move the current point to “(x, y)”.
+curveTo: Append a cubic bézier curve from the current point to “curveTo(x,y)” with control points “curveFrom(x, y)” and “point(x, y)” in “shape” and move the current point to “(x, y)”.
 
-### curveTo### : 附加一个三次方贝塞尔曲线从当前点到“curveTo(x,y)”与控制点“curveFrom(x, y)”和“点(x,y)”在“形状”，并移动当前点到“(x, y)”。
+curveTo : 附加一个三次方贝塞尔曲线从当前点到“curveTo(x,y)”与控制点“curveFrom(x, y)”和“点(x,y)”在“形状”，并移动当前点到“(x, y)”。
 
 ```
 {   "type" : "curveTo",   "curveFrom" : {     "x" : 0,     "y" : 0   },   "point" : {     "x" : 0,     "y" : 0   },   "curveTo" : {     "x" : 0,     "y" : 0   } }
@@ -44,7 +44,7 @@ The commands accepted in the array are the following:
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4fc3a45f-fc5f-44f2-81b6-db8be765c6b3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T181255Z&X-Amz-Expires=86400&X-Amz-Signature=b448563a262f308c789a4c9b405c70944bb8aeb7da58a10fa54921e5a2ea9bdd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-### JSON### 
+### JSON
 
 A JSON Object that follows the path structure.
 
@@ -56,13 +56,13 @@ A width and height value that will act as a scale multiplier for every x,y compo
 
 宽度和高度值，将作为形状上每个x、y组件的比例相乘。
 
-### Shape 图形### 
+### Shape 图形
 
 A shape object.
 
 一个图形对象
 
-### Error 错误### 
+### Error 错误
 
 A string with an explanation of an error, if there was an error with the path structure.
 
@@ -72,4 +72,4 @@ A string with an explanation of an error, if there was an error with the path st
 
 ### Related Layers 相关图层
 
-[Shape 形状](https://www.notion.so/Shape-6381402c7a90468d97365c58ab562ea1)
+[Shape 形状](./../Layer/Shape.md)

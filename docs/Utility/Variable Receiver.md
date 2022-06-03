@@ -4,9 +4,9 @@ sidebar_position: 2
 
 # Variable Receiver 变量接收器
 
-Use a value sent from a Variable Broadcaster. You can choose variables from within the current patch graph, as well as any Global variables from the root of the document or parents of the current component. Learn more about [Global Variables](https://www.notion.so/Variable-Receiver-b69081bd045242db938094502ae25052).
+Use a value sent from a Variable Broadcaster. You can choose variables from within the current patch graph, as well as any Global variables from the root of the document or parents of the current component. Learn more about [Global Variables](./../Concepts/Variables.md).
 
-接收从变量发送器发送的值。您可以从当前模块图中选择变量，以及来自文档根目录或当前组件父项的任何全局变量。详细了解[全局变量](https://www.notion.so/Variables-e004a283aa2e44268f4a91110e4aca0b)。
+接收从变量发送器发送的值。您可以从当前模块图中选择变量，以及来自文档根目录或当前组件父项的任何全局变量。详细了解[全局变量](./../Concepts/Variables.md)。
 
 Click the patch name to select the value to receive. Click the wireless icon to jump to the corresponding local Variable Broadcaster.
 
@@ -24,6 +24,6 @@ The value received from a matching broadcaster.
 
 ### Related Patches 相关模块
 
-[Variable Receiver 变量接收器](https://www.notion.so/Variable-Receiver-b69081bd045242db938094502ae25052)
+[Variable Receiver 变量接收器](./Variable%20Receiver.md)
 
-[Splitter 分离器](https://www.notion.so/Splitter-6ad291b734314bfdaace0a4b8abf3d91)
+[Splitter 分离器](./Splitter.md)

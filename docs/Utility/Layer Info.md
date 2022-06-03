@@ -24,7 +24,7 @@ A boolean that is true when the layer is enabled.
 
 ### Size 尺寸
 
-The size of the layer. Use [Size Unpack](https://www.notion.so/Point-Unpack-2b4874a049d34f898bc64c27879e191e) to get the individual width and height.
+The size of the layer. Use [Size Unpack](./Point%20Unpack.md) to get the individual width and height.
 
 图层的大小。使用 Size Unpack 模块获取单独的宽和高。
 
@@ -36,13 +36,13 @@ The scale of the layer.
 
 ### Anchor 锚点
 
-The anchor point of the layer. The value of each coordinate is a number between 0 and 1, where .5 is the center. Use [Point Unpack](https://www.notion.so/Point-Unpack-2b4874a049d34f898bc64c27879e191e) to get the individual coordinates.
+The anchor point of the layer. The value of each coordinate is a number between 0 and 1, where .5 is the center. Use [Point Unpack](./Point%20Unpack.md) to get the individual coordinates.
 
 图层的锚点。每个坐标的值是 0~1 之间的数字，其中 0.5 是中心。
 
 使用 Point Unpack 获得各个坐标。
 
-### Parent 父级### 
+### Parent 父级
 
 The group the layer is in, or ‘none’ if the layer is not in a group. Connect this to another Layer Info to get information about the parent.
 
@@ -54,12 +54,12 @@ The group the layer is in, or ‘none’ if the layer is not in a group. Connect
 
 ### Related Layers 相关图层
 
-[Group 组](https://www.notion.so/Group-8fe10633d0c049a0b6866820a46c0ddc)
+[Group 组](./../Layer/Group.md)
 
-[Text Layer 文本图层](https://www.notion.so/Text-Layer-55f5163900ed47698f1ccc1752423a88)
+[Text Layer 文本图层](./../Layer/Text%20Layer.md)
 
-[Rectangle 矩形](https://www.notion.so/Rectangle-d4f77c73db8f4c9393d1a4616cd27912)
+[Rectangle 矩形](./../Layer/Rectangle.md)
 
-[Image File 图像文件](https://www.notion.so/Image-File-a86eff7ee4704c31b00057723d0e659f)
+[Image File 图像文件](./../Layer/Image%20File.md)
 
-[Video File 视频文件](https://www.notion.so/Video-File-460f7fd4e7db40328e354f6306ede79a)
+[Video File 视频文件](./../Layer/Video%20File.md)

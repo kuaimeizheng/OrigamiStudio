@@ -38,10 +38,10 @@ A pulse that is output when the input turns off.
 
 [Repeating Animation 重复动画](./../Animation/Repeating%20Animation.md)
 
-[Switch 开关](https://www.notion.so/Switch-bd684625ec8b4aaa9ff9b5ae3e396e86)
+[Switch 开关](./Switch.md)
 
-[When Prototype Starts 当原型启动时](https://www.notion.so/When-Prototype-Starts-12d376a890464eafb4479f301add9e73)
+[When Prototype Starts 当原型启动时](./When%20Prototype%20Starts.md)
 
-[Pulse on Change 脉冲变化](https://www.notion.so/Pulse-on-Change-e3f5933f7eda432fb68934f7416fdb06)
+[Pulse on Change 脉冲变化](./Pulse%20on%20Change.md)
 
 [Interaction 交互](./../Interaction/Interaction.md)

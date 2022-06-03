@@ -26,12 +26,12 @@ The number of characters in the text string.
 
 ### Related Patches 相关模块
 
-[Text Size 文本大小](https://www.notion.so/Text-Size-72cf71974e544a7f9b2fc9fb5de9143e)
+[Text Size 文本大小](./Text%20Size.md)
 
 ------
 
 ### Related Layers 相关图层
 
-[Text Layer 文本图层](https://www.notion.so/Text-Layer-55f5163900ed47698f1ccc1752423a88)
+[Text Layer 文本图层](./../Layer/Text%20Layer.md)
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8ebfa75c-bfe8-41c6-b81a-758e53876528/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180216Z&X-Amz-Expires=86400&X-Amz-Signature=93e5e68e1cabde43031712bf419df999700f01a9ebe4436d1f743fb73fc0dba9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

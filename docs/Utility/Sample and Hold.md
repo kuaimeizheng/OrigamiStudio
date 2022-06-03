@@ -20,7 +20,7 @@ A value of any type. By default, the value is a number.
 
 一个任意类型的值，通常是数字。
 
-### Sample 采样### 
+### Sample 采样
 
 A boolean that is true when the patch is sampling a value. When false, the patch will not sample the value, even if it changes. The patch outputs the most recently sampled value.
 
@@ -52,6 +52,6 @@ The currently stored value.
 
 ### Related Patches 相关模块
 
-[Pulse 脉冲](https://www.notion.so/Pulse-ac15ab739fed400496866264e653095f)
+[Pulse 脉冲](./Pulse.md)
 
 [Interaction 交互](./../Interaction/Interaction.md)

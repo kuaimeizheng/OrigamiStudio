@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Text Style Builder 文本样式生成器
 
-Used with [Text Style](https://www.notion.so/Text-Style-971a1442321d4e04a09ba0219f755ef6) patch to combine multiple text styles for a text layer.
+Used with [Text Style](./Text%20Style.md) patch to combine multiple text styles for a text layer.
 
 与文本样式模块一起使用，为文本图层组合多种文本样式。
 
@@ -16,19 +16,19 @@ Right-click to add additional text style inputs.
 
 ### Input 输入
 
-A text style from the [Text Style](https://www.notion.so/Text-Style-971a1442321d4e04a09ba0219f755ef6) patch.
+A text style from the [Text Style](./Text%20Style.md) patch.
 
 文本样式模块中的文本样式。
 
 ### Input 输入
 
-A text style from the [Text Style](https://www.notion.so/Text-Style-971a1442321d4e04a09ba0219f755ef6) patch.
+A text style from the [Text Style](./Text%20Style.md) patch.
 
 文本样式模块中的文本样式。
 
 ### Output 输出
 
-The combined formatted text range to pass to the Style Override input on a [Text Layer](https://www.notion.so/Text-Layer-55f5163900ed47698f1ccc1752423a88).
+The combined formatted text range to pass to the Style Override input on a [Text Layer](./../Layer/Text%20Layer.md).
 
 合并的文本格式传递到输入文本图层上。
 
@@ -36,10 +36,10 @@ The combined formatted text range to pass to the Style Override input on a [Text
 
 ### Related Patches 相关模块
 
-[Text Style 文本样式](https://www.notion.so/Text-Style-971a1442321d4e04a09ba0219f755ef6)
+[Text Style 文本样式](./Text%20Style.md)
 
 ------
 
 ### Related Layers 相关图层
 
-[Text Layer 文本图层](https://www.notion.so/Text-Layer-55f5163900ed47698f1ccc1752423a88)
+[Text Layer 文本图层](./../Layer/Text%20Layer.md)

@@ -8,9 +8,9 @@ Sends a value to any Variable Receiver patch set to receive the same name. Used 
 
 将值发送到任何变量接收器模块集以接收相同的名称。用于通过替换模块之间的连线来简化和整理补丁。
 
-By default, the variable can be used locally, and is available only within the current patch graph. Click the popup menu (or right-click the patch) to change the scope to “Global” to make the value available within the current patch graph as well as any child components. Learn more about [Global Variables](https://www.notion.so/Variables-e004a283aa2e44268f4a91110e4aca0b).
+By default, the variable can be used locally, and is available only within the current patch graph. Click the popup menu (or right-click the patch) to change the scope to “Global” to make the value available within the current patch graph as well as any child components. Learn more about [Global Variables](./../Concepts/Variables.md).
 
-默认情况下，该变量可以在本地使用，并且仅在当前模块图中可用。单击弹出菜单（或右键单击模块）以将范围更改为“全局”，以使该值在当前模块图中以及任何子组件中可用。详细了解[全局变量](https://www.notion.so/Variables-e004a283aa2e44268f4a91110e4aca0b)。
+默认情况下，该变量可以在本地使用，并且仅在当前模块图中可用。单击弹出菜单（或右键单击模块）以将范围更改为“全局”，以使该值在当前模块图中以及任何子组件中可用。详细了解[全局变量](./../Concepts/Variables.md)。
 
 Rename the patch to set the name of the value.
 
@@ -32,6 +32,6 @@ A value to broadcast.
 
 ### Related Patches 相关模块
 
-[Variable Receiver 变量接收器](https://www.notion.so/Variable-Receiver-b69081bd045242db938094502ae25052)
+[Variable Receiver 变量接收器](./Variable%20Receiver.md)
 
-[Splitter 分离器](https://www.notion.so/Splitter-6ad291b734314bfdaace0a4b8abf3d91)
+[Splitter 分离器](./Splitter.md)

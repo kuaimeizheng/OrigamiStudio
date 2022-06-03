@@ -46,6 +46,6 @@ The clipped value.
 
 ### Related Patches 相关模块
 
-[Progress 进度](https://www.notion.so/Progress-9e7dae7cad624cd9a8666d13c8d56246)
+[Progress 进度](./Progress.md)
 
-[Transition 过渡](https://www.notion.so/Transition-105402795ee34baea7dd7a6b4bb251cc)
+[Transition 过渡](./Transition.md)

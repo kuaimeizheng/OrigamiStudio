@@ -96,7 +96,7 @@ A pulse that changes the text using the Text input.
 
 使用文本输入改变文本的脉冲。
 
-### Underline 下划线### 
+### Underline 下划线
 
 A boolean that is true when an underline is displayed.
 

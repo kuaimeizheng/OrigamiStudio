@@ -18,7 +18,7 @@ Right-click to change the type (ex: number, text, color), or to add additional o
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8ba5b51a-c944-4923-864d-9f135a3b373b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T181429Z&X-Amz-Expires=86400&X-Amz-Signature=7822acc0e0a02723942496fa5a78c76ca018dc4bcde2e5ff37021cdd34ef4f3d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-### Option### 
+### Option
 
 An index (starting at 0) that represents the option to output.
 
@@ -52,8 +52,8 @@ The picked value.
 
 ### Related Patches 相关模块
 
-[Option Switch 选项开关](https://www.notion.so/Option-Switch-214202427d7b4db4a407a7c0dae2f209)
+[Option Switch 选项开关](./Option%20Switch.md)
 
-[Option Sender 选项发送器](https://www.notion.so/Option-Sender-d36296ca4f44472094031e55ef7546ce)
+[Option Sender 选项发送器](./Option%20Sender.md)
 
-[Option Equals 选项相等](https://www.notion.so/Option-Equals-638d7c82510948fbbdba0bbd8a18ba7f)
+[Option Equals 选项相等](./Option%20Equals.md)

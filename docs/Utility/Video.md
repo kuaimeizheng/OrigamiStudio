@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Video 视频
 
-A video represented as a patch. Double-click the thumbnail to select a video from Finder. Drag a video into the graph to create a Video patch. Connect to a [Video Layer](https://www.notion.so/Video-Layer-915cdce337764d249dda387ba65eebfd) to display it in the viewer.
+A video represented as a patch. Double-click the thumbnail to select a video from Finder. Drag a video into the graph to create a Video patch. Connect to a [Video Layer](./../Layer/Video%20Layer.md) to display it in the viewer.
 
 表示视频的模块。双击缩略图以从 Finder 中选择视频。将视频拖到图表中以创建视频模块。连接到视频图层以在查看器中显示它。
 
@@ -24,4 +24,4 @@ The video.
 
 ### Related Patches 相关模块
 
-[Video File 视频文件](https://www.notion.so/Video-File-460f7fd4e7db40328e354f6306ede79a)
+[Video File 视频文件](./../Layer/Video%20File.md)

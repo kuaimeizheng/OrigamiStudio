@@ -18,7 +18,7 @@ Choose from a standard list of cursors, such as I-beam which is used for text in
 
 要使用图像，请在此端口中选择 Cusom 自定义。
 
-### Image 图片### 
+### Image 图片
 
 This can be used to change the cursor to any image. Make sure the Cursor port is set to “Custom” or this image will be ignored.
 

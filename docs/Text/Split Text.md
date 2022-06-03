@@ -46,12 +46,12 @@ A loop of the parts of the text split by the token. The entire text will be retu
 
 ### Related Patches 相关模块
 
-[Trim Text 修剪文本](https://www.notion.so/Trim-Text-1c15e6b94a6541b396788d4a55fba679)
+[Trim Text 修剪文本](./Trim%20Text.md)
 
-[Text Replace 文本替换](https://www.notion.so/Text-Replace-4b19b333ebb24a8daaf32038de2ed5ee)
+[Text Replace 文本替换](./Text%20Replace.md)
 
 ------
 
 ### Related Layers 相关图层
 
-[Text Layer 文本图层](https://www.notion.so/Text-Layer-55f5163900ed47698f1ccc1752423a88)
+[Text Layer 文本图层](./../Layer/Text%20Layer.md)

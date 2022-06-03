@@ -33,7 +33,7 @@ Specify the type of detection needed. There are two possible types and both have
 3. Attention Based. If you’re deciding what to keep in an image based on what’s most interesting, use Attention Based type. This type always return only one set of position and size for the region.
 4. 基于注意力的。如果你根据最有趣的内容来决定在图像中保留什么，那么使用基于注意力的类型。该类型总是只返回区域的一组位置和大小。
 
-### Region Detected 检测到的区域### 
+### Region Detected 检测到的区域
 
 A Boolean value that is true when at least one region has been detected.
 
@@ -51,13 +51,13 @@ A Loop of sizes for each detected regions.
 
 每个检测区域的大小循环。
 
-### Error 错误### 
+### Error 错误
 
 A Boolean value that is true when the detection cannot be performed, one cause could be the OS, as this is only available on macOS 15+ and iOS 13+.
 
 当检测不能执行时，布尔值为true，一个原因可能是操作系统，因为这只在macOS 15+和iOS 13+上可用。
 
-### Error Description 错误描述### 
+### Error Description 错误描述
 
 Text providing a more detailed explanation for why the detection cannot be performed.
 
@@ -67,6 +67,6 @@ Text providing a more detailed explanation for why the detection cannot be perfo
 
 ### Related Patches 相关模块
 
-[QR Code Detection 二维码检测](https://www.notion.so/QR-Code-Detection-9223c3bc77014abda406359bcb6c9c7b)
+[QR Code Detection 二维码检测](./QR%20Code%20Detection.md)
 
-[Face Detection 人脸检测](https://www.notion.so/Face-Detection-1bfb78c83579410897d67b6fb94f8875)
+[Face Detection 人脸检测](./Face%20Detection.md)

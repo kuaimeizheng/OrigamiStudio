@@ -44,7 +44,7 @@ The option input that the value is equal to.
 
 值等于的选项输入。
 
-### Equals 等于### 
+### Equals 等于
 
 A boolean that is true if the value input matches any of the option inputs.
 
@@ -54,8 +54,8 @@ A boolean that is true if the value input matches any of the option inputs.
 
 ### Related Patches 相关模块
 
-[Option Picker 选项选择器](https://www.notion.so/Option-Picker-26fa02ba463b47be8b9c4098357d5dfb)
+[Option Picker 选项选择器](./Option%20Picker.md)
 
-[Option Switch 选项开关](https://www.notion.so/Option-Switch-214202427d7b4db4a407a7c0dae2f209)
+[Option Switch 选项开关](./Option%20Switch.md)
 
-[Option Sender 选项发送器](https://www.notion.so/Option-Sender-d36296ca4f44472094031e55ef7546ce)
+[Option Sender 选项发送器](./Option%20Sender.md)

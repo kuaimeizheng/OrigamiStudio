@@ -16,7 +16,7 @@ A text string to transform.
 
 要转换的文本字符串。
 
-### Transform 转换### 
+### Transform 转换
 
 The property to control capitalization of the text string – Uppercase, Lowercase, or Capitalized.
 
@@ -32,20 +32,20 @@ The transformed text string.
 
 ### Related Patches 相关模块
 
-[Text Size 文本大小](https://www.notion.so/Text-Size-72cf71974e544a7f9b2fc9fb5de9143e)
+[Text Size 文本大小](./Text%20Size.md)
 
-[Text Length 文本长短](https://www.notion.so/Text-Length-4f520beee1fd463aa41737d2afd76ae2)
+[Text Length 文本长短](./Text%20Length.md)
 
-[Text Size 文本大小](https://www.notion.so/Text-Size-72cf71974e544a7f9b2fc9fb5de9143e)
+[Text Size 文本大小](./Text%20Size.md)
 
-[Trim Text 修剪文本](https://www.notion.so/Trim-Text-1c15e6b94a6541b396788d4a55fba679)
+[Trim Text 修剪文本](./Trim%20Text.md)
 
-[Date & Time Formatter 日期&时间格式](https://www.notion.so/Date-Time-Formatter-aecf2541232d4eae835f22a8bac70e48)
+[Date & Time Formatter 日期&时间格式](./../Utility/Date%20&%20Time%20Formatter.md)
 
 ------
 
 ### Related Layers 相关图层
 
-[Text Layer 文本图层](https://www.notion.so/Text-Layer-55f5163900ed47698f1ccc1752423a88)
+[Text Layer 文本图层](./../Layer/Text%20Layer.md)
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3db7c363-bcad-405a-91f1-c1ae220b9b60/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180528Z&X-Amz-Expires=86400&X-Amz-Signature=3e0e8460676d16085519285ae617483fe791b2a74cd77ad470a81bdee8555767&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

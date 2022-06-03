@@ -40,13 +40,13 @@ Specify the accuracy of the detection. Higher quality detection requires more pr
 
 设置检测的准确性。更高质量的检测需要更多的处理时间。
 
-### Positioning 定位### 
+### Positioning 定位
 
 Determine if the output values are converted to the relative position on the layer or it’s using the absolute values of the content of the layer. ex. A video layer can be 300x300 but its content 1920x1080.
 
 确定输出值是转换为图层上的相对位置，还是使用图层内内容的绝对值。例如，视频图层可以是 300x300，但其内容是 1920x1080。
 
-### Face Detected 检测到人脸### 
+### Face Detected 检测到人脸
 
 A Boolean value that is true when at least one face has been detected.
 
@@ -70,7 +70,7 @@ A Loop with the rotation of each detected face.
 
 每个检测到的人脸的区域大小循环。
 
-### Left Eye Detected 检测到左眼### 
+### Left Eye Detected 检测到左眼
 
 A Loop of Boolean values that is true for each face where the detector found the left eye.
 
@@ -82,7 +82,7 @@ A Loop of positions for the left eye of each face if available, otherwise the po
 
 每张脸的左眼位置循环（如果可用），否则位置为 0,0，因此您可能需要检查检测到的左眼是否为真。
 
-### Right Eye Detected 检测到右眼### 
+### Right Eye Detected 检测到右眼
 
 A Loop of Boolean values that is true for each face where the detector found the right eye.
 
@@ -94,7 +94,7 @@ A Loop of positions for the right eye of each face if available, otherwise the p
 
 每张脸的右眼位置循环（如果可用），否则位置为 0,0，因此您可能需要检查检测到的右眼是否为真。
 
-### Mouth Detected 检测到嘴巴### 
+### Mouth Detected 检测到嘴巴
 
 A Loop of Boolean values that is true for each face where the detector found the mouth.
 
@@ -106,7 +106,7 @@ A Loop of positions for mouth of each face if available, otherwise the position 
 
 每个脸的嘴的位置循环（如果可用），否则位置为 0,0，因此您可能需要检查检测到的右眼是否为真。
 
-### Tracking ID 跟踪 ID### 
+### Tracking ID 跟踪 ID
 
 A Loop of Integer values that tries to identify the same face from a previous frame. This ID persists as long as the face is in the frame. Only available when High quality is selected.
 
@@ -116,6 +116,6 @@ A Loop of Integer values that tries to identify the same face from a previous fr
 
 ### Related Patches 相关模块
 
-[QR Code Detection 二维码检测](https://www.notion.so/QR-Code-Detection-9223c3bc77014abda406359bcb6c9c7b)
+[QR Code Detection 二维码检测](./QR%20Code%20Detection.md)
 
-[Object Detection 目标检测](https://www.notion.so/Object-Detection-c842dfa3920b43eabaf0663fee46c5b8)
+[Object Detection 目标检测](./Object%20Detection.md)

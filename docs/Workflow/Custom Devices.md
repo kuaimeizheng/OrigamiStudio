@@ -218,7 +218,7 @@ How much to scale the hands image compared to the screen
 
 与屏幕相比，手形图像比例多少
 
-### ### `handsImages` 手势图片### 
+### ### `handsImages` 手势图片
 
 Type: Array of Strings, Optional
 

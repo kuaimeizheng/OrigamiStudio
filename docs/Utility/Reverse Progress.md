@@ -16,13 +16,13 @@ Useful to sync an animation that is reversed (ex: a photo that fades in as anoth
 
 ### Progress 进度
 
-A progress value. See [Animation Basics](https://www.notion.so/Animations-b81db69b4bcd4eb5a2ab5f31de3ce7c9) for more information.
+A progress value. See [Animation Basics](./../Patch%20Editor/Animations.md) for more information.
 
 一个进度值。有关详细信息，请参阅动画基础知识。
 
 ### Progress 进度
 
-The reversed progress value. See [Animation Basics](https://www.notion.so/Animations-b81db69b4bcd4eb5a2ab5f31de3ce7c9) for more information.
+The reversed progress value. See [Animation Basics](./../Patch%20Editor/Animations.md) for more information.
 
 反转进度值。有关详细信息，请参阅动画基础知识。
 
@@ -30,6 +30,6 @@ The reversed progress value. See [Animation Basics](https://www.notion.so/Animat
 
 ### Related Patches 相关模块
 
-[Progress 进度](https://www.notion.so/Progress-9e7dae7cad624cd9a8666d13c8d56246)
+[Progress 进度](./Progress.md)
 
-[Transition 过渡](https://www.notion.so/Transition-105402795ee34baea7dd7a6b4bb251cc)
+[Transition 过渡](./Transition.md)
