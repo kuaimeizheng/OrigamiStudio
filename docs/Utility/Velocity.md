@@ -34,4 +34,4 @@ The change in the number between the current and previous frame.
 
 [Scroll 滚动](./../Interaction/Scroll.md)
 
-[+ 加](./+.md)
+[+ 加](./../Math/+.md)
