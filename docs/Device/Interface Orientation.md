@@ -4,9 +4,9 @@ sidebar_position: 2
 
 # Interface Orientation 界面方向
 
-Define how the prototype’s interface reacts to rotation of the device. Different phones, laptops or tablets can have different set of supported interface orientations. Use the [Device Info](https://www.notion.so/Device-Info-1f043807b0da429880fe8c2d2592cd2a) patch to get the physical orientation of a connected device in angles.
+Define how the prototype’s interface reacts to rotation of the device. Different phones, laptops or tablets can have different set of supported interface orientations. Use the [Device Info](./Device%20Info.md) patch to get the physical orientation of a connected device in angles.
 
-控制原型界面如何响应设备的旋转。不同的手机、笔记本电脑或平板电脑可以有不同的支持界面方向。使用 [Device Info](https://www.notion.so/Device-Info-1f043807b0da429880fe8c2d2592cd2a) 可以从多个角度获取连接设备的物理方向。
+控制原型界面如何响应设备的旋转。不同的手机、笔记本电脑或平板电脑可以有不同的支持界面方向。使用 [Device Info](./Device%20Info.md) 可以从多个角度获取连接设备的物理方向。
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/69aa4c61-d99c-49ee-a444-d3b7d4bbed1d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165835Z&X-Amz-Expires=86400&X-Amz-Signature=6e1ede1103717be56752e5683d6ad50475196ad0cf206290e18fbe5ba05bf1fa&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
@@ -44,7 +44,7 @@ A boolean indicating whether the interface will rotate when device is rotated to
 
 ### Related Patches 相关模块
 
-[Device Info 设备信息](https://www.notion.so/Device-Info-1f043807b0da429880fe8c2d2592cd2a)
+[Device Info 设备信息](./Device%20Info.md)
 
 历史版本
 

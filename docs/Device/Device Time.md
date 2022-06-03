@@ -12,7 +12,7 @@ Access the time on the connected phone, tablet, or the computer Origami is runni
 
 **Seconds 秒**
 
-The number of seconds since January 1st, 1970. Use [Date & Time Formatter](https://www.notion.so/Date-Time-Formatter-aecf2541232d4eae835f22a8bac70e48) to make it readable by humans.
+The number of seconds since January 1st, 1970. Use [Date & Time Formatter](./../Utility/Date%20&%20Time%20Formatter.md) to make it readable by humans.
 
 自1970年1月1日以来的秒数。使用 **Date & Time Formatter** 把从设备读取的秒数转换为我们熟悉的时间格式。
 
@@ -22,9 +22,9 @@ The number of seconds since January 1st, 1970. Use [Date & Time Formatter](https
 
 ### Related Patches 相关模块
 
-[Date & Time Formatter 日期&时间格式](https://www.notion.so/Date-Time-Formatter-aecf2541232d4eae835f22a8bac70e48)
+[Date & Time Formatter 日期&时间格式](./../Utility/Date%20&%20Time%20Formatter.md)
 
-[Time 时间](https://www.notion.so/Time-1ff0676f9141430d815d2b0cbde18457)
+[Time 时间](./../Utility/Time.md)
 
 历史版本
 
@@ -32,6 +32,6 @@ The number of seconds since January 1st, 1970. Use [Date & Time Formatter](https
 
 **Seconds 秒**
 
-The number of seconds since January 1st, 1970. Use [Date & Time Formatter](https://www.notion.so/Date-Time-Formatter-aecf2541232d4eae835f22a8bac70e48) to make it readable by humans.
+The number of seconds since January 1st, 1970. Use [Date & Time Formatter](./../Utility/Date%20&%20Time%20Formatter.md) to make it readable by humans.
 
 自1970年1月1日以来的秒数。使用 **Date & Time Formatter** 把从设备读取的秒数转换为我们熟悉的时间格式。

@@ -36,7 +36,7 @@ A boolean that is true when the sound is looped continuously.
 
 **Settings 设置**
 
-The settings from [Sound Player Settings](https://www.notion.so/Sound-Player-Settings-41bc9186bec94359a9b476f5192cd4a8).
+The settings from [Sound Player Settings](./Sound%20Player%20Setting.md).
 
 从 Sound Player Setting 连接过来的设置。
 
@@ -54,7 +54,7 @@ This is the total time of the sound file.
 
 **Metering 计量**
 
-Connect this to the [Audio Metering](https://www.notion.so/Audio-Metering-fbcb624f9eda474d9466cbae227613eb) patch to make visualizations based on the playing sound.
+Connect this to the [Audio Metering](./../Media/Audio%20Metering.md) patch to make visualizations based on the playing sound.
 
 将其连接到 Audio Metering 模块，以根据播放的声音进行可视化。
 
@@ -62,8 +62,8 @@ Connect this to the [Audio Metering](https://www.notion.so/Audio-Metering-fbcb62
 
 ### Related Patches 相关模块
 
-[Microphone 话筒](https://www.notion.so/Microphone-914ed4dc27d647cf99e18bf98cf3e874)
+[Microphone 话筒](./Microphone.md)
 
-[Sound Kit 音效包](https://www.notion.so/Sound-Kit-78bb96d92a8f4291b3dd65c6e2465939)
+[Sound Kit 音效包](./Sound%20Kit.md)
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2d0710cb-2421-4870-8a88-c2e39e4a9cf7/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T170318Z&X-Amz-Expires=86400&X-Amz-Signature=3358ec04cba12c016a8a38ddfb6bcc7addd91f4f7e1109fc709f9ea070acef8d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

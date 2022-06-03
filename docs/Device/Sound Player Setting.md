@@ -36,7 +36,7 @@ A number from -1 to 1 that represents where the sound is played from in stereo, 
 
 **Output 输出**
 
-The settings to pass to a [Sound Player](https://www.notion.so/Sound-Player-7d68cd2d64774da9a303098f46cf93bb).
+The settings to pass to a [Sound Player](./Sound%20Player.md).
 
 连接到 Sound Player 模块。
 
@@ -44,7 +44,7 @@ The settings to pass to a [Sound Player](https://www.notion.so/Sound-Player-7d68
 
 ### Related Patches 相关模块
 
-[Sound Player 声音播放器](https://www.notion.so/Sound-Player-7d68cd2d64774da9a303098f46cf93bb)
+[Sound Player 声音播放器](./Sound%20Player.md)
 
 历史版本
 

@@ -20,10 +20,10 @@ A pulse when the back button is tapped on an Android phone or tablet.
 
 ### Related Patches 相关模块
 
-[Device Info 设备信息](https://www.notion.so/Device-Info-1f043807b0da429880fe8c2d2592cd2a)
+[Device Info 设备信息](./Device%20Info.md)
 
-[Vibrate 震动](https://www.notion.so/Vibrate-97bf0dd1247c4b09950dec95d1951a02)
+[Vibrate 震动](./Vibrate.md)
 
-[Device Motion 设备运动](https://www.notion.so/Device-Motion-eb124f1e4b8749849db4ec40ecfcf95f)
+[Device Motion 设备运动](./Device%20Motion.md)
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/940550f6-1218-4ff5-b0cb-2ec6c2592606/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165421Z&X-Amz-Expires=86400&X-Amz-Signature=1f3b9dde4f91ff8f158a10ee0ce29e1a527b36915b68c11fe3bb4e13809baeb2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

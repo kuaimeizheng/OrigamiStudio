@@ -12,7 +12,7 @@ Access information about the simluated or connected phone, tablet or computer.
 
 **Screen Size 屏幕尺寸**
 
-The size of the screen, in points. Use [Size Unpack](https://www.notion.so/Point-Unpack-2b4874a049d34f898bc64c27879e191e) to get the individual width and height.
+The size of the screen, in points. Use [Size Unpack](./../Utility/Point%20Unpack.md) to get the individual width and height.
 
 屏幕的大小，以点为单位。使用 Size Unpack 获取宽度和高度。
 

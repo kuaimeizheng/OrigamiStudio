@@ -56,16 +56,16 @@ The last captured image. Connect to an [Image Layer](https://www.notion.so/Image
 
 ### Related Patches 相关模块
 
-[Video File 视频文件](https://www.notion.so/Video-File-460f7fd4e7db40328e354f6306ede79a)
+[Video File 视频文件](../Layer/Video%20File)
 
-[Image File 图像文件](https://www.notion.so/Image-File-a86eff7ee4704c31b00057723d0e659f)
+[Image File 图像文件](./../Layer/Image%20File)
 
-[Microphone 话筒](https://www.notion.so/Microphone-914ed4dc27d647cf99e18bf98cf3e874)
+[Microphone 话筒](./Microphone.md)
 
 ------
 
 ### Related Layers 相关图层
 
-[Viewfinder 取景器](https://www.notion.so/Viewfinder-835ce69484f545a5a4adf5c1c2a3e0ac)
+[Viewfinder 取景器](./../Layer/Viewfinder.md)
 
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c06d43e3-8089-4b47-8385-f922d8798c69/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165352Z&X-Amz-Expires=86400&X-Amz-Signature=6fb7fb72732661238d86a37235b5fba42be8112ea1a07a61a10f5d7a16095530&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

@@ -4,9 +4,9 @@ sidebar_position: 2
 
 # Location 位置
 
-Gets the current location of the device (using its GPS) and returns coordinates in the form of latitude and longitude. Connect to a [Map Layer](https://www.notion.so/Map-8e098483af14447a962533858565d5fb) to visualize the location.
+Gets the current location of the device (using its GPS) and returns coordinates in the form of latitude and longitude. Connect to a [Map Layer](./../Layer/Map.md) to visualize the location.
 
-获取设备的当前位置（使用其 GPS）并以纬度和经度的形式返回坐标。连接到 [Map Layer](https://www.notion.so/Map-8e098483af14447a962533858565d5fb) 以可视化位置。
+获取设备的当前位置（使用其 GPS）并以纬度和经度的形式返回坐标。连接到 [Map Layer](./../Layer/Map.md) 以可视化位置。
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/98d7b356-079c-4d2a-8435-ec2e95238029/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165909Z&X-Amz-Expires=86400&X-Amz-Signature=249fecb845337d04fd3294c9712015eab5cb8a52200abb7a8390c1a7e8b6544a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
@@ -40,7 +40,7 @@ The name of the current location.
 
 ### Related Patches 相关模块
 
-[Map 地图](https://www.notion.so/Map-8e098483af14447a962533858565d5fb)
+[Map 地图](./../Layer/Map.md)
 
 历史版本
 

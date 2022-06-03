@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Browser Buttons 浏览器按钮
 
-Captures clicks on the back and forward buttons when using the [Browser Chrome](https://www.notion.so/Browser-Chrome-3dc0b5def4d840f4ae838ce4794cf470) patch.
+Captures clicks on the back and forward buttons when using the [Browser Chrome](./Browser%20Chrome.md) patch.
 
 使用 Brower Chrome 模块时，可以捕捉浏览器中点击后退按钮和前进按钮的事件。
 
@@ -26,6 +26,6 @@ A boolean that is true when the back button is clicked down. is down or not.
 
 ### Related Patches 相关模块
 
-[Browser Chrome 浏览器](https://www.notion.so/Browser-Chrome-3dc0b5def4d840f4ae838ce4794cf470)
+[Browser Chrome 浏览器](./Browser%20Chrome.md)
 
-https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6a26cf57-2980-4c58-b2e1-b717d33edfb4/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165316Z&X-Amz-Expires=86400&X-Amz-Signature=08282fadfb8c5947c1757d4673eb6ad3daf52b9816d1c22368c646112dfcf74d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6a26cf57-2980-4c58-b2e1-b717d33edfb4/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165316Z&X-Amz-Expires=86400&X-Amz-Signature=08282fadfb8c5947c1757d4673eb6ad3daf52b9816d1c22368c646112dfcf74d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

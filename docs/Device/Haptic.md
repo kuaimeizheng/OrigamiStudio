@@ -30,9 +30,9 @@ The type of haptic response to activate on the iPhone (Selection, Impact Light, 
 
 ### Related Patches 相关模块
 
-[Vibrate 震动](https://www.notion.so/Vibrate-97bf0dd1247c4b09950dec95d1951a02)
+[Vibrate 震动](./Vibrate.md)
 
-[Trackpad Haptic 触控板触觉](https://www.notion.so/Trackpad-Haptic-05b4c9a4ccdc476599da6856baa2ba4f)
+[Trackpad Haptic 触控板触觉](./Trackpad%20Haptic.md)
 
 历史版本
 

@@ -18,9 +18,9 @@ A boolean that is true when the phone, tablet, or computer has acceleration info
 
 **Acceleration 加速**
 
-A point 3d that represents the acceleration in X, Y and Z directions. Use [Point 3D Unpack](https://www.notion.so/Point-3D-Unpack-3D-20f89c51a8fd4116b9f4f00a2ea3b24a) to get the individual acceleration values.
+A point 3d that represents the acceleration in X, Y and Z directions. Use [Point 3D Unpack](./../Utility/Point%203D%20Unpack.md) to get the individual acceleration values.
 
-一个3D点，表示x、y和z方向的加速度。使用[Point 3D Unpack](https://www.notion.so/Point-3D-Unpack-3D-20f89c51a8fd4116b9f4f00a2ea3b24a)模块获取加速度值。
+一个3D点，表示x、y和z方向的加速度。使用[Point 3D Unpack](./../Utility/Point%203D%20Unpack.md)模块获取加速度值。
 
 **Has Rotation Rate  有旋转速度**
 
@@ -30,17 +30,17 @@ A boolean that is true when the phone, tablet, or computer has rotation informat
 
 **Rotation Rate 旋转速率**
 
-A point 3d that represents the rotation rate around the X, Y and Z axes. Use [Velocity](https://www.notion.so/Velocity-6b25ad0e957d44bf83ee4a382b49a67d) to calculate total rotation over time.
+A point 3d that represents the rotation rate around the X, Y and Z axes. Use [Velocity](./../Utility/Velocity.md) to calculate total rotation over time.
 
-一个3D点，表示x、y和z轴的旋转速率。用 [Velocity](https://www.notion.so/Velocity-6b25ad0e957d44bf83ee4a382b49a67d) 模块计算总旋转时间。
+一个3D点，表示x、y和z轴的旋转速率。用 [Velocity](./../Utility/Velocity.md) 模块计算总旋转时间。
 
 ------
 
 ### Related Patches 相关模块
 
-[Velocity 速度](https://www.notion.so/Velocity-6b25ad0e957d44bf83ee4a382b49a67d)
+[Velocity 速度](./../Utility/Velocity.md)
 
-[Point 3D Unpack 3D点解组](https://www.notion.so/Point-3D-Unpack-3D-20f89c51a8fd4116b9f4f00a2ea3b24a)
+[Point 3D Unpack 3D点解组](./../Utility/Point%203D%20Unpack.md)
 
 
 
