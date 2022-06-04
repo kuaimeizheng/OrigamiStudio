@@ -7,7 +7,7 @@ jobs:
   web-deploy:
     name: 🎉 Deploy To FTP
     runs-on: ubuntu-latest
-    
+
     strategy:
       matrix:
         node-version: [16.x]
@@ -26,5 +26,5 @@ jobs:
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
         local-dir: ./build/
-        server-dir: ./www/wwwroot/imeeil.cn/
+        server-dir: ./www/wwwroot/imeeil/
   
