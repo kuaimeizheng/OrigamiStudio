@@ -4,7 +4,7 @@
         <title>My Site Blog</title>
         <link>https://kuaimeizheng.github.io/OrigamiStudio/blog</link>
         <description>My Site Blog</description>
-        <lastBuildDate>Sat, 04 Jun 2022 17:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 17:35:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Welcome]]></title>
             <link>https://kuaimeizheng.github.io/OrigamiStudio/blog/welcome</link>
             <guid>welcome</guid>
-            <pubDate>Sat, 04 Jun 2022 17:14:43 GMT</pubDate>
+            <pubDate>Sat, 04 Jun 2022 17:35:52 GMT</pubDate>
             <description><![CDATA[联系方式：]]></description>
             <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="联系方式">联系方式：<a class="hash-link" href="#联系方式" title="Direct link to heading">​</a></h3><p><strong>Wechat：</strong>303268393</p>]]></content:encoded>
         </item>
