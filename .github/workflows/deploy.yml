@@ -1,4 +1,5 @@
 # .github/workflows/deploy.yml
+# 官方指导文件，用于把代码部署到 gh-pages
 # 官方指南地址https://docusaurus.io/docs/deployment#deploying-to-github-pages
 # 官方推荐第三方部署https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus
 
