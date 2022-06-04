@@ -22,5 +22,4 @@ jobs:
         password: ${{ secrets.ftp_password }}
         local-dir: ./build/
         server-dir: /www/wwwroot/imeeil.cn/
-    - run: timeout_minutes: 1
-    - run: max_attempts: 3   
+  
