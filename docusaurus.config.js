@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Origami 俱乐部',
+  tagline: 'Origami 中文文档&使用手册&教程',
   url: 'https://kuaimeizheng.github.io',
   baseUrl: '/OrigamiStudio/',
   onBrokenLinks: 'throw',
