@@ -7,7 +7,8 @@ jobs:
   web-deploy:
     name: 🎉 Deploy To FTP
     runs-on: ubuntu-latest
-  strategy:
+    
+    strategy:
       matrix:
         node-version: [16.x]
         
