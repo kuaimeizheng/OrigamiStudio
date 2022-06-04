@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkorigami_studio=self.webpackChunkorigami_studio||[]).push([[2535],{5641:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/OrigamiStudio/blog/welcome"}]}')}}]);
