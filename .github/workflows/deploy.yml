@@ -56,4 +56,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./website/build
           publish_branch: gh-pages  # default: gh-pages
-          allow_empty_commit: true
+          allow_empty_commit: true #允许空提交
