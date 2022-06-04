@@ -7,6 +7,10 @@ jobs:
   web-deploy:
     name: 🎉 Deploy To FTP
     runs-on: ubuntu-latest
+  strategy:
+      matrix:
+        node-version: [16.x]
+        
     steps:
     - name: 🚚 Get latest code
       uses: actions/checkout@v2
