@@ -5,7 +5,7 @@ on: push
 name: 🚀 Deploy website on push
 jobs:
   web-deploy:
-    name: 🎉 Deploy
+    name: 🎉 Deploy To FTP
     runs-on: ubuntu-latest
     steps:
     - name: 🚚 Get latest code
@@ -22,5 +22,5 @@ jobs:
         password: ${{ secrets.ftp_password }}
         local-dir: ./build/
         server-dir: /www/wwwroot/imeeil.cn/
-    - timeout_minutes: 1
-    - max_attempts: 3   
+    - run: timeout_minutes: 1
+    - run: max_attempts: 3   
