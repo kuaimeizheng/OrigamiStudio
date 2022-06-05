@@ -25,6 +25,7 @@ jobs:
           FTP_SERVER: ${{ secrets.ftp_sever }}
           FTP_USERNAME: ${{ secrets.ftp_username }}
           FTP_PASSWORD: ${{ secrets.ftp_password }}
-          local-dir: build/
+          local_dir: build/
+          remote_dir: www/wwwroot/imeeil/
         env:
           CI: true
