@@ -128,7 +128,7 @@ A number that represents the range of randomized sizes of a particle.
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d0f32cb0-fbc1-4a9a-9399-af3b7329bdcf/Untitled.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185607Z&X-Amz-Expires=86400&X-Amz-Signature=7aaef0395b2690c293050a751141a947093eb0d9ce72da37722d648b32676948&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.gif%22&x-id=GetObject)
 
-### Image 图像### 
+### Image 图像
 
 An image that replaces the default circle as the particle.
 

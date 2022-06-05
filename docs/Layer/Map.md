@@ -46,7 +46,7 @@ The pivot to rotate and scale the layer about. See [Coordinates 坐标](./../Con
 
 旋转和缩放图层的中心点。有关详细信息，请参阅坐标。
 
-### Map Center 地图中心### 
+### Map Center 地图中心
 
 Latitude and longitude coordinate of the center of the map
 

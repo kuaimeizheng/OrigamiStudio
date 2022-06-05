@@ -16,13 +16,13 @@ A boolean that is true when the layer is displayed.
 
 勾选启用图层。
 
-### Fill 填充### 
+### Fill 填充
 
 The color of the layer.
 
 图层的颜色。
 
-### Shape 形状### 
+### Shape 形状
 
 The path to draw. Add a shape patch like Rectangle, Triangle, Oval, or Union of the above.
 
