@@ -16,7 +16,7 @@ A boolean that is true when the camera is enabled.
 
 一个布尔值，表示当相机启动时为真。
 
-### Camera 相机### 
+### Camera 相机
 
 The camera to use: front-facing or back-facing.
 
@@ -28,13 +28,13 @@ A boolean that is true when recording video.
 
 一个布尔值，表示录制视频时为真
 
-### Capture Image 捕获图像### 
+### Capture Image 捕获图像
 
 A pulse that captures a single frame from the video.
 
 一个脉冲，表示从视频中捕获单个帧。
 
-### Stream 流### 
+### Stream 流
 
 A continuous video stream of the current camera feed.
 

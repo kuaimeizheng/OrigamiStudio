@@ -10,31 +10,31 @@ Define how the prototype’s interface reacts to rotation of the device. Differe
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/69aa4c61-d99c-49ee-a444-d3b7d4bbed1d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165835Z&X-Amz-Expires=86400&X-Amz-Signature=6e1ede1103717be56752e5683d6ad50475196ad0cf206290e18fbe5ba05bf1fa&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-### Start In 开始于### 
+### Start In 开始于
 
 The interface orientation to be shown when the prototype starts or restarts. Can be Portrait, Landscape Reft, Landscape Left or Upside Down. If the current device doesn’t support this orientation, it will use its default orientation instead.
 
 原型启动或重新启动时界面的显示方向。可以是纵向、向右横向、向左横向或倒置。如果当前设备不支持此方向，它将使用其默认方向。
 
-### Portrait 纵向### 
+### Portrait 纵向
 
 A boolean indicating whether the interface will rotate when device is rotated to the portrait orientation.
 
 一个布尔值，表示当设备旋转到纵向时，界面是否会旋转。
 
-### Landscape Left 左横向### 
+### Landscape Left 左横向
 
 A boolean indicating whether the interface will rotate when device is rotated to the left landscape orientation.
 
 一个布尔值，表示当设备向左横向旋转时，界面是否会旋转。
 
-### Landscape Right 右横向### 
+### Landscape Right 右横向
 
 A boolean indicating whether the interface will rotate when device is rotated to the right landscape orientation.
 
 一个布尔值，表示当设备向右横向旋转时，界面是否会旋转。
 
-### Upside Down 颠倒### 
+### Upside Down 颠倒
 
 A boolean indicating whether the interface will rotate when device is rotated to the upside down orientation.
 

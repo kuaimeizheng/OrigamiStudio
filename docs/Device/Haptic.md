@@ -24,7 +24,7 @@ The type of haptic response to activate on the iPhone (Selection, Impact Light, 
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3d6fb056-59d8-4768-92b0-6d874a199dd9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165744Z&X-Amz-Expires=86400&X-Amz-Signature=e85e3ce13e024c7ff934519943582218bc058a6ce1535b877235e752c31fc044&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-### File 文件### 
+### File 文件
 
 ------
 

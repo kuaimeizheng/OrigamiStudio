@@ -12,7 +12,7 @@ Read the JSON with the [Structure Formatter](./../Data/JSON%20to%20Text.md) patc
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9eda2dd6-f9b3-4c6a-bf88-3b27d3aed4f8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T170340Z&X-Amz-Expires=86400&X-Amz-Signature=4d83787221805aff872b707bb746aaad17a79cbe46b10f28bf926a489d25f4fe&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-### Touches 触摸### 
+### Touches 触摸
 
 A JSON object containing information about the position and force of every touch on the viewer and/or device.
 

@@ -16,13 +16,13 @@ A boolean that is true when the microphone is on.
 
 一个布尔值，表示当话筒打开时为真。
 
-### Record 录音### 
+### Record 录音
 
 A boolean that is true when the microphone is recording sound.
 
 一个布尔值，表示当话筒录音时为真。
 
-### Sound 声音### 
+### Sound 声音
 
 The recorded sound. Connect to a [Sound Player](./Sound%20Player.md).
 

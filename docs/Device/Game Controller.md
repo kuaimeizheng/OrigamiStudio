@@ -16,7 +16,7 @@ A boolean that is true when a controller is paired and connected.
 
 一个布尔值，表示当控制器配对并连接时为真。
 
-### A### 
+### A
 
 A boolean that is true when the bottom face button is pressed.
 
@@ -52,31 +52,31 @@ A boolean that is true when the right shoulder button is pressed.
 
 一个布尔值，表示当按下 R1 按钮时为真。
 
-### L2### 
+### L2
 
 A boolean that is true when the left trigger button is pressed. Only supported on controllers with the Extended Game Pad profile.
 
 一个布尔值，表示当按下 L2 按钮时为真。仅在具有扩展游戏手柄配置文件的控制器上受支持。
 
-### R2### 
+### R2
 
 A boolean that is true when the right trigger button is pressed. Only supported on controllers with the Extended Game Pad profile.
 
 一个布尔值，表示当按下 R2 按钮时为真。仅在具有扩展游戏手柄配置文件的控制器上受支持。
 
-### D-pad### 
+### D-pad
 
 A point value between -1 ,-1 (bottom left) and 1,1 (top right) that represents the position of the directional pad.
 
 一个介于 -1 ,-1（左下）和 1,1（右上）之间的点值，表示方向键的位置。
 
-### Left Thumbstick 左拇指### 杆
+### Left Thumbstick 左拇指杆
 
 A point value between -1 ,-1 (bottom left) and 1,1 (top right) that represents the position of the left joystick.
 
 一个介于 -1 ,-1（左下）和 1,1（右上）之间的点值，表示左操纵杆的位置。
 
-### Right Thumbstick  右拇指### 杆
+### Right Thumbstick  右拇指杆
 
 A point value between -1 ,-1 (bottom left) and 1,1 (top right) that represents the position of the right joystick.
 

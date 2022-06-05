@@ -12,7 +12,7 @@ Read the JSON with the [Structure Formatter](./../Data/JSON%20to%20Text.md) patc
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/44941986-4ca2-4f32-97ee-2b014c77605d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T170434Z&X-Amz-Expires=86400&X-Amz-Signature=b624fe948f093848ea65e802acbbc03dd44c397c971eb193490304ee21fe6887&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-### Touches 触摸### 
+### Touches 触摸
 
 A JSON object containing information about the position of every touch on the trackpad.
 

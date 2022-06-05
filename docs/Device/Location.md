@@ -10,7 +10,7 @@ Gets the current location of the device (using its GPS) and returns coordinates 
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/98d7b356-079c-4d2a-8435-ec2e95238029/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165909Z&X-Amz-Expires=86400&X-Amz-Signature=249fecb845337d04fd3294c9712015eab5cb8a52200abb7a8390c1a7e8b6544a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-### Override 覆盖### 
+### Override 覆盖
 
 Override the current location with one from a list of places from around the world.
 

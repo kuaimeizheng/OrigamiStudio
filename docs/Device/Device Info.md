@@ -22,7 +22,7 @@ A number that represents the density of screen pixels per device-independent pix
 
 一个数字，表示与设备像素无关的单位屏幕像素密度(例如:iPhone每个点有2个像素)
 
-### Orientation 方向### 
+### Orientation 方向
 
 A number that represents the physical device orientation, in degrees.
 
@@ -34,7 +34,7 @@ A boolean that is true when the device accepts mouse interactions (as opposed to
 
 一个布尔值，当设备接受鼠标交互(与触摸相反)时为真。
 
-### Device 设备### 
+### Device 设备
 
 A text string that represents the name of the connected or simulated device.
 

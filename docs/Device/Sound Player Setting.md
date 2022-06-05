@@ -22,13 +22,13 @@ A number from .03 to 32 that represents the speed of the sound.
 
 0.03～32之间的数字表示声音的速率。
 
-### Pitch 音高### 
+### Pitch 音高
 
 A number from -2400 to 2400 that represents the pitch of the sound.
 
 -2400～2400之间的数字表示声音的音高。
 
-### Pan 立体音### 
+### Pan 立体音
 
 A number from -1 to 1 that represents where the sound is played from in stereo, where -1 is left, and 1 is right.
 

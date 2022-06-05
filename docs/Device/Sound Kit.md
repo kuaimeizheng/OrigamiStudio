@@ -10,7 +10,7 @@ Play from a collection of UI sound effects. For expanded descriptions and docume
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/90964d3a-0d69-49d2-8872-47d7773f0b52/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T170200Z&X-Amz-Expires=86400&X-Amz-Signature=23470f327cf197a0cab96b3bca4fa9c32f2900fbc206ffd18d78027476fb523f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-### Sound 声音### 
+### Sound 声音
 
 The sound effect to play (buttons, navigation, complete, success, error, cancel, notifications, alerts).
 
