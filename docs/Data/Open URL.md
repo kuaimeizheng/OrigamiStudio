@@ -22,7 +22,7 @@ A URL specifying the location to open. It can start with HTTP://, HTTPS:// or a 
 
 指定要打开的地址 URL。它可以以 HTTP://、HTTPS:// 或自定义应用方案（如 fb://）开头
 
-### Result 结果### 
+### Result 结果
 
 A pulse that informs if the location was successfully opened.
 

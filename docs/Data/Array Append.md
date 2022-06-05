@@ -22,7 +22,7 @@ The item to add to the JSON array.
 
 要添加到 JSON 数组的项目。
 
-### Append 添加### 
+### Append 添加
 
 A pulse that adds the item to the end of the JSON array.
 

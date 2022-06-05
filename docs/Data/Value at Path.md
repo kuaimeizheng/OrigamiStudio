@@ -21,7 +21,7 @@ Starting the path with two dots will get a recursive search for the following va
 
 ![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2b49e44b-5e43-47eb-98e9-aeb0f100e1a1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165025Z&X-Amz-Expires=86400&X-Amz-Signature=bbfb50c6a110f37e7408792d306f37f5131201e340bd1af05246d7e9932a5d14&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-### Object 对象### 
+### Object 对象
 
 The JSON object or array to get the value from.
 

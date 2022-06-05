@@ -26,7 +26,7 @@ JSON数组中项目的数量。
 
 ### Related Patches 相关模块
 
-[[JSON Array JSON 数组](./JSON%20Array)](https://www.notion.so/JSON-Array-JSON-c04f26109f71497c95627e1ad6b7cbed)
+[JSON Array JSON 数组](./JSON%20Array)]
 
 [Array Append 数组添加](./Array%20Append)
 

@@ -26,25 +26,25 @@ A JSON object for any parameters to include with the request.
 
 要包含在请求中任何参数的 JSON 对象。
 
-### Body 正文### 
+### Body 正文
 
 A JSON object for the body to include with the request.
 
 请求中包含正文的 JSON 对象。
 
-### Method 方法### 
+### Method 方法
 
 The method for requesting the response, GET or POST.
 
 请求响应的方法，GET 或 POST。
 
-### Request 请求### 
+### Request 请求
 
 A pulse that initiates the request.
 
 一个脉冲，表示启动请求。
 
-### Loading 加载### 
+### Loading 加载
 
 A boolean that is true while the response is loading.
 
