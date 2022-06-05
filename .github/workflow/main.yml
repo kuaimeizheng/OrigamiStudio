@@ -1,5 +1,6 @@
 # main.yml
-name: deploy to aliyun
+
+name: Deploy to aliyun
 on:
   push:
     branches:
