@@ -21,7 +21,7 @@ jobs:
         # 使用action库 actions/setup-node 安装node
         uses: actions/setup-node@v1
         with:
-          node-version: 10.16.3
+          node-version: 16.x
       # 安装依赖
       - name: 安装依赖
         run: npm install
