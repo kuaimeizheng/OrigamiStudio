@@ -10,9 +10,11 @@ on:
   push:
     branches:
       - main
-    # paths:
-      #- '.github/workflows/deploy.yml'
-      #- 'website/**'
+    paths:
+      - '.github/workflows/deploy.yml'
+      - 'website/**'
+      - 'build/**'
+      - 'docs/**'
   pull_request:
 
 jobs:
