@@ -9,6 +9,8 @@ on:
     paths:
       - '.github/workflows/deploy.yml'
       - 'build/**'
+      - 'docs/**'
+      - 'blog/**'
   pull_request:
 
 jobs:
