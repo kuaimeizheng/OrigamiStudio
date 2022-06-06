@@ -8,7 +8,7 @@ A layer that always displays the latest version of an image file on the computer
 
 始终在计算机上显示图像文件最新版本的图层。当更新所选图像时，此图像的图像将自动更新到最新版本。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bd9eaade-f319-482c-ace1-6c12b29b3c28/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185311Z&X-Amz-Expires=86400&X-Amz-Signature=7b22f9f5e162beb3501b8430d1db543fd57ca6779421cfca9d7feeff2cc2cb65&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bd9eaade-f319-482c-ace1-6c12b29b3c28/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185311Z&X-Amz-Expires=86400&X-Amz-Signature=7b22f9f5e162beb3501b8430d1db543fd57ca6779421cfca9d7feeff2cc2cb65&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Enable 启用
 

@@ -12,7 +12,7 @@ Right-click to change the type of the set value.
 
 右键单击更改设置值的类型。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ec2b0fc9-934a-447d-82f2-2f024f150fe5/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T164805Z&X-Amz-Expires=86400&X-Amz-Signature=b165c9def9773e673e79f3a025b64196c8e2169f3072818b9849b90f6d99435a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ec2b0fc9-934a-447d-82f2-2f024f150fe5/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T164805Z&X-Amz-Expires=86400&X-Amz-Signature=b165c9def9773e673e79f3a025b64196c8e2169f3072818b9849b90f6d99435a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Object 对象
 

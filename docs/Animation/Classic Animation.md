@@ -86,5 +86,5 @@ Typically a progress value. See [Animation Basics]for more information.
 
 历史版本
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e3882800-16f2-4c05-96b4-bc0ca194b84d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T151116Z&X-Amz-Expires=86400&X-Amz-Signature=5f91100aa0d363c0871f29dcaf83d1f3693a1bf590e037050ef27d655c7bcb66&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e3882800-16f2-4c05-96b4-bc0ca194b84d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T151116Z&X-Amz-Expires=86400&X-Amz-Signature=5f91100aa0d363c0871f29dcaf83d1f3693a1bf590e037050ef27d655c7bcb66&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 

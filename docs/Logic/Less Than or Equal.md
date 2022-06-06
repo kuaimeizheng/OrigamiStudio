@@ -18,7 +18,7 @@ Right-click to add more values to compare, or change the type (ex: number, index
 
 右键单击可添加更多值进行比较，或更改类型(例如:数字、索引、布尔值)。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a107d1bc-0a43-42bc-9e88-6f6e9425d0c1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172137Z&X-Amz-Expires=86400&X-Amz-Signature=d92a9e4aed038001c6a51886f698699b9472ce9cf76ce3b7d203dd10987c4689&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a107d1bc-0a43-42bc-9e88-6f6e9425d0c1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172137Z&X-Amz-Expires=86400&X-Amz-Signature=d92a9e4aed038001c6a51886f698699b9472ce9cf76ce3b7d203dd10987c4689&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Input 输入
 

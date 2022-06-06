@@ -12,7 +12,7 @@ Right-click to change the type (ex: color, boolean), or to add additional option
 
 右键更改类型 (如：颜色、布尔值)，或添加其它选项。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/84464562-bf02-48e4-9012-03275029a2f1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T181452Z&X-Amz-Expires=86400&X-Amz-Signature=a7092dddaa1ab6fc7b8e23fa8d36ebc2a5b6df48205a3a573ad57c390a4c6518&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/84464562-bf02-48e4-9012-03275029a2f1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T181452Z&X-Amz-Expires=86400&X-Amz-Signature=a7092dddaa1ab6fc7b8e23fa8d36ebc2a5b6df48205a3a573ad57c390a4c6518&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Option 选项
 

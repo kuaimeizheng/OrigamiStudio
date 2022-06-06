@@ -16,7 +16,7 @@ Use the Touch button on a layer to quickly add interactions.
 
 使用图层上的 Touch触摸 按钮快速添加交互。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7c78945f-a37d-46dd-aa8e-ef264317648e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T170843Z&X-Amz-Expires=86400&X-Amz-Signature=8168d724e1ca2754cfbd107043278c1dfa203c14b6940254760bdaf01b27ef98&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7c78945f-a37d-46dd-aa8e-ef264317648e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T170843Z&X-Amz-Expires=86400&X-Amz-Signature=8168d724e1ca2754cfbd107043278c1dfa203c14b6940254760bdaf01b27ef98&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Layer 图层
 

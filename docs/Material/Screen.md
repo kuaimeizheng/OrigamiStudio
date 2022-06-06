@@ -12,7 +12,7 @@ Use the Touch button on the component to get information about the screen’s pr
 
 使用组件上的 Touch 按钮获取有关屏幕显示状态的信息。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9c939db2-b744-4245-92fc-bb08dd76f6d3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190315Z&X-Amz-Expires=86400&X-Amz-Signature=0ea820f1ad266caa4b169fd5c9595d9371d80cc53104afc082c2774d61b63e2d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9c939db2-b744-4245-92fc-bb08dd76f6d3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190315Z&X-Amz-Expires=86400&X-Amz-Signature=0ea820f1ad266caa4b169fd5c9595d9371d80cc53104afc082c2774d61b63e2d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Enable 启用
 

@@ -16,7 +16,7 @@ Right-click to change the type (ex: number, text, color), or to add additional o
 
 右键单击以更改类型（例如：数字、文本、颜色）或添加其他选项。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8ba5b51a-c944-4923-864d-9f135a3b373b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T181429Z&X-Amz-Expires=86400&X-Amz-Signature=7822acc0e0a02723942496fa5a78c76ca018dc4bcde2e5ff37021cdd34ef4f3d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8ba5b51a-c944-4923-864d-9f135a3b373b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T181429Z&X-Amz-Expires=86400&X-Amz-Signature=7822acc0e0a02723942496fa5a78c76ca018dc4bcde2e5ff37021cdd34ef4f3d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Option
 
@@ -46,7 +46,7 @@ The picked value.
 
 ### 支持类型
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/44deca68-eb79-4fd9-ae2e-4358b74eab96/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T181420Z&X-Amz-Expires=86400&X-Amz-Signature=872557f3fc679f9c1c8738d6a9a282e3835d48efbfa5f23d1c67d4cddee4c9d9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/44deca68-eb79-4fd9-ae2e-4358b74eab96/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T181420Z&X-Amz-Expires=86400&X-Amz-Signature=872557f3fc679f9c1c8738d6a9a282e3835d48efbfa5f23d1c67d4cddee4c9d9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ------
 

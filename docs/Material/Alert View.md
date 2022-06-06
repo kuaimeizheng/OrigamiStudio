@@ -12,7 +12,7 @@ Use the Touch button on the component to get the tap events on the buttons.
 
 使用组件上的 Touch 按钮来获取按钮上的点击事件。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8894b6ab-5b64-447d-9b79-18c2394c4d80/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190135Z&X-Amz-Expires=86400&X-Amz-Signature=a0c99ed1f4e2986d53353e60d2549d79a0cb6ce50c7683cdac02114e7a54cbfa&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8894b6ab-5b64-447d-9b79-18c2394c4d80/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190135Z&X-Amz-Expires=86400&X-Amz-Signature=a0c99ed1f4e2986d53353e60d2549d79a0cb6ce50c7683cdac02114e7a54cbfa&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Present 出现
 

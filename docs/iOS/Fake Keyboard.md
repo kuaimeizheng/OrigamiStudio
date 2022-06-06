@@ -16,7 +16,7 @@ Use the Touch button on the component to get information about keyboard interact
 
 使用组件上的Touch按钮获取有关键盘交互的信息。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8b57a92d-8184-4a0b-98a8-af738dd317df/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190604Z&X-Amz-Expires=86400&X-Amz-Signature=65d735b5eeb925acc20a1678592146d246d0dde8bd0e90d964d8b58cdfb91dd5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8b57a92d-8184-4a0b-98a8-af738dd317df/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190604Z&X-Amz-Expires=86400&X-Amz-Signature=65d735b5eeb925acc20a1678592146d246d0dde8bd0e90d964d8b58cdfb91dd5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Enable 启用
 

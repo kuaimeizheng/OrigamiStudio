@@ -18,17 +18,17 @@ Here’s a basic example where a variable has been used to clean up the patch gr
 
 ![](https://origami.design/public/images/documentation/variables-before-broadcast.png)
 
-### Before:The Scroll Y position is connected to 3 different inputs, with cables overlapping parts of the patch graph.
+Before:The Scroll Y position is connected to 3 different inputs, with cables overlapping parts of the patch graph.
 
-### 开始:Scroll Y 位置连接3个不同的输入，连线与模块图的部分重叠。
+开始:Scroll Y 位置连接3个不同的输入，连线与模块图的部分重叠。
 
 https://origami.design/public/images/videos/variables-radio-wave.mp4
 
 ![](https://origami.design/public/images/documentation/variables-after-broadcast.png)
 
-### After:A variable broadcaster for Scroll Y position has been connected to the scroll patch, and 3 variable receivers have replaced the cables from the scroll patch
+After:A variable broadcaster for Scroll Y position has been connected to the scroll patch, and 3 variable receivers have replaced the cables from the scroll patch
 
-### 结束:Scroll Y 位置的一个变量发送器已连接到滚动模块，3个变量接收器已替换滚动模块的连线
+结束:Scroll Y 位置的一个变量发送器已连接到滚动模块，3个变量接收器已替换滚动模块的连线
 
 Variables can also help you navigate around a large patch graph. If you click on the ‘radio wave’ icon of a wireless receiver, Origami will pan the patch graph to reveal the source broadcaster. As your prototype grows in size, this can be a helpful way to understand what values are affecting your prototype, and where they’re being modified.
 
@@ -44,7 +44,7 @@ For instance, in the example above, there is a toolbar that fades out as the con
 
 ![](https://origami.design/public/images/documentation/variables-example.png)
 
-### Example:Using variables to centralize & reuse values
+Example:Using variables to centralize & reuse values
 
 示例:使用变量来集中和复用值
 

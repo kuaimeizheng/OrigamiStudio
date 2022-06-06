@@ -20,7 +20,7 @@ See [State Basics](./../Patch%20Editor/States.md) for more information.
 
 更多信息请参考 State Basic。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6e3d8fbd-ae7e-4012-b87a-e3af576a60e7/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T182340Z&X-Amz-Expires=86400&X-Amz-Signature=a38bef191cfd43b606667aa077d5c26a0ceda59794dd6eb91476cad248cd5ebb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6e3d8fbd-ae7e-4012-b87a-e3af576a60e7/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T182340Z&X-Amz-Expires=86400&X-Amz-Signature=a38bef191cfd43b606667aa077d5c26a0ceda59794dd6eb91476cad248cd5ebb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Flip 反转
 

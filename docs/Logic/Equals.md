@@ -8,7 +8,7 @@ Check if two numbers are equal, or approximately equal within a tolerance. Usefu
 
 检查两个数字是否相等，或者在公差范围内近似相等。适用于不是固定整数的弹性值。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cb6246c1-e805-4b71-bab8-dd43f00612ec/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172020Z&X-Amz-Expires=86400&X-Amz-Signature=8b2c4159338b00a431dfecc0fc0de6bc577981b532490190dbc4e61f8c9200ca&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cb6246c1-e805-4b71-bab8-dd43f00612ec/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172020Z&X-Amz-Expires=86400&X-Amz-Signature=8b2c4159338b00a431dfecc0fc0de6bc577981b532490190dbc4e61f8c9200ca&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### First Value 第一个值
 

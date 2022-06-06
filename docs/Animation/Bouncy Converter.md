@@ -44,4 +44,4 @@ A number that represents spring tension.
 
 历史版本：
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a74dbc54-9f08-4269-8857-a26834e650fe/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T150926Z&X-Amz-Expires=86400&X-Amz-Signature=9a3b40f9322955c53b152785dc8813bf4c41a51eaf55152dd8f2a923d0786a46&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a74dbc54-9f08-4269-8857-a26834e650fe/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T150926Z&X-Amz-Expires=86400&X-Amz-Signature=9a3b40f9322955c53b152785dc8813bf4c41a51eaf55152dd8f2a923d0786a46&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

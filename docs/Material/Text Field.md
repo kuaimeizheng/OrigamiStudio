@@ -16,7 +16,7 @@ Use the Touch button on the component to get information about the text and edit
 
 使用组件上的触摸按钮获取有关文本和编辑状态的信息。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e48e71ed-3539-4932-bc53-723c1317802c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190416Z&X-Amz-Expires=86400&X-Amz-Signature=d1781ae0b0eef4847cca644d5419ae4946d11b56b06095fbd68510b2a40588e3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e48e71ed-3539-4932-bc53-723c1317802c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190416Z&X-Amz-Expires=86400&X-Amz-Signature=d1781ae0b0eef4847cca644d5419ae4946d11b56b06095fbd68510b2a40588e3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Enable 启用
 

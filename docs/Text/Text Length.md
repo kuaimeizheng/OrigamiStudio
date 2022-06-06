@@ -8,7 +8,7 @@ Measure the number of characters in a text string.
 
 测量文本字符串中的字符数。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/45dda851-45d3-4c6a-8a6f-1d9c90aa5220/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180210Z&X-Amz-Expires=86400&X-Amz-Signature=84c65e886f02126cd83813030406115692c3ba85825cdbf914260a95400807f4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/45dda851-45d3-4c6a-8a6f-1d9c90aa5220/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180210Z&X-Amz-Expires=86400&X-Amz-Signature=84c65e886f02126cd83813030406115692c3ba85825cdbf914260a95400807f4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Text 文本
 

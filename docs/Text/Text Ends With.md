@@ -8,7 +8,7 @@ Determine if some text ends with the given suffix.
 
 判断某些文本字符串是否以特定的后缀开头。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5435fb80-305d-4663-becd-19a74d7aae69/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180118Z&X-Amz-Expires=86400&X-Amz-Signature=ce90adb75b702147960e7aa2d597694ae864d93c30bc3398a31dd4654c1d18e7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5435fb80-305d-4663-becd-19a74d7aae69/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180118Z&X-Amz-Expires=86400&X-Amz-Signature=ce90adb75b702147960e7aa2d597694ae864d93c30bc3398a31dd4654c1d18e7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Text 文本
 

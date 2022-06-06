@@ -12,7 +12,7 @@ Right-click to check more booleans.
 
 右键添加更多输入端口。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e76b7234-a542-4ef3-b9c4-62221fcd3b89/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T171942Z&X-Amz-Expires=86400&X-Amz-Signature=ac3f938b80ba7071e677a069f61a81587feeb3569becfdf8f0b81e3e71926bc3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e76b7234-a542-4ef3-b9c4-62221fcd3b89/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T171942Z&X-Amz-Expires=86400&X-Amz-Signature=ac3f938b80ba7071e677a069f61a81587feeb3569becfdf8f0b81e3e71926bc3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Input 输入
 

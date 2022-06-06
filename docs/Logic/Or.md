@@ -12,7 +12,7 @@ Right-click to check more booleans.
 
 右键单击可查看更多布尔值。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/45a525f6-20a3-439f-a32a-7c90728dc10c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172222Z&X-Amz-Expires=86400&X-Amz-Signature=3a948e12afbedfffe3d89a6dd525100d5610c64d61dc7c6e0aea381b9992a09e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/45a525f6-20a3-439f-a32a-7c90728dc10c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172222Z&X-Amz-Expires=86400&X-Amz-Signature=3a948e12afbedfffe3d89a6dd525100d5610c64d61dc7c6e0aea381b9992a09e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Input 输入
 

@@ -12,7 +12,7 @@ Use [Array Builder](./../Data/JSON%20Array.md) to create arrays.
 
 使用 JSON Array 模块 创建数组。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e16eb560-a916-4c04-8965-a6fc6103df2d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T173255Z&X-Amz-Expires=86400&X-Amz-Signature=bbea16c710e9666c2da86c4f285c380d3b078ffc698deb124851159d8ed2ae39&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e16eb560-a916-4c04-8965-a6fc6103df2d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T173255Z&X-Amz-Expires=86400&X-Amz-Signature=bbea16c710e9666c2da86c4f285c380d3b078ffc698deb124851159d8ed2ae39&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Array 数组
 

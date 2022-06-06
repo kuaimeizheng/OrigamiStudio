@@ -18,7 +18,7 @@ An image represented as a patch. Double-click the thumbnail to select an image f
 - 将 Image 模块的输出端口连接到 Image Layer 的 Image 属性。
 - 将图片直接拖动到图层列表中以创建 Image Layer。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/01f7625a-371d-41a4-8085-5d11fac6fb22/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T181147Z&X-Amz-Expires=86400&X-Amz-Signature=61c0326ca8076d92ed8bcd3d4a0d8c6fc5cc2c919a9410e6b03b726a81f32820&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/01f7625a-371d-41a4-8085-5d11fac6fb22/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T181147Z&X-Amz-Expires=86400&X-Amz-Signature=61c0326ca8076d92ed8bcd3d4a0d8c6fc5cc2c919a9410e6b03b726a81f32820&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Output 输出
 

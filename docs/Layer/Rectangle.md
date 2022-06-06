@@ -8,7 +8,7 @@ A rectangle of a specific size and fill color.
 
 特定尺寸和填充颜色的矩形。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/efd472b6-e8d6-48ef-8d09-23412a2c9a33/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185704Z&X-Amz-Expires=86400&X-Amz-Signature=5638a8c5c9208007128c242439790d1ee5a805b2b07878f15f4d9798030f8f30&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/efd472b6-e8d6-48ef-8d09-23412a2c9a33/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185704Z&X-Amz-Expires=86400&X-Amz-Signature=5638a8c5c9208007128c242439790d1ee5a805b2b07878f15f4d9798030f8f30&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Enable 启用
 

@@ -8,7 +8,7 @@ Create a customizable circular progress layer.
 
 创建一个可自定义的圆形进度图层。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/faf3385a-8b16-4e2f-a8b1-3e94b342c6ab/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185645Z&X-Amz-Expires=86400&X-Amz-Signature=bd130c66a2a31e3650bcd1e5bde520f59e9c4356274123aaa84720ea82610260&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/faf3385a-8b16-4e2f-a8b1-3e94b342c6ab/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185645Z&X-Amz-Expires=86400&X-Amz-Signature=bd130c66a2a31e3650bcd1e5bde520f59e9c4356274123aaa84720ea82610260&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Enable 启用
 

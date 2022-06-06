@@ -8,7 +8,7 @@ Calculate the progress off a scrollaway navigation element.
 
 计算滚动导航元素的进度。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3b47c217-5437-4614-be9c-f1142973dc88/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T171249Z&X-Amz-Expires=86400&X-Amz-Signature=ee6b82b410e1327a73382988003abb715586c406a0b148dafe9dc1b18c99e480&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3b47c217-5437-4614-be9c-f1142973dc88/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T171249Z&X-Amz-Expires=86400&X-Amz-Signature=ee6b82b410e1327a73382988003abb715586c406a0b148dafe9dc1b18c99e480&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Scroll Position 滚动位置
 

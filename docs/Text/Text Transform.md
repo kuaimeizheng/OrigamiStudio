@@ -8,7 +8,7 @@ Transform the case and capitalization of a text string.
 
 转换文本字符串的大小写和大小写。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f8b34f5a-31c9-4214-9be6-00d9a54d6caf/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180517Z&X-Amz-Expires=86400&X-Amz-Signature=b494b1dadb5ae3f38147a731dd71328d25cf641c4c919b8e0cafeed43633bc16&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f8b34f5a-31c9-4214-9be6-00d9a54d6caf/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180517Z&X-Amz-Expires=86400&X-Amz-Signature=b494b1dadb5ae3f38147a731dd71328d25cf641c4c919b8e0cafeed43633bc16&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Text 文本
 

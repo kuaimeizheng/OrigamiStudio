@@ -8,7 +8,7 @@ Access accelerometer and gyroscope information from the phone, tablet, or comput
 
 从手机，平板电脑或计算机访问加速度和陀螺信息。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/613637c1-fb71-4ab3-9ee4-1f9939ddc9fb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165555Z&X-Amz-Expires=86400&X-Amz-Signature=4a39d62b41ec64c4205f78048ddb05c1f69edf4881f64fbe77770e078e4bec36&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/613637c1-fb71-4ab3-9ee4-1f9939ddc9fb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165555Z&X-Amz-Expires=86400&X-Amz-Signature=4a39d62b41ec64c4205f78048ddb05c1f69edf4881f64fbe77770e078e4bec36&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Has Acceleration 有加速
 

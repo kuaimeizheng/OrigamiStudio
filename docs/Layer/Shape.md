@@ -8,7 +8,7 @@ A shape specified by the shape input. Add a shape patch like Rectangle, Triangle
 
 由形状端口输入指定的形状。添加一个形状模块，如矩形，三角形，椭圆形，或形状组合。形状可以有颜色填充和描边。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0a153a1a-4fe9-4fce-8895-65c2bda2747d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185723Z&X-Amz-Expires=86400&X-Amz-Signature=4c5bc8ac6c40c0cbad455b53762a8cad071094152618168c182548d27faa5ba5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0a153a1a-4fe9-4fce-8895-65c2bda2747d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185723Z&X-Amz-Expires=86400&X-Amz-Signature=4c5bc8ac6c40c0cbad455b53762a8cad071094152618168c182548d27faa5ba5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Enable 启用
 

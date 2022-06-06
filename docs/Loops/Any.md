@@ -8,13 +8,13 @@ Check if any of the booleans in a loop are true.
 
 检查循环中的任何布尔值是否为真。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/12abf4fb-aac8-41f6-987d-992d454e97d9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172347Z&X-Amz-Expires=86400&X-Amz-Signature=2f76a24c967b828b5bda1956f93e29067e4e7b0da564268c060207b7307e2aae&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/12abf4fb-aac8-41f6-987d-992d454e97d9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172347Z&X-Amz-Expires=86400&X-Amz-Signature=2f76a24c967b828b5bda1956f93e29067e4e7b0da564268c060207b7307e2aae&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 Often used with an [Interaction](./../Interaction/Interaction.md) patch on a looped layer to check when any of the layers are tapped.
 
 通常与循环图层上的交互模块一起使用，以检查突出什么时候被点击。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/993453ba-77e4-4de2-b779-134518a671c7/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172354Z&X-Amz-Expires=86400&X-Amz-Signature=9bd3aeed249dcfe41ffc35ffe4373a67dd1435af3d49ed4293cd5d855c49fd22&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/993453ba-77e4-4de2-b779-134518a671c7/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172354Z&X-Amz-Expires=86400&X-Amz-Signature=9bd3aeed249dcfe41ffc35ffe4373a67dd1435af3d49ed4293cd5d855c49fd22&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Loop 循环
 

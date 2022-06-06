@@ -12,7 +12,7 @@ Right-click to change the type of the loop.
 
 右键单击以更改循环的类型。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bf1db7b6-f0e0-4b3c-a0be-388d2bbe8c13/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T173630Z&X-Amz-Expires=86400&X-Amz-Signature=385dbf78314c5148e9e7385897461264387a41f60e030df546aa8fe77ee2136c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bf1db7b6-f0e0-4b3c-a0be-388d2bbe8c13/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T173630Z&X-Amz-Expires=86400&X-Amz-Signature=385dbf78314c5148e9e7385897461264387a41f60e030df546aa8fe77ee2136c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Loop 循环
 
@@ -34,7 +34,7 @@ The resulting loop with reordered values.
 
 ### 支持类型
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/48b447d2-8e72-42ef-94f8-256c41936ccf/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T173637Z&X-Amz-Expires=86400&X-Amz-Signature=011da4418bf59aecd9f20ea3fc80d52e8392bcb91342de7256257281d1342623&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/48b447d2-8e72-42ef-94f8-256c41936ccf/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T173637Z&X-Amz-Expires=86400&X-Amz-Signature=011da4418bf59aecd9f20ea3fc80d52e8392bcb91342de7256257281d1342623&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ------
 

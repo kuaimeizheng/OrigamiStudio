@@ -8,7 +8,7 @@ Turn a point with 4 dimensions into its individual X, Y, Z, and W values.
 
 将具有 4 个维度的点转换为其单独的 X、Y、Z 和 W 值。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b60026b6-e15a-40fa-85f5-e3b167c6e1bb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T182603Z&X-Amz-Expires=86400&X-Amz-Signature=026f39d82b5ec87d7c455dc5d0b4106dee01383be0988dc51a329ac837f3aa40&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b60026b6-e15a-40fa-85f5-e3b167c6e1bb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T182603Z&X-Amz-Expires=86400&X-Amz-Signature=026f39d82b5ec87d7c455dc5d0b4106dee01383be0988dc51a329ac837f3aa40&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Input 输入
 

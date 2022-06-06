@@ -32,9 +32,9 @@ Trigger a present transition using a Tap, Double Tap or Long Press interaction. 
 
 使用轻按、双击或长按交互来触发当前的过渡。您可以在Origami右侧的检查器面板中，选择Push、Modal或None来更改过渡类型。
 
-- ### PushDefault iOS transition, will slide in the next screen being presented from right to left
-- ### ModalWill transition in the next screen from the bottom up
-- ### NoneWill present the next screen immediately with no transition.
+- **Push** Default iOS transition, will slide in the next screen being presented from right to left
+- **Modal** Will transition in the next screen from the bottom up
+- **None** Will present the next screen immediately with no transition.
 - 推动 默认iOS过渡，下一个屏幕将从右向左显示
 - 模态 下一个屏幕将从下向上过渡
 - 无 下一个屏幕没有过渡立即出现。

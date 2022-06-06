@@ -12,7 +12,7 @@ Use the Touch button on the component to get the state of the checkbox.
 
 使用组件上的 Touch 按钮来获取复选框的状态。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/db4e5619-0fef-4e09-b948-ad5dbea48722/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190154Z&X-Amz-Expires=86400&X-Amz-Signature=fa996ac2e7e29be01b755cf95a550316f618a823ad854df8bd3fddc6d28982b8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/db4e5619-0fef-4e09-b948-ad5dbea48722/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190154Z&X-Amz-Expires=86400&X-Amz-Signature=fa996ac2e7e29be01b755cf95a550316f618a823ad854df8bd3fddc6d28982b8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Enable 启用
 

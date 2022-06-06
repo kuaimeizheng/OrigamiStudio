@@ -12,7 +12,7 @@ Right-click to change the type (ex: number, position, rotation).
 
 右键更改输入接口接入值类型（例如：数字，坐标，角度）。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6b09994d-70bf-4561-9ec3-0fff7a8e9385/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T174352Z&X-Amz-Expires=86400&X-Amz-Signature=e89031a313c9b087714b5132419f59ce17098f39d45c4981b54f957cc937c609&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6b09994d-70bf-4561-9ec3-0fff7a8e9385/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T174352Z&X-Amz-Expires=86400&X-Amz-Signature=e89031a313c9b087714b5132419f59ce17098f39d45c4981b54f957cc937c609&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Input 输入
 

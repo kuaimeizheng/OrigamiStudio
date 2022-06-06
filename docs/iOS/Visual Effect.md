@@ -8,7 +8,7 @@ An iOS visual effect view that blurs all the layers below it.
 
 iOS视觉效果视图，模糊下面的所有图层。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7355b9e3-6c82-45b3-9e74-bb89d874744d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T191012Z&X-Amz-Expires=86400&X-Amz-Signature=2bd176bcef510dd38b00dd4dc339990822a949c4105dbce657a3029005c63c3e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7355b9e3-6c82-45b3-9e74-bb89d874744d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T191012Z&X-Amz-Expires=86400&X-Amz-Signature=2bd176bcef510dd38b00dd4dc339990822a949c4105dbce657a3029005c63c3e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Enable 启用
 

@@ -8,7 +8,7 @@ Access information about a Photo media asset.
 
 访问有关照片媒体资产的信息。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/77b4009a-d163-45de-a8e8-7a6108d47b72/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T175728Z&X-Amz-Expires=86400&X-Amz-Signature=46c01c141c1b1c54e6209176f2c9e0a6b056c0cc9ef85b672ecbd491c9779795&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/77b4009a-d163-45de-a8e8-7a6108d47b72/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T175728Z&X-Amz-Expires=86400&X-Amz-Signature=46c01c141c1b1c54e6209176f2c9e0a6b056c0cc9ef85b672ecbd491c9779795&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Asset 资源
 

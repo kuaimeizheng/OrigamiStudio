@@ -8,7 +8,7 @@ A layer that can play output of the Keyframes Exporter as a video. [Keyframes](h
 
 一个图层，可以将 Keyframes Exporter的输出作为视频播放的。 Keyframes 是一个库，用于将Adobe After Effects基于形状的动画转换为数据格式，以便在iOS和Android设备上进行渲染。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5eac7bb8-e581-48a9-b546-2e6357e4d3c9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185851Z&X-Amz-Expires=86400&X-Amz-Signature=16c61231d7a91e09330621b852f7e49515489a90dae31ff8519df9b11c634464&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5eac7bb8-e581-48a9-b546-2e6357e4d3c9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185851Z&X-Amz-Expires=86400&X-Amz-Signature=16c61231d7a91e09330621b852f7e49515489a90dae31ff8519df9b11c634464&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Enable 启用
 

@@ -8,7 +8,7 @@ Provides a circle shape with set properties, to be used with the Shape Layer.
 
 创建一个可以设置属性的圆形的形状图层。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b6b492e6-9673-4235-948e-0fe5d2952391/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T175830Z&X-Amz-Expires=86400&X-Amz-Signature=aa0a6286a1bdc381602e59e33bb1d99158c964022b54abdf240180bafec196cd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b6b492e6-9673-4235-948e-0fe5d2952391/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T175830Z&X-Amz-Expires=86400&X-Amz-Signature=aa0a6286a1bdc381602e59e33bb1d99158c964022b54abdf240180bafec196cd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Position 位置
 

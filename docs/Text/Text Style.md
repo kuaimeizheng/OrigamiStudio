@@ -12,7 +12,7 @@ Use [Text Style Builder](./Text%20Style%20Builder.md) to combine with multiple T
 
 使用文本样式生成器与多个文本样式模块组合。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8283bd2b-c873-43b6-9adf-dc1fdf46792e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180436Z&X-Amz-Expires=86400&X-Amz-Signature=22220a5725fdd04039d69f20b2072844939165ca6e22aa884ba774a43f19ed11&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8283bd2b-c873-43b6-9adf-dc1fdf46792e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180436Z&X-Amz-Expires=86400&X-Amz-Signature=22220a5725fdd04039d69f20b2072844939165ca6e22aa884ba774a43f19ed11&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Range Start 范围开始
 

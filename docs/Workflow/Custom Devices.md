@@ -114,7 +114,7 @@ The menu item in Device picker menu where this device is available. Available ty
 
 设备选择菜单中此设备可用的菜单项。可用类型包括`computer`, `phone`, `tablet`, `tv`, `watch`, `window`, `custom`。如果未指定，则默认为`custom`。
 
-### ### `platform` 平台### 
+### ### `platform` 平台
 
 Type: String, Optional
 
@@ -132,7 +132,7 @@ Whether this device uses a Mouse or Trackpad for input
 
 此设备是否使用鼠标或触控板进行输入
 
-### ### `viewerWindowNative` 查看本机窗口### 
+### ### `viewerWindowNative` 查看本机窗口
 
 Type: Boolean, Optional
 
@@ -142,7 +142,7 @@ Whether this device uses a native mac window to display when popped out into its
 
 当弹出自己的窗口时，设备是否使用本机mac窗口来显示。然后屏幕大小可以自由调整。
 
-### ### `deviceInsets` 设备插件### 
+### ### `deviceInsets` 设备插件
 
 Type: Array of 4 Numbers, Required
 
@@ -162,7 +162,7 @@ If you want the builtin shadow, set this to something non-zero and you can posit
 
 如果你想要内置阴影，将其设置为非零值，你就可以相对于设备定位阴影。
 
-### ### `deviceImages` 设备图像### 
+### ### `deviceImages` 设备图像
 
 Type: Dictionary of Strings to Strings
 
@@ -190,7 +190,7 @@ How much to scale up or down the device image compared to the screen scale
 
 与屏幕相比，设备图像放大或缩小多少
 
-### ### `deviceOverlayImages` 设备图片叠加### 
+### ### `deviceOverlayImages` 设备图片叠加
 
 Type: Dictionary of Strings to Strings
 
@@ -238,7 +238,7 @@ Whether or not the hand is on top of the device. Useful for devices like iPad wh
 
 手是否在设备顶部。一般用于手持 iPad 大屏幕这样拇指经常放在顶部的设备。
 
-### ### `defaultDeviceOrientation` 默认设备方向### 
+### ### `defaultDeviceOrientation` 默认设备方向
 
 Type: String, Optional
 
@@ -248,13 +248,13 @@ The default device orientation to show the device in for the provided screen siz
 
 根据提供的屏幕大小和设备图片显示设备的默认方向。例如，如果设备是横向的电视或平板电脑，则该值应为 `LandscapeLeft`或 `LandscapeRight`。可用的方向是`Portrait`, `LandscapeLeft`, `LandscapeRight`, `PortraitUpsideDown`.。如果未指定，则默认为`Portrait`。
 
-### ### `supportsDeviceOrientationPortrait`,### 
+### ### `supportsDeviceOrientationPortrait`,
 
-### ### `supportsDeviceOrientationLandscapeLeft`,### 
+### ### `supportsDeviceOrientationLandscapeLeft`,
 
-### ### `supportsDeviceOrientationLandscapeRight`,### 
+### ### `supportsDeviceOrientationLandscapeRight`,
 
-### ### `supportsDeviceOrientationPortraitUpsideDown`### 
+### ### `supportsDeviceOrientationPortraitUpsideDown`
 
 Type: Boolean, Optional
 

@@ -8,7 +8,7 @@ Count the number of values in a loop.
 
 计算循环中值的数量。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7a50c40f-c6c0-49e8-ac6c-eab5eb9900bf/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172755Z&X-Amz-Expires=86400&X-Amz-Signature=e4baf58ff0c546f03b6931245bbc6689c185bf2372e9ba563939b51edfb0d178&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7a50c40f-c6c0-49e8-ac6c-eab5eb9900bf/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172755Z&X-Amz-Expires=86400&X-Amz-Signature=e4baf58ff0c546f03b6931245bbc6689c185bf2372e9ba563939b51edfb0d178&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Loop 循环
 

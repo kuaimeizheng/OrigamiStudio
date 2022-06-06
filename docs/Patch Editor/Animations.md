@@ -31,7 +31,7 @@ This example below will scale a Layer from 0 to 1 (or 0% to 100%) when you touch
 
 下面的示例将在您按下时将图层从 0 缩放到 1（或 0% 到 100%），并带有反转且有弹性的动画：
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/99d8acfe-3a47-4f92-a1ee-e61f5d729d17/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T162639Z&X-Amz-Expires=86400&X-Amz-Signature=71344bc5ae0133c79afcecf55387f867227450d220112c68f8636b3413ffbff4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/99d8acfe-3a47-4f92-a1ee-e61f5d729d17/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T162639Z&X-Amz-Expires=86400&X-Amz-Signature=71344bc5ae0133c79afcecf55387f867227450d220112c68f8636b3413ffbff4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 # Transitions 过渡
 
@@ -43,7 +43,7 @@ Animating from 0 to 1 is simple, but what about animating between other values?
 
 转换模块可以让你将 0/1 转换为任何 开始/结束值:
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8d9d0cc6-444e-4074-8061-93df45cd0d58/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T162651Z&X-Amz-Expires=86400&X-Amz-Signature=820f4422dd4c72786a5661ac3814f06eda8ca2746278aa1b62edbfcc67b624fb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/8d9d0cc6-444e-4074-8061-93df45cd0d58/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T162651Z&X-Amz-Expires=86400&X-Amz-Signature=820f4422dd4c72786a5661ac3814f06eda8ca2746278aa1b62edbfcc67b624fb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 For example, if you want to animate a Layer’s width from 100px to 200px. You would specify a Start Value of 100, and an End Value of 200. In combination with the animated 0 to 1 value from above, you can easily animate a Layer’s width.
 
@@ -53,25 +53,25 @@ With a Progress of 0:
 
 进度为 0 时:
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/82b8c4a8-5277-447e-8bfc-4bccca874a9a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T162700Z&X-Amz-Expires=86400&X-Amz-Signature=f8cf8c8ff036c91850f315702baa51b8fe2273d706244c142220defb47c5b6cf&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/82b8c4a8-5277-447e-8bfc-4bccca874a9a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T162700Z&X-Amz-Expires=86400&X-Amz-Signature=f8cf8c8ff036c91850f315702baa51b8fe2273d706244c142220defb47c5b6cf&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 With a Progress of .5:
 
 进度为 0.5 时:
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9cf734f7-1e7a-4426-9441-2bfff356ceef/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T162709Z&X-Amz-Expires=86400&X-Amz-Signature=a4c877a0c310c02cc9b30096c69101245a689246b44ed1e81d294805941986f8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9cf734f7-1e7a-4426-9441-2bfff356ceef/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T162709Z&X-Amz-Expires=86400&X-Amz-Signature=a4c877a0c310c02cc9b30096c69101245a689246b44ed1e81d294805941986f8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 With a Progress of 1:
 
 进度为 1 时:
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/30f259d8-69b5-444f-b740-7bd74e0a974f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T162720Z&X-Amz-Expires=86400&X-Amz-Signature=0732a4d23f436ca1b9a8ed787917028a650b5f82066919ac0e7d8fc3f5a845a0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/30f259d8-69b5-444f-b740-7bd74e0a974f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T162720Z&X-Amz-Expires=86400&X-Amz-Signature=0732a4d23f436ca1b9a8ed787917028a650b5f82066919ac0e7d8fc3f5a845a0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 In combination with an animation patch, you can now animate between any two values easily:
 
 结合动画模块，您现在可以轻松地在任意两个值之间制作动画：
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3dfcdb5b-ef46-442c-84ca-a0e5837e3c90/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T162729Z&X-Amz-Expires=86400&X-Amz-Signature=53fb776e29981a9f0009696166f47ecc4c09ef77ec3eedcbcc0b84f192947229&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3dfcdb5b-ef46-442c-84ca-a0e5837e3c90/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T162729Z&X-Amz-Expires=86400&X-Amz-Signature=53fb776e29981a9f0009696166f47ecc4c09ef77ec3eedcbcc0b84f192947229&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ------
 

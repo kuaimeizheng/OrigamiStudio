@@ -12,7 +12,7 @@ See [States & Pulses](./../Concepts/States%20&%20Pulses.md) for more information
 
 有关更多信息，请参阅状态和脉冲。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cce1b5f0-9411-4cce-8c5d-f1aa3b4258ad/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T181923Z&X-Amz-Expires=86400&X-Amz-Signature=13f4cb0b9d0b6b2da79b414763af8c360618d2874556b665e1e9752b096cfb69&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cce1b5f0-9411-4cce-8c5d-f1aa3b4258ad/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T181923Z&X-Amz-Expires=86400&X-Amz-Signature=13f4cb0b9d0b6b2da79b414763af8c360618d2874556b665e1e9752b096cfb69&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Frequency 频率
 

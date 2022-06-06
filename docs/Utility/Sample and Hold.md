@@ -12,7 +12,7 @@ Right-click to change the type (ex: number, text, color).
 
 右键更改接口数量和类型。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/db9db180-bb54-4a61-bb3d-f104ad56a27b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T182056Z&X-Amz-Expires=86400&X-Amz-Signature=639da17f167ca16dbf76de10f6265dc95e92c5ac25981f3f0d472ddd28d62089&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/db9db180-bb54-4a61-bb3d-f104ad56a27b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T182056Z&X-Amz-Expires=86400&X-Amz-Signature=639da17f167ca16dbf76de10f6265dc95e92c5ac25981f3f0d472ddd28d62089&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Value 值
 
@@ -40,7 +40,7 @@ A pulse that clears the currently stored value.
 
 ### Type 类型
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e6058b12-64d0-4ed8-a3fb-f42402342ce0/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T182103Z&X-Amz-Expires=86400&X-Amz-Signature=3750d2e0313f83c82405caa0444b573e2ff0be585c6db4169cb7d31f94f98142&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e6058b12-64d0-4ed8-a3fb-f42402342ce0/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T182103Z&X-Amz-Expires=86400&X-Amz-Signature=3750d2e0313f83c82405caa0444b573e2ff0be585c6db4169cb7d31f94f98142&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Output 输出
 

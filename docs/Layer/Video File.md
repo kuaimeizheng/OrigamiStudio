@@ -8,7 +8,7 @@ Select a video to add as a Video Layer.
 
 选择一个视频添加到 ### Video Layer。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6adf795f-938e-4085-a312-d7f800635de2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185814Z&X-Amz-Expires=86400&X-Amz-Signature=5f304ea944e91035d97af728de5a18ae02a9bce86279fcdad0c11d547fc9c5fd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6adf795f-938e-4085-a312-d7f800635de2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185814Z&X-Amz-Expires=86400&X-Amz-Signature=5f304ea944e91035d97af728de5a18ae02a9bce86279fcdad0c11d547fc9c5fd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 属性：
 

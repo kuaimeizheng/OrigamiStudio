@@ -14,7 +14,7 @@ Used with the [Text Field](./Text%20Field.md) component.
 
 与 [Text Field](./Text%20Field.md) 组件一起使用。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/729258b9-8373-4177-a814-beb9e9019107/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190236Z&X-Amz-Expires=86400&X-Amz-Signature=d4176c80c1273bf2cb36d65cbebffbac4806bb76b29cc83baeb993d63f178ff2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/729258b9-8373-4177-a814-beb9e9019107/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190236Z&X-Amz-Expires=86400&X-Amz-Signature=d4176c80c1273bf2cb36d65cbebffbac4806bb76b29cc83baeb993d63f178ff2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Editing 编辑
 

@@ -8,7 +8,7 @@ Say cheese! A live stream of the current computer, phone, or tablet’s camera t
 
 当前计算机，手机或平板电脑摄像头的实时直播，支持录制视频和捕获图像。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/00ce73b1-31df-43e7-9b3c-e5e5de8925ca/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165344Z&X-Amz-Expires=86400&X-Amz-Signature=ccc205c1c1bae88ea67ff5b4852aa876c2d673f0fbffd951b203d61e764ed844&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/00ce73b1-31df-43e7-9b3c-e5e5de8925ca/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165344Z&X-Amz-Expires=86400&X-Amz-Signature=ccc205c1c1bae88ea67ff5b4852aa876c2d673f0fbffd951b203d61e764ed844&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Enable 启动
 

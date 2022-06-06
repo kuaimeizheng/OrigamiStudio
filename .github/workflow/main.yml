@@ -1,15 +1,44 @@
-name: Deploy via git-ftp
-on: push
+name: Deploy To Aliyun
+# 触发脚本的条件，分支push代码的时候
+on:
+  push:
+    branches:
+      - main
+# 要执行的任务
 jobs:
-  deploy:
-    name: Deploy
+  # 任务名称
+  build:
+    # runs-on 指定job任务运行所需要的虚拟机环境（必填）
     runs-on: ubuntu-latest
+    # 任务步骤
     steps:
-    - uses: actions/checkout@v1
-    - name: git-ftp push
-      uses: sebastianpopp/git-ftp-action@releases/v3
-      with:
-        url: "ftp://120.79.21.204//www/wwwroot/imeeil"
-        user: ${{ secrets.ftp_username }}
-        password: ${{ secrets.ftp_password }}
+      # 获取源码
+      - name: 迁出代码
+        # 使用action库  actions/checkout获取源码
+        uses: actions/checkout@master
+      # 安装node
+      - name: 安装node.js
+        # 使用action库 actions/setup-node 安装node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 10.16.3
+      # 安装依赖
+      - name: 安装依赖
+        run: npm install
+      # 打包
+      - name: 打包
+        run: npm run build:xxx
+      # 上传打包文件到远程服务器
+      - name: 上传文件到远程服务器
+        uses: zhenyuWang/Upload-File-Action@v1.0.1
+        with:
+          username: ${{ secrets.ftp_username }}
+          server: "120.79.21.204"
+          port: "22"
+          ssh_private_key: ${{ secrets.private_key}}
+          # 要上传文件所在目录
+          local_path: "./build/*"
+          # 远程服务器目标路径
+          target_path: "/www/wwwroot/imeei"
+          # password: ${{ secrets.ftp_password }}
         

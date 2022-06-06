@@ -8,7 +8,7 @@ Organize related layers that move, scale, rotate, and fade together. Groups have
 
 将图层整理在一起可以移动、缩放、旋转和淡入。组的大小可以裁剪其中的图层。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dfb14045-5935-4741-9b65-f2a4c7bccc39/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T184946Z&X-Amz-Expires=86400&X-Amz-Signature=0b6061f787409b1aa5bbd587ff1d782f5409ce19a9a068205a0ce8e67e65f8bb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dfb14045-5935-4741-9b65-f2a4c7bccc39/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T184946Z&X-Amz-Expires=86400&X-Amz-Signature=0b6061f787409b1aa5bbd587ff1d782f5409ce19a9a068205a0ce8e67e65f8bb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Enable 启用
 

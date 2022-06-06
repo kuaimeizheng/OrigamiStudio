@@ -8,7 +8,7 @@ Access the buttons on a phone or tablet. Currently supports the Android back but
 
 访问手机或平板电脑上的按钮。目前支持 Android 的 Back 按钮。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5b84077d-cbfb-4877-a327-f52f822d0089/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165413Z&X-Amz-Expires=86400&X-Amz-Signature=f608e885f265ad47dad44b41c796406154fd7a9c85a2380161f0c7275e8c51be&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5b84077d-cbfb-4877-a327-f52f822d0089/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165413Z&X-Amz-Expires=86400&X-Amz-Signature=f608e885f265ad47dad44b41c796406154fd7a9c85a2380161f0c7275e8c51be&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Back 返回
 

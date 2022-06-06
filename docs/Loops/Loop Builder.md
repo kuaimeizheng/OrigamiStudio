@@ -14,7 +14,7 @@ To learn more about loops, see the [Introduction to Loops](./../Concepts/Loop.md
 
 右键更改类型或输入端口数量。了解更多信息，请参考 [循环简介](./../Concepts/Loop.md)
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/50de9086-0f81-4d3e-bee5-2eae508d285d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172656Z&X-Amz-Expires=86400&X-Amz-Signature=60d1d693123613adebf119acbc276bf8dc9ba4554acbabe482f047720511f933&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/50de9086-0f81-4d3e-bee5-2eae508d285d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172656Z&X-Amz-Expires=86400&X-Amz-Signature=60d1d693123613adebf119acbc276bf8dc9ba4554acbabe482f047720511f933&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Input 输入
 
@@ -48,7 +48,7 @@ A loop of the input values. ex: [“apple”, “carrot”, “orange”]
 
 ### 循环支持的类型
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/51a03ac2-2f92-49ce-a2da-8f629af78be9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172645Z&X-Amz-Expires=86400&X-Amz-Signature=7a44376014fc291e616fbfd6857633c14c0d93ef1b9d813d5447f45ea2901c6f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/51a03ac2-2f92-49ce-a2da-8f629af78be9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172645Z&X-Amz-Expires=86400&X-Amz-Signature=7a44376014fc291e616fbfd6857633c14c0d93ef1b9d813d5447f45ea2901c6f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ------
 

@@ -8,7 +8,7 @@ Access information about text inputs. Used with Text Field on iOS and Android.
 
 访问有关文本输入的信息。与 iOS 和 Android 上的文本字段一起使用。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d8759b2c-06f4-4c92-a9ce-8b6297110755/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180142Z&X-Amz-Expires=86400&X-Amz-Signature=8ee4c88d184345336e04e328545e094582e030df0e0bd7ea0cd555368c91f893&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d8759b2c-06f4-4c92-a9ce-8b6297110755/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180142Z&X-Amz-Expires=86400&X-Amz-Signature=8ee4c88d184345336e04e328545e094582e030df0e0bd7ea0cd555368c91f893&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Editing 编辑
 

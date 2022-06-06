@@ -8,7 +8,7 @@ Style the viewer window to look like a web browser. Use the Browser Buttons patc
 
 设置查看器窗口的样式，使其看起来像一个web浏览器。使用 Browser Buttons 模块来捕获交互。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fc4e5f7a-d217-45bc-aa0d-42e9f496714b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165250Z&X-Amz-Expires=86400&X-Amz-Signature=156bff7056522b0fd3d08714ce48ddb932f97515e4cc95205a4fe6c439974842&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fc4e5f7a-d217-45bc-aa0d-42e9f496714b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165250Z&X-Amz-Expires=86400&X-Amz-Signature=156bff7056522b0fd3d08714ce48ddb932f97515e4cc95205a4fe6c439974842&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Enable 启用
 

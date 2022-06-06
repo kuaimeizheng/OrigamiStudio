@@ -12,7 +12,7 @@ All the outputs are loops of the same size; and the indices of each loop matches
 
 所有输出都是相同大小的循环；并且每个循环的索引与其他所有输出匹配。例如，左上 [2] 和右下 [2] 都对应索引 3 处的相同二维码。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b184408a-bf12-42a2-9de1-3463996e1094/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T181847Z&X-Amz-Expires=86400&X-Amz-Signature=800f47e522422daf8bf5551b55f47faeefe7281284fd7c48d0d7c5ba9e60dcb2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b184408a-bf12-42a2-9de1-3463996e1094/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T181847Z&X-Amz-Expires=86400&X-Amz-Signature=800f47e522422daf8bf5551b55f47faeefe7281284fd7c48d0d7c5ba9e60dcb2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Enable 启用
 

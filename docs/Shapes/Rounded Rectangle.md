@@ -8,7 +8,7 @@ Create a rounded rectangle to be used with the Shape Layer.
 
 创建一个圆角矩形的形状图层。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ef01cd86-8424-43e8-b963-487d5480dba5/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T175909Z&X-Amz-Expires=86400&X-Amz-Signature=8eb712608b6f2ba80e74574e246599cb9a3bd48f3d47895cf08c8002b67f646e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ef01cd86-8424-43e8-b963-487d5480dba5/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T175909Z&X-Amz-Expires=86400&X-Amz-Signature=8eb712608b6f2ba80e74574e246599cb9a3bd48f3d47895cf08c8002b67f646e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Position 位置
 

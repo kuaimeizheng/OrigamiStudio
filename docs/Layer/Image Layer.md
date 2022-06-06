@@ -8,7 +8,7 @@ A layer that can display an image.
 
 可以显示图像的图层。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/41a0ecdc-0cc2-4c8f-9130-cc1459764a68/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185252Z&X-Amz-Expires=86400&X-Amz-Signature=6a038a619f751e7709c63bdb0b97b080a8e0b06f3de288aee77c22e8efd75e97&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/41a0ecdc-0cc2-4c8f-9130-cc1459764a68/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185252Z&X-Amz-Expires=86400&X-Amz-Signature=6a038a619f751e7709c63bdb0b97b080a8e0b06f3de288aee77c22e8efd75e97&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Enable 启用
 

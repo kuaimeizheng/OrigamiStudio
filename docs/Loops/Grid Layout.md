@@ -8,7 +8,7 @@ Repeat a layer or group in a list or grid. Evenly divides the total grid width b
 
 在列表或网格中重复图层或组。将总网格宽度平均除以列数，以快速调整项目的大小和位置。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/22484d0a-5d3d-49a1-8353-b16f72c06d05/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172439Z&X-Amz-Expires=86400&X-Amz-Signature=bac043c88e0df543fe4e934b0b215fd65c2992a2f1f2b80312cc52091ad3f40c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/22484d0a-5d3d-49a1-8353-b16f72c06d05/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172439Z&X-Amz-Expires=86400&X-Amz-Signature=bac043c88e0df543fe4e934b0b215fd65c2992a2f1f2b80312cc52091ad3f40c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Index 索引
 

@@ -8,7 +8,7 @@ Math Expressions are a powerful tool to create more complex logic in Origami pro
 
 数学表达式是一个强大的工具，可以创建更复杂的逻辑原型。您可以插入单个 [Math Expression](./../Math/Math%20Expression.md) 模块，输入要计算的表达式，并连接其输入和输出，而不是为每个计算操作添加模块并将它们连接在一起。下面是一个简单的例子:
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/81616290-ef38-4aeb-be02-f79bf86569ab/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T040636Z&X-Amz-Expires=86400&X-Amz-Signature=edd811b5241e7d3509d0c09ed14434357c13244bb64729ba98e2c23ae1b298df&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/81616290-ef38-4aeb-be02-f79bf86569ab/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T040636Z&X-Amz-Expires=86400&X-Amz-Signature=edd811b5241e7d3509d0c09ed14434357c13244bb64729ba98e2c23ae1b298df&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ------
 
@@ -36,7 +36,7 @@ Compute the distance between two points using the following expression patch. No
 distance = Math.sqrt((x2-x1) 2 + (y2-y1) 2)
 ```
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d3db38aa-d1aa-40fc-8333-765bb9b118f8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T040652Z&X-Amz-Expires=86400&X-Amz-Signature=e1f656eeb420687cd28121c9a2511c4ed169c88d88dafe8308faa88cf7ebebbd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d3db38aa-d1aa-40fc-8333-765bb9b118f8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T040652Z&X-Amz-Expires=86400&X-Amz-Signature=e1f656eeb420687cd28121c9a2511c4ed169c88d88dafe8308faa88cf7ebebbd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 Create a patch with multiple outputs by writing multiple expressions separated by semicolons:
 
@@ -47,4 +47,4 @@ quotient = a/b; remainder = a % b
 商数 = a/b; 余数 = a % b
 ```
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fc63614f-1260-4467-8726-ee68e1a52f06/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T040659Z&X-Amz-Expires=86400&X-Amz-Signature=24a933621ead1857337661d26f0fe864c6166b95acb945c13c2d4a87e9ad237b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fc63614f-1260-4467-8726-ee68e1a52f06/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T040659Z&X-Amz-Expires=86400&X-Amz-Signature=24a933621ead1857337661d26f0fe864c6166b95acb945c13c2d4a87e9ad237b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

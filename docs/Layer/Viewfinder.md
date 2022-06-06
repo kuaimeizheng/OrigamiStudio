@@ -8,7 +8,7 @@ Say cheese! A live stream of the current computer, phone, or tablet’s camera. 
 
 调用设备的相机，实时图像。 “Freeze”取景器到原型拍照。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3bfda507-ac90-4102-9448-26cd7c052bfc/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190002Z&X-Amz-Expires=86400&X-Amz-Signature=3d568dca1a184c156f3341f191166ab1b36b3356dfe391bda6d21d707eecee66&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3bfda507-ac90-4102-9448-26cd7c052bfc/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190002Z&X-Amz-Expires=86400&X-Amz-Signature=3d568dca1a184c156f3341f191166ab1b36b3356dfe391bda6d21d707eecee66&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Enable 启用
 

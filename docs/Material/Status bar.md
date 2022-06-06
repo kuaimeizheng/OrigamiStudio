@@ -8,7 +8,7 @@ A Material status bar that is responsive and customizable.
 
 一种响应性和可定制的Material状态栏。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cd76b6d7-c13b-446b-9773-5163121ba7db/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190337Z&X-Amz-Expires=86400&X-Amz-Signature=67d436f65d6073355f77e5b643de649ae7d4b8016302e5b922934f92a772a66f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cd76b6d7-c13b-446b-9773-5163121ba7db/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190337Z&X-Amz-Expires=86400&X-Amz-Signature=67d436f65d6073355f77e5b643de649ae7d4b8016302e5b922934f92a772a66f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Enable 启用
 

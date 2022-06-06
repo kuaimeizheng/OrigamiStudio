@@ -26,7 +26,7 @@ Often used to track a sequential state (ex: an onboarding flow) interchangeably 
 
 通常用于跟踪顺序状态(例如:加载流程)，可与Option Switch互换。更多信息请参考 状态基础。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c4361c08-4276-4ff5-9885-1c0c4c66274a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180938Z&X-Amz-Expires=86400&X-Amz-Signature=de162e22cb66baaeb7dd6fc9055a31ece8267217e1137099a6fb7f12cc2dc22e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c4361c08-4276-4ff5-9885-1c0c4c66274a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180938Z&X-Amz-Expires=86400&X-Amz-Signature=de162e22cb66baaeb7dd6fc9055a31ece8267217e1137099a6fb7f12cc2dc22e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Increase 递增
 

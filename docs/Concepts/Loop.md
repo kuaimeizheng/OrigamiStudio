@@ -24,7 +24,7 @@ Origami 中的循环模块都是绿色的，任何连接到循环的模块都将
 
 https://origami.design/public/images/videos/loop_connections.mp4
 
-### ### Loop Patch 循环模块### 
+### Loop Patch 循环模块
 
 The simplest loop in Origami is created using the Loop patch, this will output a loop counting up to the number of items in the Count input. Loops in Origami are Zero-Indexed, which means they start counting from 0, so a Loop with a Count of 5 will be “0, 1, 2, 3, 4“.
 
@@ -42,7 +42,7 @@ You’ll see below when we hover through each item in the loop popover the numbe
 
 https://origami.design/public/images/videos/loop_patch.mp4
 
-### ### Loop Builder Patch 循环生成器模块### 
+### Loop Builder Patch 循环生成器模块
 
 Another way to create a loop is with the Loop Builder patch. This patch allows more control over what value you’d like each item in your loop to be. By default this will a loop of numbers but we can change the [type](./../Patch%20Editor/States.md) by clicking on the patch header and selecting a different type. For example we could create a loop of colors as seen below or a loop of On/Off boolean values.
 
@@ -54,7 +54,7 @@ Note: If you’re only seeing one layer show up on the Canvas and in the Viewer,
 
 注意：如果您在画布和查看器中只看到一个图层，请确保您的图层是一个启用了布局的组的子图层。
 
-### ### Loops and Layout 循环和布局### 
+### Loops and Layout 循环和布局
 
 Layout lets you control how looped layers are arranged on the canvas. Make your looped layer a child of a [Layout-enabled](./../Canvas/Layout.md) Group and change the Group Layout properties in the Inspector.
 
@@ -62,7 +62,7 @@ Layout lets you control how looped layers are arranged on the canvas. Make your 
 
 https://origami.design/public/images/videos/loop_builder.mp4
 
-### ### Looping Components 循环组件### 
+### Looping Components 循环组件
 
 Using loops with Components allows us to specify what point in the layer hierarchy we want our loop to repeat. For example if we were creating a list of contacts from a loop of names, and we passed the names loop to the Text Layer, it would create multiple Text Layers for each name.
 
@@ -80,7 +80,7 @@ Loops can also be created from Arrays by using the [Loop Over Array](./../Loops/
 
 循环也可以通过使用 Loop Over Array 数组遍历 模块从数组中创建。这一般用于使用网络请求模块处理web API数据源。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3c8abd7a-5598-47a2-aa16-7b1734489770/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T041444Z&X-Amz-Expires=86400&X-Amz-Signature=c33f8e5d4bf6e238fe8e4416a226cca0688639c66981a762b89d862958d26be1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3c8abd7a-5598-47a2-aa16-7b1734489770/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T041444Z&X-Amz-Expires=86400&X-Amz-Signature=c33f8e5d4bf6e238fe8e4416a226cca0688639c66981a762b89d862958d26be1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 Nested arrays to Loops of Loops 嵌套数组到循环的循环
 
@@ -96,9 +96,9 @@ When we combine loops together by connecting multiple loops to multiple properti
 
 当我们通过将多个循环连接到图层的多个属性来组合在一起时，Origami 将尝试在上面的视频中看到的嵌套或“封装”循环。一些常用的做法，就是通常我们想要的是有一个循环创建多个其他循环，我们可以通过组件来实现这一点。当我们在 Origami 中创建一个组件时，组件信息弹窗允许我们设置连接的循环在组件上有什么特性。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/657c4342-9536-465e-b453-e06824bab8a6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T040304Z&X-Amz-Expires=86400&X-Amz-Signature=bc3c058370b67030fc6c1d434b934391d4160196fa969861f3f74aed6c875035&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/657c4342-9536-465e-b453-e06824bab8a6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T040304Z&X-Amz-Expires=86400&X-Amz-Signature=bc3c058370b67030fc6c1d434b934391d4160196fa969861f3f74aed6c875035&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-### ### Loop Behavior 循环特性
+### Loop Behavior 循环特性
 
 *Pass into Component* - Makes the loop available inside the component by passing it through without looping the component. Passing in (Default in Origami Version 81 and older)
 
@@ -118,19 +118,19 @@ The loop passed to the “Loop the Component” will create multiple instances o
 
 https://origami.design/public/images/videos/loop_of_loops.mp4
 
-### ### Nested arrays to Loops of Loops 嵌套数组到循环的循环
+### Nested arrays to Loops of Loops 嵌套数组到循环的循环
 
 Another way of building looped components is using the [Loop Over Array](./../Loops/Loop%20Over%20Array.md) patch with a nested array. This is useful for working with data from a web API that includes multidimensional arrays.
 
 构建循环组件的另一种方法是使用带有嵌套数组的Loop Over Array数组遍历模块。这一般用于处理包含多维数组的web API的数据。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6e21fb70-caba-4ba5-88b9-e44a63bd58a9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T040332Z&X-Amz-Expires=86400&X-Amz-Signature=53b709e85b48644bfc23950ead5912c26f18d56d49eae4ad8bfebe90e48be664&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6e21fb70-caba-4ba5-88b9-e44a63bd58a9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T040332Z&X-Amz-Expires=86400&X-Amz-Signature=53b709e85b48644bfc23950ead5912c26f18d56d49eae4ad8bfebe90e48be664&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 Nested arrays to Loops of Loops
 
 嵌套数组到循环的循环
 
-### ### Looped Component Outputs 循环组件输出
+### Looped Component Outputs 循环组件输出
 
 An important caveat about Looped Components is that components cannot *output* a loop of loops. Outputs from looped components are appended to one another into a flat loop.
 
@@ -140,17 +140,17 @@ An example of this is adding a tap Output to the Looped Component shown earlier 
 
 比如在之前的循环组件中添加一个点击输出，这将输出一个包含25个脉冲输出的扁平循环，因为5 x 5等于25。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/720564a9-8ba6-4e96-b524-f0d4e7d7a951/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T040354Z&X-Amz-Expires=86400&X-Amz-Signature=a39817b35418f8967672f1c338b7c9f9915722e438fb423520c5105b83ee0fd6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/720564a9-8ba6-4e96-b524-f0d4e7d7a951/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T040354Z&X-Amz-Expires=86400&X-Amz-Signature=a39817b35418f8967672f1c338b7c9f9915722e438fb423520c5105b83ee0fd6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 Looped Component Outputs 循环组件输出
 
-### ### Manipulating Loops 操作循环
+### Manipulating Loops 操作循环
 
 [Loop Filter](./../Loops/Loop%20Filter.md) and [Loop Select](./../Loops/Loop%20Select.md) are the two patches for selecting items from a loop, useful for working with the [Loop Option Switch](./../Loops/Loop%20Option%20Switch.md) for getting the selected item in a loop.
 
 Loop Filter 循环筛选 和 Loop Select 循环选择 是用于从循环中选择项目的两个模块，一般用于在使用Loop Option Switch 循环选项开关 在循环中获取所选项目。
 
-### ### Loops & Interactions 循环&交互### 
+### Loops & Interactions 循环&交互
 
 When we add an [Interaction](./../Interaction/Interaction.md) patch to a looper layer, the Interactions output will then be looped as well. Using the [Loop Option Switch](./../Loops/Loop%20Option%20Switch.md) patch with the [Loop Select](./../Loops/Loop%20Select.md) patch we can get the value of the tapped on item
 

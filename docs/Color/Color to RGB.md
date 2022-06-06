@@ -8,7 +8,7 @@ Converts a color to RGBA values from 0 to 1.
 
 将颜色的值从 0～1 转换为RGBA值。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/266fc789-988e-4f62-8eca-e8e4a75f29fa/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T164024Z&X-Amz-Expires=86400&X-Amz-Signature=2ef4178b83ae4509e82ca96a44d4b7e32076f3839fe89a562b8c0236e2df987c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/266fc789-988e-4f62-8eca-e8e4a75f29fa/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T164024Z&X-Amz-Expires=86400&X-Amz-Signature=2ef4178b83ae4509e82ca96a44d4b7e32076f3839fe89a562b8c0236e2df987c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Input 输入
 

@@ -12,7 +12,7 @@ Right-click to multiply more values, or change the type (ex: number, position, r
 
 右键可选择输入接口数，或更改输入接口接入值类型（例如：数字，坐标，角度）。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/96bf200c-f709-4870-846c-681a0bb4a24e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T174054Z&X-Amz-Expires=86400&X-Amz-Signature=72db45b7f26cec537a4b55531f29b058cfa1d9fb5799a7ab504f35d1118f96b0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/96bf200c-f709-4870-846c-681a0bb4a24e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T174054Z&X-Amz-Expires=86400&X-Amz-Signature=72db45b7f26cec537a4b55531f29b058cfa1d9fb5799a7ab504f35d1118f96b0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Input 输入
 

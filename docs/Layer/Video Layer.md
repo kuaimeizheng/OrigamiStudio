@@ -8,7 +8,7 @@ A layer that can play a video.
 
 可以播放视频的图层。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f5364164-6ca7-4daa-821a-606a1eacc92c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185922Z&X-Amz-Expires=86400&X-Amz-Signature=55e57b8818a3c8148d28b2db38afc1700f1b88c364b4add463bfa5312aea17ab&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f5364164-6ca7-4daa-821a-606a1eacc92c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185922Z&X-Amz-Expires=86400&X-Amz-Signature=55e57b8818a3c8148d28b2db38afc1700f1b88c364b4add463bfa5312aea17ab&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 属性：
 

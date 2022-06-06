@@ -12,7 +12,7 @@ Use the Touch button on the component to capture when the notification was tappe
 
 使用组件上的Touch按钮来捕获何时点击通知。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/94ee452e-55b0-4936-984b-33244223f273/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190648Z&X-Amz-Expires=86400&X-Amz-Signature=72d712c554edbc5e5e9599831d49ef711a8185bda06ac57495a4ba8da240c77c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/94ee452e-55b0-4936-984b-33244223f273/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190648Z&X-Amz-Expires=86400&X-Amz-Signature=72d712c554edbc5e5e9599831d49ef711a8185bda06ac57495a4ba8da240c77c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Present 出现
 

@@ -8,7 +8,7 @@ Access information about a layer.
 
 访问图层的信息。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2a6f4a27-ed09-4c90-a0ba-639ef28f55c8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T181324Z&X-Amz-Expires=86400&X-Amz-Signature=9f0eb659d1d4e114ef8442daf84428b5ac3a4c084ce90d5d6dca7b94e7609715&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2a6f4a27-ed09-4c90-a0ba-639ef28f55c8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T181324Z&X-Amz-Expires=86400&X-Amz-Signature=9f0eb659d1d4e114ef8442daf84428b5ac3a4c084ce90d5d6dca7b94e7609715&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Layer 图层
 

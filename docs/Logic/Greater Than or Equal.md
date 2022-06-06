@@ -18,7 +18,7 @@ You can right-click to add more values to compare (will only output 1 if every v
 
 右键添加更多值进行比较（如果每个值大于或等于后续值，则只输出1个），也可以更改类型。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2717c6ac-6b65-4a9a-a783-4d829432406c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172117Z&X-Amz-Expires=86400&X-Amz-Signature=96b14d6a82b4af2d13a78d5fb9b4eed9c76d479693d176e960586adb9ce46d9f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2717c6ac-6b65-4a9a-a783-4d829432406c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172117Z&X-Amz-Expires=86400&X-Amz-Signature=96b14d6a82b4af2d13a78d5fb9b4eed9c76d479693d176e960586adb9ce46d9f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Input 输入
 

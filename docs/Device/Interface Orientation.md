@@ -8,7 +8,7 @@ Define how the prototype’s interface reacts to rotation of the device. Differe
 
 控制原型界面如何响应设备的旋转。不同的手机、笔记本电脑或平板电脑可以有不同的支持界面方向。使用 [Device Info](./Device%20Info.md) 可以从多个角度获取连接设备的物理方向。
 
-![Untitled](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/69aa4c61-d99c-49ee-a444-d3b7d4bbed1d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165835Z&X-Amz-Expires=86400&X-Amz-Signature=6e1ede1103717be56752e5683d6ad50475196ad0cf206290e18fbe5ba05bf1fa&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/69aa4c61-d99c-49ee-a444-d3b7d4bbed1d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165835Z&X-Amz-Expires=86400&X-Amz-Signature=6e1ede1103717be56752e5683d6ad50475196ad0cf206290e18fbe5ba05bf1fa&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Start In 开始于
 
