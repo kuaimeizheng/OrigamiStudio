@@ -1,8 +1,4 @@
-
 # .github/workflows/deploy.yml
-# 官方指导文件，用于把代码部署到 gh-pages
-# 官方指南地址https://docusaurus.io/docs/deployment#deploying-to-github-pages
-# 官方推荐第三方部署https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-docusaurus
 
 name: GitHub Pages
 
@@ -13,27 +9,25 @@ on:
     paths:
       - '.github/workflows/deploy.yml'
       - 'website/**'
-      - 'build/**'
-      - 'docs/**'
   pull_request:
 
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
     permissions:
       contents: write
     concurrency:
       group: ${{ github.workflow }}-${{ github.ref }}
     defaults:
       run:
-        working-directory: build
+        working-directory: website
     steps:
       - uses: actions/checkout@v3
 
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
-          node-version: '16'
+          node-version: '14'
 
       - name: Get yarn cache
         id: yarn-cache
@@ -43,12 +37,10 @@ jobs:
         uses: actions/cache@v2
         with:
           path: ${{ steps.yarn-cache.outputs.dir }}
-          key: ${{ runner.os }}-build-${{ hashFiles('**/yarn.lock') }}
+          key: ${{ runner.os }}-website-${{ hashFiles('**/yarn.lock') }}
           restore-keys: |
-            ${{ runner.os }}-build-
-            
-      #- run: npm ci
-      #- run: npm run build
+            ${{ runner.os }}-website-
+
       - run: yarn install --frozen-lockfile
       - run: yarn build
 
@@ -57,6 +49,4 @@ jobs:
         if: ${{ github.ref == 'refs/heads/main' }}
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build
-          publish_branch: gh-pages  # default: gh-pages
-          #allow_empty_commit: true #允许空提交
+          publish_dir: ./website/build
