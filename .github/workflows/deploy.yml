@@ -41,6 +41,8 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-website-
 
+      #- run: npm ci
+      #- run: npm run build
       - run: yarn install --frozen-lockfile
       - run: yarn build
 
@@ -50,3 +52,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./build
+          #publish_branch: gh-pages  # default: gh-pages
+          #allow_empty_commit: true #允许空提交
