@@ -8,7 +8,7 @@ Add items to a JSON array.
 
 将项目添加到JSON数组。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a46a6de3-f7c3-42f6-8445-ab9648407011/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T164252Z&X-Amz-Expires=86400&X-Amz-Signature=8eb985fe259b959505885186697077ca290567f326d80ef50b3d360fdb787678&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Data/array-append.png)
 
 ### Array 数组
 

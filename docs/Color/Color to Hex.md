@@ -8,7 +8,7 @@ Convert a color to hex. The alpha value of the color is discarded.
 
 将颜色转换为十六进制。颜色的透明度值将不再使用。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/510b6b46-1250-48af-885a-2b76919fd9e9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T163956Z&X-Amz-Expires=86400&X-Amz-Signature=31b3315f6ed4b65fac93e67f6d52c871eea2a13fd99ffbd2afb78aa51e3bf3f3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Color/color-to-hex.png)
 
 ### Color 颜色
 

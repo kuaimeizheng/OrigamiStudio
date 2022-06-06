@@ -8,7 +8,7 @@ Get a subset of items from an array.
 
 从数组中获取项目的子集。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0dfaa392-f0ef-432e-9e0f-5f526a50c1e2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T164932Z&X-Amz-Expires=86400&X-Amz-Signature=4c0262969715b43b4841d021cf2747e181895564fe848710e21c1fdaf004a8f1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Data/subarray.png)
 
 ### Array 数组
 

@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Origami 俱乐部',
+  title: 'Origami 研习社',
   tagline: 'Origami 中文文档&使用手册&教程',
   url: 'https://kuaimeizheng.github.io',
   baseUrl: '/OrigamiStudio/',
@@ -40,14 +40,16 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/kuaimeizheng/OrigamiStudio/tree/main/docs',
+            'https://github.com/kuaimeizheng/OrigamiStudio/tree/main/',
+          showLastUpdateAuthor: true, // 显示最后编辑作者
+          showLastUpdateTime: true, // 显示最后编辑时间
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/kuaimeizheng/OrigamiStudio/tree/main/docs',
+            'https://github.com/kuaimeizheng/OrigamiStudio/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

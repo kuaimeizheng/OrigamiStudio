@@ -8,7 +8,7 @@ Convert a color to HSL and alpha values from 0 to 1.
 
 将颜色转换为HSL颜色，并将透明度从 0 转换到 1。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bea9a927-7111-4098-bcdb-fb72fc865364/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T163925Z&X-Amz-Expires=86400&X-Amz-Signature=36332df41a204ef75b737698819965c83919315d4e9dcb19ae5a5aafd7b7e118&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Color/color-to-hsl.png)
 
 ### Input 输入
 

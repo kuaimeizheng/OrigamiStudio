@@ -19,7 +19,7 @@ Starting the path with two dots will get a recursive search for the following va
 
 以两个点开始的路径将递归搜索以下值，例如“..title”将获取键“title”的所有值，无论它们在 JSON 对象中有多深。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2b49e44b-5e43-47eb-98e9-aeb0f100e1a1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165025Z&X-Amz-Expires=86400&X-Amz-Signature=bbfb50c6a110f37e7408792d306f37f5131201e340bd1af05246d7e9932a5d14&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Data/value-at-path.png)
 
 ### Object 对象
 

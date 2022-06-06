@@ -12,7 +12,7 @@ Use a Splitter to cast the output to the expected type.
 
 使用 Splitter 将输出转换为想要的类型。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a5729042-59b2-4e5e-943e-8e812b42156f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165045Z&X-Amz-Expires=86400&X-Amz-Signature=40c57f0893a9391b996538fa6d450ef25a5ee1715e2f74e4897e229978e7be6e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Data/value-for-key.png)
 
 ### Object 对象
 
