@@ -10,7 +10,7 @@ Create a color from HSL, and alpha values from 0 to 1.
 
 ![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/02cd1120-2b22-47ca-bf0f-0dd8dc5f3926/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T164054Z&X-Amz-Expires=86400&X-Amz-Signature=6276811f2a70592ecbb104b96f197adca299db29de8421be4e527a9701ae1379&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
-### Hue 色相### 
+### Hue 色相
 
 A number from 0 to 1 that represents the hue of the color.
 
