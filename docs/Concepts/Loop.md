@@ -80,7 +80,7 @@ Loops can also be created from Arrays by using the [Loop Over Array](./../Loops/
 
 循环也可以通过使用 Loop Over Array 数组遍历 模块从数组中创建。这一般用于使用网络请求模块处理web API数据源。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3c8abd7a-5598-47a2-aa16-7b1734489770/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T041444Z&X-Amz-Expires=86400&X-Amz-Signature=c33f8e5d4bf6e238fe8e4416a226cca0688639c66981a762b89d862958d26be1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Concepts/loop-1.png)
 
 Nested arrays to Loops of Loops 嵌套数组到循环的循环
 
@@ -96,7 +96,7 @@ When we combine loops together by connecting multiple loops to multiple properti
 
 当我们通过将多个循环连接到图层的多个属性来组合在一起时，Origami 将尝试在上面的视频中看到的嵌套或“封装”循环。一些常用的做法，就是通常我们想要的是有一个循环创建多个其他循环，我们可以通过组件来实现这一点。当我们在 Origami 中创建一个组件时，组件信息弹窗允许我们设置连接的循环在组件上有什么特性。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/657c4342-9536-465e-b453-e06824bab8a6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T040304Z&X-Amz-Expires=86400&X-Amz-Signature=bc3c058370b67030fc6c1d434b934391d4160196fa969861f3f74aed6c875035&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Concepts/loop-2.png)
 
 ### Loop Behavior 循环特性
 
@@ -124,7 +124,7 @@ Another way of building looped components is using the [Loop Over Array](./../Lo
 
 构建循环组件的另一种方法是使用带有嵌套数组的Loop Over Array数组遍历模块。这一般用于处理包含多维数组的web API的数据。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6e21fb70-caba-4ba5-88b9-e44a63bd58a9/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T040332Z&X-Amz-Expires=86400&X-Amz-Signature=53b709e85b48644bfc23950ead5912c26f18d56d49eae4ad8bfebe90e48be664&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Concepts/loop-3.png)
 
 Nested arrays to Loops of Loops
 
@@ -140,7 +140,7 @@ An example of this is adding a tap Output to the Looped Component shown earlier 
 
 比如在之前的循环组件中添加一个点击输出，这将输出一个包含25个脉冲输出的扁平循环，因为5 x 5等于25。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/720564a9-8ba6-4e96-b524-f0d4e7d7a951/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T040354Z&X-Amz-Expires=86400&X-Amz-Signature=a39817b35418f8967672f1c338b7c9f9915722e438fb423520c5105b83ee0fd6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Concepts/loop-4.png)
 
 Looped Component Outputs 循环组件输出
 

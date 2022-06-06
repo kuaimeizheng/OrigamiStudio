@@ -44,7 +44,7 @@ To adjust layer properties via patches, click on the property in the inspector, 
 
 要通过模块来调整图层属性，在检查器中单击属性，就会创建一个蓝色的图层属性模块，其中包含图层的名称和一个输入值连接到这的输入端口。
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/98c4bb7e-b2f6-4fc6-a02e-897eafc7796c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T160637Z&X-Amz-Expires=86400&X-Amz-Signature=7b6e283c37751746ac40f0ee62ae743f98ffc2ffbb889434e66f4ad1acbc8b6c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![](./../../static/img/docs/Canvas/canvas-2.png)
 
 Clicking on the Opacity port on a Rectangle's property will add this patch to the Patch Editor.
 
@@ -58,13 +58,13 @@ If a property has multiple coordinates (ex: Position X/Y, Size W/H), you can cli
 
 如果一个属性有多个坐标值(例如:位置 X/Y，大小 W/H)，你可以点击特定的坐标值，例如:X
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bf73959c-29c4-42e7-be56-ba4b86981bbb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T160753Z&X-Amz-Expires=86400&X-Amz-Signature=a9a0336eb704007921c68244da8b0c04726c56b41936d73f42a70bee1df08c70&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![](./../../static/img/docs/Canvas/canvas-3.png)
 
 … or click on the property as a whole, ex: Position
 
 或者点击整个属性，例如: 位置
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1e3f0fb0-077e-4fdf-aa7b-8307d9ea7706/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T160808Z&X-Amz-Expires=86400&X-Amz-Signature=ff6d743315829aef1daf77ebf6757e87509d3ab32c3312a440621ebd44924b79&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![](./../../static/img/docs/Canvas/canvas-4.png)
 
 Clicking on a property with multiple coordinates (ex: Position, Size, Rotation) will automatically insert a Point patch, which can expose additional coordinates (ex: Z) that aren't shown by default.
 

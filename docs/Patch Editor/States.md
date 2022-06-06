@@ -18,7 +18,7 @@ The [Switch](./../Utility/Switch.md) patch is like a light switch: turning it on
 
 [Switch](./../Utility/Switch.md) 开关模块就像一个电灯开关：打开就保持打开状态，关闭就保持关闭状态。它有助于构建简单的只有两种状态的交互，例如在弹出窗口中显示和隐藏评论。
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9611dde1-5b8c-48ee-a187-2e250c5fba16/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T162439Z&X-Amz-Expires=86400&X-Amz-Signature=bcf145c6ce12ac771872a6227a1a3f681319f9eca1479034ad82a90ea54ba7df&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![](./../../static/img/docs/Patch%20Editor/states-1.png)
 
 Multiple Switch patches can combined with Logic patches ([Or](./../Logic/Or.md), [And](./../Logic/And.md), [Not](./../Logic/Not.md) to build on top of each other, e.g. opening a composer with different attachment options which the user can toggle.
 
@@ -30,7 +30,7 @@ Multiple Switch patches can combined with Logic patches ([Or](./../Logic/Or.md),
 
 [选项开关](./../Utility/Option%20Switch.md)模块适用于不能共存的互斥状态，例如标签栏。选项开关通常与选项选择器一起使用，以根据状态传递不同的值。例如，如果要在3种状态之间更改导航栏标题：
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f5529284-08dd-4101-b66b-265a9527cc07/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T162452Z&X-Amz-Expires=86400&X-Amz-Signature=95767a71a1e76329ca8cbc15e014bc2fdab9b0bfb2a01cb5b11af7d4ed0d8231&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![](./../../static/img/docs/Patch%20Editor/states-2.png)
 
 ### Counter 计数器
 
@@ -38,7 +38,7 @@ Multiple Switch patches can combined with Logic patches ([Or](./../Logic/Or.md),
 
 [计数器](./../Utility/Counter.md)模块适用于不能共存的互斥状态，并且以固定的顺序递增，例如，入职流程。
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f1516a62-6fc6-49bf-ba33-dda7e8eaad32/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T162455Z&X-Amz-Expires=86400&X-Amz-Signature=9908a3461693bcff7938809558446d481184ed0f71b174ed6306d3135db7ebaa&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![](./../../static/img/docs/Patch%20Editor/states-3.png)
 
 # Index numbers represent states 索引序号表示状态
 

@@ -65,7 +65,7 @@ There are a couple ways to create a pulse from state. The more explicit way is t
 
 有几种方法从状态创建脉冲。 更明确的方法是使用[Pulse](./../Utility/Pulse.md)模块。 [Pulse](./../Utility/Pulse.md)模块接受一个称为On / Off的状态，并在状态打开时在Turned On端口输出脉冲，当状态关闭时，将输出Turned Off端口的脉冲。 这是在用户触摸屏幕的瞬间翻转开关的示例。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f23a5aca-ac19-4bdc-9163-2a04c30ee4e4/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T040606Z&X-Amz-Expires=86400&X-Amz-Signature=07d00346bd33f09b688839569aed9f5998b90d92de9811c397e090d4bcd4af25&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Concepts/states-pulses-3.png)
 
 Another way is to infer a state change is to connect a state directly to a port accepting a pulse. What’ll happen is the port that accepts a pulse will look to when the state changes from off to on, and at that moment infer a pulse. So if you wanted a switch to flip when the user’s finger touches down on the screen, you can connect the Down port directly to the Switch’s Flip port, without needing to use a Pulse patch.
 
@@ -79,4 +79,4 @@ The Delay patch can take state that’s changing and delay the change by an amou
 
 Delay 模块可以采取正在更改的状态，并将更改延迟时间设置为指定的值。还可以定义类型是有操作就激活，还是只在关闭到打开或打开到关闭时更改。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b84bcb90-02be-428a-8dd3-7994ecd3786f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220603%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220603T040614Z&X-Amz-Expires=86400&X-Amz-Signature=307d688502d82585aa9e7818eddff1d063d9f992e59be825ae51ceb0b9e0b180&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Concepts/states-pulses-4.png)

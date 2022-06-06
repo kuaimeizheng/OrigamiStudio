@@ -22,7 +22,7 @@ Patches range from simple math patches:
 
 包括简单的数学模块：
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/372a3a92-8640-4211-87ba-933dd11285f0/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T161946Z&X-Amz-Expires=86400&X-Amz-Signature=fa8b89b803eaabefe0e86631947d5fdb2f2fa04bbeb0716449d058f274daacd1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![](./../../static/img/docs/Patch%20Editor/patches-1.png)
 
 The  [+] patch takes two number inputs on the left, and outputs the sum on the right. 2 + 3 = 5.
 
@@ -32,7 +32,7 @@ The  [+] patch takes two number inputs on the left, and outputs the sum on the r
 
 添加图层交互的模块:
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/da889ea9-c51f-49a9-b189-f69ef8beb698/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T162003Z&X-Amz-Expires=86400&X-Amz-Signature=9d232fba6e5dfa828b0baafd8764de9f4299235396264b3159fcffad83ac1c59&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![](./../../static/img/docs/Patch%20Editor/patches-2.png)
 
 The [Interaction](./../Interaction/Interaction.md) patch outputs information about touches on the Viewer on a layer. When a finger is touching down on Rectangle, it outputs ✓ in the Down port.
 
@@ -42,7 +42,7 @@ The [Interaction](./../Interaction/Interaction.md) patch outputs information abo
 
 管理状态的模块：
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/745152b6-3d97-4c3c-aed6-87e280a3cfdb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T162152Z&X-Amz-Expires=86400&X-Amz-Signature=1b15614db21e0bdd0033a167f218494d2d3a9e827b6a84b32e0d16e3507e7537&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![](./../../static/img/docs/Patch%20Editor/patches-3.png)
 
 
 
@@ -54,7 +54,7 @@ The [Switch](./../Utility/Switch.md)  patch can be turned on or off by the input
 
 控制图层属性的模块：
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/745152b6-3d97-4c3c-aed6-87e280a3cfdb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T162013Z&X-Amz-Expires=86400&X-Amz-Signature=7358d5a9ba285b5ea963aee0e63a20a99e96b9bd7660c1246da0aaa9b7ab93dc&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![](./../../static/img/docs/Patch%20Editor/patches-4.png)
 
 Add layer property patches by clicking on any property in the Layer inspector. This patch controls if a layer named Rectangle is shown/hidden.
 
@@ -115,7 +115,7 @@ In the example below, three different patches pass values to each other with cab
 
 在下面的例子中，三个不同的模块通过连接到各自端口的连线相互传递值。这些模块组合在一起表示了一种打开和关闭图层的交互。
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/54dd93a3-47ef-40ad-84b5-1306e68559f1/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T162028Z&X-Amz-Expires=86400&X-Amz-Signature=764b613b044ce1eb23eb2fbba66c876ff61471bfd3ede1db0a595dd2a288fccd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![](./../../static/img/docs/Patch%20Editor/patches-5.png)
 
 
 

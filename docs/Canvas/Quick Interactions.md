@@ -57,7 +57,7 @@ Creating a Quick Interaction will automatically generate a corresponding patch i
 
 创建快捷交互将自动在模块编辑器中生成相应的交互模块。
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/42a347b9-7ef9-42c5-810d-535c73d33a4c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T161057Z&X-Amz-Expires=86400&X-Amz-Signature=e8b45cafb507dfd24d98d6fa24f1fc6a170792837a61d6809773b52252321cb5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![](./../../static/img/docs/Canvas/quick-interactions-1.png)
 
 *When creating multiple Quick Interactions, Origami will often stack the automatically generated patches on top of each other so double check that if you’re not seeing them show up in the Patch Editor.*
 

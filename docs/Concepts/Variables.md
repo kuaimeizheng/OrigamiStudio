@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Variables 变量
 
-Variables are a way to organize and simplify the patch graph of your prototype. At the simplest level, a ### Variable Broadcasterand ### Variable Receiverscan replace the cables that normally connect one patch’s output to other patches’ inputs. (In previous versions of Origami these patches were named Wireless Broadcasters and Receivers, because they removed the “wires” between patches!)
+Variables are a way to organize and simplify the patch graph of your prototype. At the simplest level, a Variable Broadcasterand Variable Receiverscan replace the cables that normally connect one patch’s output to other patches’ inputs. (In previous versions of Origami these patches were named Wireless Broadcasters and Receivers, because they removed the “wires” between patches!)
 
 变量是整理和简化原型图的一种方法。在最简单的层面上，变量发送器和变量接收器可以替换通常连接一个模块的输出到其他模块的输入的连线。(在Origami的早期版本中，这些模块被命名为无线发送和接收器，因为它们删除了模块之间的“连线”!)
 
