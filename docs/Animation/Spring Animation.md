@@ -8,7 +8,7 @@ Creates a animation based on a physically modeled spring. This also allows for i
 
 基于物理建模的弹簧创建动画。这也允许通过控制弹簧的速度来进行可中断的动画。
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/4563f6a4-2305-447c-8c4e-1211c999ac5e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T151649Z&X-Amz-Expires=86400&X-Amz-Signature=376e170fab3327cf01f83b29a27cb7382970b75ec190df361433d4f16725d12a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![](./../../static/img/docs/Animation/spring-animation.png)
 
 ### Number 数值
 
@@ -62,6 +62,3 @@ The current value of the animation.
 
 [Gesture 手势](./../Interaction/Gesture.md)
 
-历史版本
-
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/40d9fdce-4079-4e5e-9a28-aa02905be15d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T151705Z&X-Amz-Expires=86400&X-Amz-Signature=598dacbb2ed97a8d94e2c6f8fc9b7653778f348facd31520ce382effcea5b0b9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

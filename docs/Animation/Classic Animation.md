@@ -12,7 +12,7 @@ See [Animation Basics] for more information.
 
 有关详细信息，请参考 [动画基础](./../Patch%20Editor/Animations.md)。
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3dac0a9f-76e2-467d-b233-8c22bc7f89c2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T151035Z&X-Amz-Expires=86400&X-Amz-Signature=bd57eea89d2330c58aa53fbb5709bc776459cf48f61ad1896c35e969feb9c4f4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![](./../../static/img/docs/Animation/classic-animation.png)
 
 ### Number 数值
 
@@ -83,8 +83,4 @@ Typically a progress value. See [Animation Basics]for more information.
 [Repeating Animation 重复动画](./Repeating%20Animation.md)
 
 [Transition 过渡](./../Utility/Transition.md)
-
-历史版本
-
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e3882800-16f2-4c05-96b4-bc0ca194b84d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T151116Z&X-Amz-Expires=86400&X-Amz-Signature=5f91100aa0d363c0871f29dcaf83d1f3693a1bf590e037050ef27d655c7bcb66&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 

@@ -8,7 +8,7 @@ Allows for conversion from Apple’s Fluid Spring dynamics values (see SwiftUI) 
 
 允许将 Apple 的流体弹簧动力学值（请参阅 SwiftUI）转换为张力/摩擦力（用于弹性动画）或弹力/速度（流行动画）
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f5bc172d-6cdb-4393-ba21-3d826f19027c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T151735Z&X-Amz-Expires=86400&X-Amz-Signature=63a395fd918fa6af9a4bb96b09e5b74b82c3bfadce4c23eb2b5c9730ce89c961&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![](./../../static/img/docs/Animation/spring-converter.png)
 
 ### Response 回复
 
@@ -54,4 +54,4 @@ A number that represents spring speed (Pop Animation)
 
 [Bouncy Converter 弹性转换器](./Bouncy%20Converter.md)
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/867122ea-46b5-4df3-a833-85c665f63ab5/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T151749Z&X-Amz-Expires=86400&X-Amz-Signature=f2c612458874d231803c1d16f6fea3b586545e531629b9a12664e8dee13396d3&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+

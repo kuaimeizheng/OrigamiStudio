@@ -8,7 +8,7 @@ Animate a number (ex: position, opacity, scale) repeatedly.
 
 重复数字动画（例如：位置、不透明度、比例）。
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/69718853-461a-40ce-9d24-fe2772bf34ba/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T151538Z&X-Amz-Expires=86400&X-Amz-Signature=8889c425d93174eb8afeb3e14411a9b14c9bc045a4ad670f452a3c19f5897ff0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![](./../../static/img/docs/Animation/repeating-animation.png)
 
 ### Enable 启用
 
@@ -64,4 +64,3 @@ A progress value. See [Animation Basics] for more information.
 
 [Repeating Pulse 重复脉冲](./../Utility/Repeating%20Pulse.md)
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1bfc2873-ba16-4e8e-b6ac-537a2e137454/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T151551Z&X-Amz-Expires=86400&X-Amz-Signature=6dcfa420f49be58855e03ed530ffaf31f958e71bc6b7b6a537278e943123aa2b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

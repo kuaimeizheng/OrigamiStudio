@@ -8,7 +8,7 @@ Allows you to define custom animation curves by specifying 2 control points. The
 
 允许您通过指定 2 个控制点来定义自定义动画曲线。三次贝塞尔曲线经过标准化，然后根据要设置动画的数字进行缩放，这意味着曲线的起点始终为 (0,0)，终点始终为 (number,number)。
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/9df1b196-c856-45db-8fdf-33b86280ad2b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T151142Z&X-Amz-Expires=86400&X-Amz-Signature=60f0a5df10bba98448f44c39a89868a97721bb6bcf02d673e99d45781d7faff1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![](./../../static/img/docs/Animation/cubiz-bezier-animation.png)
 
 ### Number  数字
 
@@ -70,5 +70,4 @@ The X, Y position of the input progress on the curve. This can be used to plot t
 
 [Transition 过渡](./../Utility/Transition.md)
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f97aaa67-f8a9-47de-aa1a-18d68657dbfe/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T151158Z&X-Amz-Expires=86400&X-Amz-Signature=3144a15bc5b0b4a702d497044557f0375b2d83efa45b91259523bf91038b5d4c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
