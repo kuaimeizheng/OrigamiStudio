@@ -8,7 +8,7 @@ Customize a [Scroll](./Scroll.md) patch’s behavior.
 
 自定义 Scroll滚动 模块的行为。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/cc75e49c-58ed-47d6-84b8-9adf6d7d3325/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T171145Z&X-Amz-Expires=86400&X-Amz-Signature=6ecf27502a1e0189e3af5f6f9e410b7daee156e51792090fd95730695035fcd1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Interaction/scroll-settings.png)
 
 ### Content Size 内容大小
 
@@ -81,5 +81,3 @@ The settings to pass to a Scroll patch.
 ### Related Patches 相关模块
 
 [Scroll 滚动](./Scroll.md)
-
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ffedcfd3-203c-4cbc-8e70-5fd5ff9d24f0/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T171152Z&X-Amz-Expires=86400&X-Amz-Signature=af5a072878be30e0ce88b2eddab5fd4bfff7c7a8fcd175510511c3a319a4e6be&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

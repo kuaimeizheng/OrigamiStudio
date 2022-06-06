@@ -8,7 +8,7 @@ Count the number of values in a loop.
 
 计算循环中值的数量。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7a50c40f-c6c0-49e8-ac6c-eab5eb9900bf/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172755Z&X-Amz-Expires=86400&X-Amz-Signature=e4baf58ff0c546f03b6931245bbc6689c185bf2372e9ba563939b51edfb0d178&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Loops/loop-count.png)
 
 ### Loop 循环
 
@@ -33,5 +33,3 @@ A number that represents the number of values in the loop.
 [Loop Sum 循环总和](./Loop%20Sum.md)
 
 [Running Total 累积总计](./Running%20Total.md)
-
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3b88fe82-67e6-4242-961b-f32013ef387e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172802Z&X-Amz-Expires=86400&X-Amz-Signature=cacc88df9c8462c00525b0059d94cd403a0fc70192eb8c25fde987c757b2bd0b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

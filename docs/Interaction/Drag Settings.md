@@ -8,7 +8,7 @@ Customize a Drag patch’s behavior.
 
 自定义拖拽模块的行为。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d399fca1-78b5-41da-a499-7aee3077ba14/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T170728Z&X-Amz-Expires=86400&X-Amz-Signature=533a3740ecd2ea2d3040fefdac66de7b9eabf7ed86de3c308a62781952d03c30&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Interaction/drag-settings.png)
 
 ### Clip 修剪
 
@@ -51,5 +51,3 @@ The settings to pass to a Drag patch.
 ### Related Patches 相关模块
 
 [Drag 拖拽](./Drag.md)
-
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/123eede3-7f02-4dce-b456-e7a555c70350/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T170736Z&X-Amz-Expires=86400&X-Amz-Signature=2e8cc3d17054109c3668b89876463561392efea64d44dabfccda977101f5e25d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

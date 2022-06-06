@@ -12,7 +12,7 @@ Use the Touch button on a layer to quickly add interactions.
 
 使用图层右上角的Touch按钮快速创建交互。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/15654c63-f16d-4a8e-b9df-3e0033c4f539/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T170946Z&X-Amz-Expires=86400&X-Amz-Signature=460bdcca574a8d371db6db3f3c68245d3922f5c9dd53359e4c56ac95c602693d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Interaction/long-press.png)
 
 ### Down 按下
 
@@ -47,5 +47,3 @@ Turns on when the press passes the duration specified in Delay input
 [Touches 触摸](./../Device/Touches.md)
 
 [Trackpad 触控板](./../Device/Trackpad.md)
-
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/56cd2fcd-c89b-4b3c-a794-19eef22b3aff/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T170952Z&X-Amz-Expires=86400&X-Amz-Signature=140273cffbf39d0f1321ed9da92c120abfd89edec624c0831a23f1f01434fded&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

@@ -12,7 +12,7 @@ Use the Touch button on a layer to quickly add interactions.
 
 使用图层上的 Touch 按钮快速添加交互。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/704baf32-c3e6-4ef4-97bd-3a303001bf31/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T170559Z&X-Amz-Expires=86400&X-Amz-Signature=4f520af896073c4c5be71bc8179b3fae7622cd414d2c9e9509b520badaaa0c08&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Interaction/double-tap.png)
 
 ### Tap 轻点
 
@@ -51,5 +51,3 @@ Pulses when one tap occurs in the specified delay
 [Touches 触摸](./../Device/Touches.md)
 
 [Trackpad 触控板](./../Device/Trackpad.md)
-
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c95fd539-3c14-4ff8-b278-917ff7da8af4/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T170552Z&X-Amz-Expires=86400&X-Amz-Signature=033c838a211d677b053f1e7df65b8cc75fe059885262df2bcd4d5acc0498f543&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

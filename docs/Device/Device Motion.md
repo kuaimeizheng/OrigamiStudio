@@ -8,7 +8,7 @@ Access accelerometer and gyroscope information from the phone, tablet, or comput
 
 从手机，平板电脑或计算机访问加速度和陀螺信息。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/613637c1-fb71-4ab3-9ee4-1f9939ddc9fb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165555Z&X-Amz-Expires=86400&X-Amz-Signature=4a39d62b41ec64c4205f78048ddb05c1f69edf4881f64fbe77770e078e4bec36&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Device/device-motion.png)
 
 ### Has Acceleration 有加速
 
@@ -41,9 +41,3 @@ A point 3d that represents the rotation rate around the X, Y and Z axes. Use [Ve
 [Velocity 速度](./../Utility/Velocity.md)
 
 [Point 3D Unpack 3D点解组](./../Utility/Point%203D%20Unpack.md)
-
-
-
-历史版本
-
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a1b2830a-3a89-41cf-9e2b-7e62fccf2d83/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165605Z&X-Amz-Expires=86400&X-Amz-Signature=736899ec7f0af04e2e70262d7b37d7d5036dbfbb89acbbc6e79b31554494f1fc&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

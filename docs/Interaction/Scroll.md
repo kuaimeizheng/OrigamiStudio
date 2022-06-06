@@ -12,7 +12,7 @@ Use the Touch button on a layer to quickly add interactions.
 
 使用图层上的 Touch 触摸 按钮快速添加交互。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/56f7c5ea-2b88-42cf-8ca0-5589b833195e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T171211Z&X-Amz-Expires=86400&X-Amz-Signature=3f2c12d9f7c0dbf5c5b3f5f407993fb76067494364504391420205e8e02e1e92&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Interaction/scroll.png)
 
 ### Content Layer 内容图层
 
@@ -82,6 +82,3 @@ The current vertical scroll page index.
 
 [Scroll Settings 滚动设置](./Scroll%20Settings.md)
 
-历史版本
-
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/27b1ebd1-6717-45da-ac00-42bf3415e593/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T171221Z&X-Amz-Expires=86400&X-Amz-Signature=dc42850e18a4247bd4e0e9286317d00fc587be848aaa076c6d740929550929fd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

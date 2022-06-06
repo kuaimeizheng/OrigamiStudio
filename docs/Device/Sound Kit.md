@@ -8,7 +8,7 @@ Play from a collection of UI sound effects. For expanded descriptions and docume
 
 从一组 UI 音效中播放。如需详细说明和文档，请访问 Facebook 设计资源。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/90964d3a-0d69-49d2-8872-47d7773f0b52/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T170200Z&X-Amz-Expires=86400&X-Amz-Signature=23470f327cf197a0cab96b3bca4fa9c32f2900fbc206ffd18d78027476fb523f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Device/sound-kit.png)
 
 ### Sound 声音
 
@@ -33,7 +33,3 @@ A number from 0-1 that represents the volume of the selected sound. Adjust the v
 ### Related Patches 相关模块
 
 [Sound Player 声音播放器](./Sound%20Player.md)
-
-历史版本
-
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/68dcd15e-2017-4255-9940-712a479cd806/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T170202Z&X-Amz-Expires=86400&X-Amz-Signature=ebc2286767d1f039ec2309d380a84733e584137deaf4bac0077f72dcaabde328&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

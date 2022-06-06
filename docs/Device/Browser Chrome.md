@@ -8,7 +8,7 @@ Style the viewer window to look like a web browser. Use the Browser Buttons patc
 
 设置查看器窗口的样式，使其看起来像一个web浏览器。使用 Browser Buttons 模块来捕获交互。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fc4e5f7a-d217-45bc-aa0d-42e9f496714b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165250Z&X-Amz-Expires=86400&X-Amz-Signature=156bff7056522b0fd3d08714ce48ddb932f97515e4cc95205a4fe6c439974842&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Device/browser-chrome.png)
 
 ### Enable 启用
 
@@ -39,5 +39,3 @@ A boolean that enables the forward button. Use [Browser Buttons](https://www.not
 ### Related Patches 相关模块
 
 [Browser Buttons 浏览器按钮](https://www.notion.so/Browser-Buttons-5655198330234faa92680d36d26f6675)
-
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3a3a5b82-3cd4-42a5-9362-f70c9339c507/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T165301Z&X-Amz-Expires=86400&X-Amz-Signature=c040a8defa9956a902f3ce36f05f0e9ee6e04b693f3eff8fa61808dd953d8298&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

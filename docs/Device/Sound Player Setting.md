@@ -8,7 +8,7 @@ Customize a Sound Player.
 
 自定义声音播放器
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bfcc76c5-e58e-44ee-ac44-9430f713eee2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T170234Z&X-Amz-Expires=86400&X-Amz-Signature=de92d0a9daa75fbf2fe14f41e866e0efd78c30975241d484fbb80067643e921f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Device/sound-player-settings.png)
 
 ### Volume 音量
 
@@ -45,7 +45,3 @@ The settings to pass to a [Sound Player](./Sound%20Player.md).
 ### Related Patches 相关模块
 
 [Sound Player 声音播放器](./Sound%20Player.md)
-
-历史版本
-
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2d4ad7be-9fa7-4255-ac1e-6e609cf68f8c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T170238Z&X-Amz-Expires=86400&X-Amz-Signature=c575efa65d5e15c2972dad3cac02cd120a48bb29b80fffd88181f88c8cd6a14c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

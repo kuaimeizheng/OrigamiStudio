@@ -16,19 +16,19 @@ Example A: Filter to a subset of a loop.
 
 示例 A：筛选到循环的子集。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2b81ccc1-54b8-4605-8df1-7af1b46132f3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172916Z&X-Amz-Expires=86400&X-Amz-Signature=c12861778c4cf9c7f7b74c222b660fbccddfc4f59fa6da1d7d228366d09e9222&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Loops/loop-filter-1.png)
 
 Example B: Make a new loop by repeating a single value X times.
 
 示例 B：通过将单个值重复 X 次来创建一个新循环。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/01be880f-d168-42c6-8708-55d688b49d67/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172926Z&X-Amz-Expires=86400&X-Amz-Signature=5b3c0c4ecfa5ca3537058a5875a04fe05ae10b7cb8c51c6663503dcd389a6b7f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Loops/loop-filter-2.png)
 
 Example C: Repeat and filter values by using a loop of numbers.
 
 示例 C：使用数字循环重复和过滤值。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fe15e1d5-5829-48a4-83b8-cd2353b47986/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172935Z&X-Amz-Expires=86400&X-Amz-Signature=3affbc2622dbe05d7f35af33a5c94b2ea31556cbc1df7dceccca354b4dd44cc9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Loops/loop-filter-3.png)
 
 Right-click the patch to change the expected type of the Input loop.
 
@@ -38,7 +38,7 @@ Use Loop Builder to make a boolean or number loop.
 
 使用 Loop Builder 创建一个布尔值或数字循环。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ece207c0-76ae-4478-ba9a-e2799faaa79d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172946Z&X-Amz-Expires=86400&X-Amz-Signature=b496a13206942b0534fe9b1d833d1ac20e841c10a827e063103ca0377b6a42e4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Loops/loop-filter.png)
 
 ### Input 输入
 
@@ -66,7 +66,7 @@ A loop of indices for the result loop
 
 ### 支持的类型
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c81df63d-45fa-4b22-9d3e-49a293f5c1cb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T172956Z&X-Amz-Expires=86400&X-Amz-Signature=c7d06b8b283e7efeb0fb5461ecdaa09a042786258ce19581d9aebfa57f4075b7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Loops/loop-filter-item.png)
 
 ------
 
@@ -77,5 +77,3 @@ A loop of indices for the result loop
 [Loop Builder 循环生成器](./Loop%20Builder.md)
 
 [Loop Select 循环选择](./Loop%20Select.md)
-
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/91ca4083-f65d-4d4f-9476-113330085dd2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T173004Z&X-Amz-Expires=86400&X-Amz-Signature=c308b0657ec182c6947bfc241745b4b5eff850e03c2415249fc79b39809f372c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

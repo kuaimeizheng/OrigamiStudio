@@ -8,7 +8,7 @@ Calculate the progress off a scrollaway navigation element.
 
 计算滚动导航元素的进度。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/3b47c217-5437-4614-be9c-f1142973dc88/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T171249Z&X-Amz-Expires=86400&X-Amz-Signature=ee6b82b410e1327a73382988003abb715586c406a0b148dafe9dc1b18c99e480&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Interaction/scrollaway.png)
 
 ### Scroll Position 滚动位置
 
@@ -47,5 +47,3 @@ A number from 0-1 that represents the progress of the scrollaway. Connect to Tra
 [Transition 过渡](./../Utility/Transition.md)
 
 [Scroll 滚动](./Scroll.md)
-
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5addc78b-baae-4f23-b686-526df6b04d33/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T171257Z&X-Amz-Expires=86400&X-Amz-Signature=c8c2a73c45a3cc72e496140375fbe5f27a9fd2251e88b98ee8f96d0bfbb24f30&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

@@ -12,7 +12,7 @@ Use the Touch button on a layer to quickly add interactions.
 
 使用触摸按钮在图层上面快速添加交互
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/db81adb7-aca6-410a-a9e5-ff79442f3097/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T171103Z&X-Amz-Expires=86400&X-Amz-Signature=83020dcc51504c6a5d75691f47d6976497e77bda676b19d9c0c708f5decc50f7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Interaction/pop-switch.png)
 
 ### Enable 启用
 
@@ -103,4 +103,3 @@ A boolean that is true either: When the current position, rotation or scale of t
 
 当手势的当前位置、旋转或缩放更接近结束值而不是开始值时。当开关被点击、打开或关闭时，会有一个脉冲。
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/263d488f-8335-4aab-8207-0b6d797017ae/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T171113Z&X-Amz-Expires=86400&X-Amz-Signature=7e86949913c5637ff0bd8320a5dd60829009cef35a8f45e85486b56a37008209&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

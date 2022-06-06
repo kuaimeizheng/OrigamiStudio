@@ -8,7 +8,7 @@ Control the system mouse cursor.
 
 控制系统鼠标的光标。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5c2a5ce8-e4f8-4846-9185-fc9eefbdceeb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T170022Z&X-Amz-Expires=86400&X-Amz-Signature=3e55b6f9c9e19aa5a6aee742c62299cd9537d8af08f92b1c5f78890963120fed&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Device/mouse-cursor.png)
 
 ### Cursor 光标
 
@@ -32,7 +32,7 @@ This is the signal to actually change the cursor. When this pulse is on then the
 
 ### 支持的鼠标手势
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f6629bd8-67ce-4c3e-a01a-7d968a9652e6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T170030Z&X-Amz-Expires=86400&X-Amz-Signature=81e413697658a68bde3833adbc4e4a9aec0f817a4fdd913b0ef01d4ba61f4ca7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Device/mouse-cursor-item.png)
 
 ------
 
@@ -40,6 +40,3 @@ This is the signal to actually change the cursor. When this pulse is on then the
 
 [Mouse 鼠标](./../Interaction/Mouse.md)
 
-
-
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ae1c4b4c-1fbf-4841-ac1c-597eb0cb2a69/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T170038Z&X-Amz-Expires=86400&X-Amz-Signature=ca37a50305b7949002280176768820d52a00284c921d452eab4a71f08dce36bf&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

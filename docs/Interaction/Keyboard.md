@@ -12,7 +12,7 @@ Use a [Material Text Field](./../Material/Text%20Field.md) or [iOS Text Field](.
 
 使用Material Text Field或iOS Text Field作为自由文本输入。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5b0be732-9dc3-435c-a1d9-813bf26d504c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T170917Z&X-Amz-Expires=86400&X-Amz-Signature=5ccf795e731a7c4447261654d2439c12cfaf66e147009c2d9bfaa1c4bb98fac7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Interaction/keyboard.png)
 
 ### Key 键
 
@@ -32,4 +32,3 @@ A boolean that is true when the key is pressed.
 
 [Text Field 文本输入框](./../iOS/Text%20Field.md)
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/369f2031-e735-4b90-b297-ee795577ebfc/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T170924Z&X-Amz-Expires=86400&X-Amz-Signature=8ee0d591c88b9156704f41569cb1f3dfa63faa389720d5a165fcd527359aa45c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

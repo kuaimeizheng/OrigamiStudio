@@ -12,7 +12,7 @@ Simulate the momentum physics that powers the Scroll patch. Use in a feedback lo
 
 模拟Scroll模块的动量物理的功能。在集成交互速度的反馈循环中使用。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/dd806c8e-d986-4050-b020-af598cba7f32/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T171015Z&X-Amz-Expires=86400&X-Amz-Signature=a3da5b279d873a21ce547a14ccd6e299e01619015af0dcb2337871e736af0bf1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Interaction/momentum-scrolling.png)
 
 ### Sample Value 采样值
 

@@ -12,7 +12,7 @@ Right-click to change the type of the loop.
 
 右键单击以更改循环的类型。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f9598310-36ee-4683-a43a-8db0dd50746a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T173331Z&X-Amz-Expires=86400&X-Amz-Signature=e03bc9bf7455eeb46f188c6faf3956fca88bcd8aa023d314406986649b180bcb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Loops/loop-remove-last.png)
 
 ### Loop 循环
 
@@ -40,7 +40,7 @@ A loop of indices
 
 ### 支持类型
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/71816de2-9eba-4a73-9e0e-1a7c8c79e721/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T173339Z&X-Amz-Expires=86400&X-Amz-Signature=2910022b1d5d6077a18c781fee641ba3669cdedd9431802baed954cfacfab0e6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Loops/loop-remove-last-item.png)
 
 ------
 
@@ -51,5 +51,3 @@ A loop of indices
 [Loop Insert at End 循环结尾插入](./Loop%20Insert%20at%20End.md)
 
 [Loop Remove 循环移除](./Loop%20Remove.md)
-
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/20ea9cd1-dd1e-4be2-8a14-0e94d6849b8c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T173346Z&X-Amz-Expires=86400&X-Amz-Signature=20afcf1cc8ba0fedb801140df4176a65a99f04a5f6bbb6ca937bc129b24262c6&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

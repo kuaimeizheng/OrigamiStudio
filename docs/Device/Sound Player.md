@@ -8,7 +8,7 @@ Play any sound or music file.
 
 播放任意声音或音乐文件。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/21d916a1-e434-4f9e-9209-b2066d74e2a6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T170310Z&X-Amz-Expires=86400&X-Amz-Signature=46fa0bd325141a193759d7cf217cef3ea1f06040bf52a5db616197d719d6eb71&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Device/sound-player.png)
 
 ### Sound 声音
 
@@ -65,5 +65,3 @@ Connect this to the [Audio Metering](./../Media/Audio%20Metering.md) patch to ma
 [Microphone 话筒](./Microphone.md)
 
 [Sound Kit 音效包](./Sound%20Kit.md)
-
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2d0710cb-2421-4870-8a88-c2e39e4a9cf7/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T170318Z&X-Amz-Expires=86400&X-Amz-Signature=3358ec04cba12c016a8a38ddfb6bcc7addd91f4f7e1109fc709f9ea070acef8d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
