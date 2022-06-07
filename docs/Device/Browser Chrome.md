@@ -26,13 +26,13 @@ The URL to display in the address bar.
 
 A boolean that enables the back button. Use [Browser Buttons](https://www.notion.so/Browser-Buttons-5655198330234faa92680d36d26f6675) to capture interactions.
 
-一个布尔值，当启用后退按钮时。使用 Browser Buttons 补丁来捕获交互。
+一个布尔值，当启用后退按钮时。使用 Browser Buttons 模块来捕获交互。
 
 ### Enable Forward 启用前进
 
 A boolean that enables the forward button. Use [Browser Buttons](https://www.notion.so/Browser-Buttons-5655198330234faa92680d36d26f6675) to capture interactions.
 
-一个布尔值，当启用前进按钮时。使用 Browser Buttons 补丁来捕获交互。
+一个布尔值，当启用前进按钮时。使用 Browser Buttons 模块来捕获交互。
 
 ------
 

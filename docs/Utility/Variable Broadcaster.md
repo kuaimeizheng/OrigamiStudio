@@ -6,7 +6,7 @@ sidebar_position: 2
 
 Sends a value to any Variable Receiver patch set to receive the same name. Used to simplify and organize patches by replacing the cables between patches.
 
-将值发送到任何变量接收器模块集以接收相同的名称。用于通过替换模块之间的连线来简化和整理补丁。
+将值发送到任何变量接收器模块集以接收相同的名称。用于通过替换模块之间的连线来简化和整理模块。
 
 By default, the variable can be used locally, and is available only within the current patch graph. Click the popup menu (or right-click the patch) to change the scope to “Global” to make the value available within the current patch graph as well as any child components. Learn more about [Global Variables](./../Concepts/Variables.md).
 

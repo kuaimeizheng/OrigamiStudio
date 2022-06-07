@@ -10,7 +10,7 @@ This holds a list of options and then allows you to choose one of them. This can
 
 If you are a programmer looking for an “if statement” or “case statement”, this patch gives similar functionality but in an Origami style.
 
-如果您是寻找“if 语句”或“case 语句”的程序员，此补丁提供了类似的功能，但采用了 Origami 风格。
+如果您是寻找“if 语句”或“case 语句”的程序员，此模块提供了类似的功能，但采用了 Origami 风格。
 
 Right-click to change the type (ex: number, text, color), or to add additional options.
 
