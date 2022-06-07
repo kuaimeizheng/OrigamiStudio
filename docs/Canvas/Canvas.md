@@ -14,13 +14,13 @@ Origami 中的画布类似 Sketch 和 Figma 中的画布。可以直观地拖放
 
 Artboards allow you to contain the layers for each screen you’re designing. The artboard dimensions are determined by the Device Size selected in the far left corner of the Origami toolbar.
 
-画板允许你为每个屏幕里的图层进行设计。画板尺寸由 Origami 工具栏最左上角中选择的“Device Size 设备大小”决定。
+画板允许你为每个屏幕里的图层进行设计。画板尺寸由 Origami 工具栏最左上角中选择的 “Device Size 设备大小” 决定。
 
 # Layer Library 图层库
 
-Add a layer with the layer insertion popover using ⌘⇧N or the + button in the toolbar. (Explain how the layer library is different from the patch library).
+Add a layer with the layer insertion popover using **⌘⇧N** or the **+** button in the toolbar. (Explain how the layer library is different from the patch library).
 
-使用 ### ⌘⇧N或工具栏中的 ### +按钮在弹出窗口中添加一个图层。(也是图层库和模块库的区别)。
+使用  **⌘⇧N** 或工具栏中的 **+** 按钮在弹出窗口中添加一个图层。(也是图层库和模块库的区别)。
 
 ![](https://origami.design/public/images/documentation/layer_library.png)
 
@@ -72,15 +72,15 @@ Clicking on a property with multiple coordinates (ex: Position, Size, Rotation) 
 
 # Groups 组
 
-Layers can be grouped by selecting any number of layers and pressing ⌘G. Layer groups in Origami Studio have their own size and position, and clip layers within.
+Layers can be grouped by selecting any number of layers and pressing **⌘G**. Layer groups in Origami Studio have their own size and position, and clip layers within.
 
-可以选择任意数量的图层并按下 ### ⌘G来对图层进行分组。Origami的图层组有自己的大小和位置，并剪辑组中的图层。
+可以选择任意数量的图层并按下 **⌘G **来对图层进行分组。Origami的图层组有自己的大小和位置，并剪辑组中的图层。
 
 # Masking 蒙版
 
-Layers can be masked by other layers. Pressing ⌘⌥M will turn the layer to an alpha mask, clipping the layer right above it. To add additional layers to be masked, you can select the layers and press ⌘⌥⇧M.
+Layers can be masked by other layers. Pressing **⌘⌥M** will turn the layer to an alpha mask, clipping the layer right above it. To add additional layers to be masked, you can select the layers and press **⌘⌥⇧M**.
 
-图层可以被其他图层遮罩。### ⌘⌥M可以把该图层变成 alpha 蒙版，将在它的正上方剪切该图层。要给其他图层添加遮罩，您可以选择图层并按下 ### ⌘⌥⇧M### 。
+图层可以被其他图层遮罩。**⌘⌥M** 可以把该图层变成 alpha 蒙版，将在它的正上方剪切该图层。要给其他图层添加遮罩，您可以选择图层并按下  **⌘⌥⇧M** 。
 
 All masks are alpha masks, which can let you do advanced masks like gradient masks or composite masks based on a group of shapes.
 
@@ -92,9 +92,9 @@ There is a growing collection of pre-built components for quickly prototyping wi
 
 在Android或iOS上，有越来越多的用于快速构建原型的预置组件。组件列表在插入图层的弹出框中。
 
-Create custom components by selecting layers and pressing ⌘⌥G to group them into a component. Double-click the component to enter it and make changes. Add it to your Library and share it with others by pressing ⌘⌥C.
+Create custom components by selecting layers and pressing **⌘⌥G** to group them into a component. Double-click the component to enter it and make changes. Add it to your Library and share it with others by pressing **⌘⌥C**.
 
-通过选择图层并按快捷键 ### ⌘⌥G将它们组合在一起来创建自定义模块。双击模块进入内部进行编辑。也可以将其添加到库中，然后按快捷键 ### ⌘⌥C与其他人共享
+通过选择图层并按快捷键 **⌘⌥G**将它们组合在一起来创建自定义模块。双击模块进入内部进行编辑。也可以将其添加到库中，然后按快捷键  **⌘⌥C**与其他人共享
 
 ------
 
@@ -105,4 +105,4 @@ Create custom components by selecting layers and pressing ⌘⌥G to group them 
 - Use pre-made components to speed up your workflow, and create your own library to share.
 - 图层类似于Sketch和Photoshop等其他软件中的图层，可以进行分组和蒙版。
 - 通过点击检查器中的图层属性，在模块编辑器中添加相应的补模块来创建动画和改变图层。
-- 使用预置的组件来节省你的工作时间，并创建您自己的组件库进行共享。
+- 使用预置的组件可以节省你的工作时间，也可以创建自己的组件库进行共享。
