@@ -24,7 +24,7 @@ Constrain the counter by specifying a value in the Maximum Count port. If the co
 
 Often used to track a sequential state (ex: an onboarding flow) interchangeably with [Option Switch](./Option%20Switch.md). See [State Basics](./../Patch%20Editor/States.md) for more information.
 
-通常用于跟踪顺序状态(例如:加载流程)，可与Option Switch互换。更多信息请参考 状态基础。
+通常用于跟踪顺序状态(例如:加载流程)，可与 [Option Switch](./Option%20Switch.md) 互换。更多信息请参考 [状态基础](./../Patch%20Editor/States.md) 。
 
 ![Image](./../../static/img/docs/Utility/counter.png)
 
