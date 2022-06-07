@@ -6,9 +6,9 @@ sidebar_position: 2
 
 Select a video to add as a Video Layer.
 
-选择一个视频添加到 ### Video Layer。
+选择一个视频添加到 Video Layer。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6adf795f-938e-4085-a312-d7f800635de2/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185814Z&X-Amz-Expires=86400&X-Amz-Signature=5f304ea944e91035d97af728de5a18ae02a9bce86279fcdad0c11d547fc9c5fd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Layer/video-file.png)
 
 属性：
 
@@ -22,7 +22,7 @@ A boolean that is true when the layer is displayed.
 
 The position to display the layer. Use [Point 3D](./../Utility/Point%203D.md) to set Z position.
 
-位置。点击属性名称 ### Position可以显示3个轴向并设置值。
+位置。点击属性名称 Position可以显示3个轴向并设置值。
 
 ### Anchor 锚点
 

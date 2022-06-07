@@ -8,7 +8,7 @@ Detect regions in a still image, video, or from a camera stream.
 
 检测静止图像、视频或摄像机流中的区域。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/99c2462f-7aed-4aa3-a92e-454493a3e0ce/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T181344Z&X-Amz-Expires=86400&X-Amz-Signature=41007e3d4a73fdbc9e051f285b19d9fe282198e5e42e5d94dd4dc544a1945d61&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Utility/object-detection.png)
 
 ### Enable 启用
 

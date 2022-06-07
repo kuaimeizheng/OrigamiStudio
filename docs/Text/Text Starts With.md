@@ -8,7 +8,7 @@ Determine if some text starts with the given prefix.
 
 判断某些文本字符串是否以特定的前缀开头。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ba63c5ed-4d6e-49e5-bd24-054100d03b00/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180346Z&X-Amz-Expires=86400&X-Amz-Signature=dfb9b26d39f922ae87ea7f7e9664c5b2006b57b2daa5643c77bf38a46ba340cb&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Text/text-starts-with.png)
 
 ### Text 文本
 
@@ -47,5 +47,3 @@ A boolean that is true if the text starts with the prefix.
 ### Related Layers 相关图层
 
 [Text Layer 文本图层](./../Layer/Text%20Layer.md)
-
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ff169ff8-47e7-4c5d-811b-a0d10427b229/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180353Z&X-Amz-Expires=86400&X-Amz-Signature=9592df682251ea688b5f3082bbadfc4f4e93938299db66226d8989b88b7cc58c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

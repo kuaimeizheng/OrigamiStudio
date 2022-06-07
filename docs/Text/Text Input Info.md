@@ -8,7 +8,7 @@ Access information about text inputs. Used with Text Field on iOS and Android.
 
 访问有关文本输入的信息。与 iOS 和 Android 上的文本字段一起使用。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d8759b2c-06f4-4c92-a9ce-8b6297110755/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180142Z&X-Amz-Expires=86400&X-Amz-Signature=8ee4c88d184345336e04e328545e094582e030df0e0bd7ea0cd555368c91f893&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Text/text-input-info.png)
 
 ### Editing 编辑
 
@@ -38,4 +38,3 @@ The type of keyboard of the currently focused text field.
 
 [Text Field 文本输入框](./../iOS/Text%20Field.md)
 
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1b5d8de7-bdd0-4e20-a6d4-4f4f2cb1489d/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180148Z&X-Amz-Expires=86400&X-Amz-Signature=e4f7557b75e5f1fb8399973fae763ba6f4849680cb7c21c71cdfe2d4867a0b5c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

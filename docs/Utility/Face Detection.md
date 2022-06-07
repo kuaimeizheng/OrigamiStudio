@@ -14,7 +14,7 @@ All the outputs are loops of the same size; and the indices of each loop matches
 
 例如，左眼位置[3]和脸大小[3]都对应于索引4处的同一个脸。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1acd1479-386d-434f-a88b-65aba07490a6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T181116Z&X-Amz-Expires=86400&X-Amz-Signature=3cd13cfb9bf96a6dd9bdf5ab24e4a80092668703862ec1b09088dc1c4cb3bbd4&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Utility/face-detection.png)
 
 ### Enable 启用
 

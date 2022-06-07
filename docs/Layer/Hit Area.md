@@ -10,7 +10,7 @@ Add interaction to a specific rectangle on the screen. Toggle the ‘Setup Mode�
 
 例：假设插入了一张界面图，图里有个按钮，在按钮上盖一个热区就能实现点击热区激活交互；移入或点击时没有按钮没有变化的时候适合用热区。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5e88b3b0-2576-4033-a474-3d6a2924a788/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185210Z&X-Amz-Expires=86400&X-Amz-Signature=c165c2b87b574a0bf7eb6af3d89a0740fd7afdbe87b1a67f489722d89e75de77&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Layer/hit-area.png)
 
 ### Enable 启用
 

@@ -12,7 +12,7 @@ Right-click to change the type (ex: number, text, color), or to add additional o
 
 右键单击可以更改类型(例如:数字、文本、颜色)，或添加其他选项。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ef91677e-cfac-4c83-81d2-f14cc2a0de37/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T181401Z&X-Amz-Expires=86400&X-Amz-Signature=35d5bbf6e5890ace30aebd58f9a7e527e549547ca8e7b612c075891168c132f1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Utility/option-equals.png)
 
 ### Value 值
 

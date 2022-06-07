@@ -12,7 +12,7 @@ Right-click to change the type (ex: number, position, rotation).
 
 右键更改输入接口接入值类型（例如：数字，坐标，角度）。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/926c3cb0-64f3-426a-958f-616785bc64c6/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T174131Z&X-Amz-Expires=86400&X-Amz-Signature=1abc628dfd04abdb3698b9629529809da0b58f962ca269fc9d2da79e9383216f&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Math/absolute-value.png)
 
 ### Input 输入
 

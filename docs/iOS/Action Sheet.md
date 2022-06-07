@@ -12,107 +12,107 @@ Use the Touch button on the component to get the tap events on the buttons.
 
 使用组件上的Touch按钮获取按钮上的点击事件。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e0487f4f-6a2d-4268-988d-ce160854bd97/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190501Z&X-Amz-Expires=86400&X-Amz-Signature=2488ad97cb27904d1f925b24f453d9cc9c1ec736c4bf0ba36c9c17562d4f0b3d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/iOS/action-sheet.png)
 
-**Present 出现**
+### Present 出现
 
 A pulse that displays the action sheet.
 
 一个脉冲，表示显示操作列表。
 
-**Title Text 标题文本**
+### Title Text 标题文本
 
 A text string representing action sheet title that displays above the action buttons.
 
 表示操作表标题的文本字符串，可显示在操作按钮上方。
 
-**Body Text 正文文本**
+### Body Text 正文文本
 
 A text string representing action sheet message that displays above the action buttons.
 
 一个文本字符串，表示在操作按钮上方显示的操作表消息。
 
-**Action 1 Text**
+### Action 1 Text
 
 A text string for the first action button.
 
 第一个操作按钮的文本字符串。
 
-**Action 1 Style**
+### Action 1 Style
 
 The button style: Default (blue) or Destructive (red)
 
 按钮样式：默认（蓝色）或 破坏性（红色）
 
-**Action 2 Text**
+### Action 2 Text
 
 A text string for the second action button.
 
-**Action 2 Style**
+### Action 2 Style
 
 The button style: Default (blue) or Destructive (red)
 
-**Action 3 Text**
+### Action 3 Text
 
 A text string for the third action button.
 
-**Action 3 Style**
+### Action 3 Style
 
 The button style: Default (blue) or Destructive (red)
 
-**Action 4 Text**
+### Action 4 Text
 
 A text string for the fourth action button.
 
-**Action 4 Style**
+### Action 4 Style
 
 The button style: Default (blue) or Destructive (red)
 
-**Action 5 Text**
+### Action 5 Text
 
 A text string for the fifth action button.
 
-**Action 5 Style**
+### Action 5 Style
 
 The button style: Default (blue) or Destructive (red)
 
-**Action 6 Text**
+### Action 6 Text
 
 A text string for the sixth action button.
 
-**Action 6 Style**
+### Action 6 Style
 
 The button style: Default (blue) or Destructive (red)
 
-**Cancel Text 取消文本**
+### Cancel Text 取消文本
 
 A text string for the cancel button.
 
 取消按钮的文本字符串。
 
-**Button 1 Tapped**
+### Button 1 Tapped
 
 A pulse that represents when the first action button is tapped.
 
 一个脉冲，表示第一动作按钮被按下。
 
-**Button 2 Tapped**
+### Button 2 Tapped
 
 A pulse that represents when the second action button is tapped.
 
-**Button 3 Tapped**
+### Button 3 Tapped
 
 A pulse that represents when the third action button is tapped.
 
-**Button 4 Tapped**
+### Button 4 Tapped
 
 A pulse that represents when the fourth action button is tapped.
 
-**Button 5 Tapped**
+### Button 5 Tapped
 
 A pulse that represents when the fifth action button is tapped.
 
-**Button 6 Tapped**
+### Button 6 Tapped
 
 A pulse that represents when the sixth action button is tapped.
 

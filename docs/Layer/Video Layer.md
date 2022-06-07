@@ -8,7 +8,7 @@ A layer that can play a video.
 
 可以播放视频的图层。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f5364164-6ca7-4daa-821a-606a1eacc92c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185922Z&X-Amz-Expires=86400&X-Amz-Signature=55e57b8818a3c8148d28b2db38afc1700f1b88c364b4add463bfa5312aea17ab&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Layer/video-layer.png)
 
 属性：
 
@@ -142,7 +142,7 @@ The playback style: asynchronous or synchronous. By default, playback is asynchr
 
 播放方式：异步或同步。默认情况下，播放是异步的。 Asynchronous means the video plays independently from the framerate of the prototype — videos play smoothly even when prototype has a low framerate. Synchronous means the video plays at a rate coordinated with the framerate of the composition. This supports coordinating multiple videos that need to be matched precisely.
 
-### 异步### 指视频独立于原型的帧速率播放，视频播放更平滑，即使的播放帧率较低。### 同步### 指视频以合成的帧率协调播放速率。有助于协调需要精确匹配的多个视频。
+**异步** 指视频独立于原型的帧速率播放，视频播放更平滑，即使的播放帧率较低。### 同步### 指视频以合成的帧率协调播放速率。有助于协调需要精确匹配的多个视频。
 
 ### Current Time 当前时间
 

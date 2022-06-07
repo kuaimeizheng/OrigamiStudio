@@ -12,7 +12,7 @@ Useful to sync an animation that is reversed (ex: a photo that fades in as anoth
 
 用于同步反转的动画（例如：一张照片淡入，另一张淡出）。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/ed853abc-433b-44e3-bd4b-7bc93f57e81f/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T182006Z&X-Amz-Expires=86400&X-Amz-Signature=5df5a8bcb18a72ca13862171960396f6b9de3582a99535d7ad9088d718fd281a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Utility/reverse-progress.png)
 
 ### Progress 进度
 

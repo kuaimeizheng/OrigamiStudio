@@ -8,7 +8,7 @@ Access information about an image.
 
 访问图片的信息。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b4cbc7f9-654a-411c-9f88-03069852ade5/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T181215Z&X-Amz-Expires=86400&X-Amz-Signature=422544851cb1203f099e7c44b1059a872f5c0209e45bb5750c27d08c1433f9f9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Utility/image-info.png)
 
 ### Image  图片
 

@@ -8,7 +8,7 @@ Retrieve album information from Camera Roll on iOS or Photo Library on macOS
 
 从iOS上的Camera Roll或macOS上的Photo Library中检索相册信息
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/defb2f7d-9e26-42e0-aecf-99fcf3df1797/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T175633Z&X-Amz-Expires=86400&X-Amz-Signature=3fe313f769936b276ab0b9036c50df161143a32e0e09ade9db975629d84b5925&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Media/photo-albums.png)
 
 ### Sort By 排序方式
 

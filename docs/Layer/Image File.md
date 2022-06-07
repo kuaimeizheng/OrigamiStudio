@@ -8,7 +8,7 @@ Select an image to add as an Image Layer.
 
 选择要添加到图像图层的图像。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c188461f-2936-447d-82b9-fb3a1ff4d9e5/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185233Z&X-Amz-Expires=86400&X-Amz-Signature=68a3a708baace050907f4a430c9eb2003ad5537574a64de5da34432508fd3013&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Layer/image-file.png)
 
 ### Enable 启用
 

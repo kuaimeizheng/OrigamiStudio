@@ -8,7 +8,7 @@ An iOS status bar that is responsive and customizable.
 
 一个响应和可自定义的iOS状态栏。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5a769c1c-c8a5-40ab-a571-ff29f0f53ff3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190850Z&X-Amz-Expires=86400&X-Amz-Signature=a409728885e3884efcec42ee0d4f734fe395a7cb7ce828741bac7ba44bd9cb9b&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/iOS/status-bar.png)
 
 ### Enable 启用
 

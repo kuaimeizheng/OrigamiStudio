@@ -12,7 +12,7 @@ Use the Touch button on the component to get information about the screen’s pr
 
 使用组件上的触摸按钮获取有关屏幕的演示状态的信息。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/20b00a73-c84b-4645-b3d4-ea6834f6bb80/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190748Z&X-Amz-Expires=86400&X-Amz-Signature=eacbb09344901d9e71d9d79aad302e9cfc514d473ba510703dc3e9dca3ff4834&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/iOS/screen.png)
 
 ### Enable 启用
 

@@ -8,7 +8,7 @@ Create a point with 4 dimensions (X, Y, Z, W).
 
 创建一个具有 4 个维度（X、Y、Z、W）的点。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/eeae993b-cbd3-4fc7-9f5a-1944f05b5779/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T182542Z&X-Amz-Expires=86400&X-Amz-Signature=ff1b4f2aa2ea5d66471850376b4ec0e10678509a37afb1a35cfc45b910468704&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Utility/vec4.png)
 
 ### X
 

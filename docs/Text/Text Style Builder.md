@@ -12,7 +12,7 @@ Right-click to add additional text style inputs.
 
 右键单击以添加其他文本样式输入。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/0f4333a7-da78-4c5b-b1ad-1dca2312e31e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180416Z&X-Amz-Expires=86400&X-Amz-Signature=6344edd61e25ce1004789b313d1e0c6d2f295b4f3f2b0d2103efd68e31fdd9d0&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Text/text-style-builder.png)
 
 ### Input 输入
 

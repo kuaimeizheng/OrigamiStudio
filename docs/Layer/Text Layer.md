@@ -8,7 +8,7 @@ Display text. The alignment, size, font, and all other standard attributes of te
 
 显示文字。文本的对齐方式、大小、字体和所有其他标准属性都可以在该层上进行设置。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/44e9dc04-9201-42a6-b83d-8138018aed00/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185747Z&X-Amz-Expires=86400&X-Amz-Signature=d2a9b9b0af37210b532e8a080a539d26752117cd61256d0c89faf47117a84da5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Layer/text-layer.png)
 
 ### Enable 启用
 

@@ -22,7 +22,7 @@ Use comments to describe what patches in your prototype are responsible for. Add
 
 使用注释可以来描述原型中的模块的作用。从模块弹窗添加注释模块，或选中模块后选择 ### Patch 模块 > 模块周围注释 ^⌥C### 。
 
-![https://origami.design/public/images/docs/patchOrganization-comments.png](https://origami.design/public/images/docs/patchOrganization-comments.png)
+![Image](https://origami.design/public/images/docs/patchOrganization-comments.png)
 
 # Use Wireless Connections for Common Values 使用无线连接管理公用值
 

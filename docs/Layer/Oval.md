@@ -8,7 +8,7 @@ An oval of specific size and fill color.
 
 具有特定大小和填充颜色的椭圆形。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/60d2a0bf-e6d8-42a6-bf37-626e082a0acb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185349Z&X-Amz-Expires=86400&X-Amz-Signature=ada7c722bb8836e72379bb6c22fe391885d18242acf5d459f457f49c4fd9459d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Layer/oval.png)
 
 ### Enable 启用
 

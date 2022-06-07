@@ -12,7 +12,7 @@ Use the Touch button on the component to get information about the slider.
 
 使用组件上的触摸按钮获取有关滑块的信息。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/1db7f6a7-79d4-4418-bf08-8a0d5137076e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190829Z&X-Amz-Expires=86400&X-Amz-Signature=8e2868b17bc505eb3e3f1f611f58f570393ff1382cb7c669ccb7043022a96de7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/iOS/slider.png)
 
 ### Enable 启用
 

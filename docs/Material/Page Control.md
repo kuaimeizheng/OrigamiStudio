@@ -8,7 +8,7 @@ A Material page control with a customizable number of dots and colors.
 
 具有可自定义数量的点和颜色的 Material 页面控件。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7abd0a7e-fc00-4724-beb9-4515a55094a3/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190256Z&X-Amz-Expires=86400&X-Amz-Signature=eeda77faf7371c466a06fd0aef852634f3e194142673f01f31f00913195ae85d&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Material/page-control.png)
 
 ### Enable 启用
 

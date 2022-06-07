@@ -16,13 +16,13 @@ Connect an iOS or Android device via USB and run Origami live. The frontmost pro
 
 通过 USB 连接 iOS 或 Android 设备并运行 Origami。当前的原型将立即开始在手机或平板电脑上显示预览。您在 Origami Studio 中所做的任何更改都会立即显示在预览中，无需重新启动。
 
-### ### Origami Live for iOS
+### Origami Live for iOS
 
 1. [Download it from the App Store](https://itunes.apple.com/us/app/origami-live-design-prototyping/id942636206)
 2. Connect your iPhone or iPad with a USB cable
 3. Open Origami Studio and make sure you have at least one document open
 
-### ### Origami live for Android###
+### Origami live for Android
 
 1. [Download it from Google Play](https://play.google.com/store/apps/details?id=com.facebook.Origami)
 2. [Enable Developer Mode and USB Debugging](https://developer.android.com/tools/help/adb.html#Enabling). You may need to enable USB Data Transfer as well.
@@ -35,7 +35,7 @@ Export a prototype to your phone or tablet via the export button in the toolbar:
 
 通过工具栏中的导出按钮将原型导出到您的手机或平板电脑：
 
-![https://origami.design/public/images/docs/previewingSharing-ExportDevice.png](https://origami.design/public/images/docs/previewingSharing-ExportDevice.png)
+![Image](https://origami.design/public/images/docs/previewingSharing-ExportDevice.png)
 
 Then, take your phone or tablet with you to test your ideas on the go.
 

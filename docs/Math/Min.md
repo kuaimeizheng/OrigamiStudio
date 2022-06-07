@@ -12,7 +12,7 @@ Right-click to add more values, or change the type (ex: number, position, rotati
 
 右键选择输入接口数，或更改输入接口接入值类型（例如：数字，坐标，角度）。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/01649d71-2c6c-4336-8b3d-c291f600ffde/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T175108Z&X-Amz-Expires=86400&X-Amz-Signature=87bb131bc20c19080f17033cd176850308ae1484264f1501873def38f8e8d2be&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Math/min.png)
 
 ### Input 输入
 

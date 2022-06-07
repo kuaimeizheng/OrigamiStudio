@@ -12,7 +12,7 @@ If you want to have layer B follow layer A, add layer A as the “From parent”
 
 如果您想让 B 图层跟随 A 图层，请将 A 图层添加为 “From Parent” 并使用位置 0,0。然后将图层 B 的父级放入 To Parent。将此模块的输出连接到 B 图层。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e418892b-a888-4ff9-bf9a-4e5ff5e6cf19/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180908Z&X-Amz-Expires=86400&X-Amz-Signature=9fd766a7b19bdb8aa0dacc797af87c16ad95c07006f99b09a60934270789d796&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Utility/convert-position.png)
 
 ### From Parent 从父级
 
@@ -55,5 +55,3 @@ The converted X / Y position. (Use a Point Unpack patch to get each individual c
 A boolean if there was an error getting the converted position coordinates. Typically this is caused by one of the layers being disabled.
 
 如果获取转换后的位置坐标时出错，则为布尔值。通常这是由其中一层被禁用引起的。
-
-![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fb2b0ff7-3414-4bee-9990-ad3585a79cb8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180916Z&X-Amz-Expires=86400&X-Amz-Signature=f9a1fa0b0927e8d2c8b0c80de1ac37891e6200885ed896b62ad3c259559d5f5c&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)

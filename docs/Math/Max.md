@@ -12,7 +12,7 @@ Right-click to add more values, or change the type (ex: number, position, rotati
 
 比较两个或多个值并输出最大值。虽然模块的默认类型是数字，但它也可以用于比较位置，点，颜色和索引值。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2d36f9af-de80-4e72-a4ed-6bc0f8885f84/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T175047Z&X-Amz-Expires=86400&X-Amz-Signature=f2eec02947c9f8d4f52e48bcc1c5cc5789a84df776fcb5ace29ec87fca283f77&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Math/max.png)
 
 ### Input 输入
 

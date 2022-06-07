@@ -12,7 +12,7 @@ Use the Touch button on the component to get information about the selected segm
 
 使用组件上的触摸按钮获取有关所选段的信息。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c8e9a9b8-9c03-44fa-b056-92d2712a4cb5/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190808Z&X-Amz-Expires=86400&X-Amz-Signature=28ff74a67f8c088c1732b117af27067ccb30bd3cf7ddf3f723713a7b7aabbc30&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/iOS/segmented-control.png)
 
 ### Enable 启用
 

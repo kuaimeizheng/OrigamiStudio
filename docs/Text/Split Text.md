@@ -8,7 +8,7 @@ Splits the text into a loop using the token.
 
 使用标记将文本拆分为循环。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/72278616-ab25-4904-8785-7c72e1748624/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180045Z&X-Amz-Expires=86400&X-Amz-Signature=da54886bdc1fcfbb6be0e2b52f2167f2e2071a46e2fab286409b1614967c2d10&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Text/split-text.png)
 
 ### Text 文本
 
@@ -16,7 +16,7 @@ A text string to evaluate.
 
 待处理的文本
 
-### Token 标记### 
+### Token 标记
 
 A text string to find and split the the text into parts around.
 
@@ -30,7 +30,7 @@ A loop of the parts of the text split by the token. The entire text will be retu
 
 ------
 
-### ### Sample  示例
+### Sample  示例
 
 如图：
 
@@ -40,7 +40,7 @@ A loop of the parts of the text split by the token. The entire text will be retu
 
 ### Output 输出将输出循环为：[这是] [文本]。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/f2f87f86-ffb6-465e-939e-cba59253ed79/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T180052Z&X-Amz-Expires=86400&X-Amz-Signature=fa08ccb462ea472379fb353fc80e129a3c3ab624d9c7738df3e4ff451b611118&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Text/split-text-example.png)
 
 ------
 

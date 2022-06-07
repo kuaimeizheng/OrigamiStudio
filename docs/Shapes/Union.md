@@ -10,21 +10,21 @@ Combines two or more shapes into one shape to be used with a Shape Layer.
 
 Right-click the patch to add additional inputs for shapes.
 
-右键单击补丁以添加形状的其他输入。
+右键单击模块以添加形状的其他输入。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/796b6969-67b4-48a6-a741-24da004fef59/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T175950Z&X-Amz-Expires=86400&X-Amz-Signature=a84399f98aeedac99ed580a37d7b615c0f27a73d42b9d2818b0abdc1e78cb736&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
-
-### Input 输入
-
-A shape to union with other shapes.
-
-将要合并形状模块的 ### Shape输出端口连接到这里。
+![Image](./../../static/img/docs/Shapes/union.png)
 
 ### Input 输入
 
 A shape to union with other shapes.
 
-将要合并形状模块的 ### Shape输出端口连接到这里。
+将要合并形状模块的 Shape输出端口连接到这里。
+
+### Input 输入
+
+A shape to union with other shapes.
+
+将要合并形状模块的 Shape输出端口连接到这里。
 
 ### Output 输出
 

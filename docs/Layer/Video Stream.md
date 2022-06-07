@@ -8,7 +8,7 @@ A layer that can play a video stream using HTTP Live Streaming.
 
 可以使用 HTTP Live Streaming 播放视频流的图层。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/82be0ece-0c2a-4eb6-bd52-42107f4c6afb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185943Z&X-Amz-Expires=86400&X-Amz-Signature=d7a30328fa497402047ff7a53ae48a6c62e6874460b12d464a14219e2627c5f7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Layer/video-stream.png)
 
 ### Enable 启用
 

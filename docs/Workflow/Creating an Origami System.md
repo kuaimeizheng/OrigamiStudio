@@ -22,7 +22,7 @@ Click “Component” in the menu bar, then “Publish Components.”
 
 单击菜单栏中的“Component 组件”，然后单击“Publish Components 发布组件”。
 
-![https://origami.design/public/images/documentation/publish-components.png](https://origami.design/public/images/documentation/publish-components.png)
+![Image](https://origami.design/public/images/documentation/publish-components.png)
 
 The option to create a new component system
 
@@ -31,7 +31,7 @@ The option to create a new component system
 - If you are already in a document with a published system, this option will be “Publish Component Updates.”
 - 如果您已经在已发布过系统的文档中，则此选项将是“Publish Component Updates 发布组件更新”。
 
-![https://origami.design/public/images/documentation/publish-component-updates.png](https://origami.design/public/images/documentation/publish-component-updates.png)
+![Image](https://origami.design/public/images/documentation/publish-component-updates.png)
 
 The option if you are already in a document with a published system
 
@@ -41,7 +41,7 @@ Select which components you want to publish as part of your system. By default, 
 
 选择您想发布为系统的那些组件。默认情况下，将选择所有组件。然后点击继续。
 
-![https://origami.design/public/images/documentation/component-selection.png](https://origami.design/public/images/documentation/component-selection.png)
+![Image](https://origami.design/public/images/documentation/component-selection.png)
 
 The component selection page
 
@@ -73,7 +73,7 @@ After publishing your system, a new section will appear in the sidebar that show
 
 发布系统后，侧栏中将出现一个新的区域，显示新的或更新后系统的系统信息。
 
-![https://origami.design/public/images/documentation/system-info-sidebar.png](https://origami.design/public/images/documentation/system-info-sidebar.png)
+![Image](https://origami.design/public/images/documentation/system-info-sidebar.png)
 
 # Exporting your published system 导出你发布的系统
 
@@ -85,7 +85,7 @@ After publishing a system, click on “File” in the menu bar, then “Export S
 
 发布系统后，单击菜单栏中的“File 文件”，然后单击“Export System 导出系统”。选择名称和位置，然后点击“Save 保存”。
 
-![https://origami.design/public/images/documentation/export-published-system.png](https://origami.design/public/images/documentation/export-published-system.png)
+![Image](https://origami.design/public/images/documentation/export-published-system.png)
 
 Exporting your system
 

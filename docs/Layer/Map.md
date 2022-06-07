@@ -8,7 +8,7 @@ Shows a static snapshot of a map using Apple Maps API.
 
 显示一个使用苹果地图API的地图的静态快照。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b5c74212-5b02-4afd-8e3f-cba8c99b6f0a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T185331Z&X-Amz-Expires=86400&X-Amz-Signature=804783abf1d50f0556c1451e93c4657bc46beaa57cc9a3d270f388ca47aab1a9&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Layer/map.png)
 
 ### Enable 启用
 

@@ -8,7 +8,7 @@ Use Date & Time Formatter to make human-readable formats from time in seconds.
 
 使用 Date & Time Formatter 模块将以秒为单位生成我们可读的时间格式。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/61a74af1-b36a-45c9-b328-c52f01838e80/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T181000Z&X-Amz-Expires=86400&X-Amz-Signature=087b19006486d264bceafe5b52ec248211b577c74521e83d2bf95a00b5e601f1&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Utility/date&time-formatter.png)
 
 ### Time 时间
 
@@ -30,7 +30,7 @@ A text string that represents a format of time (ex: %H:%M:%S, %m/%d/%y). See the
 
 ### Type 类型
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7165e801-afeb-4957-aa0e-aef53dd336ac/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T181007Z&X-Amz-Expires=86400&X-Amz-Signature=73633ed3cd21b5abe66373866546b17d66001a41d0e6156d086fce579b6170ac&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Utility/date&time-formatter-item.png)
 
 ### Output 输出
 

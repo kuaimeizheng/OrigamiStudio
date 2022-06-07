@@ -8,7 +8,7 @@ An iOS activity indicator with customizable color and size.
 
 可定制颜色和大小的IOS活动指示器。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/bf5dbeb2-24ba-4275-890e-fde7c501e302/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190525Z&X-Amz-Expires=86400&X-Amz-Signature=b536ba65d9f70110067a4ae1dfaa610f9aa3a3ce9a7edf199aea9852882643c8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/iOS/activity-indicator.png)
 
 ### Enable 启用
 

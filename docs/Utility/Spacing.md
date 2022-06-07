@@ -8,7 +8,7 @@ Create spacing with 2 dimensions (X, Y). Useful when providing spacing to Layout
 
 创建具有 2 个维度（X、Y）的间距。在为图层布局需要间距时很有用。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/10295074-a071-447b-beb7-2638465872ff/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T182147Z&X-Amz-Expires=86400&X-Amz-Signature=8aa632a775c56b3a959608cee06954660b3d3c85d663399b6bb48692ffe108ae&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Utility/spacing.png)
 
 ### X
 

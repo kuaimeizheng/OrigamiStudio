@@ -8,7 +8,7 @@ Round a number.
 
 四舍五入数字。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e167bce5-face-4f56-a6a9-b5faeddefe9a/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T175228Z&X-Amz-Expires=86400&X-Amz-Signature=2ab0434d8ecf3e3b3b23006a39e94a686cb6afe2071cc32ec3c1cb8e9f28d991&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Math/round.png)
 
 ### Input
 

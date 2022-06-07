@@ -12,7 +12,7 @@ Often used to measure the distance a touch has moved (ex: Drag, Scroll).
 
 通常用于测量触摸移动的距离(例如:拖动，滚动)。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/6e5ae9f8-00d0-48d5-9431-1c43d35d12c8/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T182624Z&X-Amz-Expires=86400&X-Amz-Signature=e81a677787179b83bd55e099b491daf3cc5aabaa6f885fe7825ff2b085e1214a&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Utility/velocity.png)
 
 ### Input 输入
 

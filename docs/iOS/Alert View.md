@@ -12,7 +12,7 @@ Use the Touch button on the component to get the tap events on the buttons.
 
 使用组件上的Touch按钮可在按钮上获取点击事件。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2beff53c-ca06-43f4-9150-a30cb78ae638/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T190545Z&X-Amz-Expires=86400&X-Amz-Signature=ee84a85101f2634abdfdb24712c4ff918f80d921182ddb2e9ffa1a29b8c26479&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/iOS/alert-view.png)
 
 ### Present 出现
 
@@ -32,13 +32,13 @@ The message text of the alert view.
 
 警示框的消息文本。
 
-### Tint 色调### 
+### Tint 色调
 
 The tint color of action text.
 
 操作文本的颜色。
 
-### Button 1 Action 按钮 1 操作### 
+### Button 1 Action 按钮 1 操作
 
 The text string for the first button.
 
@@ -50,7 +50,7 @@ The button style: Default, Cancel, or Destructive.
 
 按钮样式：默认，取消或破坏性。
 
-### Button 2 Action### 
+### Button 2 Action
 
 The text string for the second button.
 
@@ -58,7 +58,7 @@ The text string for the second button.
 
 The button style: Default, Cancel, or Destructive.
 
-### Button 3 Action### 
+### Button 3 Action
 
 The text string for the third button.
 
@@ -66,7 +66,7 @@ The text string for the third button.
 
 The button style: Default, Cancel, or Destructive.
 
-### Button 4 Action### 
+### Button 4 Action
 
 The text string for the fourth button.
 
@@ -80,15 +80,15 @@ A pulse that represents when Button 1 is tapped.
 
 一个脉冲，表示当按钮 1 被按下。
 
-### Button 2 Tapped### 
+### Button 2 Tapped
 
 A pulse that represents when Button 2 is tapped.
 
-### Button 3 Tapped### 
+### Button 3 Tapped
 
 A pulse that represents when Button 3 is tapped.
 
-### Button 4 Tapped### 
+### Button 4 Tapped
 
 A pulse that represents when Button 4 is tapped.
 

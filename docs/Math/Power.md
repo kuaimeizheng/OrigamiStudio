@@ -14,7 +14,7 @@ Right-click to add ports for additional exponents to chain, or change the type (
 
 右键选择更多的端口数量，或更改类型（例如：数字，位置，角度）。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/67ef1fb1-6fb7-4dc2-ab76-c70bda808745/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T175149Z&X-Amz-Expires=86400&X-Amz-Signature=faf78552b7cd2a992fc5e03f12f984c4aa63e56084154b59dc725b6c1bb51e71&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Math/power.png)
 
 ### Input 输入
 

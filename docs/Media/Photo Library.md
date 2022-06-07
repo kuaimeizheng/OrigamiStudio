@@ -8,7 +8,7 @@ Retrieve images and videos from Camera Roll on iOS or Photo Library on macOS
 
 从 iOS 上的相机胶卷或 macOS 上的照片库中检索图像和视频
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/97898c4a-9cf0-4fdb-bbec-ee726481502e/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T175704Z&X-Amz-Expires=86400&X-Amz-Signature=5ac5c2a3d000aa94810664bc6ced505d74fb0f72f1519282f28e25fc9b9971fd&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Media/photo-library.png)
 
 ### Sort By 排序方式
 

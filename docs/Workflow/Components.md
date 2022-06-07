@@ -36,7 +36,7 @@ The group of patches above will be replaced by a new single patch component name
 
 上面的一组模块将被一个名为“偶数或奇数”的新模块组件所取代，该组件包含其所连接节点的输入和输出。
 
-![Image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/d97d8cf4-87bf-4ca7-9554-cc0fdf3c7022/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220602%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220602T163259Z&X-Amz-Expires=86400&X-Amz-Signature=64f8f3454503de364e3e0b651b4b603387175b02dd2fa1a50c7e67af94dd6218&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
+![Image](./../../static/img/docs/Workflow/components-1.png)
 
 *Note: Layer property patches cannot be grouped into a patch component - to build patch groups with layers, use layer components.*
 
@@ -44,7 +44,7 @@ The group of patches above will be replaced by a new single patch component name
 
 ###  Editing Patch Components 编辑模块组件
 
-To enter a patch group, double-click it or press ⌥↓. To leave it and go back, press ⌥↑. Menu items for entering and leaving a patch group are ### Component > Enter Componentand ### Component > Exit Component.
+To enter a patch group, double-click it or press ⌥↓. To leave it and go back, press ⌥↑. Menu items for entering and leaving a patch group are Component > Enter Componentand Component > Exit Component.
 
 双击或按⌥↓ 进入模块组。按 ⌥↑ 离开并返回。进入和离开模块组的菜单项为“ Component 组件 > Enter Component 进入组件 ”和“ Component 组件 > Exit Component 退出组件 ”。
 
@@ -86,23 +86,23 @@ Once you enter the component you will see some patches that show the published i
 
 进入组件后，你会看到一些模块，显示该组件的已发布的输入和输出。发布的属性是组件的一部分，然后可以从主视图中进行编辑。你还会看到你在创建组件时添加的模块和图层。
 
-Exit the component by clicking on ### Components > Exit Component⌃⌥↑or using the back arrow at the top of the Layer List.
+Exit the component by clicking on Components > Exit Component⌃⌥↑or using the back arrow at the top of the Layer List.
 
 通过点击 ### Components 组件 > Exit component 退出组件 ⌃⌥↑或使用层列表顶部的返回箭头退出组件。
 
 # Components Inputs and Outputs 组件的输入和输出
 
-To add, edit, re-order or remove the individual inputs and outputs, select the patch group and choose ### Component > Component Info⇧⌘I to bring up the Patch Info popover. The Port Setup tab allows you to change the port type and other properties like default, maximum and minimum values.
+To add, edit, re-order or remove the individual inputs and outputs, select the patch group and choose Component > Component Info⇧⌘I to bring up the Patch Info popover. The Port Setup tab allows you to change the port type and other properties like default, maximum and minimum values.
 
-要添加、编辑、重新排序或删除单个输入和输出，请选择模块组并选择 ### Component 组件 > Component Info 组件信息 ⇧⌘I打开模块信息弹窗。端口设置选项允许您更改端口类型和其他属性，例如默认值、最大值和最小值。
+要添加、编辑、重新排序或删除单个输入和输出，请选择模块组并选择 Component 组件 > Component Info 组件信息 ⇧⌘I打开模块信息弹窗。端口设置选项允许您更改端口类型和其他属性，例如默认值、最大值和最小值。
 
 ![](https://origami.design/public/images/documentation/edit-component.png)
 
 Editing Component Info 编辑组件信息
 
-To publish inputs or outputs from inside a patch component, select a port and choose ### Component > Publish Port⌥P. This will add a purple or blue patch that represents an input or output on the patch group.
+To publish inputs or outputs from inside a patch component, select a port and choose  Component > Publish Port⌥P. This will add a purple or blue patch that represents an input or output on the patch group.
 
-要从模块组件内部发布输入或输出，请选择一个端口并选择 ### Component 组件 > Publish Port 发布端口 ⌥P### 。将添加一个紫色或蓝色模块，表示模块组上的输入或输出。
+要从模块组件内部发布输入或输出，请选择一个端口并选择 Component 组件 > Publish Port 发布端口 ⌥P。将添加一个紫色或蓝色模块，表示模块组上的输入或输出。
 
 Components also have a number of special port tags available in the dropdown menu - for example, using the *Enable* tag will reveal the eye icon on your component for quick enabling or disabling. When a special tag isn’t needed, use the generic Custom tag.
 
@@ -136,7 +136,7 @@ Custom components that a user can create within a single document. This componen
 
 用户可以在单个文档中创建的自定义组件。该组件将仅出现在该文档的图层库中。
 
-### #User Library Components 用户库组件
+### User Library Components 用户库组件
 
 Custom components that have been saved to the user’s library and available in the Layer Library in any Origami file.
 
@@ -144,9 +144,9 @@ Custom components that have been saved to the user’s library and available in 
 
 # Patch Library 组件库
 
-If you have a patch component that you use over and over, it may make sense to add it to your patch library. Select the patch component and choose ### Component > Add to User Library⌘⌥L. Reveal the patch library folder by choosing ### Component > Show Patch Folder.
+If you have a patch component that you use over and over, it may make sense to add it to your patch library. Select the patch component and choose Component > Add to User Library⌘⌥L. Reveal the patch library folder by choosing Component > Show Patch Folder.
 
-如果您有一个重复使用的模块组件，就建议将其添加到您的模块库中。选择模块组件，然后选择 ### Component 组件 > Add to User Library 添加到用户库 ⌘⌥L。选择 ### Component 组件”> Show Patch Folder 显示模块文件夹来显示在电脑上的模块库文件夹。
+如果您有一个重复使用的模块组件，就建议将其添加到您的模块库中。选择模块组件，然后选择 Component 组件 > Add to User Library 添加到用户库 ⌘⌥L。选择 Component 组件”> Show Patch Folder 显示模块文件夹来显示在电脑上的模块库文件夹。
 
 Once a component is in your library, you will be able to add it the same way as you add other patches and layers next time you start or open a document. To make it available in your current document, close and re-open it.
 
@@ -156,13 +156,13 @@ Once a component is in your library, you will be able to add it the same way as 
 
 ###  Updating Components 更新组件
 
-To make changes or add functionality to a component in your library, insert the patch or layer component to your document, make your changes and choose ### Component > Add to User Libraryagain. Close and re-open any documents using this patch group or component, and Origami Studio will prompt you to upgrade the patches to the new version.
+To make changes or add functionality to a component in your library, insert the patch or layer component to your document, make your changes and choose Component > Add to User Libraryagain. Close and re-open any documents using this patch group or component, and Origami Studio will prompt you to upgrade the patches to the new version.
 
-要对库中的组件进行更改或添加功能，请将模块或图层组件插入到您的文档中进行更改，并再次选择### Component 组件 > Add to User Library 添加到用户库### 。关闭并重新打开使用此模块或组件的文档，随后 Origami Studio 将提示您将模块升级到新版本。
+要对库中的组件进行更改或添加功能，请将模块或图层组件插入到您的文档中进行更改，并再次选择 Component 组件 > Add to User Library 添加到用户库 。关闭并重新打开使用此模块或组件的文档，随后 Origami Studio 将提示您将模块升级到新版本。
 
-Make one-off changes to any patch or component by unlinking it from the library. Select the patch or layer component and choose ### Component > Unlink Component from LibrarY.
+Make one-off changes to any patch or component by unlinking it from the library. Select the patch or layer component and choose Component > Unlink Component from LibrarY.
 
-通过从库中取消链接，对任何模块或组件进行临时更改。选择模块或图层组件，然后选择 ### Component 组件 > Unlink Component from Library 从库中取消链接组件### 。
+通过从库中取消链接，对任何模块或组件进行临时更改。选择模块或图层组件，然后选择 Component 组件 > Unlink Component from Library 从库中取消链接组件。
 
 ###  Platform-specific Components 特定于平台的组件
 
@@ -172,9 +172,9 @@ To limit a patch or component to a platform, specify a platform in the Patch Set
 
 # Sharing a Folder of Patches and Components 共享组件和模块的文件夹
 
-To make components accessible to other team members, create a shared [Dropbox](https://dropbox.com/) folder and add your components to it. To save a component in your document to a shared folder, use the ### Component > Add to Other LibrarY.
+To make components accessible to other team members, create a shared [Dropbox](https://dropbox.com/) folder and add your components to it. To save a component in your document to a shared folder, use the Component > Add to Other LibrarY.
 
-要让其他团队成员可以访问组件，请创建一个共享的 Dropbox 文件夹，并将您的组件添加到其中。要将文档中的组件保存到共享文件夹，请使用 ### Component 组件 > Add to Other Library 添加到其他库### 。
+要让其他团队成员可以访问组件，请创建一个共享的 Dropbox 文件夹，并将您的组件添加到其中。要将文档中的组件保存到共享文件夹，请使用 Component 组件 > Add to Other Library 添加到其他库。
 
 Members of the team can add this folder to the list of loaded libraries using the *+* button in Systems tab in Origami Studio preferences.
 
