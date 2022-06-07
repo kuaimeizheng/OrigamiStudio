@@ -8,7 +8,7 @@ Allows you to define custom animation curves by specifying 2 control points. The
 
 允许您通过指定 2 个控制点来定义自定义动画曲线。三次贝塞尔曲线经过标准化，然后根据要设置动画的数字进行缩放，这意味着曲线的起点始终为 (0,0)，终点始终为 (number,number)。
 
-![](./../../static/img/docs/Animation/cubiz-bezier-animation.png)
+![Image](./../../static/img/docs/Animation/cubiz-bezier-animation.png)
 
 ### Number  数字
 

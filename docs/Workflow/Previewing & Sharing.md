@@ -26,7 +26,7 @@ Connect an iOS or Android device via USB and run Origami live. The frontmost pro
 
 1. [Download it from Google Play](https://play.google.com/store/apps/details?id=com.facebook.Origami)
 2. [Enable Developer Mode and USB Debugging](https://developer.android.com/tools/help/adb.html#Enabling). You may need to enable USB Data Transfer as well.
-3. Connect your Android phone or tablet with a USB cable. ### Note: a cable that supports data transfer is required. Some cables only support charging the device.### 
+3. Connect your Android phone or tablet with a USB cable. Note: a cable that supports data transfer is required. Some cables only support charging the device.
 4. Open Origami Studio and make sure you have at least one document open
 
 # Exporting Prototypes 导出原型

@@ -12,7 +12,7 @@ See [Animation Basics] for more information.
 
 有关详细信息，请参考 [动画基础](./../Patch%20Editor/Animations.md)。
 
-![](./../../static/img/docs/Animation/classic-animation.png)
+![Image](./../../static/img/docs/Animation/classic-animation.png)
 
 ### Number 数值
 
@@ -52,15 +52,15 @@ The options are:
 
 曲线动画参考：
 
-![曲线 In ：慢 ➔ 快](https://upload-images.jianshu.io/upload_images/4055792-fa685c0913c4d066.gif?imageMogr2/auto-orient/strip|imageView2/2/w/560/format/webp)
+![曲线 In ：慢 ➔ 快](./../../static/img/docs/Animation/classic-animation-1.gif)
 
 曲线 In ：慢 ➔ 快
 
-![曲线 Out ：快 ➔ 慢](https://upload-images.jianshu.io/upload_images/4055792-79e434cb948a8458.gif?imageMogr2/auto-orient/strip|imageView2/2/w/560/format/webp)
+![曲线 Out ：快 ➔ 慢](./../../static/img/docs/Animation/classic-animation-2.gif)
 
 曲线 Out ：快 ➔ 慢
 
-![曲线 In & Out ：慢 ➔ 快 ➔ 慢](https://upload-images.jianshu.io/upload_images/4055792-cfd0105a21169d5d.gif?imageMogr2/auto-orient/strip|imageView2/2/w/560/format/webp)
+![曲线 In & Out ：慢 ➔ 快 ➔ 慢](./../../static/img/docs/Animation/classic-animation-3.gif)
 
 曲线 In & Out ：慢 ➔ 快 ➔ 慢
 

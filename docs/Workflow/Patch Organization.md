@@ -14,13 +14,13 @@ As you start building more complex prototypes in Origami Studio, it’s easy to 
 
 Give any patch a custom name by double-clicking the patch title or selecting the patch and pressing ⇧⏎. It’s often helpful to name patches by their effect. For example, if you have a [Switch](../Utility/Switch) responsible for animating a photo between a thumbnail (Off) and full screen (On), you could name the Switch “Photo is Full Screen” to make the effect of the Switch clear at a glance.
 
-通过双击模块标题或选择模块并按 ### ⇧⏎，为模块输入一个自定义名称。建议根据模块的作用来命名。例如，如果您有一个 [Switch开关](../Utility/Switch) 控制在 缩略图 (Off) 和全屏 (On) 之间过渡的照片动画，您可以将 Switch开关 命名为“Photo is Full Screen 全屏照片”，以使 Switch开关 的效果一目了然。
+通过双击模块标题或选择模块并按  ⇧⏎，为模块输入一个自定义名称。建议根据模块的作用来命名。例如，如果您有一个 [Switch开关](../Utility/Switch) 控制在 缩略图 (Off) 和全屏 (On) 之间过渡的照片动画，您可以将 Switch开关 命名为“Photo is Full Screen 全屏照片”，以使 Switch开关 的效果一目了然。
 
 # Add Comments around Patches 在模块周围添加注释
 
-Use comments to describe what patches in your prototype are responsible for. Add a Comment patch from the patch popover, or select patches and choose ### Patch > Comment Around Patches ^⌥C.
+Use comments to describe what patches in your prototype are responsible for. Add a Comment patch from the patch popover, or select patches and choose  Patch > Comment Around Patches ^⌥C.
 
-使用注释可以来描述原型中的模块的作用。从模块弹窗添加注释模块，或选中模块后选择 ### Patch 模块 > 模块周围注释 ^⌥C### 。
+使用注释可以来描述原型中的模块的作用。从模块弹窗添加注释模块，或选中模块后选择 Patch 模块 > 模块周围注释 ^⌥C 。
 
 ![Image](https://origami.design/public/images/docs/patchOrganization-comments.png)
 

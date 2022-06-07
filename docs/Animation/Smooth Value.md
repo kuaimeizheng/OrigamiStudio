@@ -12,7 +12,7 @@ Smooth a value as it changes.
 
 平滑改变中的值。
 
-![](./../../static/img/docs/Animation/smooth-value.png)
+![Image](./../../static/img/docs/Animation/smooth-value.png)
 
 ### Value 值
 

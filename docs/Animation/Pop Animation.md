@@ -16,7 +16,7 @@ Use [Classic Animation]for traditional animation curves. See [Animation Basics
 
 使用 Classic Animation 模块的经典动画曲线。有关更多信息请参考 [Animation Basics 动画基础]。
 
-![](./../../static/img/docs/Animation/pop-animation.png)
+![Image](./../../static/img/docs/Animation/pop-animation.png)
 
 ### Number 值
 

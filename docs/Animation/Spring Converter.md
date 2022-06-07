@@ -8,7 +8,7 @@ Allows for conversion from Apple’s Fluid Spring dynamics values (see SwiftUI) 
 
 允许将 Apple 的流体弹簧动力学值（请参阅 SwiftUI）转换为张力/摩擦力（用于弹性动画）或弹力/速度（流行动画）
 
-![](./../../static/img/docs/Animation/spring-converter.png)
+![Image](./../../static/img/docs/Animation/spring-converter.png)
 
 ### Response 回复
 

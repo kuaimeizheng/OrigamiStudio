@@ -8,7 +8,7 @@ Change the rate of a linear animation progress to a new animation curve.
 
 将线性动画的进度更改为新的动画曲线。
 
-![](./../../static/img/docs/Animation/curve.png)
+![Image](./../../static/img/docs/Animation/curve.png)
 
 ### Progress 进度
 

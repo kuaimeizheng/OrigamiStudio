@@ -8,7 +8,7 @@ Allows you to define custom animation curves by specifying 2 control points. The
 
 允许您通过指定 2 个控制点来定义自定义动画曲线。三次贝塞尔曲线是标准化的，这意味着曲线的起点始终为 (0,0)，终点始终为 (1,1)。
 
-![](./../../static/img/docs/Animation/cubiz-bezier-curve.png)
+![Image](./../../static/img/docs/Animation/cubiz-bezier-curve.png)
 
 ### Progress 进度
 

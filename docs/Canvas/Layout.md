@@ -29,7 +29,7 @@ https://origami.design/public/images/videos/layout_position.mp4
 
 # Size 尺寸
 
-Size determines the width and height of an object or group. It applies to any layer that has a parent group with Layout enabled AND any parent group with Layout enabled. When setting ### Size, there are three parameters to choose from:  Auto, Grow , and  Fixed .
+Size determines the width and height of an object or group. It applies to any layer that has a parent group with Layout enabled AND any parent group with Layout enabled. When setting  Size, there are three parameters to choose from:  Auto, Grow , and  Fixed .
 
 大小决定了对象或组的宽度和高度。它适用于启用布局的父组和启用布局的父组图层。设置大小时，有三个参数可供选择:自动、增长和固定。
 

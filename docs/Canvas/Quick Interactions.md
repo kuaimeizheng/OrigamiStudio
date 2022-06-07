@@ -35,9 +35,9 @@ Trigger a present transition using a Tap, Double Tap or Long Press interaction. 
 - **Push** Default iOS transition, will slide in the next screen being presented from right to left
 - **Modal** Will transition in the next screen from the bottom up
 - **None** Will present the next screen immediately with no transition.
-- 推动 默认iOS过渡，下一个屏幕将从右向左显示
-- 模态 下一个屏幕将从下向上过渡
-- 无 下一个屏幕没有过渡立即出现。
+- **推动** 默认iOS过渡，下一个屏幕将从右向左显示
+- **模态** 下一个屏幕将从下向上过渡
+- **无** 下一个屏幕没有过渡立即出现。
 
 # Dismissing Screens 关闭屏幕
 

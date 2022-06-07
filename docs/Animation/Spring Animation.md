@@ -8,7 +8,7 @@ Creates a animation based on a physically modeled spring. This also allows for i
 
 基于物理建模的弹簧创建动画。这也允许通过控制弹簧的速度来进行可中断的动画。
 
-![](./../../static/img/docs/Animation/spring-animation.png)
+![Image](./../../static/img/docs/Animation/spring-animation.png)
 
 ### Number 数值
 

@@ -8,7 +8,7 @@ Animate a number (ex: position, opacity, scale) repeatedly.
 
 重复数字动画（例如：位置、不透明度、比例）。
 
-![](./../../static/img/docs/Animation/repeating-animation.png)
+![Image](./../../static/img/docs/Animation/repeating-animation.png)
 
 ### Enable 启用
 
