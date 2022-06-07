@@ -128,16 +128,22 @@ plugins: [
 
 
 
-          {
-          to: '/blog', 
+        {
+        to: '/blog', 
           label: '关于作者', 
           position: 'left'
-          },
-          {
+        },
+
+        {
             href: 'https://github.com/kuaimeizheng/OrigamiStudio',
             label: 'GitHub',
             position: 'right',
-          },
+        },
+
+        //algolia: {
+        //  contextualSearch: true,
+        //  },
+
         ],
       },
 
