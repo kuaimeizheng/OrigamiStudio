@@ -21,14 +21,6 @@ const config = {
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
-  // Even if you don't use internalization, you can use this field to set useful
-  // metadata like html lang. For example, if your site is Chinese, you may want
-  // to replace "en" with "zh-Hans".
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
-  },
-
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -85,21 +77,25 @@ plugins: [
           showLastUpdateTime: true, // 显示最后编辑时间
         // ... other options
       },
-   ],
+    ],
   
+
+
 
   ],
 
+//主题配置
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      //头部导航栏
       navbar: {
         title: 'OrigamiStudio',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
-
+          //菜单
         items: [
           {
             type: 'doc',
@@ -107,7 +103,7 @@ plugins: [
             position: 'left',
             label: 'Origami 中文文档',
           },
-
+          //菜单
           {
             to: '/learn/intro', // To highlight the navbar item, you must link to a document, not a top-level directory
             //type: 'doc',
@@ -116,7 +112,7 @@ plugins: [
             label: '教程',
             activeBaseRegex: `docs/learn`,
           },
-
+          //菜单
           {
             to: '/example/intro', // To highlight the navbar item, you must link to a document, not a top-level directory
             //type: 'doc',
@@ -125,15 +121,16 @@ plugins: [
             label: '例子',
             activeBaseRegex: `docs/example`,
           },
+ 
+        },
 
-
-
+        //关于作者
         {
         to: '/blog', 
           label: '关于作者', 
           position: 'left'
         },
-
+        //Github
         {
             href: 'https://github.com/kuaimeizheng/OrigamiStudio',
             label: 'GitHub',
