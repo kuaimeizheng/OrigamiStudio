@@ -8,7 +8,7 @@ Create a point with 3 dimensions (X, Y). Useful when providing position and rota
 
 创建具有3个维度（X，Y，Z）的点。用于当向图层提供位置、大小、锚点和轴心。
 
-![Image](./Point%203D.md)
+![Image](./../../static/img/docs/Utility/point-3d.png)
 
 ### X
 
