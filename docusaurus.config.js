@@ -61,14 +61,31 @@ plugins: [
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'patches',
-        path: 'patches',
-        routeBasePath: 'patches',
+        id: 'learn',
+        path: 'learn',
+        routeBasePath: 'learn',
         sidebarPath: require.resolve('./sidebars.js'),
+        editUrl:
+            'https://github.com/kuaimeizheng/OrigamiStudio/tree/main/',
+        showLastUpdateAuthor: true, // 显示最后编辑作者
+          showLastUpdateTime: true, // 显示最后编辑时间
         // ... other options
       },
     ],
-
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'example',
+        path: 'example',
+        routeBasePath: 'example',
+        sidebarPath: require.resolve('./sidebars.js'),
+        editUrl:
+            'https://github.com/kuaimeizheng/OrigamiStudio/tree/main/',
+        showLastUpdateAuthor: true, // 显示最后编辑作者
+          showLastUpdateTime: true, // 显示最后编辑时间
+        // ... other options
+      },
+   ],
   
 
   ],
@@ -92,15 +109,24 @@ plugins: [
           },
 
           {
-            to: '/patches/intro', // To highlight the navbar item, you must link to a document, not a top-level directory
+            to: '/learn/intro', // To highlight the navbar item, you must link to a document, not a top-level directory
             //type: 'doc',
             //docId: 'intro',
             position: 'left',
-            label: '个人模块',
-            activeBaseRegex: `docs/dev`,
+            label: '教程',
+            activeBaseRegex: `docs/learn`,
           },
 
-      
+          {
+            to: '/example/intro', // To highlight the navbar item, you must link to a document, not a top-level directory
+            //type: 'doc',
+            //docId: 'intro',
+            position: 'left',
+            label: '例子',
+            activeBaseRegex: `docs/example`,
+          },
+
+
 
           {
           to: '/blog', 
