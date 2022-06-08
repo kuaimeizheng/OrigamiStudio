@@ -8,7 +8,16 @@ Fill the screen with a solid color. Clip color fills with groups set to a partic
 
 用纯色填满屏幕。添加到组内时，组的大小可以控制图层的显示大小。
 
-![Image](./../../static/img/docs/Layer/color-fill.png)
+<div class="patch-container">
+ <div class="patch layer">
+  <h3>Color Fill</h3>
+   <ul class="inputs"> 
+    <li>Enable</li>  
+    <li>Opacity</li>
+    <li>Color</li>
+   </ul>
+ </div>
+</div>
 
 ### Enable 启用
 

@@ -7,8 +7,25 @@ sidebar_position: 2
 Organize related layers that move, scale, rotate, and fade together. Groups have a size that clips the layers within.
 
 将图层整理在一起可以移动、缩放、旋转和淡入。组的大小可以裁剪其中的图层。
-
-![Image](./../../static/img/docs/Layer/group.png)
+<div class="patch-container">
+ <div class="patch layer">
+  <h3>Group</h3>  
+   <ul class="inputs">
+    <li>Enable</li>
+    <li>Position</li>
+    <li>Anchor</li>
+    <li>Size</li>
+    <li>Opacity</li>
+    <li>Scale</li>
+    <li>Rotation</li>
+    <li>Pivot</li>
+    <li>Shadow Color</li>
+    <li>Shadow Opacity</li>
+    <li>Shadow Radius</li>
+    <li>Shadow Offset</li>
+   </ul>
+ </div>
+</div>
 
 ### Enable 启用
 

@@ -8,7 +8,20 @@ Fill the screen with a linear gradient of two colors. The gradient’s start and
 
 用两种颜色的线性渐变填充屏幕。可以通过控制开始和结束位置控制渐变的方向。添加到组内时，组的大小可以控制图层的显示大小。
 
-![Image](./../../static/img/docs/Layer/gradient-fill.png)
+<div class="patch-container">
+ <div class="patch layer">
+  <h3>Gradient Fill</h3>  
+   <ul class="inputs">
+    <li>Enable</li>
+    <li>Type</li>
+    <li>Start Position</li>
+    <li>End Position</li>
+    <li>Start Color</li>
+    <li>End Color</li>
+    <li>Opacity</li>
+   </ul>
+ </div>
+</div>
 
 ### Enable 启用
 
