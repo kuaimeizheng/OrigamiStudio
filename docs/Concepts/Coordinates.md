@@ -17,34 +17,76 @@ By default, the origin (x: 0, y: 0) is in the center of the device screen. On th
 For illustration, below is a Layer Group of height 400 pixels and width 300 pixels:
 
 例如，下面是一个图层在屏幕中的坐标，图层高400宽300：
+<div class="coord-example">
+ <div class="dot dot-center dot-center-y dot-center-x"></div>
+ <div class="label dot-center dot-center-y dot-center-x">0, 0</div>
 
-![Image](./../../static/img/docs/Concepts/coordinates-1.png)
+ <div class="dot dot-top-right dot-top dot-right"></div>
+ <div class="label dot-top-right dot-top dot-right">150, -200</div>
+
+ <div class="dot dot-bottom-left dot-bottom dot-left"></div>
+ <div class="label dot-bottom-left dot-bottom dot-left">-150, 200</div>
+
+</div>
 
 # Anchor Point 坐标锚点
 
 Anchor points change the origin of the coordinate system for that patch. Anchor points can be defined in the Patch Editor with a Point patch, where X and Y are any decimal 0-1.
 
 更改锚点会改变模块的坐标原点位置。 锚点可以通过### [Point]### 模块控制，X和Y的值可以是0～1之间的任何数。
+<div class="coord-example">
+ <div class="dot dot-top-left dot-top dot-left"></div>
+ <div class="label dot-top-left dot-top dot-left">Top Left (0, 0)</div>
 
-![Image](./../../static/img/docs/Concepts/coordinates-2.png)
+ <div class="dot dot-top-center dot-top dot-center-x"></div>
+ <div class="label dot-top-center dot-top dot-center-x">Top Center (.5, 0)</div>
+
+ <div class="dot dot-top-right dot-top dot-right"></div>
+ <div class="label dot-top-right dot-top dot-right">Top Right (1, 0)</div>
+
+ <div class="dot dot-center-left dot-center-y dot-left"></div>
+ <div class="label dot-center-left dot-center-y dot-left">Center Left (0, .5)</div>
+
+ <div class="dot dot-center dot-center-y dot-center-x"></div>
+ <div class="label dot-center dot-center-y dot-center-x">Center (.5, .5)</div>
+
+ <div class="dot dot-center-right dot-center-y dot-right"></div>
+ <div class="label dot-center-right dot-center-y dot-right">Center Right (1, .5)</div>
+
+ <div class="dot dot-bottom-left dot-bottom dot-left"></div>
+ <div class="label dot-bottom-left dot-bottom dot-left">Bottom Left (0, 1)</div>
+
+ <div class="dot dot-bottom-center dot-bottom dot-center-x"></div>
+ <div class="label dot-bottom-center dot-bottom dot-center-x">Bottom Center (.5, 1)</div>
+
+ <div class="dot dot-bottom-right dot-bottom dot-right"></div>
+ <div class="label dot-bottom-right dot-bottom dot-right">Bottom Right (1, 1)</div>
+</div>
 
 Here’s an example of a Text Layer positioned from the “Top Left” Anchor Point:
 
 下面是一个锚点在左上角的示意图：
-
-![Image](./../../static/img/docs/Concepts/coordinates-3.png)
+<div class="coord-example">
+ <div class="dot dot-top-left dot-top dot-left"></div>
+ <div class="box dot-top-left dot-top dot-left">Button Text</div>
+</div>
 
 From the bottom right:
 
 锚点在右下角的文字图层：
-
-![Image](./../../static/img/docs/Concepts/coordinates-4.png)
+<div class="coord-example">
+ <div class="dot dot-bottom-right dot-bottom dot-right"></div>
+ <div class="box dot-bottom-right dot-bottom dot-right">Button Text</div>
+</div>
 
 If you want to inset it by 40 pixels, give it an X Position of -40 and a Y Position of -40.
 
 如果你想把图层向左上方移动40像素，X和Y的值都要输入-40。
-
-![Image](./../../static/img/docs/Concepts/coordinates-5.png)
+<div class="coord-example">
+ <div class="dot dot-bottom-right dot-bottom dot-right"></div>
+ <div class="box inset-40 dot-bottom-right dot-bottom dot-right">Button Text</div>
+ <div class="label dot-bottom-right dot-bottom dot-right">-40, -40</div>
+</div>
 
 # Pivot 图层中心点
 
@@ -52,14 +94,17 @@ The pivot port changes the point about which a layer scales and rotates, and can
 
 Pivot端口是图层缩放和旋转的中心点，这个中心点可以和锚点分开控制。中心点可以通过[Point](./../Utility/Point.md)模块控制，X和Y的值可以是0～1之间的任何数。
 
-![Image](./../../static/img/docs/Concepts/coordinates-6.png)
-
-Center (.5, .5)
-
-![Image](./../../static/img/docs/Concepts/coordinates-7.png)
-
-Top Left (0, 0)
-
-![Image](./../../static/img/docs/Concepts/coordinates-8.png)
-
-Center Right (1, .5)
+<div class="pivot-example-box" layout="row top-justify">
+ <div class="pivot-example pivot-center ">
+  <div class="item">A</div>
+  <div class="label">Center (.5, .5)</div>
+ </div>
+ <div class="pivot-example pivot-top-left ">
+  <div class="item">B</div>
+  <div class="label">Top Left (0, 0)</div>
+ </div>
+ <div class="pivot-example pivot-center-right ">
+  <div class="item">C</div>
+  <div class="label">Center Right (1, .5)</div>
+ </div>
+</div>

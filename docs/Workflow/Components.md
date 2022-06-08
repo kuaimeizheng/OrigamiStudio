@@ -24,9 +24,9 @@ Layer Componentsare made up of both layers and patches. Use layer components for
 
 # Creating Patch Components 创建模块组件
 
-To group multiple patches into one component, select the patches and choose ### Component > Create Component⌃⌘G from the menu bar or right-click and select  Group Into Component… .
+To group multiple patches into one component, select the patches and choose  Component > Create Component⌃⌘G from the menu bar or right-click and select  Group Into Component… .
 
-要将多个模块组合成一个组件，请选择模块并从菜单栏中选择### Component 组件 > Create component 创建组件⌃⌘G 或右键单击并选择  Group Into Component 组成组件 …。
+要将多个模块组合成一个组件，请选择模块并从菜单栏中选择 Component 组件 > Create component 创建组件⌃⌘G 或右键单击并选择  Group Into Component 组成组件 …。
 
 https://origami.design/public/images/videos/even-or-odd.mp4
 
@@ -88,7 +88,7 @@ Once you enter the component you will see some patches that show the published i
 
 Exit the component by clicking on Components > Exit Component⌃⌥↑or using the back arrow at the top of the Layer List.
 
-通过点击 ### Components 组件 > Exit component 退出组件 ⌃⌥↑或使用层列表顶部的返回箭头退出组件。
+通过点击  Components 组件 > Exit component 退出组件 ⌃⌥↑或使用层列表顶部的返回箭头退出组件。
 
 # Components Inputs and Outputs 组件的输入和输出
 
@@ -112,7 +112,7 @@ Components also have a number of special port tags available in the dropdown men
 
 Components are a type of layer in Origami and live inside the Layer Library. To insert a component click the + in the toolbar to access the dropdown, then click Layer Library or use the shortcut ⌘ + Return to open the Layer Library directly.
 
-组件是Origami中的一种图层类型，在图层库中。要插入一个组件，请点击工具栏上的 "+"进入下拉菜单，然后点击图层库，或者使用快捷键 ### ⌘+ 回车键，直接打开图层库。
+组件是Origami中的一种图层类型，在图层库中。要插入一个组件，请点击工具栏上的 "+"进入下拉菜单，然后点击图层库，或者使用快捷键  ⌘+ 回车键，直接打开图层库。
 
 ![](https://origami.design/public/images/documentation/adding-components.png)
 
