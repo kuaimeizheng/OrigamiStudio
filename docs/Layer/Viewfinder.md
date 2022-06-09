@@ -8,7 +8,24 @@ Say cheese! A live stream of the current computer, phone, or tablet’s camera. 
 
 调用设备的相机，实时图像。 “Freeze”取景器到原型拍照。
 
-![Image](./../../static/img/docs/Layer/viewfinder.png)
+<div class="patch-container">
+ <div class="patch layer">
+  <h3>Viewfinder</h3>  
+   <ul class="inputs">
+    <li>Enable</li>
+    <li>Camera Type</li>
+    <li>Freeze</li>
+    <li>Position</li>
+    <li>Anchor</li>
+    <li>Size</li>
+    <li>Opacity</li>
+    <li>Scale</li>
+    <li>Rotation</li>
+    <li>Pivot</li>
+    <li>Content Mode</li>
+   </ul>
+ </div>
+</div>
 
 ### Enable 启用
 

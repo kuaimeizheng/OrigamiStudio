@@ -10,7 +10,20 @@ Add interaction to a specific rectangle on the screen. Toggle the ‘Setup Mode�
 
 例：假设插入了一张界面图，图里有个按钮，在按钮上盖一个热区就能实现点击热区激活交互；移入或点击时没有按钮没有变化的时候适合用热区。
 
-![Image](./../../static/img/docs/Layer/hit-area.png)
+<div class="patch-container">
+ <div class="patch layer">
+  <h3>Hit Area</h3>  
+   <ul class="inputs">
+    <li>Enable</li>
+    <li>Position</li>
+    <li>Anchor</li>
+    <li>Size</li>
+    <li>Opacity</li>
+    <li>Setup Mode</li>
+   </ul>
+ </div>
+</div>
+
 
 ### Enable 启用
 

@@ -49,7 +49,7 @@ The anchor point to position the layer relative to. See [Coordinates](./../Conce
 
 The size of the layer.
 
-图层的大小
+图层的大小 
 
 ### Opacity 不透明度
 

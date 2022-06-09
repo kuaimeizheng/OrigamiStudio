@@ -8,7 +8,31 @@ A layer that can play a video stream using HTTP Live Streaming.
 
 可以使用 HTTP Live Streaming 播放视频流的图层。
 
-![Image](./../../static/img/docs/Layer/video-stream.png)
+<div class="patch-container">
+ <div class="patch layer">
+  <h3>View Stream</h3>  
+   <ul class="inputs">
+    <li>Enable</li>
+    <li>Position</li>
+    <li>Anchor</li>
+    <li>Size</li>
+    <li>Opacity</li>
+    <li>Scale</li>
+    <li>Rotation</li>
+    <li>Pivot</li>
+    <li>URL</li>
+    <li>Play</li>
+    <li>Fill Style</li>
+    <li>Shadow Color</li>
+    <li>Shadow Opacity</li>
+    <li>Shadow Radius</li>
+    <li>Shadow Offset</li>
+    <li>Video Raye</li>
+    <li>Loop</li>
+    <li>Volume</li>>
+   </ul>
+ </div>
+</div>
 
 ### Enable 启用
 
