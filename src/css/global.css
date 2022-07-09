@@ -1,0 +1,625 @@
+* {
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-text-size-adjust: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+a {
+    color: #0288F6;
+    text-decoration: none;
+    -webkit-user-select: text
+}
+
+hr {
+    border: 0;
+    height: 0;
+    border-bottom: 1px solid #D9DDE1
+}
+
+body {
+    padding-top: 88px;
+    background-color: #FFFFFF;
+    font-family: "SF Pro Display", -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu;
+    font-size: 16px
+}
+
+p {
+    -webkit-user-select: text;
+    cursor: auto;
+    font-size: 18px;
+    color: #889198;
+    line-height: 26px
+}
+
+h1 {
+    font-size: 40px;
+    color: #1B2127;
+    font-weight: 700;
+    margin-bottom: 20px
+}
+
+h1.light {
+    color: #FFFFFF
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: 300;
+    color: #475058;
+    line-height: 40px;
+    margin-bottom: 40px;
+    padding: 0px 0
+}
+
+h2.light {
+    color: #FFFFFF
+}
+
+h3 {
+    font-size: 29px;
+    font-weight: normal;
+    color: #1B2127
+}
+
+h4 {
+    font-size: 18px;
+    font-weight: 500;
+    color: #1B2127;
+    line-height: 30px
+}
+
+.active {
+    color: #0288F6
+}
+
+button {
+    background: #0288F6;
+    height: 40px;
+    padding: 0 20px;
+    font-weight: 500;
+    border: none;
+    color: white;
+    font-size: 16px;
+    border-radius: 6px;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -webkit-transform: rotate(0);
+    transform: rotate(0)
+}
+
+button.outline {
+    border: 1px solid #0288F6;
+    color: #0288F6;
+    background: none
+}
+
+button:hover {
+    cursor: pointer;
+    opacity: .8
+}
+
+#wrapper {
+    overflow-x: hidden
+}
+
+.content-wrapper {
+    max-width: 900px;
+    min-width: 768px;
+    margin: 0 auto
+}
+
+.container--page-width {
+    width: 1136px;
+    margin: 0 auto
+}
+
+.container--full-height {
+    min-height: 100vh
+}
+
+.container--grid-width {
+    width: 1156px;
+    margin: 0 auto
+}
+
+.container--page-width > .container--grid-width {
+    margin-left: -10px;
+    max-width: 1156px
+}
+
+.container--centered_text {
+    max-width: 620px;
+    text-align: center;
+    margin: 0px auto;
+    padding: 60px 0
+}
+
+.container--body-text {
+    max-width: 720px;
+    margin: 0px auto;
+    padding: 60px 0
+}
+
+.background--darkgray {
+    background-color: #282F36
+}
+
+.background--lightgray {
+    background-color: #f5f7f9
+}
+
+.text-content p, .text-content .language-json {
+    margin-bottom: 20px
+}
+
+.text-content h2 {
+    margin-top: 40px;
+    font-size: 28px;
+    margin-bottom: 4px;
+    font-weight: 300;
+    color: #000000
+}
+
+.text-content h3 {
+    font-size: 20px;
+    font-weight: 500;
+    margin-top: 16px;
+    margin-bottom: 8px
+}
+
+.text-content > ul, .text-content > ol {
+    margin-top: 10px;
+    font-size: 18px;
+    color: #889198;
+    letter-spacing: -0.2px;
+    margin-left: 24px;
+    line-height: 26px;
+    margin-bottom: 20px
+}
+
+.text-content > ol ul, .text-content > ul ol, .text-content > ul ul, .text-content > ol ol {
+    margin-left: 20px
+}
+
+.text-content aside {
+    font-size: 16px;
+    color: #AEB5BB;
+    border-left: 2px solid #AEB5BB;
+    padding-left: 20px;
+    line-height: 24px
+}
+
+.text-content pre {
+    font-size: 14px;
+    display: block;
+    padding: 14px;
+    color: #889198;
+    background: #f5f7f9;
+    border-radius: 5px
+}
+
+.text-content code {
+    -webkit-user-select: text;
+    display: inline-block;
+    background: #f5f7f9;
+    color: rgba(0, 0, 0, 0.6);
+    padding: 0 2px;
+    border-radius: 4px
+}
+
+.text-content > img, .text-content > p > img {
+    max-width: 100%
+}
+
+.text-content figure {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-align: start;
+    -ms-flex-align: start;
+    align-items: flex-start;
+    width: 140%;
+    padding: 8px 0;
+    margin-bottom: 20px
+}
+
+.text-content figure pre, .text-content figure img, .text-content figure video {
+    width: 71.3%
+}
+
+.text-content figcaption {
+    width: 20%;
+    padding-left: 2%;
+    font-size: 14px;
+    line-height: 22px;
+    color: #AEB5BB
+}
+
+figure img {
+    border-radius: 2px
+}
+
+.key.modifier, .key.letter {
+    display: inline-block;
+    color: #475058;
+    font: 16px "HelveticaNeue", 'Helvetica Neue', Helvetica, sans-serif;
+    border-radius: 2px;
+    background-color: white;
+    text-align: center;
+    height: 1.9em;
+    line-height: 1.9em;
+    margin-right: 2px;
+    width: 1.9em;
+    -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.2)
+}
+
+.key.inline {
+    font-size: 14px;
+    margin-bottom: -2px;
+    vertical-align: 2px;
+    line-height: 1em;
+    height: auto;
+    min-width: 1.8em;
+    width: auto;
+    padding: 4px
+}
+
+ul.patch-list {
+    list-style: none;
+    margin-bottom: 40px
+}
+
+ul.patch-list li {
+    display: inline-block
+}
+
+ul.patch-list li a {
+    display: block;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.05);
+    border-radius: 4px;
+    margin-bottom: 4px;
+    font-weight: normal;
+    color: #475058
+}
+
+.container--page-header {
+    max-width: 620px;
+    text-align: center;
+    margin: 0px auto;
+    padding: 60px 0 20px
+}
+
+.container--page-header h1 {
+    margin-bottom: 8px
+}
+
+.container--page-header h2 {
+    font-size: 24px;
+    line-height: 32px;
+    color: #889198
+}
+
+.list-item .list-item-text .title a {
+    color: #1B2127
+}
+
+.device-wrapper {
+    z-index: 1
+}
+
+.container--device {
+    height: 100%;
+    position: relative
+}
+
+.container--device, .device-screen {
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat
+}
+
+.container--device .device-screen {
+    position: absolute;
+    width: 100%
+}
+
+.container--device.iPhone7-White {
+    background-image: url("../images/devices/iPhone7-White.png")
+}
+
+.container--device.iPhone7-Black {
+    background-image: url("../images/devices/iPhone7-Black.png")
+}
+
+.container--device.iPhone7-Black .device-screen, .container--device.iPhone7-White .device-screen {
+    height: 74.5%;
+    top: 12.75%
+}
+
+.container--device.Pixel-White {
+    background-image: url("../images/devices/Pixel-White.png")
+}
+
+.container--device.Pixel-Black {
+    background-image: url("../images/devices/Pixel-Black.png")
+}
+
+.container--device.Pixel-White .device-screen, .container--device.Pixel-Black .device-screen {
+    height: 76%;
+    top: 12%
+}
+
+.container--device.Pixel-3-White {
+    background-image: url("../images/devices/Pixel-3-White.png")
+}
+
+.container--device.Pixel-3-Black {
+    background-image: url("../images/devices/Pixel-3-White.png")
+}
+
+.container--device.Pixel-3-White .device-screen, .container--device.Pixel-3-Black .device-screen {
+    height: 84%;
+    top: 9%;
+    z-index: -1
+}
+
+.container--device.iPhone-11-Pro-Black {
+    background-image: url("../images/devices/iPhone-11-Pro-Black.png")
+}
+
+.container--device.iPhone-11-Pro-Black .device-screen {
+    height: 90.8%;
+    top: 4.5%;
+    z-index: -1
+}
+
+.container--example-hero .container--device.iPhone-11-Pro-Black .device-screen {
+    height: 88%;
+    top: 6%
+}
+
+#end-mark {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 72px
+}
+
+.end-mark-icon {
+    width: 22px;
+    height: 18px;
+    background-image: url("../images/end-mark.png");
+    background-size: 22px 18px;
+    margin: 0 auto
+}
+
+.studio-updated:before {
+    content: 'Updated in Studio';
+    border: 1px solid #13d64c;
+    color: #13d64c;
+    padding: .1em .2em;
+    border-radius: 3px;
+    margin-right: .2em
+}
+
+.studio:before {
+    content: 'New in Studio';
+    border: 1px solid #13d64c;
+    color: #13d64c;
+    padding: .1em .2em;
+    border-radius: 3px;
+    margin-right: .2em
+}
+
+.studio-soon:before {
+    content: 'Coming Soon';
+    border: 1px solid #dbdbdb;
+    color: #b5b5b5;
+    padding: .1em .2em;
+    border-radius: 3px;
+    margin-right: .2em
+}
+
+.origami-beta-banner {
+    background: #2398eb;
+    background: -webkit-gradient(linear, left top, right top, from(#2398eb), to(#156ed4));
+    background: linear-gradient(90deg, #2398eb 0%, #156ed4 100%);
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    position: fixed;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    padding: 4px;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 40px;
+    text-align: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    z-index: 5
+}
+
+.origami-beta-banner a {
+    color: #fff;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: 600
+}
+
+.origami-beta-banner a::after {
+    background-image: url("../images/beta-arrow-right.svg");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-position: center center;
+    content: "";
+    display: inline-block;
+    height: 12px;
+    margin-left: 4px;
+    position: relative;
+    top: 1px;
+    width: 6px
+}
+
+.cf:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0
+}
+
+html[xmlns] .cf {
+    display: block
+}
+
+* html .cf {
+    height: 1%
+}
+
+.hide-on-desktop {
+    display: none
+}
+
+@media only screen and (max-width: 1281px) {
+    .container--page-width {
+        width: 940px
+    }
+
+    .container--grid-width {
+        width: 960px
+    }
+
+    .container--body-text {
+        max-width: 620px
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    nav.container--page-width {
+        padding: 0 32px
+    }
+
+    .container--page-width {
+        width: 100%;
+        padding: 0 42px
+    }
+
+    .container--grid-width {
+        width: 100%;
+        padding: 0 32px
+    }
+
+    .container--page-width > .container--grid-width {
+        padding: 0;
+        margin-left: -10px
+    }
+
+    .container--page-header {
+        padding-left: 32px;
+        padding-right: 32px
+    }
+
+    .container--body-text {
+        padding-left: 30px;
+        padding-right: 30px
+    }
+
+    .text-content figure {
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+        flex-direction: column
+    }
+
+    .text-content figcaption {
+        width: 71.4%;
+        padding: 10px 0 0
+    }
+}
+
+@media only screen and (max-width: 667px) {
+    .container--page-width {
+        width: 100%;
+        padding: 0 16px
+    }
+
+    .container--grid-width {
+        width: 100%;
+        padding: 0 16px
+    }
+
+    .container--page-width > .container--grid-width {
+        padding: 0;
+        margin-left: 0
+    }
+
+    .container--body-text {
+        padding-top: 40px;
+        padding-bottom: 40px
+    }
+
+    nav.container--page-width {
+        padding-right: 16px
+    }
+
+    nav a, nav a.logo {
+        margin-right: 16px;
+        height: 48px;
+        line-height: 48px
+    }
+
+    nav a.logo {
+        margin-left: 0
+    }
+
+    .hide-on-desktop {
+        display: inline-block
+    }
+
+    .hide-on-mobile {
+        display: none
+    }
+
+    h1 {
+        font-size: 32px
+    }
+
+    .container--page-header h2 {
+        font-size: 24px;
+        line-height: 32px
+    }
+
+    h3 {
+        font-size: 24px
+    }
+
+    h2 {
+        font-size: 30px
+    }
+
+    .description {
+        font-size: 20px;
+        line-height: 26px
+    }
+
+    .origami-beta-banner a {
+        font-size: 13px
+    }
+
+    .origami-beta-banner a::after {
+        height: 10px
+    }
+}

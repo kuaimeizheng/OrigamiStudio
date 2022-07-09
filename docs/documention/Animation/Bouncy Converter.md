@@ -8,7 +8,22 @@ Convert Pop Animation values to spring tension and friction.
 
 把 Pop Animation 的值转换为弹簧张力和摩擦力。
 
-![Image](./../../../static/img/docs/Animation/bouncy-converter.png)
+[//]: # (![Image]&#40;./../../../static/img/docs/Animation/bouncy-converter.png&#41;)
+
+<div class="patch-container">
+    <div class="patch processor">
+        <h3>Bouncy 22 Converter</h3>
+        <ul class="inputs">
+            <li>Bounciness</li>
+            <li>Speed</li>
+        </ul>
+        <ul class="outputs">
+            <li>Friction</li>
+            <li>Tension</li>
+        </ul>
+        <hr></hr>
+    </div>
+</div>
 
 ### Bounciness 弹性
 

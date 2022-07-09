@@ -415,12 +415,15 @@ span.patch-value.repeating-signal {
     0% {
         opacity: 0
     }
+
     50% {
         opacity: 0
     }
+
     51% {
         opacity: .5
     }
+
     100% {
         opacity: .5
     }
@@ -430,12 +433,15 @@ span.patch-value.repeating-signal {
     0% {
         opacity: 0
     }
+
     50% {
         opacity: 0
     }
+
     51% {
         opacity: .5
     }
+
     100% {
         opacity: .5
     }
@@ -450,12 +456,15 @@ span.patch-value.repeating-pulse {
     0% {
         opacity: .5
     }
+
     8% {
         opacity: .5
     }
+
     9% {
         opacity: 0
     }
+
     100% {
         opacity: 0
     }
@@ -465,12 +474,15 @@ span.patch-value.repeating-pulse {
     0% {
         opacity: .5
     }
+
     8% {
         opacity: .5
     }
+
     9% {
         opacity: 0
     }
+
     100% {
         opacity: 0
     }
@@ -719,18 +731,23 @@ hr {
     0% {
         -webkit-transform: scale(1) rotate(0deg)
     }
+
     10% {
         -webkit-transform: scale(1) rotate(0deg)
     }
+
     50% {
         -webkit-transform: scale(1) rotate(360deg)
     }
+
     60% {
         -webkit-transform: scale(1) rotate(360deg)
     }
+
     75% {
         -webkit-transform: scale(0.6) rotate(360deg)
     }
+
     100% {
         -webkit-transform: scale(1) rotate(360deg)
     }
@@ -865,25 +882,31 @@ h6 {
         max-width: 480px;
         max-width: 100%
     }
+
     .related-content-units .tutorial-list-item-text {
         padding: 10px
     }
+
     .related-content-units .list-item-text {
         padding-right: 0
     }
+
     .related-content-units .list-item h3,
     .related-content-units h3 {
         font-size: 21px;
         line-height: 30px
     }
+
     .related-content-units .list-item p {
         font-size: 18px;
         line-height: 26px
     }
+
     .related-content-units .example-list-item .thumbnail {
         width: 96px;
         height: 96px
     }
+
     .related-content-units .tutorial-related .tutorial-list-item .thumbnail {
         width: 120px;
         height: 90px
@@ -894,6 +917,7 @@ h6 {
     .related-content-units .tutorial-list-item p {
         display: block
     }
+
     .related-content-units .list-item {
         -webkit-box-orient: vertical;
         -webkit-box-direction: normal;
@@ -901,13 +925,16 @@ h6 {
         flex-direction: column;
         padding-right: 0
     }
+
     .related-content-units .list-item>a,
     .related-content-units .list-item .thumbnail {
         width: 100%
     }
+
     .related-content-units .list-item .thumbnail {
         height: 200px
     }
+
     .related-content-units .list-item-text {
         padding: 10px 0;
         -ms-flex-item-align: start;
@@ -916,11 +943,13 @@ h6 {
 }
 
 @media only screen and (max-width: 1281px) {
+
     .container--documentation .container--left_text p,
     .container--documentation .container--left_text ul,
     .container--documentation .container--left_text ol {
         padding-right: 0
     }
+
     .example-list-button,
     .tutorial-list-item-button {
         display: none
@@ -937,15 +966,18 @@ h6 {
     #search-results .result {
         padding-left: 0
     }
+
     input#search {
         margin-top: 6px;
         margin-right: 0
     }
+
     .container--documentation {
         width: 100%;
         padding: 0 30px;
         margin-top: 30px
     }
+
     .container--navigation {
         position: relative;
         top: 0;
@@ -956,6 +988,7 @@ h6 {
         opacity: 0;
         display: none
     }
+
     .container--category-basics,
     .container--category-workflow,
     .container--category-concepts,
@@ -964,6 +997,7 @@ h6 {
         cursor: pointer;
         margin: 12px 0
     }
+
     .container--category-basics:hover,
     .container--category-workflow:hover,
     .container--category-concepts:hover,
@@ -971,6 +1005,7 @@ h6 {
     .container--category-layers:hover {
         opacity: .7
     }
+
     .container--basics,
     .container--workflow,
     .container--concepts,
@@ -978,6 +1013,7 @@ h6 {
     .container--layers {
         display: none
     }
+
     .container--mobile-docs-navigation {
         display: block;
         border-radius: 6px;
@@ -988,6 +1024,7 @@ h6 {
         position: relative;
         margin-bottom: 30px
     }
+
     .container--basics-button,
     .container--workflow-button,
     .container--concepts-button,
@@ -1008,6 +1045,7 @@ h6 {
         -webkit-transition: all 0.2s ease;
         transition: all 0.2s ease
     }
+
     .mobile-docs-navigation-button {
         position: absolute;
         width: 74px;
@@ -1023,30 +1061,37 @@ h6 {
         -webkit-transition: all 0.2s ease;
         transition: all 0.2s ease
     }
+
     .close {
         -webkit-transform: rotate(45deg);
         transform: rotate(45deg)
     }
+
     .container--mobile-docs-navigation:hover {
         opacity: .7;
         cursor: pointer
     }
+
     .container--mobile-docs-navigation h3 {
         color: #889198;
         margin: 0
     }
+
     .container--mobile-docs-navigation h1 {
         margin-bottom: 0
     }
+
     .documentation-title {
         display: none;
         padding: 0 60px 0 30px;
         margin-bottom: 70px
     }
+
     .visible {
         opacity: 1;
         display: inline-block
     }
+
     .text-content {
         width: 100%
     }
@@ -1056,6 +1101,7 @@ h6 {
     .tutorial-list-item p {
         display: block
     }
+
     .example-list-item,
     .tutorial-list-item {
         -webkit-box-orient: vertical;
@@ -1064,6 +1110,7 @@ h6 {
         flex-direction: column;
         padding-right: 0
     }
+
     .example-list-item>a,
     .example-list-item .thumbnail,
     .example-list-item .thumbnail img,
@@ -1071,10 +1118,12 @@ h6 {
     .tutorial-list-item .thumbnail {
         width: 100%
     }
+
     .example-list-item .thumbnail,
     .tutorial-list-item .thumbnail {
         height: 200px
     }
+
     .example-list-text,
     .tutorial-list-item-text {
         padding: 10px 0;

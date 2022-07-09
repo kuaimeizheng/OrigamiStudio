@@ -25,8 +25,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'zh-Hans',
+    locales: ['zh-Hans'],
   },
 
 
@@ -128,7 +128,7 @@ const config = {
             {
               to: '/blog',
               label: '关于作者',
-              position: 'left'
+              position: 'right'
             },
             {
               href: 'https://github.com/kuaimeizheng/OrigamiStudio',
