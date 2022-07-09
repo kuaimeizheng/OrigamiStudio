@@ -1,5 +1,6 @@
 ---
 sidebar_position: 0
+slug: /documention
 ---
 
 # Introduction 入门

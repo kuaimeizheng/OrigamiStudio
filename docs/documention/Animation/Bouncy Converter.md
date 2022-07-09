@@ -12,7 +12,7 @@ Convert Pop Animation values to spring tension and friction.
 
 <div class="patch-container">
     <div class="patch processor">
-        <h3>Bouncy 22 Converter</h3>
+        <h3>Bouncy Converter</h3>
         <ul class="inputs">
             <li>Bounciness</li>
             <li>Speed</li>

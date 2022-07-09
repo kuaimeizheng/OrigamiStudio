@@ -107,23 +107,13 @@ const config = {
               docId: 'documention/intro',
               position: 'left',
               label: '中文文档',
-              //className: 'emacs',
             },
             {
               type: 'doc',
               docId: 'example/intro',
               position: 'left',
               label: '例子',
-              //className: 'elisp',
             },
-            /*{
-              type: 'doc',
-              docId: 'learn/intro',
-              position: 'left',
-              label: '教程',
-              //className: 'org',
-            },*/
-
 
             {
               to: '/blog',

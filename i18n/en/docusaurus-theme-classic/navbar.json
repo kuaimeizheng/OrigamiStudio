@@ -1,0 +1,22 @@
+{
+  "title": {
+    "message": "OrigamiStudio",
+    "description": "The title in the navbar"
+  },
+  "item.label.中文文档": {
+    "message": "中文文档",
+    "description": "Navbar item with label 中文文档"
+  },
+  "item.label.例子": {
+    "message": "例子",
+    "description": "Navbar item with label 例子"
+  },
+  "item.label.关于作者": {
+    "message": "关于作者",
+    "description": "Navbar item with label 关于作者"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

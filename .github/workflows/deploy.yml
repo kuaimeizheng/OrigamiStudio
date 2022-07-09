@@ -10,8 +10,8 @@ on:
       - '.github/workflows/deploy.yml'
       - 'build/**'
       - 'docs/**'
-      - 'learn/**'
-      - 'example/**'
+#      - 'learn/**'
+#      - 'example/**'
       - 'blog/**'
   pull_request:
 

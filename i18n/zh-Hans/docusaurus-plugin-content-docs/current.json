@@ -1,0 +1,90 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.documentionSidebar.category.Canvas 画布": {
+    "message": "Canvas 画布",
+    "description": "The label for category Canvas 画布 in sidebar documentionSidebar"
+  },
+  "sidebar.documentionSidebar.category.Canvas 画布.link.generated-index.description": {
+    "message": "5 minutes to learn the most important Docusaurus concepts.",
+    "description": "The generated-index page description for category Canvas 画布 in sidebar documentionSidebar"
+  },
+  "sidebar.documentionSidebar.category.Patch Editor 模块编辑器": {
+    "message": "Patch Editor 模块编辑器",
+    "description": "The label for category Patch Editor 模块编辑器 in sidebar documentionSidebar"
+  },
+  "sidebar.documentionSidebar.category.Workflow 工作流": {
+    "message": "Workflow 工作流",
+    "description": "The label for category Workflow 工作流 in sidebar documentionSidebar"
+  },
+  "sidebar.documentionSidebar.category.Concepts 概念": {
+    "message": "Concepts 概念",
+    "description": "The label for category Concepts 概念 in sidebar documentionSidebar"
+  },
+  "sidebar.documentionSidebar.category.Animation 动画": {
+    "message": "Animation 动画",
+    "description": "The label for category Animation 动画 in sidebar documentionSidebar"
+  },
+  "sidebar.documentionSidebar.category.Color 颜色": {
+    "message": "Color 颜色",
+    "description": "The label for category Color 颜色 in sidebar documentionSidebar"
+  },
+  "sidebar.documentionSidebar.category.Data 数据": {
+    "message": "Data 数据",
+    "description": "The label for category Data 数据 in sidebar documentionSidebar"
+  },
+  "sidebar.documentionSidebar.category.Device 设备": {
+    "message": "Device 设备",
+    "description": "The label for category Device 设备 in sidebar documentionSidebar"
+  },
+  "sidebar.documentionSidebar.category.Interaction 交互": {
+    "message": "Interaction 交互",
+    "description": "The label for category Interaction 交互 in sidebar documentionSidebar"
+  },
+  "sidebar.documentionSidebar.category.Logic 逻辑": {
+    "message": "Logic 逻辑",
+    "description": "The label for category Logic 逻辑 in sidebar documentionSidebar"
+  },
+  "sidebar.documentionSidebar.category.Loops 循环": {
+    "message": "Loops 循环",
+    "description": "The label for category Loops 循环 in sidebar documentionSidebar"
+  },
+  "sidebar.documentionSidebar.category.Math 数学": {
+    "message": "Math 数学",
+    "description": "The label for category Math 数学 in sidebar documentionSidebar"
+  },
+  "sidebar.documentionSidebar.category.Media 媒体": {
+    "message": "Media 媒体",
+    "description": "The label for category Media 媒体 in sidebar documentionSidebar"
+  },
+  "sidebar.documentionSidebar.category.Shapes 形状": {
+    "message": "Shapes 形状",
+    "description": "The label for category Shapes 形状 in sidebar documentionSidebar"
+  },
+  "sidebar.documentionSidebar.category.Text 文本": {
+    "message": "Text 文本",
+    "description": "The label for category Text 文本 in sidebar documentionSidebar"
+  },
+  "sidebar.documentionSidebar.category.Utility 实用": {
+    "message": "Utility 实用",
+    "description": "The label for category Utility 实用 in sidebar documentionSidebar"
+  },
+  "sidebar.documentionSidebar.category.Layer 图层": {
+    "message": "Layer 图层",
+    "description": "The label for category Layer 图层 in sidebar documentionSidebar"
+  },
+  "sidebar.documentionSidebar.category.Material 谷歌移动端": {
+    "message": "Material 谷歌移动端",
+    "description": "The label for category Material 谷歌移动端 in sidebar documentionSidebar"
+  },
+  "sidebar.documentionSidebar.category.iOS 苹果移动端": {
+    "message": "iOS 苹果移动端",
+    "description": "The label for category iOS 苹果移动端 in sidebar documentionSidebar"
+  },
+  "sidebar.exampleSidebar.category.Shapes 形状": {
+    "message": "Shapes 形状",
+    "description": "The label for category Shapes 形状 in sidebar exampleSidebar"
+  }
+}

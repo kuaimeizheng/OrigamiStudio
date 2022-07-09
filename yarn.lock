@@ -2911,8 +2911,6 @@
     "es6-promisify" "^5.0.0"
 
 "agent-base@~4.2.1":
-  "integrity" "sha512-JVwXMr9nHYTUXsBFKUqhJwvlcYU/blreOEUkhNR2eXZIvwd+c+o5V4MgDPKWnMS/56awN3TRzIP+KoPn+roQtg=="
-  "resolved" "https://registry.npmmirror.com/agent-base/-/agent-base-4.2.1.tgz"
   "version" "4.2.1"
   dependencies:
     "es6-promisify" "^5.0.0"
@@ -2984,8 +2982,6 @@
     "uri-js" "^4.2.2"
 
 "ajv@^6.12.3":
-  "integrity" "sha512-j3fVLgvTo527anyYyJOGTYJbG+vnnQYvE0m5mmkc1TK+nxAppkCLMIL0aZ4dblVCNoGShhm+kzE4ZUykBoMg4g=="
-  "resolved" "https://registry.npmmirror.com/ajv/-/ajv-6.12.6.tgz"
   "version" "6.12.6"
   dependencies:
     "fast-deep-equal" "^3.1.1"
@@ -3153,13 +3149,9 @@
   "version" "2.0.0"
 
 "aproba@^1.0.3":
-  "integrity" "sha512-Y9J6ZjXtoYh8RnXVCMOU/ttDmk1aBjunq9vO0ta5x85WDQiQfUF9sIPBITdbiiIVcBo03Hi3jMxigBtsddlXRw=="
-  "resolved" "https://registry.npmmirror.com/aproba/-/aproba-1.2.0.tgz"
   "version" "1.2.0"
 
 "aproba@^1.1.1":
-  "integrity" "sha512-Y9J6ZjXtoYh8RnXVCMOU/ttDmk1aBjunq9vO0ta5x85WDQiQfUF9sIPBITdbiiIVcBo03Hi3jMxigBtsddlXRw=="
-  "resolved" "https://registry.npmmirror.com/aproba/-/aproba-1.2.0.tgz"
   "version" "1.2.0"
 
 "aproba@^1.1.2 || 2", "aproba@^2.0.0":
@@ -3168,8 +3160,6 @@
   "version" "2.0.0"
 
 "aproba@^1.1.2":
-  "integrity" "sha512-Y9J6ZjXtoYh8RnXVCMOU/ttDmk1aBjunq9vO0ta5x85WDQiQfUF9sIPBITdbiiIVcBo03Hi3jMxigBtsddlXRw=="
-  "resolved" "https://registry.npmmirror.com/aproba/-/aproba-1.2.0.tgz"
   "version" "1.2.0"
 
 "archy@~1.0.0":
@@ -3968,8 +3958,6 @@
   "version" "1.0.3"
 
 "ci-info@^1.5.0":
-  "integrity" "sha512-vsGdkwSCDpWmP80ncATX7iea5DWQemg1UgCW5J8tqjU3lYw4FBYuj89J0CTVomA7BEfvSZd84GmHko+MxFQU2A=="
-  "resolved" "https://registry.npmmirror.com/ci-info/-/ci-info-1.6.0.tgz"
   "version" "1.6.0"
 
 "ci-info@^2.0.0":
@@ -6425,8 +6413,6 @@
   "version" "0.5.2"
 
 "from2@^1.3.0":
-  "integrity" "sha512-1eKYoECvhpM4IT70THQV8XNfmZoIlnROymbwOSazfmQO3kK+zCV+LSqUDzl7gDo3MZddCFeVa9Zg3Hi6FXqcgg=="
-  "resolved" "https://registry.npmmirror.com/from2/-/from2-1.3.0.tgz"
   "version" "1.3.0"
   dependencies:
     "inherits" "~2.0.1"
@@ -6631,8 +6617,6 @@
     "yargs" "^16.2.0"
 
 "get-stream@^3.0.0":
-  "integrity" "sha512-GlhdIUuVakc8SJ6kK0zAFbiGzRFzNnY4jUuEbV9UROo4Y+0Ny4fjvcZFVTeDA4odpFyOQzaw6hXukJSq/f28sQ=="
-  "resolved" "https://registry.npmmirror.com/get-stream/-/get-stream-3.0.0.tgz"
   "version" "3.0.0"
 
 "get-stream@^4.0.0", "get-stream@^4.1.0":
@@ -7384,8 +7368,6 @@
     "harmony-reflect" "^1.4.6"
 
 "iferr@^0.1.5":
-  "integrity" "sha512-DUNFN5j7Tln0D+TxzloUjKB+CtVu6myn0JEFak6dG18mNt9YkQ6lzGCdafwofISZ1lLF3xRHJ98VKy9ynkcFaA=="
-  "resolved" "https://registry.npmmirror.com/iferr/-/iferr-0.1.5.tgz"
   "version" "0.1.5"
 
 "iferr@^1.0.2":
@@ -9150,8 +9132,6 @@
   "version" "2.0.0"
 
 "lru-cache@^4.0.1":
-  "integrity" "sha512-sWZlbEP2OsHNkXrMl5GYk/jKk70MBng6UU4YI/qGDYbgf6YbP4EvmqISbXCoJiRKs+1bSpFHVgQxvJ17F2li5g=="
-  "resolved" "https://registry.npmmirror.com/lru-cache/-/lru-cache-4.1.5.tgz"
   "version" "4.1.5"
   dependencies:
     "pseudomap" "^1.0.2"
@@ -9500,16 +9480,12 @@
   "version" "1.2.6"
 
 "minipass@^2.3.5":
-  "integrity" "sha512-wxfUjg9WebH+CUDX/CdbRlh5SmfZiy/hpkxaRI16Y9W56Pa75sWgd/rvFilSgrauD9NyFymP/+JFV3KwzIsJeg=="
-  "resolved" "https://registry.npmmirror.com/minipass/-/minipass-2.9.0.tgz"
   "version" "2.9.0"
   dependencies:
     "safe-buffer" "^5.1.2"
     "yallist" "^3.0.0"
 
 "minipass@^2.6.0":
-  "integrity" "sha512-wxfUjg9WebH+CUDX/CdbRlh5SmfZiy/hpkxaRI16Y9W56Pa75sWgd/rvFilSgrauD9NyFymP/+JFV3KwzIsJeg=="
-  "resolved" "https://registry.npmmirror.com/minipass/-/minipass-2.9.0.tgz"
   "version" "2.9.0"
   dependencies:
     "safe-buffer" "^5.1.2"
@@ -9522,8 +9498,6 @@
     "yallist" "^3.0.0"
 
 "minipass@^2.9.0":
-  "integrity" "sha512-wxfUjg9WebH+CUDX/CdbRlh5SmfZiy/hpkxaRI16Y9W56Pa75sWgd/rvFilSgrauD9NyFymP/+JFV3KwzIsJeg=="
-  "resolved" "https://registry.npmmirror.com/minipass/-/minipass-2.9.0.tgz"
   "version" "2.9.0"
   dependencies:
     "safe-buffer" "^5.1.2"
@@ -11178,8 +11152,6 @@
   "version" "1.9.0"
 
 "pump@^2.0.0":
-  "integrity" "sha512-ruPMNRkN3MHP1cWJc9OWr+T/xDP0jhXYCLfJcBuX54hhfIBnaQmAUMfDcG4DM5UMWByBbJY69QSphm3jtDKIkA=="
-  "resolved" "https://registry.npmmirror.com/pump/-/pump-2.0.1.tgz"
   "version" "2.0.1"
   dependencies:
     "end-of-stream" "^1.1.0"
@@ -12098,8 +12070,6 @@
   "version" "0.1.15"
 
 "retry@^0.10.0":
-  "integrity" "sha512-ZXUSQYTHdl3uS7IuCehYfMzKyIDBNoAuUblvy5oGO5UJSUTmStUUVPXbA9Qxd173Bgre53yCQczQuHgRWAdvJQ=="
-  "resolved" "https://registry.npmmirror.com/retry/-/retry-0.10.1.tgz"
   "version" "0.10.1"
 
 "retry@^0.12.0":
@@ -12198,8 +12168,6 @@
   "version" "5.1.2"
 
 "safe-buffer@^5.2.0":
-  "integrity" "sha512-rp3So07KcdmmKbGvgaNxQSJr7bGVSVk5S9Eq1F+ppbRo70+YeaDxkw5Dd8NPN+GD6bjnYm2VuPuCXmpuYvmCXQ=="
-  "resolved" "https://registry.npmmirror.com/safe-buffer/-/safe-buffer-5.2.1.tgz"
   "version" "5.2.1"
 
 "safe-buffer@~5.2.0":
@@ -12993,8 +12961,6 @@
     "strip-ansi" "^6.0.0"
 
 "string-width@^1.0.1":
-  "integrity" "sha512-0XsVpQLnVCXHJfyEs8tC0zpTVIr5PKKsQtkT29IwupnPTjtPmQ3xT/4yCREF9hYkV/3M3kzcUTSAZT6a6h81tw=="
-  "resolved" "https://registry.npmmirror.com/string-width/-/string-width-1.0.2.tgz"
   "version" "1.0.2"
   dependencies:
     "code-point-at" "^1.0.0"
@@ -13026,8 +12992,6 @@
     "strip-ansi" "^4.0.0"
 
 "string-width@^3.0.0":
-  "integrity" "sha512-vafcv6KjVZKSgz06oM/H6GDBrAtz8vdhQakGjFIvNrHA6y3HCF1CInLy+QLq8dTJPQ1b+KDUqDFctkdRW44e1w=="
-  "resolved" "https://registry.npmmirror.com/string-width/-/string-width-3.1.0.tgz"
   "version" "3.1.0"
   dependencies:
     "emoji-regex" "^7.0.1"
@@ -13035,8 +12999,6 @@
     "strip-ansi" "^5.1.0"
 
 "string-width@^3.1.0":
-  "integrity" "sha512-vafcv6KjVZKSgz06oM/H6GDBrAtz8vdhQakGjFIvNrHA6y3HCF1CInLy+QLq8dTJPQ1b+KDUqDFctkdRW44e1w=="
-  "resolved" "https://registry.npmmirror.com/string-width/-/string-width-3.1.0.tgz"
   "version" "3.1.0"
   dependencies:
     "emoji-regex" "^7.0.1"
@@ -13133,8 +13095,6 @@
     "ansi-regex" "^2.0.0"
 
 "strip-ansi@^4.0.0":
-  "integrity" "sha512-4XaJ2zQdCzROZDivEVIDPkcQn8LMFSa8kj8Gxb/Lnwzv9A8VctNZ+lfivC/sV3ivW8ElJTERXZoPBRrZKkNKow=="
-  "resolved" "https://registry.npmmirror.com/strip-ansi/-/strip-ansi-4.0.0.tgz"
   "version" "4.0.0"
   dependencies:
     "ansi-regex" "^3.0.0"
