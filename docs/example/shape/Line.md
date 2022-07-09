@@ -9,8 +9,8 @@ tags: [path, shape, shape creator]
     <div className="patch processor">
         <h3>Line</h3>
         <ul className="inputs">
-            <li>X 0 &nbsp;&nbsp; Y 0</li>
-            <li>X 0 &nbsp;&nbsp; Y 0</li>
+            <li>X <span>0</span> Y <span>0</span></li>
+            <li>X <span>0</span> Y <span>0</span></li>
         </ul>
         <ul className="outputs">
             <li>Shape</li>

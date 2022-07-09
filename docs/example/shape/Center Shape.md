@@ -10,7 +10,7 @@ tags: [path, shape, shape transform]
         <h3>Center Shape</h3>
         <ul className="inputs">
             <li>Shape</li>
-            <li>X and Y</li>
+            <li><span>X and Y</span></li>
         </ul>
         <ul className="outputs">
             <li>Shape</li>

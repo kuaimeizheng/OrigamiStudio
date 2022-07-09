@@ -247,7 +247,19 @@ div.patch ul {
 }
 
 div.patch ul li span {
-    list-style-position: inside
+    list-style-position: inside;
+    color: rgba(255, 255, 255, 0.5);
+    margin-right: 8px;
+    margin-left: 4px;
+}
+.checkbox-on {
+    display: inline-block;
+    position: absolute;
+    width: 16px;
+    height: 16px;
+    border-radius: 2px;
+    margin-left: 8px !important;
+    background-color: rgba(255, 255, 255, 0.2);
 }
 
 div.patch.unlabeled {
