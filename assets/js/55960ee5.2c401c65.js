@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkorigami_studio=self.webpackChunkorigami_studio||[]).push([[4121],{88070:function(a){a.exports=JSON.parse('[{"label":"path","permalink":"/OrigamiStudio/docs/tags/path","count":19},{"label":"shape","permalink":"/OrigamiStudio/docs/tags/shape","count":19}]')}}]);
