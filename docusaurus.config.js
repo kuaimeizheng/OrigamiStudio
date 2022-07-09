@@ -111,9 +111,9 @@ const config = {
             },
             {
               type: 'doc',
-              docId: 'example/intro',
+              docId: 'custom/intro',
               position: 'left',
-              label: '例子',
+              label: '自定义模块',
             },
 
             {
