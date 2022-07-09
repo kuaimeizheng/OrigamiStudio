@@ -3,7 +3,7 @@
     margin-bottom: 60px !important
 }
 
-input#search {
+/*input#search {
     height: 36px;
     line-height: 36px;
     margin-top: 1px;
@@ -89,7 +89,7 @@ input#search:focus::placeholder {
 #search-results .result-body:hover p,
 #search-results .result-body:hover p * {
     color: #475058
-}
+}*/
 
 ul.docs {
     list-style-type: none;
@@ -240,8 +240,9 @@ div.patch hr {
 }
 
 div.patch ul {
-    padding: 5px;
-    padding-bottom: 2px;
+    padding: 8px;
+    margin-top: 4px;
+    margin-bottom: 4px;
     list-style: none
 }
 
@@ -271,7 +272,7 @@ div.patch h3,
 
 div.patch h3 {
     color: #FFFFFF;
-    font-size: 12px;
+    font-size: 14px;
     border-top-left-radius: 4px;
     border-top-right-radius: 4px
 }
@@ -306,7 +307,7 @@ div.patch ul.inputs {
     text-align: left;
     float: left;
     position: relative;
-    padding-right: 14px;
+    padding-right: 40px;
     -webkit-box-ordinal-group: 1;
     -ms-flex-order: 0;
     order: 0
@@ -317,7 +318,7 @@ div.patch ul.outputs {
     text-align: right;
     position: relative;
     float: right;
-    padding-left: 14px;
+    padding-left: 40px;
     padding-right: 5px;
     -webkit-box-ordinal-group: 3;
     -ms-flex-order: 2;
@@ -1038,7 +1039,7 @@ h6 {
         right: 0;
         background-position: center;
         z-index: -1;
-        background-image: url(../images/down-arrow.png);
+        /*background-image: url(../images/down-arrow.png);*/
         background-repeat: no-repeat;
         -webkit-transform: rotate(0deg);
         transform: rotate(0deg);
@@ -1054,7 +1055,7 @@ h6 {
         right: 0;
         background-position: center;
         z-index: -1;
-        background-image: url(../images/down-arrow.png);
+        /*background-image: url(../images/down-arrow.png);*/
         background-repeat: no-repeat;
         -webkit-transform: rotate(0deg);
         transform: rotate(0deg);

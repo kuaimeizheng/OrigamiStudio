@@ -1,6 +1,6 @@
 ---
-sidebar_position: 2
-tags: [path, shape]
+sidebar_position: 21
+tags: [path, shape, shape transform]
 ---
 
 # Position Shape

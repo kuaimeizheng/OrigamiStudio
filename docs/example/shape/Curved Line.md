@@ -1,6 +1,6 @@
 ---
-sidebar_position: 2
-tags: [path, shape]
+sidebar_position: 36
+tags: [path, shape, shape utility]
 ---
 
 # Curved Line
