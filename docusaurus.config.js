@@ -105,7 +105,7 @@ const config = {
           items: [
             {
               type: 'doc',
-              docId: 'documention/intro',
+              docId: 'documentation/intro',
               position: 'left',
               label: '中文文档',
             },
