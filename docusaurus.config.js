@@ -111,9 +111,21 @@ const config = {
             },
             {
               type: 'doc',
-              docId: 'custom/intro',
+              docId: 'patches/intro',
               position: 'left',
               label: '自定义模块',
+            },
+            {
+              type: 'doc',
+              docId: 'example/intro',
+              position: 'left',
+              label: '自定义例子',
+            },
+            {
+              type: 'doc',
+              docId: 'system/intro',
+              position: 'left',
+              label: '自定义组件系统',
             },
 
             {

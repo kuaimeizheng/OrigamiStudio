@@ -252,7 +252,7 @@ div.patch ul li span {
     margin-right: 8px;
     margin-left: 4px;
 }
-.checkbox-on {
+.checkbox-off {
     display: inline-block;
     position: absolute;
     width: 16px;
