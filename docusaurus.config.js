@@ -127,6 +127,12 @@ const config = {
               position: 'left',
               label: '自定义组件系统',
             },
+            {
+              type: 'doc',
+              docId: 'shortcuts/shortcuts',
+              position: 'left',
+              label: '键盘快捷键',
+            },
 
             {
               to: '/blog',
