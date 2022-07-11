@@ -17,9 +17,9 @@ tags: [loop]
             <li>Load <span className="checkbox-off"></span></li>
         </ul>
         <ul className="outputs">
-            <li><span></span>Status</li>
-            <li>Touches <span>[ ]</span></li>
-            <li>Recording <span>[...]</span></li>
+            <li>Status <span className="patch-color-preview status" ></span></li>
+            <li>Touches<span>[ ]</span> </li>
+            <li>Recording <span>[...]</span> </li>
         </ul>
     </div>
 </div>

@@ -14,17 +14,17 @@ tags: [loop]
             <li>Layer <span>tap</span></li>
             <li>Enable <span className="checkbox-off"></span></li>
             <li>Record <span className="checkbox-off"></span></li>
-            <li>Playback <span className="checkbox-off"></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;X <span>150</span> &nbsp;&nbsp;&nbsp;&nbsp; Y <span>0</span></li>
+            <li>Playback <span className="checkbox-off"></span></li>
             <li>Recording <span>...</span></li>
             <li>Load</li>
         </ul>
         <ul className="outputs">
-            <li><span></span>Status</li>
+            <li>Status <span className="patch-color-preview status"></span></li>
             <li>Down <span className="checkbox-off"></span></li>
             <li>Tap <span className="checkbox-off"></span></li>
-            <li>Position</li>
-            <li><span>0</span>Force</li>
-            <li>Recording<span>[...]</span></li>
+            <li>Position <small> X <span>150</span> Y <span>0</span></small></li>
+            <li>Force <span>0</span></li>
+            <li>Recording <span>[...]</span></li>
         </ul>
     </div>
 </div>

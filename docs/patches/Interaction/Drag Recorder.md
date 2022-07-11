@@ -13,7 +13,7 @@ tags: [loop]
         <ul className="inputs">
             <li>Enable <span className="checkbox-off"></span></li>
             <li>Layer <span>drag</span></li>
-            <li>Start X <span>150</span> &nbsp;&nbsp;&nbsp;&nbsp; Y <span>0</span></li>
+            <li>Start <small> X <span>150</span> Y <span>0</span></small></li>
             <li>Reset</li>
             <li>Settings <span>[...]</span></li>
             <li>Record <span className="checkbox-off"></span></li>
@@ -22,11 +22,11 @@ tags: [loop]
             <li>Load</li>
         </ul>
         <ul className="outputs">
-            <li><span></span>Status</li>
-            <li> X <span>150</span> &nbsp;&nbsp;&nbsp;&nbsp; Y <span>0</span> &nbsp;&nbsp;&nbsp;&nbsp; Position</li> 
-            <li> W <span>150</span> &nbsp;&nbsp;&nbsp;&nbsp; H <span>0</span> &nbsp;&nbsp;&nbsp;&nbsp; Velocity</li>
-            <li> W <span>150</span> &nbsp;&nbsp;&nbsp;&nbsp; H <span>0</span> &nbsp;&nbsp;&nbsp;&nbsp; Translation</li>
-            <li>Recording<span>[...]</span></li>
+            <li>Status <span className="patch-color-preview status"></span></li>
+            <li>Position <small> X <span>150</span> Y <span>0</span></small></li> 
+            <li>Velocity <small> W <span>150</span> H <span>0</span></small></li>
+            <li>Translation <small> W <span>150</span> H <span>0</span></small></li>
+            <li>Recording <span>[...]</span></li>
         </ul>
     </div>
 </div>

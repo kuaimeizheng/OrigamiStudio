@@ -2,7 +2,9 @@
     margin-top: 60px !important;
     margin-bottom: 60px !important
 }
-
+/*.small {
+    font-size: 12px;
+}*/
 /*input#search {
     height: 36px;
     line-height: 36px;
@@ -251,7 +253,7 @@ div.patch ul li span {
     position: inherit;  /*补充*/
     list-style-position: inside;
     color: rgba(255, 255, 255, 0.5);
-    margin-right: 4px;
+    margin-right: 8px;
     margin-left: 8px;
 }
 .checkbox-off {
@@ -288,6 +290,9 @@ div.patch ul li span {
     height: 16px;
     border-radius: 16px;
     background-color: #000000;
+}
+.status {
+    background-color: #00a400;
 }
 
 div.patch.unlabeled {
@@ -355,10 +360,10 @@ div.patch ul.inputs {
 }
 
 div.patch ul.outputs {
-    direction: ltr;
+    direction: rtl; /**/
     text-align: right;
-    position: relative;
     float: right;
+    position: relative;
     margin-bottom: 4px;
     padding-left: 40px;
     padding-right: 5px;
@@ -376,9 +381,14 @@ div.patch ul.inputs li {
     padding-left: 13px;
     position: relative;
     display: flex; /*自定义*/
-    align-items: center; /*自定义*/
+    /*align-items: center; !*自定义*!*/
 }
-
+div.patch ul.inputs li small{
+    margin-left: 24px;
+}
+div.patch ul.inputs li small span{
+    margin-right: 24px;
+}
 div.patch ul.inputs li:after,
 div.patch ul.outputs li:after {
     content: " ";
@@ -400,8 +410,12 @@ div.patch.layer ul.outputs li:after {
 div.patch ul.outputs li {
     padding-right: 13px;
     position: relative;
-    display: flex; /*自定义*/
-    align-items: center; /*自定义*/
+    display: flex;
+    /*align-items: center; !*自定义*!*/
+}
+
+div.patch ul.outputs li small span{
+    padding-right: 24px;
 }
 
 div.patch ul.outputs li:after {
@@ -419,7 +433,7 @@ div.patch.layer ul.inputs li {
 div.patch.layer ul.outputs {
     padding: 8px;
     text-align: left;
-    direction: ltr;
+    direction: rtl;
     background: white;
     border-radius: 6px;
     -webkit-box-shadow: 0 1px 16px 0 rgba(0, 0, 0, 0.05), 0 0 0 1px rgba(0, 0, 0, 0.1);
