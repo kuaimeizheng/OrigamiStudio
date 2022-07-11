@@ -7,14 +7,17 @@ tags: [loop]
 
 <div className="patch-container">
     <div className="patch processor">
-        <h3>Loop Info</h3>
+        <h3>Loop Deloop</h3>
         <ul className="inputs">
-            <li>Loop <span>0</span></li>
+            <li>Loop <span>...</span></li>
+            <li>Index <span>0</span></li>
         </ul>
         <ul className="outputs">
-            <li>Index <span>0</span></li>
-            <li>Progress <span>0</span></li> 
-            <li>Count <span>1</span></li>
+            <li><span>&#123;...&#125;</span></li>
+            <li><span>&#123;...&#125;</span></li>
+            <li><span>&#123;...&#125;</span></li>
+            <li><span>&#123;...&#125;</span></li>
+            <li><span>&#123;...&#125;</span></li>
         </ul>
     </div>
 </div>
