@@ -5,23 +5,59 @@ tags: [layer]
 
 # Progressive Blur
 
+一个简单灵活的解决方案，创建美丽的，无缝渐进模糊效果，如在应用列表或音乐应用。
+性能很差，所以不要过度使用它，尽管在设备上运行的没有问题。
 
-
-<div className="patch-container">
-    <div className="patch processor">
-        <h3>Animation Info</h3>
-        <ul className="inputs">
-            <li>Progress <span>0</span></li>
-        </ul>
-        <ul className="outputs">
-            <li><span>3.2</span>Duration </li>
-            <li><span>3.2</span>Actual</li> 
-            <li><span>3.2</span>Adjusted</li>
-        </ul>
-    </div>
+<div class="patch-container">
+ <div class="patch layer">
+  <h3>Progressive Blur</h3>
+   <ul class="inputs"> 
+        <li>Intencity</li>  
+        <li>Resolution</li>
+        <li>Curve</li>
+        <li>Opacity</li>
+        <li>Saturation</li>
+   </ul>
+ </div>
 </div>
 
-### 
+### Intencity
+
+### Resolution
+
+### Curve
+
+曲线列表，包含以下选项：
+
+Linear
+
+Quadratic In
+
+Quadratic Out
+
+Quadratic In-Out
+
+Cubic In
+
+Cubic Out
+
+Cubic In-Out
+
+Exponential In
+
+Exponential Out
+
+Exponential In-Out
+
+Sinusoidal In
+
+Sinusoidal Out
+
+Sinusoidal In-Out
+
+### Opacity
+
+### Saturation
 
 
 ------

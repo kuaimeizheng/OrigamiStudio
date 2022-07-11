@@ -9,14 +9,14 @@ tags: [utilities]
 
 <div className="patch-container">
     <div className="patch processor">
-        <h3>Animation Info</h3>
+        <h3>Pulse Info</h3>
         <ul className="inputs">
-            <li>Progress <span>0</span></li>
+            <li><span className="patch-pulse-preview"><span className="dot"></span></span></li>
         </ul>
         <ul className="outputs">
-            <li><span>3.2</span>Duration </li>
-            <li><span>3.2</span>Actual</li> 
-            <li><span>3.2</span>Adjusted</li>
+            <li>Frequency <span>0.1</span></li>
+            <li>Actual <span>0.1</span></li>
+            <li>Adjusted <span>0.1</span></li>
         </ul>
     </div>
 </div>

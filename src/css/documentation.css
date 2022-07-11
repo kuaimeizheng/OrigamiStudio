@@ -355,7 +355,7 @@ div.patch ul.inputs {
 }
 
 div.patch ul.outputs {
-    direction: rtl;
+    direction: ltr;
     text-align: right;
     position: relative;
     float: right;

@@ -9,19 +9,33 @@ tags: [utilities]
 
 <div className="patch-container">
     <div className="patch processor">
-        <h3>Animation Info</h3>
+        <h3>Trend Info</h3>
         <ul className="inputs">
-            <li>Progress <span>0</span></li>
+            <li>Value <span>0</span></li>
         </ul>
         <ul className="outputs">
-            <li><span>3.2</span>Duration </li>
-            <li><span>3.2</span>Actual</li> 
-            <li><span>3.2</span>Adjusted</li>
+            <li>Increasing <span className="checkbox-off"></span></li>
+            <li>Decreasing <span className="checkbox-off"></span></li>
+            <li>Flat <span className="checkbox-off"></span></li>
         </ul>
     </div>
 </div>
 
-### 
+### Value 值
+
+需要判断的值。
+
+### Increasing 增加
+
+一个布尔值，表示当值是增加时，输出为真。
+
+### Decreasing 减少
+
+一个布尔值，表示当值是减少时，输出为假。
+
+### Flat 固定
+
+一个布尔值，表示当值没有改变时，输出为真。
 
 
 ------
