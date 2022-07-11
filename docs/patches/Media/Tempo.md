@@ -11,17 +11,21 @@ tags: [media]
     <div className="patch processor">
         <h3>Animation Info</h3>
         <ul className="inputs">
-            <li>Progress <span>0</span></li>
+            <li>Tap <span className="checkbox-off"></span></li>
+            <li>Tempo <span>120</span></li>
         </ul>
         <ul className="outputs">
-            <li><span>3.2</span>Duration </li>
-            <li><span>3.2</span>Actual</li> 
-            <li><span>3.2</span>Adjusted</li>
+            <li><span className="checkbox-off"></span></li>
+            <li>BPM <span>120</span></li>
         </ul>
     </div>
 </div>
 
-### 
+### Tap
+
+### Tempo
+
+### BPM
 
 
 ------

@@ -241,16 +241,18 @@ div.patch hr {
 
 div.patch ul {
     padding: 8px;
-    margin-top: 4px;
-    margin-bottom: 4px;
     list-style: none
 }
-
+div.patch ul li {
+    margin-top: 8px;
+}
 div.patch ul li span {
+    /*display: inline-block; !*补充*!*/
+    position: inherit;  /*补充*/
     list-style-position: inside;
     color: rgba(255, 255, 255, 0.5);
-    margin-right: 8px;
-    margin-left: 4px;
+    margin-right: 4px;
+    margin-left: 8px;
 }
 .checkbox-off {
     display: inline-block;
@@ -320,6 +322,7 @@ div.patch ul.inputs {
     float: left;
     position: relative;
     padding-right: 40px;
+    margin-bottom: 4px;
     -webkit-box-ordinal-group: 1;
     -ms-flex-order: 0;
     order: 0
@@ -330,6 +333,7 @@ div.patch ul.outputs {
     text-align: right;
     position: relative;
     float: right;
+    margin-bottom: 4px;
     padding-left: 40px;
     padding-right: 5px;
     -webkit-box-ordinal-group: 3;
@@ -344,7 +348,9 @@ div.patch ul.inputs li.connected:after {
 
 div.patch ul.inputs li {
     padding-left: 13px;
-    position: relative
+    position: relative;
+    display: flex; /*自定义*/
+    align-items: center; /*自定义*/
 }
 
 div.patch ul.inputs li:after,
@@ -367,7 +373,9 @@ div.patch.layer ul.outputs li:after {
 
 div.patch ul.outputs li {
     padding-right: 13px;
-    position: relative
+    position: relative;
+    display: flex; /*自定义*/
+    align-items: center; /*自定义*/
 }
 
 div.patch ul.outputs li:after {
