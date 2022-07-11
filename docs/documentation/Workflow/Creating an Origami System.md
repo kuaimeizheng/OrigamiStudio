@@ -8,9 +8,13 @@ sidebar_position: 2
 
 ------
 
-<video controls width="100%">
-  <source src="./../../../static/video/Video%20By%20Vimeo.mp4"/>
-</video>
+在线视频链接：https://player.vimeo.com/video/701724282?portrait=0&title=0&byline=0
+
+[//]: # (<video controls id="video" preload="metadata" width="100%">)
+
+[//]: # (  <source id="mp4" src="./../../../static/video/Video%20By%20Vimeo.mp4" type="video/mp4"/>)
+
+[//]: # (</video>)
 
 
 Create and share a library of [layer and patch components](./Components.md) with your team and keep everyone up to date by using an Origami System.
