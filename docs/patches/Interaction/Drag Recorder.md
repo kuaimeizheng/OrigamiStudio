@@ -31,7 +31,49 @@ tags: [loop]
     </div>
 </div>
 
-### 
+<div className="port-descriptions">
+<div className="inputs">
 
+### Input 输入
+
+#### Enable 启用
+
+A Boolean value.
+
+一个布尔值。
+
+#### Layer 图层
+
+#### Start 开始位置
+
+#### Reset 重置
+
+#### Settings 设置参数
+
+#### Record 录制
+
+#### Playback 回放
+
+#### Recording 记录
+
+#### Load 加载
+
+</div>
+<div className="outputs">
+
+### Output 输出
+
+#### Status 状态
+
+#### Position 位置
+
+#### Velocity 速度
+
+#### Translation 平移
+
+#### Recording 记录
+
+</div>
+</div>
 
 ------

@@ -1,6 +1,8 @@
 {
   "label": "Patch Editor 模块编辑器",
   "position": 2,
+  "collapsible": true,
+  "collapsed": true,
   "link": {
     "type": "generated-index"
   }

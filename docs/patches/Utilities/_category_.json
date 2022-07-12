@@ -1,6 +1,8 @@
 {
   "label": "Utilities 工具",
   "position": 8,
+  "collapsible": true,
+  "collapsed": false,
   "link": {
     "type": "generated-index"
   }

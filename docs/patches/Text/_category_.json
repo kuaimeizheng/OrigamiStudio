@@ -1,6 +1,8 @@
 {
   "label": "Text 文本",
   "position": 12,
+  "collapsible": true,
+  "collapsed": false,
   "link": {
     "type": "generated-index"
   }

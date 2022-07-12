@@ -1,6 +1,8 @@
 {
   "label": "Interaction 交互",
   "position": 9,
+  "collapsible": true,
+  "collapsed": true,
   "link": {
     "type": "generated-index"
   }

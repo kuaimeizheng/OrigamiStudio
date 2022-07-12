@@ -1,6 +1,8 @@
 {
   "label": "Media 媒体",
   "position": 13,
+  "collapsible": true,
+  "collapsed": true,
   "link": {
     "type": "generated-index"
   }

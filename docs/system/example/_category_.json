@@ -1,6 +1,8 @@
 {
   "label": "Example 例子",
   "position": 20,
+  "collapsible": true,
+  "collapsed": false,
   "link": {
     "type": "generated-index"
   }

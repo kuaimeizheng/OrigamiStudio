@@ -1,6 +1,8 @@
 {
   "label": "Array 数组",
   "position": 15,
+  "collapsible": true,
+  "collapsed": false,
   "link": {
     "type": "generated-index"
   }

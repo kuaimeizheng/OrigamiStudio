@@ -1,6 +1,8 @@
 {
   "label": "Loops 循环",
   "position": 11,
+  "collapsible": true,
+  "collapsed": true,
   "link": {
     "type": "generated-index"
   }

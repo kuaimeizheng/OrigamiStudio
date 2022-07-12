@@ -44,6 +44,7 @@ const config = {
           editUrl: 'https://github.com/kuaimeizheng/OrigamiStudio/tree/main/',
           showLastUpdateAuthor: true, // 显示最后编辑作者
           showLastUpdateTime: true, // 显示最后编辑时间
+
         },
         blog: {
           showReadingTime: true,
@@ -94,7 +95,10 @@ const config = {
           name: 'keywords',
           content: 'origami, origami studio, prototype, 交互, 动效, 原型'
         }],
-
+        tableOfContents: {
+          minHeadingLevel: 2,
+          maxHeadingLevel: 5,
+        },
         navbar: {
           title: 'OrigamiStudio',
           logo: {

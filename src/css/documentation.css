@@ -5,93 +5,7 @@
 /*.small {
     font-size: 12px;
 }*/
-/*input#search {
-    height: 36px;
-    line-height: 36px;
-    margin-top: 1px;
-    margin-left: 24px;
-    margin-right: 24px;
-    font-size: 16px;
-    padding: 0 8px;
-    background: none;
-    border: 1px solid rgba(0, 0, 0, 0);
-    border-radius: 6px
-}
 
-input#search::-webkit-input-placeholder {
-    color: rgba(0, 0, 0, 0.3)
-}
-
-input#search::-moz-placeholder {
-    color: rgba(0, 0, 0, 0.3)
-}
-
-input#search:-ms-input-placeholder {
-    color: rgba(0, 0, 0, 0.3)
-}
-
-input#search::-ms-input-placeholder {
-    color: rgba(0, 0, 0, 0.3)
-}
-
-input#search::placeholder {
-    color: rgba(0, 0, 0, 0.3)
-}
-
-input#search:focus {
-    background: #fff;
-    border: 1px solid #eaeaea;
-    outline: none
-}
-
-input#search:focus::-webkit-input-placeholder {
-    color: rgba(0, 0, 0, 0.5)
-}
-
-input#search:focus::-moz-placeholder {
-    color: rgba(0, 0, 0, 0.5)
-}
-
-input#search:focus:-ms-input-placeholder {
-    color: rgba(0, 0, 0, 0.5)
-}
-
-input#search:focus::-ms-input-placeholder {
-    color: rgba(0, 0, 0, 0.5)
-}
-
-input#search:focus::placeholder {
-    color: rgba(0, 0, 0, 0.5)
-}
-
-#search-results .result {
-    padding-bottom: 12px;
-    padding-left: 60px
-}
-
-#search-results .result:first-child {
-    padding-top: 24px
-}
-
-#search-results .result:last-child {
-    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
-    padding-bottom: 24px
-}
-
-#search-results a span {
-    font-size: 18px
-}
-
-#search-results p,
-#search-results p * {
-    font-size: 16px;
-    line-height: 24px
-}
-
-#search-results .result-body:hover p,
-#search-results .result-body:hover p * {
-    color: #475058
-}*/
 
 ul.docs {
     list-style-type: none;
@@ -626,10 +540,24 @@ div.outputs {
     width: 50%
 }
 
+/*模块描述*/
+
 .port-descriptions {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex
+}
+
+.port-descriptions h3 {
+    color: #8d949e;
+    font-size: 14px;
+}
+.port-descriptions p {
+    color: #333333;
+}
+.port-descriptions p:last-of-type {
+    color: #606770 ;
+    margin-top: -12px;
 }
 
 .port-descriptions .inputs {

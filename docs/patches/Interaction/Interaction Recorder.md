@@ -6,7 +6,6 @@ tags: [loop]
 # Interaction Recorder
 
 
-
 <div className="patch-container">
     <div className="patch processor">
         <h3>Interaction Recorder</h3>
@@ -29,7 +28,42 @@ tags: [loop]
     </div>
 </div>
 
-### 
+<div className="port-descriptions">
+<div className="inputs">
+
+### Input 输入
+
+#### Layer 图层
+
+#### Enable 启用
+
+#### Record 录制
+
+#### Playback 回放
+
+#### Recording 记录
+
+#### Load 加载
+
+</div>
+<div className="outputs">
+
+### Output 输出
+
+#### Status 状态
+
+#### Down 按下
+
+#### Tap 触摸
+
+#### Position 位置
+
+#### Force 力度
+
+#### Recording 记录
+
+</div>
+</div>
 
 
 ------
