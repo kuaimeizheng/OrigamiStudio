@@ -164,7 +164,7 @@ function ShowcaseFilters() {
           <h2>
             <Translate id="showcase.filters.title">Filters</Translate>
           </h2>
-          <span>{siteCountPlural(filteredUsers.length)}</span>
+          <span>{(filteredUsers.length)}</span>
           {/*<span>{siteCountPlural(filteredUsers.length)}</span>*/}
         </div>
         <ShowcaseFilterToggle />

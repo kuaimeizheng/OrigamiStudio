@@ -19,7 +19,7 @@ import Heading from '@theme/Heading';
 
 const docsPluginId = undefined; // Default docs plugin instance
 
-const VersionsArchivedList = Object.entries(VersionsArchived);
+//--const VersionsArchivedList = Object.entries(VersionsArchived);
 
 function DocumentationLabel() {
   return (
