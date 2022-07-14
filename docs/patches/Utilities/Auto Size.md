@@ -20,7 +20,26 @@ tags: [utilities]
     </div>
 </div>
 
-### 
+<div className="port-descriptions">
+<div className="inputs">
+
+### Input 输入
+
+#### Layer 图层
+
+#### H 高度
+
+#### W 宽度
+
+</div>
+<div className="outputs">
+
+### Output 输出
+
+#### Size 大小
+
+</div>
+</div>
 
 
 ------

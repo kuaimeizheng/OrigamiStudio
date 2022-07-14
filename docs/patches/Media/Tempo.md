@@ -9,7 +9,7 @@ tags: [media]
 
 <div className="patch-container">
     <div className="patch processor">
-        <h3>Animation Info</h3>
+        <h3>Tempo</h3>
         <ul className="inputs">
             <li>Tap <span className="checkbox-off"></span></li>
             <li>Tempo <span>120</span></li>
@@ -21,11 +21,26 @@ tags: [media]
     </div>
 </div>
 
-### Tap
+<div className="port-descriptions">
+<div className="inputs">
 
-### Tempo
+### Input 输入
 
-### BPM
+#### Tap 轻拍
+
+#### Tempo 节奏
+
+</div>
+<div className="outputs">
+
+### Output 输出
+
+#### Boolean 布尔值
+
+#### BPM (beats per minute) 每分钟的节拍数
+
+</div>
+</div>
 
 
 ------

@@ -20,7 +20,24 @@ tags: [utilities]
     </div>
 </div>
 
-### 
+<div className="port-descriptions">
+<div className="inputs">
+
+### Input 输入
+
+#### Number 数值
+
+#### Decimal Places 小数位数
+
+</div>
+<div className="outputs">
+
+### Output 输出
+
+#### Rounded Number 取整数
+
+</div>
+</div>
 
 
 ------

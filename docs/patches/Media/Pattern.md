@@ -22,13 +22,28 @@ tags: [media]
     </div>
 </div>
 
-### Tempo
+<div className="port-descriptions">
+<div className="inputs">
 
-### Pattern
+### Input 输入
 
-### Custom
+#### Tempo 节奏
 
-### Beat
+#### Pattern 模式
+
+#### Custom 自定义
+
+</div>
+<div className="outputs">
+
+### Output 输出
+
+#### Boolean 布尔值
+
+#### Beat 击打
+
+</div>
+</div>
 
 
 ------

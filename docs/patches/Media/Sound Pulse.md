@@ -20,11 +20,24 @@ tags: [media]
     </div>
 </div>
 
-### Volume 音量
+<div className="port-descriptions">
+<div className="inputs">
 
-### Sensitivity 灵敏度
+### Input 输入
 
-### Output
+#### Volume 音量
+
+#### Sensitivity 灵敏度
+
+</div>
+<div className="outputs">
+
+### Output 输出
+
+#### Boolean 布尔值
+
+</div>
+</div>
 
 
 ------

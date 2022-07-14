@@ -21,16 +21,27 @@ tags: [loop]
     </div>
 </div>
 
-### Progress 进度
+<div className="port-descriptions">
+<div className="inputs">
 
+### Input 输入
 
-### Duration 持续时间
+#### Progress 进度
 
+</div>
+<div className="outputs">
 
-### Actual 实际
+### Output 输出
 
+#### Duration 持续时间
 
-### Adjusted 调整后的
+#### Actual 实际
+
+#### Adjusted 调整后的
+
+</div>
+</div>
+
 
 
 ------

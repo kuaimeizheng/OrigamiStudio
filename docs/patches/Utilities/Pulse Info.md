@@ -21,7 +21,26 @@ tags: [utilities]
     </div>
 </div>
 
-### 
+<div className="port-descriptions">
+<div className="inputs">
+
+### Input 输入
+
+#### Pulse 脉冲
+
+</div>
+<div className="outputs">
+
+### Output 输出
+
+#### Frequency 频率
+
+#### Actual 实际的
+
+#### Adjusted 调整后的
+
+</div>
+</div>
 
 
 ------

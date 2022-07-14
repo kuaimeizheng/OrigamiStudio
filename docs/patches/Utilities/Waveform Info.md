@@ -22,19 +22,19 @@ Create an audio waveform from sound file. Made possible with Delay 1x patch.
 </div>
 
 
-### Metering 计量
+#### Metering 计量
 
 一个Json值。
 
-### Reverse 反转
+#### Reverse 反转
 
 一个布尔值。
 
-### Resolution 解析度
+#### Resolution 解析度
 
 从0到1的数值。
 
-### Color 1 颜色 1
+#### Color 1 颜色 1
 
 
 ------
