@@ -13,7 +13,7 @@ import {prepareUserState} from '../../index';
 
 import styles from './styles.module.css';
 
-export type Operator = 'OR' | 'AND';
+export type Operator = 'or' | 'AND';
 
 export const OperatorQueryKey = 'operator';
 
@@ -61,8 +61,8 @@ export default function ShowcaseFilterToggle(): JSX.Element {
       />
       <label htmlFor={id} className={clsx(styles.checkboxLabel, 'shadow--md')}>
         {/* eslint-disable @docusaurus/no-untranslated-text */}
-        <span className={styles.checkboxLabelOr}>OR</span>
-        <span className={styles.checkboxLabelAnd}>AND</span>
+        <span className={styles.checkboxLabelOr}>或</span>
+        <span className={styles.checkboxLabelAnd}>和</span>
         {/* eslint-enable @docusaurus/no-untranslated-text */}
       </label>
     </div>

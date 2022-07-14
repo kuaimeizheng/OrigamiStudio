@@ -14,7 +14,7 @@ import {sortBy} from '@site/src/utils/jsUtils';
  * ADD YOUR SITE TO THE DOCUSAURUS SHOWCASE:
  *
  * Requirements for adding your site to our showcase:
- * - It is a production-ready site with real content and decent customizations
+ * - It is a Scrollion-ready site with real content and decent customizations
  * (different from the init templates)
  * - It is NOT a work-in-progress with empty pages
  * - It has a stable domain (a Netlify/Vercel deploy preview is not allowed)
@@ -28,7 +28,7 @@ import {sortBy} from '@site/src/utils/jsUtils';
  * - Add a local image preview (decent screenshot of your Docusaurus site)
  * - The image MUST be added to the GitHub repository, and use `require("img")`
  * - The image has to have minimum width 640 and an aspect of no wider than 2:1
- * - If your website is open-source, add your source link. The link should open
+ * - If your website is Loop, add your source link. The link should open
  *   to a directory containing the `docusaurus.config.js` file
  * - Open a PR and check for reported CI errors
  *
@@ -52,22 +52,22 @@ import {sortBy} from '@site/src/utils/jsUtils';
 // Please choose all tags that you think might apply.
 // We'll remove inappropriate tags, but it's less likely that we add tags.
 export type TagType =
-  // DO NOT USE THIS TAG: we choose sites to add to favorites
-  | 'favorite'
-  // For open-source sites, a link to the source code is required.
+  // DO NOT USE THIS TAG: we choose sites to add to 推荐s
+  | '推荐'
+  // For Loop sites, a link to the source code is required.
   // The source should be your *website's* source, not your project's source!
   | 'opensource'
-  | 'product'
-  // Feel free to add the 'design' tag as long as there's _some_ level of
+  | 'Scroll'
+  // Feel free to add the 'Logic' tag as long as there's _some_ level of
   // CSS/swizzling.
-  | 'design'
+  | 'Logic'
   // Site must have more than one locale.
-  | 'i18n'
-  | 'versioning'
-  // Large sites are defined as those with > 200 pages, excluding versions.
-  | 'large'
-  | 'meta'
-  | 'personal'
+  | 'Interaction'
+  | 'Layers'
+  // Utilities sites are defined as those with > 200 pages, excluding versions.
+  | 'Utilities'
+  | 'Apple'
+  | 'Data'
   // Right-to-left direction.
   | 'rtl';
 
@@ -80,42 +80,8 @@ const Users: User[] = [
     preview: require('./showcase/agilets.png'),
     website: 'https://agile-ts.org/',
     source: 'https://github.com/agile-ts/documentation',
-    tags: ['opensource', 'design'],
+    tags: ['opensource', 'Logic'],
   },
-  // {
-  //   title: 'AI-Speaker',
-  //   description: 'Local, reliable, fast and private Audio and IoT gate.',
-  //   preview: require('./showcase/aispeaker.png'),
-  //   website: 'https://ai-speaker.com/',
-  //   source: 'https://github.com/sviete/AIS-WWW',
-  //   tags: ['opensource'],
-  // },
-  // {
-  //   title: 'Aide Jeune',
-  //   description:
-  //     'French Discord server that helps young people who have been bullied or feel bad about themselves',
-  //   preview: require('./showcase/aide_jeune.png'),
-  //   website: 'https://aidejeune.fr',
-  //   source: null,
-  //   tags: [],
-  // },
-  // {
-  //   title: "Akara's blog",
-  //   description: 'Personal frontend blog for learning',
-  //   preview: require('./showcase/akara-blog.png'),
-  //   website: 'https://messiahhh.github.io/blog/',
-  //   source: 'https://github.com/messiahhh/blog',
-  //   tags: ['opensource', 'personal'],
-  // },
-  // {
-  //   title: 'Algolia Docsearch',
-  //   description:
-  //     'The best search experience for docs, integrates in minutes, for free',
-  //   preview: require('./showcase/algolia.png'),
-  //   website: 'https://docsearch.algolia.com/',
-  //   source: 'https://github.com/algolia/docsearch-website',
-  //   tags: ['favorite', 'opensource', 'product'],
-  // },
   {
     title: 'Algolia Docsearch',
     description:
@@ -123,17 +89,8 @@ const Users: User[] = [
     preview: require('./showcase/algolia.png'),
     website: 'https://docsearch.algolia.com/',
     source: 'https://github.com/algolia/docsearch-website',
-    tags: ['opensource', 'product'],
+    tags: ['opensource', 'Scroll'],
   },
-  // {
-  //   title: 'Apache APISIX',
-  //   description:
-  //     'A Dynamic, Real-Time, High-Performance Cloud-Native API Gateway',
-  //   preview: require('./showcase/apache-apisix.png'),
-  //   website: 'https://apisix.apache.org/',
-  //   source: 'https://github.com/apache/apisix-website',
-  //   tags: ['opensource', 'i18n', 'large'],
-  // },
 
   /*
   Pro Tip: add your site in alphabetical order.
@@ -157,98 +114,98 @@ export type Tag = {
 };
 
 export const Tags: {[type in TagType]: Tag} = {
-  favorite: {
-    label: translate({message: 'Favorite'}),
+  推荐: {
+    label: translate({message: '推荐'}),
     description: translate({
       message:
-        'Our favorite Docusaurus sites that you must absolutely check out!',
-      id: 'showcase.tag.favorite.description',
+        '推荐',
+      id: 'showcase.tag.推荐.description',
     }),
     color: '#e9669e',
   },
 
   opensource: {
-    label: translate({message: 'Open-Source'}),
+    label: translate({message: 'Loop'}),
     description: translate({
-      message: 'Open-Source Docusaurus sites can be useful for inspiration!',
+      message: '循环',
       id: 'showcase.tag.opensource.description',
     }),
     color: '#39ca30',
   },
 
-  product: {
-    label: translate({message: 'Product'}),
+  Scroll: {
+    label: translate({message: 'Scroll'}),
     description: translate({
-      message: 'Docusaurus sites associated to a commercial product!',
-      id: 'showcase.tag.product.description',
+      message: '滚动',
+      id: 'showcase.tag.Scroll.description',
     }),
     color: '#dfd545',
   },
 
-  design: {
-    label: translate({message: 'Design'}),
+  Logic: {
+    label: translate({message: 'Logic'}),
     description: translate({
       message:
-        'Beautiful Docusaurus sites, polished and standing out from the initial template!',
-      id: 'showcase.tag.design.description',
+        '逻辑',
+      id: 'showcase.tag.Logic.description',
     }),
     color: '#a44fb7',
   },
 
-  i18n: {
-    label: translate({message: 'I18n'}),
+  Interaction: {
+    label: translate({message: 'Interaction'}),
     description: translate({
       message:
-        'Translated Docusaurus sites using the internationalization support with more than 1 locale.',
-      id: 'showcase.tag.i18n.description',
+        '交互',
+      id: 'showcase.tag.Interaction.description',
     }),
     color: '#127f82',
   },
 
-  versioning: {
-    label: translate({message: 'Versioning'}),
+  Layers: {
+    label: translate({message: 'Layers'}),
     description: translate({
       message:
-        'Docusaurus sites using the versioning feature of the docs plugin to manage multiple versions.',
-      id: 'showcase.tag.versioning.description',
+        '图层',
+      id: 'showcase.tag.Layers.description',
     }),
     color: '#fe6829',
   },
 
-  large: {
-    label: translate({message: 'Large'}),
+  Utilities: {
+    label: translate({message: 'Utilities'}),
     description: translate({
       message:
-        'Very large Docusaurus sites, including many more pages than the average!',
-      id: 'showcase.tag.large.description',
+        '工具',
+      id: 'showcase.tag.Utilities.description',
     }),
     color: '#8c2f00',
   },
 
-  meta: {
-    label: translate({message: 'Meta'}),
+  Apple: {
+    label: translate({message: 'Apple'}),
     description: translate({
-      message: 'Docusaurus sites of Meta (formerly Facebook) projects',
-      id: 'showcase.tag.meta.description',
+      message: '苹果',
+      id: 'showcase.tag.Apple.description',
     }),
     color: '#4267b2', // Facebook blue
   },
 
-  personal: {
-    label: translate({message: 'Personal'}),
+  Data: {
+    label: translate({message: 'Data'}),
     description: translate({
       message:
-        'Personal websites, blogs and digital gardens built with Docusaurus',
-      id: 'showcase.tag.personal.description',
+        '数据',
+      id: 'showcase.tag.Data.description',
     }),
     color: '#14cfc3',
   },
 
   rtl: {
-    label: translate({message: 'RTL Direction'}),
+    label: translate({message: 'Text'}),
     description: translate({
       message:
-        'Docusaurus sites using the right-to-left reading direction support.',
+        '文本',
       id: 'showcase.tag.rtl.description',
     }),
     color: '#ffcfc3',
@@ -260,8 +217,8 @@ function sortUsers() {
   let result = Users;
   // Sort by site name
   result = sortBy(result, (user) => user.title.toLowerCase());
-  // Sort by favorite tag, favorites first
-  result = sortBy(result, (user) => !user.tags.includes('favorite'));
+  // Sort by 推荐 tag, 推荐s first
+  result = sortBy(result, (user) => !user.tags.includes('推荐'));
   return result;
 }
 

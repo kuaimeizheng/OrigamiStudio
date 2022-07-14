@@ -52,6 +52,7 @@
   border-radius: 15px;
   padding: 10px;
   border: 1px solid gray;
+  margin-left: ;
 }
 
 .showcaseList {
@@ -69,6 +70,7 @@
 .showcaseFavoriteHeader {
   display: flex;
   align-items: center;
+  /*float: left;*/
 }
 
 .showcaseFavoriteHeader > h2 {

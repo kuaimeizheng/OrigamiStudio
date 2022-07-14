@@ -13,7 +13,7 @@ import {useHistory, useLocation} from '@docusaurus/router';
 import {usePluralForm} from '@docusaurus/theme-common';
 
 import Layout from '@theme/Layout';
-import FavoriteIcon from '@site/src/components/svgIcons/FavoriteIcon';
+// import FavoriteIcon from '@site/src/components/svgIcons/FavoriteIcon';
 import {
   sortedUsers,
   Tags,
@@ -119,23 +119,23 @@ function useFilteredUsers() {
   );
 }
 
-function ShowcaseHeader() {
-  return (
-    <section className="margin-top--lg margin-bottom--lg text--center">
-      <h1>{TITLE}</h1>
-      <p>{DESCRIPTION}</p>
-      <a
-        className="button button--primary"
-        href={EDIT_URL}
-        target="_blank"
-        rel="noreferrer">
-        <Translate id="showcase.header.button">
-          🙏 Please add your site
-        </Translate>
-      </a>
-    </section>
-  );
-}
+// function ShowcaseHeader() {
+//   return (
+//     <section className="margin-top--lg margin-bottom--lg text--center">
+//       <h1>{TITLE}</h1>
+//       <p>{DESCRIPTION}</p>
+//       <a
+//         className="button button--primary"
+//         href={EDIT_URL}
+//         target="_blank"
+//         rel="noreferrer">
+//         <Translate id="showcase.header.button">
+//           🙏 Please add your site
+//         </Translate>
+//       </a>
+//     </section>
+//   );
+// }
 
 function useSiteCountPlural() {
   const {selectMessage} = usePluralForm();
@@ -162,7 +162,7 @@ function ShowcaseFilters() {
       <div className={clsx('margin-bottom--sm', styles.filterCheckbox)}>
         <div>
           <h2>
-            <Translate id="showcase.filters.title">Filters</Translate>
+            <Translate id="showcase.filters.title">筛选</Translate>
           </h2>
           <span>{(filteredUsers.length)}</span>
           {/*<span>{siteCountPlural(filteredUsers.length)}</span>*/}
@@ -184,21 +184,21 @@ function ShowcaseFilters() {
                   tag={tag}
                   id={id}
                   label={label}
-                  icon={
-                    tag === 'favorite' ? (
-                      <FavoriteIcon svgClass={styles.svgIconFavoriteXs} />
-                    ) : (
-                      <span
-                        style={{
-                          backgroundColor: color,
-                          width: 10,
-                          height: 10,
-                          borderRadius: '50%',
-                          marginLeft: 8,
-                        }}
-                      />
-                    )
-                  }
+                  // icon={
+                  //   tag === 'favorite' ? (
+                  //     <FavoriteIcon svgClass={styles.svgIconFavoriteXs} />
+                  //   ) : (
+                  //     <span
+                  //       style={{
+                  //         backgroundColor: color,
+                  //         width: 10,
+                  //         height: 10,
+                  //         borderRadius: '50%',
+                  //         marginLeft: 8,
+                  //       }}
+                  //     />
+                  //   )
+                  // }
                 />
               </ShowcaseTooltip>
             </li>
@@ -228,7 +228,7 @@ function SearchBar() {
       <input
         id="searchbar"
         placeholder={translate({
-          message: 'Search for site name...',
+          message: '输入搜索',
           id: 'showcase.searchBar.placeholder',
         })}
         value={value ?? undefined}
@@ -282,10 +282,10 @@ function ShowcaseCards() {
                 )}>
                 <h2>
                   <Translate id="showcase.favoritesList.title">
-                    Our favorites
+                    推荐
                   </Translate>
                 </h2>
-                <FavoriteIcon svgClass={styles.svgIconFavorite} />
+                {/*<FavoriteIcon svgClass={styles.svgIconFavorite} />*/}
                 <SearchBar />
               </div>
               <ul
@@ -302,7 +302,7 @@ function ShowcaseCards() {
           </div>
           <div className="container margin-top--lg">
             <h2 className={styles.showcaseHeader}>
-              <Translate id="showcase.usersList.allUsers">All sites</Translate>
+              <Translate id="showcase.usersList.allUsers">全部</Translate>
             </h2>
             <ul className={clsx('clean-list', styles.showcaseList)}>
               {otherUsers.map((user) => (
@@ -333,12 +333,24 @@ function ShowcaseCards() {
 
 export default function Showcase(): JSX.Element {
   return (
-    <Layout title={TITLE} description={DESCRIPTION}>
-      <main className="margin-vert--lg">
-        <ShowcaseHeader />
-        <ShowcaseFilters />
-        <ShowcaseCards />
-      </main>
-    </Layout>
+      <Layout>
+        <main className="margin-vert--lg">
+          {/*<ShowcaseHeader />*/}
+          <ShowcaseFilters />
+          <ShowcaseCards />
+        </main>
+      </Layout>
   );
 }
+
+// export default function Showcase(): JSX.Element {
+//   return (
+//     <Layout title={TITLE} description={DESCRIPTION}>
+//       <main className="margin-vert--lg">
+//         <ShowcaseHeader />
+//         <ShowcaseFilters />
+//         <ShowcaseCards />
+//       </main>
+//     </Layout>
+//   );
+// }

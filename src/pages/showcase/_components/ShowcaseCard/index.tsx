@@ -10,7 +10,7 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import Translate from '@docusaurus/Translate';
 import Image from '@theme/IdealImage';
-import FavoriteIcon from '@site/src/components/svgIcons/FavoriteIcon';
+//import FavoriteIcon from '@site/src/components/svgIcons/FavoriteIcon';
 import {
   Tags,
   TagList,
