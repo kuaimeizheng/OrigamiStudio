@@ -1,0 +1,30 @@
+#用于对上传到github上的项目自动同步部署到设置的FTP服务器
+#项目开源地址：https://github.com/SamKirkland/FTP-Deploy-Action
+
+on: push
+name: 🚀 Deploy website on push
+jobs:
+  web-deploy:
+    name: 🎉 Deploy To FTP
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [16.x]
+        
+    steps:
+    - name: 🚚 Get latest code
+      uses: actions/checkout@v2
+
+    - run: npm install #安装依赖库
+    - run: npm run build --if-present #打包项目为静态网站
+    
+    - name: 📂 Sync files
+      uses: SamKirkland/FTP-Deploy-Action@4.3.0
+      with:
+        server: ${{ secrets.ftp_sever }}
+        username: ${{ secrets.ftp_username }}
+        password: ${{ secrets.ftp_password }}
+        local-dir: ./build/
+        server-dir: ./../www/wwwroot/imeeil/
+  
