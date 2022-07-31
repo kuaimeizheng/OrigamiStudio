@@ -2,7 +2,7 @@
   "label": "Utilities 工具",
   "position": 8,
   "collapsible": true,
-  "collapsed": false,
+  "collapsed": true,
   "link": {
     "type": "generated-index"
   }

@@ -2,7 +2,7 @@
   "label": "Pattern 模式",
   "position": 15,
   "collapsible": true,
-  "collapsed": false,
+  "collapsed": true,
   "link": {
     "type": "generated-index"
   }

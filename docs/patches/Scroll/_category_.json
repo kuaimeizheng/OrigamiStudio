@@ -2,7 +2,7 @@
   "label": "Scroll 滑动",
   "position": 13,
   "collapsible": true,
-  "collapsed": false,
+  "collapsed": true,
   "link": {
     "type": "generated-index"
   }

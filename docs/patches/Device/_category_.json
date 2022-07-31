@@ -2,7 +2,7 @@
   "label": "Device 设备",
   "position": 21,
   "collapsible": true,
-  "collapsed": false,
+  "collapsed": true,
   "link": {
     "type": "generated-index"
   }

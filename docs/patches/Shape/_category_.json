@@ -2,7 +2,7 @@
   "label": "Shapes 形状",
   "position": 20,
   "collapsible": true,
-  "collapsed": false,
+  "collapsed": true,
   "link": {
     "type": "generated-index"
   }

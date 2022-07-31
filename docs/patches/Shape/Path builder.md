@@ -19,3 +19,29 @@ tags: [path, shape, path builder]
         </ul>
     </div>
 </div>
+
+
+<div className="port-descriptions">
+<div className="inputs">
+
+### Input 输入
+
+#### moveTo
+
+#### Point
+
+#### curveFrom
+
+#### curveTo
+
+
+</div>
+<div className="outputs">
+
+### Output 输出
+
+#### Path Array
+
+
+</div>
+</div>

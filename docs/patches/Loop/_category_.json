@@ -2,7 +2,7 @@
   "label": "Loop 循环",
   "position": 7,
   "collapsible": true,
-  "collapsed": false,
+  "collapsed": true,
   "link": {
     "type": "generated-index"
   }

@@ -16,3 +16,21 @@ tags: [path, shape, shape creator]
         </ul>
     </div>
 </div>
+
+<div className="port-descriptions">
+<div className="inputs">
+
+### Input 输入
+
+#### W/H
+
+
+</div>
+<div className="outputs">
+
+### Output 输出
+
+#### Shape
+
+</div>
+</div>

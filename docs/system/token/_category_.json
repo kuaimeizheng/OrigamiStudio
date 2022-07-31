@@ -2,7 +2,7 @@
   "label": "Token 原子",
   "position": 5,
   "collapsible": true,
-  "collapsed": false,
+  "collapsed": true,
   "link": {
     "type": "generated-index"
   }

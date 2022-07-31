@@ -19,3 +19,28 @@ tags: [path, shape, shape utility]
         </ul>
     </div>
 </div>
+
+<div className="port-descriptions">
+<div className="inputs">
+
+### Input 输入
+
+#### Start
+
+#### curve from
+
+#### curve to
+
+#### End X
+
+
+</div>
+<div className="outputs">
+
+### Output 输出
+
+#### Shape
+
+
+</div>
+</div>

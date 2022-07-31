@@ -1,5 +1,8 @@
 # Dependencies
 /node_modules
+/.github/workflows/main.yml
+.history
+/docs/example
 
 # Production
 /build
