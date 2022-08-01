@@ -1,5 +1,5 @@
 ---
-sidebar_position: 24
+sidebar_position: 20
 tags: [loop]
 ---
 
@@ -27,11 +27,7 @@ tags: [loop]
 
 #### Array
 
-
-
 #### Ascending
-
-
 
 </div>
 <div className="outputs">
@@ -40,9 +36,7 @@ tags: [loop]
 
 #### Output 
 
-
 #### Sort Index
-
 
 
 </div>

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 24
+sidebar_position: 20
 tags: [text]
 ---
 
@@ -21,4 +21,30 @@ tags: [text]
             <li><span className="checkbox-off"></span> Contains</li>
         </ul>
     </div>
+</div>
+
+
+<div className="port-descriptions">
+<div className="inputs">
+
+### Input 输入
+
+#### Text 文本
+
+#### Find 查找
+
+#### Exactly 精确
+
+#### Case Sensitive 区分大小写
+
+#### Whole Word 整个词语
+
+</div>
+<div className="outputs">
+
+### Output 输出
+
+#### Contains 包含
+
+</div>
 </div>

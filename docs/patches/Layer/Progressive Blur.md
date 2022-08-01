@@ -1,5 +1,5 @@
 ---
-sidebar_position: 24
+sidebar_position: 20
 tags: [layer]
 ---
 
@@ -21,11 +21,11 @@ tags: [layer]
  </div>
 </div>
 
-### Intencity
+### Intencity 强度
 
-### Resolution
+### Resolution 分辨率
 
-### Curve
+### Curve 曲线
 
 曲线列表，包含以下选项：
 
@@ -55,9 +55,9 @@ Sinusoidal Out
 
 Sinusoidal In-Out
 
-### Opacity
+### Opacity 不透明度
 
-### Saturation
+### Saturation 饱和度
 
 
 ------

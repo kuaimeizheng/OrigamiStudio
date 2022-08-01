@@ -1,5 +1,5 @@
 ---
-sidebar_position: 24
+sidebar_position: 20
 tags: [text]
 ---
 
@@ -49,18 +49,34 @@ tags: [text]
     </div>
 </div>
 
-Decimal Places 小数位
 
-Insert Separator 插入分隔符
+<div className="port-descriptions">
+<div className="inputs">
 
-Separator
+### Input 输入
 
-Insert Symbol
+#### Decimal Places 小数位
 
-Symbol
+#### Insert Separator 插入分隔符
 
-Insert
+#### Separator 分隔符号
 
-Format
+#### Insert Symbol 插入符号
 
-Currency 货币
+#### Symbol 符号
+
+#### Insert 插入
+
+#### Format 格式
+
+#### Currency 货币
+
+</div>
+<div className="outputs">
+
+### Output 输出
+
+#### Result 结果 
+
+</div>
+</div>
