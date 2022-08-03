@@ -159,12 +159,12 @@ const config = {
                         label: '自定义组件系统',
                     },
 
-                    // {
-                    //     //type: 'doc',
-                    //     docId: 'showcase',
-                    //     position: 'left',
-                    //     label: '自定义例子',
-                    // },
+                    {
+                        type: 'doc',
+                        docId: 'device/intro',
+                        position: 'left',
+                        label: '自定义设备',
+                    },
 
                     {
                         type: 'doc',
