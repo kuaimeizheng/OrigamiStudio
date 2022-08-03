@@ -1,20 +1,20 @@
 ---
+title: Random Color
 sidebar_position: 20
-tags: [array]
+tags: [color]
 ---
 
 # Random Color
 
 <div className="patch-container">
     <div className="patch processor">
-        <h3>Array Sort Plus</h3>
+        <h3>Random Color</h3>
         <ul className="inputs">
-            <li>Array <span>[...]</span></li>
-            <li>Ascending <span className="checkbox-off"></span></li>
+            <li>Randomize<span className="patch-pulse-preview"><span className="dot"></span></span></li>
+            <li>With Alpha<span className="patch-pulse-preview"><span className="dot"></span></span></li>
         </ul>
         <ul className="outputs">
-            <li>Output <span>[...]</span></li>
-            <li>Sort Index</li>
+            <li><span className="patch-color-preview status" ></span></li>
         </ul>
     </div>
 </div>
@@ -25,9 +25,9 @@ tags: [array]
 
 ### Input 输入
 
-#### Array
+#### Randomize
 
-#### Ascending
+#### With Alpha
 
 </div>
 <div className="outputs">
@@ -35,8 +35,6 @@ tags: [array]
 ### Output 输出
 
 #### Output 
-
-#### Sort Index
 
 
 </div>

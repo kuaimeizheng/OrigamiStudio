@@ -1,20 +1,23 @@
 ---
+title: HSL to HSV
 sidebar_position: 20
-tags: [array]
+tags: [color]
 ---
 
 # HSL to HSV
 
 <div className="patch-container">
     <div className="patch processor">
-        <h3>Array Sort Plus</h3>
+        <h3>HSL to HSV</h3>
         <ul className="inputs">
-            <li>Array <span>[...]</span></li>
-            <li>Ascending <span className="checkbox-off"></span></li>
+            <li>H<span>0</span></li>
+            <li>S<span>0</span></li>
+            <li>L<span>0</span></li>
         </ul>
         <ul className="outputs">
-            <li>Output <span>[...]</span></li>
-            <li>Sort Index</li>
+            <li>H<span>0</span></li>
+            <li>S<span>0</span></li>
+            <li>V<span>0</span></li>
         </ul>
     </div>
 </div>
@@ -25,18 +28,22 @@ tags: [array]
 
 ### Input 输入
 
-#### Array
+#### H
 
-#### Ascending
+#### S
+
+#### L
 
 </div>
 <div className="outputs">
 
 ### Output 输出
 
-#### Output 
+#### H
 
-#### Sort Index
+#### S
+
+#### V
 
 
 </div>

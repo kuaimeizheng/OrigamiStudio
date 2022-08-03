@@ -1,20 +1,22 @@
 ---
+title: Color to RGBA
 sidebar_position: 20
-tags: [array]
+tags: [color]
 ---
 
 # Color to RGBA
 
 <div className="patch-container">
     <div className="patch processor">
-        <h3>Array Sort Plus</h3>
+        <h3>Color to RGBA</h3>
         <ul className="inputs">
-            <li>Array <span>[...]</span></li>
-            <li>Ascending <span className="checkbox-off"></span></li>
+            <li><span className="color"></span></li>
         </ul>
         <ul className="outputs">
-            <li>Output <span>[...]</span></li>
-            <li>Sort Index</li>
+            <li>R<span>0</span></li>
+            <li>G<span>0</span></li>
+            <li>B<span>0</span></li>
+            <li>A<span>100</span></li>
         </ul>
     </div>
 </div>
@@ -25,18 +27,21 @@ tags: [array]
 
 ### Input 输入
 
-#### Array
+#### Color
 
-#### Ascending
 
 </div>
 <div className="outputs">
 
 ### Output 输出
 
-#### Output 
+#### R 
 
-#### Sort Index
+#### G
+
+#### B
+
+#### A
 
 
 </div>

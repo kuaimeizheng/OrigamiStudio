@@ -1,4 +1,5 @@
 ---
+title: Text to Array
 sidebar_position: 20
 tags: [array]
 ---
@@ -7,14 +8,12 @@ tags: [array]
 
 <div className="patch-container">
     <div className="patch processor">
-        <h3>Array Sort Plus</h3>
+        <h3>Text to Array</h3>
         <ul className="inputs">
-            <li>Array <span>[...]</span></li>
-            <li>Ascending <span className="checkbox-off"></span></li>
+            <li>Text</li>
         </ul>
         <ul className="outputs">
-            <li>Output <span>[...]</span></li>
-            <li>Sort Index</li>
+            <li> <span>[...]</span></li>
         </ul>
     </div>
 </div>
@@ -25,9 +24,7 @@ tags: [array]
 
 ### Input 输入
 
-#### Array
-
-#### Ascending
+#### Text
 
 </div>
 <div className="outputs">
@@ -35,8 +32,6 @@ tags: [array]
 ### Output 输出
 
 #### Output 
-
-#### Sort Index
 
 
 </div>
