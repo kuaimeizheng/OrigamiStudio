@@ -1,0 +1,9 @@
+{
+  "label": "Computers 电脑",
+  "position": 5,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index"
+  }
+}
