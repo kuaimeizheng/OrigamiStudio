@@ -8,43 +8,25 @@ tags: [particles]
 
 糖果。
 
-<div className="patch-container">
-    <div className="patch processor">
-        <h3>Pattern</h3>
-        <ul className="inputs">
-            <li>Tempo <span className="checkbox-off"></span></li>
-            <li>Pattern <span>3</span></li>
-            <li>Custom <span>...</span></li>
-        </ul>
-        <ul className="outputs">
-            <li><span className="checkbox-off"></span></li>
-            <li>Beat <span>2</span></li>
-        </ul>
-    </div>
+<div class="patch-container">
+ <div class="patch layer">
+  <h3>Confetti</h3>
+   <ul class="inputs"> 
+        <li>Enable</li>  
+        <li>Fire</li>
+        <li>Haptic</li>
+        <li>Staggered</li>
+   </ul>
+ </div>
 </div>
 
-<div className="port-descriptions">
-<div className="inputs">
+### Enable
 
-### Input 输入
+### Fire
 
-#### Tempo 节奏
+### Haptic
 
-#### Pattern 模式
-
-#### Custom 自定义
-
-</div>
-<div className="outputs">
-
-### Output 输出
-
-#### Boolean 布尔值
-
-#### Beat 击打
-
-</div>
-</div>
+### Staggered
 
 
 ------
