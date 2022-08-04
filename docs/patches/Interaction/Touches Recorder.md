@@ -1,4 +1,5 @@
 ---
+title: Touches Recorder
 sidebar_position: 20
 tags: [interaction]
 ---

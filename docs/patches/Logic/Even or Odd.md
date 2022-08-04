@@ -6,6 +6,8 @@ tags: [logic]
 
 # Even or Odd
 
+判断一个数值是奇数还是偶数，是的话在对应的接口输出一个布尔值。
+
 <div className="patch-container">
     <div className="patch processor">
         <h3>Even or Odd</h3>
