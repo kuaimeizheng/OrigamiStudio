@@ -8,14 +8,16 @@ tags: [logic]
 
 <div className="patch-container">
     <div className="patch processor">
-        <h3>Array Sort Plus</h3>
+        <h3>Completion Value</h3>
         <ul className="inputs">
-            <li>Array <span>[...]</span></li>
-            <li>Ascending <span className="checkbox-off"></span></li>
+            <li>Value <span>0</span></li>
+            <li>Start Value<span>0</span></li>
+            <li>End Value<span>0</span></li>
         </ul>
         <ul className="outputs">
-            <li>Output <span>[...]</span></li>
-            <li>Sort Index</li>
+            <li>Progress<span>0</span></li>
+            <li>Completetion %<span>0</span></li>
+            <li>Reset<span>0</span></li>
         </ul>
     </div>
 </div>
@@ -26,19 +28,22 @@ tags: [logic]
 
 ### Input 输入
 
-#### Array
+#### Value
 
-#### Ascending
+#### Start Value
+
+#### End Value
 
 </div>
 <div className="outputs">
 
 ### Output 输出
 
-#### Output 
+#### Progress
 
-#### Sort Index
+#### Completetion %
 
+#### Reset
 
 </div>
 </div>
