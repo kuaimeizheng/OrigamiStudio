@@ -165,6 +165,12 @@ const config = {
                         position: 'left',
                         label: '自定义设备',
                     },
+                    {
+                      type: 'doc',
+                      docId: 'research/intro',
+                      position: 'left',
+                      label: '技术探索',
+                  },
 
                     {
                         type: 'doc',
