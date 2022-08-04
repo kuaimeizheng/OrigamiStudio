@@ -1,4 +1,5 @@
 ---
+title: Loop Replace Text
 sidebar_position: 20
 tags: [loop]
 ---

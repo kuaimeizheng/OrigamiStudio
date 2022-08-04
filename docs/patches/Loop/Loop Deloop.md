@@ -1,4 +1,5 @@
 ---
+title: Loop Deloop
 sidebar_position: 20
 tags: [loop]
 ---

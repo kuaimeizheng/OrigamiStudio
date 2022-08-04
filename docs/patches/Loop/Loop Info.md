@@ -1,4 +1,5 @@
 ---
+title: Loop Info
 sidebar_position: 20
 tags: [loop]
 ---

@@ -1,4 +1,5 @@
 ---
+title: Loop Sort
 sidebar_position: 20
 tags: [loop]
 ---
