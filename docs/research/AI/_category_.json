@@ -1,8 +1,8 @@
 {
-  "label": "AI Patches AI模块",
+  "label": "AI Patches",
   "position": 5,
   "collapsible": true,
-  "collapsed": true,
+  "collapsed": false,
   "link": {
     "type": "generated-index"
   }

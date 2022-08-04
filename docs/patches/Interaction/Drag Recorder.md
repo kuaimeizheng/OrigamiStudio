@@ -6,7 +6,6 @@ tags: [interaction]
 # Drag Recorder
 
 
-
 <div className="patch-container">
     <div className="patch processor">
         <h3>Drag Recorder</h3>
