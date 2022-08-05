@@ -1,12 +1,12 @@
 ---
-title: Confetti
+title: Confetti 五彩纸屑
 sidebar_position: 20
 tags: [particles]
 ---
 
 # Confetti
 
-糖果。
+五彩纸屑。
 
 <div class="patch-container">
  <div class="patch layer">
@@ -20,13 +20,13 @@ tags: [particles]
  </div>
 </div>
 
-### Enable
+### Enable 启用
 
-### Fire
+### Fire 绽放
 
-### Haptic
+### Haptic 触觉反馈
 
-### Staggered
+### Staggered 交错
 
 
 ------
