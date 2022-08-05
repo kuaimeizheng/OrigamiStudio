@@ -1,10 +1,10 @@
 ---
-title: iOS System Color
+title: iOS System Color iOS 系统颜色
 sidebar_position: 20
 tags: [color]
 ---
 
-# iOS System Color
+# iOS System Color 
 
 <div className="patch-container">
     <div className="patch processor">
@@ -30,41 +30,41 @@ tags: [color]
 
 包含以下选项：
 
-Red
+Red 红色
 
-Orange
+Orange 橙色
 
-Yellow
+Yellow 黄色
 
-Green
+Green 绿色
 
-Teal
+Teal 青色
 
-Blue
+Blue 蓝色
 
-Indigo
+Indigo 靛蓝
 
-Purple
+Purple 紫色
 
-Pink
+Pink 粉丝
 
-SystemGray1
+SystemGray1 系统灰色 1
 
-SystemGray2
+SystemGray2 系统灰色 2
 
-SystemGray3
+SystemGray3 系统灰色 3
 
-SystemGray4
+SystemGray4 系统灰色 4
 
-SystemGray5
+SystemGray5 系统灰色 5
 
-SystemGray6
+SystemGray6 系统灰色 6
 
-Black/White
+Black/White 黑色/白色
 
-White/Black
+White/Black 白色/黑色
 
-Fixed White
+Fixed White 固定白色
 
 #### Animation 动画
 
