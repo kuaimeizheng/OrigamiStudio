@@ -1,5 +1,5 @@
 ---
-title: Random Color
+title: Random Color 随机颜色
 sidebar_position: 20
 tags: [color]
 ---
@@ -25,16 +25,16 @@ tags: [color]
 
 ### Input 输入
 
-#### Randomize
+#### Randomize 随机化
 
-#### With Alpha
+#### With Alpha 带透明度
 
 </div>
 <div className="outputs">
 
 ### Output 输出
 
-#### Output 
+#### Output 输出
 
 
 </div>
