@@ -1,5 +1,5 @@
 ---
-title: Loop Join
+title: Loop Join 循环加入
 sidebar_position: 20
 tags: [loop]
 ---

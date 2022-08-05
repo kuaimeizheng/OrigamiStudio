@@ -1,5 +1,5 @@
 ---
-title: Loop Trim
+title: Loop Trim 循环修剪
 sidebar_position: 20
 tags: [loop]
 ---

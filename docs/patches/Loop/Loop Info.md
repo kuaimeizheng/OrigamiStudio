@@ -1,5 +1,5 @@
 ---
-title: Loop Info
+title: Loop Info 循环信息
 sidebar_position: 20
 tags: [loop]
 ---

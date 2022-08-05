@@ -1,5 +1,5 @@
 ---
-title: Loop Replace Number
+title: Loop Replace Number 循环替换数值
 sidebar_position: 20
 tags: [loop]
 ---

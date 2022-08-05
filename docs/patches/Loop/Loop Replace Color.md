@@ -1,5 +1,5 @@
 ---
-title: Loop Replace Color
+title: Loop Replace Color 循环替换颜色
 sidebar_position: 20
 tags: [loop]
 ---

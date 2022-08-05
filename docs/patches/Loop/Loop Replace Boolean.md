@@ -1,5 +1,5 @@
 ---
-title: Loop Replace Boolean
+title: Loop Replace Boolean 循环替换布尔值
 sidebar_position: 20
 tags: [loop]
 ---

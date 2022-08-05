@@ -1,5 +1,5 @@
 ---
-title: Loop Sort
+title: Loop Sort 循环排序
 sidebar_position: 20
 tags: [loop]
 ---
