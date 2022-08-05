@@ -1,4 +1,5 @@
 ---
+title: iPhone 13 Pro Max
 sidebar_position: 5
 ---
 

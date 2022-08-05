@@ -1,4 +1,5 @@
 ---
+title: Apple Studio Display
 sidebar_position: 5
 ---
 

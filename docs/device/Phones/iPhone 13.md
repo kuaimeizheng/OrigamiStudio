@@ -1,4 +1,5 @@
 ---
+title: iPhone 13
 sidebar_position: 5
 ---
 

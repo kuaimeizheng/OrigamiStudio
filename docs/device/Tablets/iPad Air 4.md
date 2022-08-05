@@ -1,4 +1,5 @@
 ---
+title: iPad Air 4
 sidebar_position: 5
 ---
 

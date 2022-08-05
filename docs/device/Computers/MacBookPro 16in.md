@@ -1,4 +1,5 @@
 ---
+title: MacBookPro 16in
 sidebar_position: 5
 ---
 
