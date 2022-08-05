@@ -7,7 +7,7 @@ tags: [interaction]
 # Mouse Cursor
 
 <div className="patch-container">
-    <div className="patch processor">
+    <div className="patch consumer">
         <h3>Mouse Cursor</h3>
         <ul className="inputs">
             <li>Pointing Hand <span className="checkbox-off"></span></li>
@@ -27,17 +27,17 @@ tags: [interaction]
 
 ### Input 输入
 
-#### Pointing Hand
+#### Pointing Hand 手指点击的样式
 
-#### I-Beam
+#### I-Beam 输入光标时的样式
 
-#### Open Hand
+#### Open Hand 五指展开的样式
 
-#### Closed Hand
+#### Closed Hand 五指握住的样式
 
-#### Move
+#### Move 移动
 
-#### None
+#### None 无
 
 </div>
 <div className="outputs">

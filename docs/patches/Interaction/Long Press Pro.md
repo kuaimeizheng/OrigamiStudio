@@ -6,6 +6,7 @@ tags: [interaction]
 
 # Long Press Pro
 
+相对官方的 Long Press 模块，增强了一些功能。
 
 <div className="patch-container">
     <div className="patch processor">
@@ -29,24 +30,24 @@ tags: [interaction]
 
 ### Input 输入
 
-#### Down
+#### Down 按下
 
-#### Tap
+#### Tap 轻按
 
-#### Delay
+#### Delay 延迟
 
-#### Allowable Movement
+#### Allowable Movement 允许偏移
 
-#### Cancel
+#### Cancel 取消
 
 </div>
 <div className="outputs">
 
 ### Output 输出
 
-#### Long Press
+#### Long Press 长按
 
-#### Tap
+#### Tap 轻按
 
 
 </div>

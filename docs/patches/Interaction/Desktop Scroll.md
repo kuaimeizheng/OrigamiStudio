@@ -1,6 +1,6 @@
 ---
 title: Desktop Scroll
-sidebar_position: 20
+sidebar_position: 10
 tags: [interaction]
 ---
 
@@ -44,7 +44,7 @@ tags: [interaction]
 
 #### Settings 设置参数
 
-#### Natural Scrolling
+#### Natural Scrolling 自然滚动
 
 
 </div>
