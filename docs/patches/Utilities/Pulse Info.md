@@ -1,4 +1,5 @@
 ---
+title: Pulse Info 脉冲信号
 sidebar_position: 20
 tags: [utilities]
 ---

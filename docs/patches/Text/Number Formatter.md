@@ -1,4 +1,5 @@
 ---
+title: Number Formatter 数值格式化
 sidebar_position: 20
 tags: [text]
 ---

@@ -1,4 +1,5 @@
 ---
+title: Text Contains 文本包含
 sidebar_position: 20
 tags: [text]
 ---

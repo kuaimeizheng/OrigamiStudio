@@ -1,5 +1,5 @@
 ---
-title: Range Repeat
+title: Range Repeat 范围重复
 sidebar_position: 20
 tags: [utilities]
 ---
@@ -26,16 +26,16 @@ tags: [utilities]
 
 ### Input 输入
 
-#### Number
+#### Number 数值
 
-#### Range
+#### Range 范围
 
 </div>
 <div className="outputs">
 
 ### Output 输出
 
-#### Number
+#### Number 数值
 
 </div>
 </div>

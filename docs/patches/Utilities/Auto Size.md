@@ -1,4 +1,5 @@
 ---
+title: Auto Size 自动大小
 sidebar_position: 20
 tags: [utilities]
 ---

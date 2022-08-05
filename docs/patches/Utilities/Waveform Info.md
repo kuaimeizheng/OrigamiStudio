@@ -1,4 +1,5 @@
 ---
+title: Waveform Info 音频波形信息
 sidebar_position: 20
 tags: [utilities]
 ---

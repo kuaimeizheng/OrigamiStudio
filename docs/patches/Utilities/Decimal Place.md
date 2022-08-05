@@ -1,10 +1,10 @@
 ---
+title: Decimal Place 小数位数
 sidebar_position: 20
 tags: [utilities]
 ---
 
 # Decimal Place
-
 
 
 <div className="patch-container">

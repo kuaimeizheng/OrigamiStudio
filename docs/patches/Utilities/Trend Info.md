@@ -1,11 +1,10 @@
 ---
+title: Trend Info 趋势信息
 sidebar_position: 20
 tags: [utilities]
 ---
 
 # Trend Info
-
-
 
 <div className="patch-container">
     <div className="patch processor">

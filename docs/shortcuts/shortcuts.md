@@ -1,5 +1,6 @@
 ---
-sidebar_position: 2
+title: Keyboard Shortcuts 键盘快捷键
+sidebar_position: 5
 ---
 
 # Keyboard Shortcuts 键盘快捷键
