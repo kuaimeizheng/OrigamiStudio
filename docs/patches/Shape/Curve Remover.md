@@ -1,5 +1,6 @@
 ---
-sidebar_position: 32
+title: Curve Remover 曲线去除
+sidebar_position: 160
 tags: [path, shape, shape utility]
 ---
 

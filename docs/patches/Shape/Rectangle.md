@@ -1,5 +1,6 @@
 ---
-sidebar_position: 12
+title: Rectangle 矩形
+sidebar_position: 10
 tags: [path, shape, shape creator]
 ---
 

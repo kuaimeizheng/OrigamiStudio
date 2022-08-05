@@ -1,5 +1,6 @@
 ---
-sidebar_position: 22
+title: Rotate Shape 旋转形状
+sidebar_position: 60
 tags: [path, shape, shape transform]
 ---
 

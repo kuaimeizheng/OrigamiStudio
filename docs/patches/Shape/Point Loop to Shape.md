@@ -1,5 +1,6 @@
 ---
-sidebar_position: 16
+title: Point Loop to Shape 点循环到形状
+sidebar_position: 30
 tags: [path, shape, shape creator]
 ---
 

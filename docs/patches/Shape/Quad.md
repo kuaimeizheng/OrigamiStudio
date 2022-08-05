@@ -1,5 +1,6 @@
 ---
-sidebar_position: 15
+title: Quad 正方形
+sidebar_position: 25
 tags: [path, shape, shape creator]
 ---
 

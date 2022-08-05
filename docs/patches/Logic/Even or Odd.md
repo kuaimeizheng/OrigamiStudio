@@ -1,5 +1,5 @@
 ---
-title: Even or Odd
+title: Even or Odd 奇数或偶数
 sidebar_position: 20
 tags: [logic]
 ---
@@ -27,16 +27,16 @@ tags: [logic]
 
 ### Input 输入
 
-#### Input
+#### Input 判断的数值
 
 </div>
 <div className="outputs">
 
 ### Output 输出
 
-#### Even
+#### Even 奇数
 
-#### Old
+#### Old 偶数
 
 
 </div>

@@ -1,5 +1,6 @@
 ---
-sidebar_position: 33
+title: Shape Loop Union 形状循环合并
+sidebar_position: 165
 tags: [path, shape, shape utility]
 ---
 

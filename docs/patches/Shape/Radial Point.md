@@ -1,5 +1,6 @@
 ---
-sidebar_position: 35
+title: Radial Point 径向点
+sidebar_position: 175
 tags: [path, shape, shape utility]
 ---
 

@@ -1,4 +1,5 @@
 ---
+title: Progressive Blur 逐渐模糊
 sidebar_position: 20
 tags: [layer]
 ---

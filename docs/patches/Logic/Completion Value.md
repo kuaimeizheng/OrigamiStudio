@@ -1,5 +1,5 @@
 ---
-title: Completion Value
+title: Completion Value 完成值
 sidebar_position: 20
 tags: [logic]
 ---

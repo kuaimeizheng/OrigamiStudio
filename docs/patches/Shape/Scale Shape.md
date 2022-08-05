@@ -1,5 +1,6 @@
 ---
-sidebar_position: 23
+title: Scale Shape 比例形状
+sidebar_position: 65
 tags: [path, shape, shape transform]
 ---
 

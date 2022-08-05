@@ -1,5 +1,6 @@
 ---
-sidebar_position: 25
+title: Skew Shape 倾斜形状
+sidebar_position: 75
 tags: [path, shape, shape transform]
 ---
 

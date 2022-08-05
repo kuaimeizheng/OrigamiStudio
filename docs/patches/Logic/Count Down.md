@@ -1,5 +1,5 @@
 ---
-title: Count Down
+title: Count Down 倒计时
 sidebar_position: 20
 tags: [logic]
 ---
@@ -17,8 +17,8 @@ tags: [logic]
  </div>
 </div>
 
-### Start Number
+### Start Number 开始的数值
 
-### Start
+### Start 开始
 
-### Reset
+### Reset 重置

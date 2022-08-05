@@ -1,5 +1,6 @@
 ---
-sidebar_position: 20
+title: Center Shape 中心形状
+sidebar_position: 70
 tags: [path, shape, shape transform]
 ---
 

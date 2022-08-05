@@ -1,5 +1,6 @@
 ---
-sidebar_position: 36
+title: Curved Line 曲线线条
+sidebar_position: 180
 tags: [path, shape, shape utility]
 ---
 

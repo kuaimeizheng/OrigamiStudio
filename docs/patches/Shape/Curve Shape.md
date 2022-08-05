@@ -1,5 +1,6 @@
 ---
-sidebar_position: 31
+title: Curve Shape 曲线形状
+sidebar_position: 155
 tags: [path, shape, shape utility]
 ---
 
