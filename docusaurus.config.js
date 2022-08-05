@@ -63,23 +63,27 @@ const config = {
                     editUrl: 'https://github.com/kuaimeizheng/OrigamiStudio/tree/main/',
                 },
                 theme: {
-                    //customCss: require.resolve('./src/css/custom.css',),
-                    customCss: [require.resolve('./src/css/custom.css'), require.resolve('./src/css/documentation.css')]
-                    [
-                      require.resolve("@easyops-cn/docusaurus-search-local"),
-                      {
-                        // ... Your options.
-                        // `hashed` is recommended as long-term-cache of index file is possible.
-                        hashed: true,
-                        // For Docs using Chinese, The `language` is recommended to set to:
-                        // ```
-                        // language: ["en", "zh"],
-                        // ```
-                      },
-                    ],
-                },
+                  //customCss: require.resolve('./src/css/custom.css',),
+                  customCss: [require.resolve('./src/css/custom.css'), require.resolve('./src/css/documentation.css')]
+              },
             }),
         ],
+    ],
+
+    themes: [
+      // ... Your other themes.
+      [
+        require.resolve("@easyops-cn/docusaurus-search-local"),
+        {
+          // ... Your options.
+          // `hashed` is recommended as long-term-cache of index file is possible.
+          hashed: true,
+          // For Docs using Chinese, The `language` is recommended to set to:
+          // ```
+          // language: ["en", "zh"],
+          // ```
+        },
+      ],
     ],
 
     plugins: [
