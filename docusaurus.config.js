@@ -64,7 +64,7 @@ const config = {
                 },
                 theme: {
                   //customCss: require.resolve('./src/css/custom.css',),
-                  customCss: [require.resolve('./src/css/custom.css'), require.resolve('./src/css/documentation.css')]
+                  customCss: [require.resolve('./src/css/custom.scss')]
               },
             }),
         ],
@@ -87,6 +87,7 @@ const config = {
     ],
 
     plugins: [
+      'docusaurus-plugin-sass',
         [
             '@docusaurus/plugin-ideal-image',
             {
@@ -98,34 +99,6 @@ const config = {
             },
         ],
     ],
-    /*plugins: [
-      [
-        '@docusaurus/plugin-content-docs',
-        {
-          id: 'documention',
-          path: 'documention',
-          routeBasePath: 'documention',
-          sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/kuaimeizheng/OrigamiStudio/tree/main/',
-          showLastUpdateAuthor: true, // 显示最后编辑作者
-          showLastUpdateTime: true, // 显示最后编辑时间
-          // ... other options
-        },
-      ],
-      [
-        '@docusaurus/plugin-content-docs',
-        {
-          id: 'example',
-          path: 'example',
-          routeBasePath: 'example',
-          sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/kuaimeizheng/OrigamiStudio/tree/main/',
-          showLastUpdateAuthor: true, // 显示最后编辑作者
-          showLastUpdateTime: true, // 显示最后编辑时间
-          // ... other options
-        },
-      ],
-    ],*/
 
     themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
