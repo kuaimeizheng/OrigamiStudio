@@ -1,4 +1,5 @@
 ---
+title: Array Sort Plus 数组排序
 sidebar_position: 20
 tags: [loop]
 ---
@@ -25,18 +26,18 @@ tags: [loop]
 
 ### Input 输入
 
-#### Array
+#### Array 数组
 
-#### Ascending
+#### Ascending 升序
 
 </div>
 <div className="outputs">
 
 ### Output 输出
 
-#### Output 
+#### Output 输出
 
-#### Sort Index
+#### Sort Index 排序索引
 
 
 </div>
