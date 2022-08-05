@@ -1535,7 +1535,7 @@
     utility-types "^3.10.0"
     webpack "^5.73.0"
 
-"@docusaurus/plugin-content-docs@2.0.0-beta.22", "@docusaurus/plugin-content-docs@^2.0.0-beta.20":
+"@docusaurus/plugin-content-docs@2.0.0-beta.22":
   version "2.0.0-beta.22"
   resolved "https://registry.npmmirror.com/@docusaurus/plugin-content-docs/-/plugin-content-docs-2.0.0-beta.22.tgz"
   integrity sha512-Hfb0+coxJshheAQISamfGrU2T1CLhV6EAPcYx3ejCXsMTjAAtyFsK17t6qGOCGFg3J36gPrzBstBWwEvaVHCqw==
@@ -1557,7 +1557,7 @@
     utility-types "^3.10.0"
     webpack "^5.73.0"
 
-"@docusaurus/plugin-content-docs@^2.0.1":
+"@docusaurus/plugin-content-docs@^2.0.0-rc.1", "@docusaurus/plugin-content-docs@^2.0.1":
   version "2.0.1"
   resolved "https://registry.npmmirror.com/@docusaurus/plugin-content-docs/-/plugin-content-docs-2.0.1.tgz#4059591b4bff617e744e856ca680674b27c0b98a"
   integrity sha512-2qeBWRy1EjgnXdwAO6/csDIS1UVNmhmtk/bQ2s9jqjpwM8YVgZ8QVdkxFAMWXgZWDQdwWwdP1rnmoEelE4HknQ==
@@ -1772,7 +1772,7 @@
     tslib "^2.4.0"
     utility-types "^3.10.0"
 
-"@docusaurus/theme-translations@2.0.0-beta.22", "@docusaurus/theme-translations@^2.0.0-beta.20":
+"@docusaurus/theme-translations@2.0.0-beta.22":
   version "2.0.0-beta.22"
   resolved "https://registry.npmmirror.com/@docusaurus/theme-translations/-/theme-translations-2.0.0-beta.22.tgz"
   integrity sha512-duMoS+BEDWk+qCFZay6+L0C2ZYJvUdny9NdH2JLjNfC1ifl4+pM3HHciJgldos7hH/JGfohDY57fl6NKf5pQLQ==
@@ -1780,7 +1780,7 @@
     fs-extra "^10.1.0"
     tslib "^2.4.0"
 
-"@docusaurus/theme-translations@2.0.1":
+"@docusaurus/theme-translations@2.0.1", "@docusaurus/theme-translations@^2.0.0-rc.1":
   version "2.0.1"
   resolved "https://registry.npmmirror.com/@docusaurus/theme-translations/-/theme-translations-2.0.1.tgz#955a687c974265a811bfc743d98ef3eab0379100"
   integrity sha512-v1MYYlbsdX+rtKnXFcIAn9ar0Z6K0yjqnCYS0p/KLCLrfJwfJ8A3oRJw2HiaIb8jQfk1WMY2h5Qi1p4vHOekQw==
@@ -1816,21 +1816,21 @@
     webpack "^5.73.0"
     webpack-merge "^5.8.0"
 
-"@docusaurus/utils-common@2.0.0-beta.22", "@docusaurus/utils-common@^2.0.0-beta.20":
+"@docusaurus/utils-common@2.0.0-beta.22":
   version "2.0.0-beta.22"
   resolved "https://registry.npmmirror.com/@docusaurus/utils-common/-/utils-common-2.0.0-beta.22.tgz"
   integrity sha512-yQM1wPUUqoDCJy0cOFWtUsqxY3utL0E14T4NDtCcdc2Einsl1mamKIaBVpt9SMZugMVXbc/z4IQK8YC81CuXEw==
   dependencies:
     tslib "^2.4.0"
 
-"@docusaurus/utils-common@2.0.1":
+"@docusaurus/utils-common@2.0.1", "@docusaurus/utils-common@^2.0.0-rc.1":
   version "2.0.1"
   resolved "https://registry.npmmirror.com/@docusaurus/utils-common/-/utils-common-2.0.1.tgz#b6f2b029547f739e1431ec84abd16974edf495e0"
   integrity sha512-kajCCDCXRd1HFH5EUW31MPaQcsyNlGakpkDoTBtBvpa4EIPvWaSKy7TIqYKHrZjX4tnJ0YbEJvaXfjjgdq5xSg==
   dependencies:
     tslib "^2.4.0"
 
-"@docusaurus/utils-validation@2.0.0-beta.22", "@docusaurus/utils-validation@^2.0.0-beta.20", "@docusaurus/utils-validation@^2.0.0-beta.4":
+"@docusaurus/utils-validation@2.0.0-beta.22", "@docusaurus/utils-validation@^2.0.0-beta.4":
   version "2.0.0-beta.22"
   resolved "https://registry.npmmirror.com/@docusaurus/utils-validation/-/utils-validation-2.0.0-beta.22.tgz"
   integrity sha512-sW2jrYvhvkh8PjjZzWFyqGs7tlls3F2FgOOj79T9rGj8y+b4a6sRjl8+QgXITjypcQWssCg0wqf6xSXD+LSD/Q==
@@ -1841,7 +1841,7 @@
     js-yaml "^4.1.0"
     tslib "^2.4.0"
 
-"@docusaurus/utils-validation@2.0.1":
+"@docusaurus/utils-validation@2.0.1", "@docusaurus/utils-validation@^2.0.0-rc.1":
   version "2.0.1"
   resolved "https://registry.npmmirror.com/@docusaurus/utils-validation/-/utils-validation-2.0.1.tgz#69f7d4944288d71f00fdba6dde10f05008f04308"
   integrity sha512-f14AnwFBy4/1A19zWthK+Ii80YDz+4qt8oPpK3julywXsheSxPBqgsND3LVBBvB2p3rJHvbo2m3HyB9Tco1JRw==
@@ -1852,7 +1852,7 @@
     js-yaml "^4.1.0"
     tslib "^2.4.0"
 
-"@docusaurus/utils@2.0.0-beta.22", "@docusaurus/utils@^2.0.0-beta.20", "@docusaurus/utils@^2.0.0-beta.4":
+"@docusaurus/utils@2.0.0-beta.22", "@docusaurus/utils@^2.0.0-beta.4":
   version "2.0.0-beta.22"
   resolved "https://registry.npmmirror.com/@docusaurus/utils/-/utils-2.0.0-beta.22.tgz"
   integrity sha512-ZwtfJl9n+dMBrdIl1DX9DyO9odMV6+1yqbJkdPrfNSLd17fYZK7HGcwQOem7QIEcJjnroUGrsQoKW8Svg3dQJg==
@@ -1873,7 +1873,7 @@
     url-loader "^4.1.1"
     webpack "^5.73.0"
 
-"@docusaurus/utils@2.0.1":
+"@docusaurus/utils@2.0.1", "@docusaurus/utils@^2.0.0-rc.1":
   version "2.0.1"
   resolved "https://registry.npmmirror.com/@docusaurus/utils/-/utils-2.0.1.tgz#37b4b42e29175e5d2d811fcbf9f93bffeca7c353"
   integrity sha512-u2Vdl/eoVwMfUjDCkg7FjxoiwFs/XhVVtNxQEw8cvB+qaw6QWyT73m96VZzWtUb1fDOefHoZ+bZ0ObFeKk9lMQ==
@@ -1902,16 +1902,16 @@
     cssesc "^3.0.0"
     immediate "^3.2.3"
 
-"@easyops-cn/docusaurus-search-local@^0.29.0":
-  version "0.29.0"
-  resolved "https://registry.npmmirror.com/@easyops-cn/docusaurus-search-local/-/docusaurus-search-local-0.29.0.tgz"
-  integrity sha512-sC5cNCX8UiIfkYv6NdBIeT/oYUiVA+codg9+KrE+zRMvYN1iIL+IuuJDNedRAm5conIzHJ8i6IkKxFZDii3n8g==
+"@easyops-cn/docusaurus-search-local@^0.30.2":
+  version "0.30.2"
+  resolved "https://registry.npmmirror.com/@easyops-cn/docusaurus-search-local/-/docusaurus-search-local-0.30.2.tgz#41d0813ff4ece58fe38d8ace35f0187036c95d92"
+  integrity sha512-q2tYUuNjUbsSxv3vB04ItP/jp0teWswXtsLxNF6JgaDOHkNXEjQFmbaOoBLyIcPCawefxC0m/iZibzr1JAVGew==
   dependencies:
-    "@docusaurus/plugin-content-docs" "^2.0.0-beta.20"
-    "@docusaurus/theme-translations" "^2.0.0-beta.20"
-    "@docusaurus/utils" "^2.0.0-beta.20"
-    "@docusaurus/utils-common" "^2.0.0-beta.20"
-    "@docusaurus/utils-validation" "^2.0.0-beta.20"
+    "@docusaurus/plugin-content-docs" "^2.0.0-rc.1"
+    "@docusaurus/theme-translations" "^2.0.0-rc.1"
+    "@docusaurus/utils" "^2.0.0-rc.1"
+    "@docusaurus/utils-common" "^2.0.0-rc.1"
+    "@docusaurus/utils-validation" "^2.0.0-rc.1"
     "@easyops-cn/autocomplete.js" "^0.38.1"
     "@node-rs/jieba" "^1.6.0"
     cheerio "^1.0.0-rc.3"
@@ -5301,7 +5301,7 @@ debug@4, debug@^4.0.1, debug@^4.1.0, debug@^4.1.1, debug@^4.2.0, debug@^4.3.1:
   dependencies:
     ms "2.1.2"
 
-debuglog@*, debuglog@^1.0.1:
+debuglog@^1.0.1:
   version "1.0.1"
   resolved "https://registry.npmmirror.com/debuglog/-/debuglog-1.0.1.tgz"
   integrity sha512-syBZ+rnAK3EgMsH2aYEOLUW7mZSY9Gb+0wUMCFsZvcmiz+HigA0LOcq/HoQqVuGG+EKykunc7QG2bzrponfaSw==
@@ -7725,7 +7725,7 @@ import-local@^3.0.2:
     pkg-dir "^4.2.0"
     resolve-cwd "^3.0.0"
 
-imurmurhash@*, imurmurhash@^0.1.4:
+imurmurhash@^0.1.4:
   version "0.1.4"
   resolved "https://registry.npmjs.org/imurmurhash/-/imurmurhash-0.1.4.tgz"
   integrity sha512-JmXMZ6wuvDmLiHEml9ykzqO6lwFbof0GG4IkcGaENdCRDDmMVnny7s5HsIgHCbaq0w2MyPhDqkhTUgS2LU2PHA==
@@ -9247,11 +9247,6 @@ lockfile@^1.0.4:
   dependencies:
     signal-exit "^3.0.2"
 
-lodash._baseindexof@*:
-  version "3.1.0"
-  resolved "https://registry.npmmirror.com/lodash._baseindexof/-/lodash._baseindexof-3.1.0.tgz"
-  integrity sha512-bSYo8Pc/f0qAkr8fPJydpJjtrHiSynYfYBjtANIgXv5xEf1WlTC63dIDlgu0s9dmTvzRu1+JJTxcIAHe+sH0FQ==
-
 lodash._baseuniq@~4.6.0:
   version "4.6.0"
   resolved "https://registry.npmmirror.com/lodash._baseuniq/-/lodash._baseuniq-4.6.0.tgz"
@@ -9260,32 +9255,10 @@ lodash._baseuniq@~4.6.0:
     lodash._createset "~4.0.0"
     lodash._root "~3.0.0"
 
-lodash._bindcallback@*:
-  version "3.0.1"
-  resolved "https://registry.npmmirror.com/lodash._bindcallback/-/lodash._bindcallback-3.0.1.tgz"
-  integrity sha512-2wlI0JRAGX8WEf4Gm1p/mv/SZ+jLijpj0jyaE/AXeuQphzCgD8ZQW4oSpoN8JAopujOFGU3KMuq7qfHBWlGpjQ==
-
-lodash._cacheindexof@*:
-  version "3.0.2"
-  resolved "https://registry.npmmirror.com/lodash._cacheindexof/-/lodash._cacheindexof-3.0.2.tgz"
-  integrity sha512-S8dUjWr7SUT/X6TBIQ/OYoCHo1Stu1ZRy6uMUSKqzFnZp5G5RyQizSm6kvxD2Ewyy6AVfMg4AToeZzKfF99T5w==
-
-lodash._createcache@*:
-  version "3.1.2"
-  resolved "https://registry.npmmirror.com/lodash._createcache/-/lodash._createcache-3.1.2.tgz"
-  integrity sha512-ev5SP+iFpZOugyab/DEUQxUeZP5qyciVTlgQ1f4Vlw7VUcCD8fVnyIqVUEIaoFH9zjAqdgi69KiofzvVmda/ZQ==
-  dependencies:
-    lodash._getnative "^3.0.0"
-
 lodash._createset@~4.0.0:
   version "4.0.3"
   resolved "https://registry.npmmirror.com/lodash._createset/-/lodash._createset-4.0.3.tgz"
   integrity sha512-GTkC6YMprrJZCYU3zcqZj+jkXkrXzq3IPBcF/fIPpNEAB4hZEtXU8zp/RwKOvZl43NUmwDbyRk3+ZTbeRdEBXA==
-
-lodash._getnative@*, lodash._getnative@^3.0.0:
-  version "3.9.1"
-  resolved "https://registry.npmmirror.com/lodash._getnative/-/lodash._getnative-3.9.1.tgz"
-  integrity sha512-RrL9VxMEPyDMHOd9uFbvMe8X55X16/cGM5IgOKgRElQZutpX89iS6vwl64duTV1/16w5JY7tuFNXqoekmh1EmA==
 
 lodash._root@~3.0.0:
   version "3.0.1"
@@ -9341,11 +9314,6 @@ lodash.merge@^4.6.2:
   version "4.6.2"
   resolved "https://registry.npmmirror.com/lodash.merge/-/lodash.merge-4.6.2.tgz"
   integrity sha512-0KpjqXRVvrYyCsX1swR/XTK0va6VQkQM6MNo7PqW77ByjAhoARA8EfrP1N4+KlKj8YS0ZUCtRT/YUuhyYDujIQ==
-
-lodash.restparam@*:
-  version "3.6.1"
-  resolved "https://registry.npmmirror.com/lodash.restparam/-/lodash.restparam-3.6.1.tgz"
-  integrity sha512-L4/arjjuq4noiUJpt3yS6KIKDtJwNe2fIYgMqyYYKoeIfV1iEqvPwhCx23o+R9dzouGihDAPN1dTIRWa7zk8tw==
 
 lodash.truncate@^4.4.2:
   version "4.4.2"
