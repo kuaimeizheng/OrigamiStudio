@@ -1,5 +1,5 @@
 ---
-title: Mouse Cursor
+title: Mouse Cursor 鼠标光标
 sidebar_position: 20
 tags: [interaction]
 ---

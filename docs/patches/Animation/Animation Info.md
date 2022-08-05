@@ -1,4 +1,5 @@
 ---
+title: Animation Info 动画信息
 sidebar_position: 20
 tags: [loop]
 ---

@@ -1,5 +1,5 @@
 ---
-title: Desktop Scroll
+title: Desktop Scroll 电脑滚动
 sidebar_position: 10
 tags: [interaction]
 ---

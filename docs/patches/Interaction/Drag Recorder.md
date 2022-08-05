@@ -1,5 +1,5 @@
 ---
-title: Drag Recorder
+title: Drag Recorder 拖拽记录
 sidebar_position: 20
 tags: [interaction]
 ---

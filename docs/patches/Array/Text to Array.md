@@ -1,5 +1,5 @@
 ---
-title: Text to Array
+title: Text to Array 文本转数组
 sidebar_position: 20
 tags: [array]
 ---

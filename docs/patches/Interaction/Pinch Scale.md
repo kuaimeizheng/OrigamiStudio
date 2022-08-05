@@ -1,5 +1,5 @@
 ---
-title: Pinch Scale
+title: Pinch Scale 捏放比例
 sidebar_position: 20
 tags: [interaction]
 ---

@@ -1,5 +1,5 @@
 ---
-title: Zoom In Out
+title: Zoom In Out 放大缩小
 sidebar_position: 20
 tags: [interaction]
 ---

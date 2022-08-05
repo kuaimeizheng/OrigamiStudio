@@ -1,5 +1,5 @@
 ---
-title: Interaction Recorder
+title: Interaction Recorder 交互记录
 sidebar_position: 20
 tags: [interaction]
 ---

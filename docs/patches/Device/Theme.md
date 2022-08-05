@@ -1,5 +1,5 @@
 ---
-title: Theme
+title: Theme 设备主题
 sidebar_position: 20
 tags: [device]
 ---
