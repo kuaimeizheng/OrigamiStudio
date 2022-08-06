@@ -1,4 +1,5 @@
 ---
+title: Sound Pulse 声音脉冲
 sidebar_position: 20
 tags: [media]
 ---

@@ -1,4 +1,5 @@
 ---
+title: Pattern 模式
 sidebar_position: 20
 tags: [media]
 ---
