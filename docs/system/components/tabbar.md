@@ -1,5 +1,6 @@
 ---
-sidebar_position: 10
+title: Tabbar 标签栏
+sidebar_position: 25
 tags: [components]
 ---
 
@@ -7,7 +8,7 @@ tags: [components]
 
 ---
 
-模块描述。
+标签栏组件，点击每个标签可以切换显示内容。
 
 #### Input 输入
 

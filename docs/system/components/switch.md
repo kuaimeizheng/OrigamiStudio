@@ -1,5 +1,6 @@
 ---
-sidebar_position: 10
+title: Switch 开关
+sidebar_position: 15
 tags: [components]
 ---
 
@@ -7,7 +8,7 @@ tags: [components]
 
 ---
 
-模块描述。
+开关组件。
 
 #### Input 输入
 

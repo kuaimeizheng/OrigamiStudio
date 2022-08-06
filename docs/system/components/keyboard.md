@@ -1,5 +1,6 @@
 ---
-sidebar_position: 10
+title: Keyboard 键盘
+sidebar_position: 40
 tags: [components]
 ---
 
@@ -7,7 +8,7 @@ tags: [components]
 
 ---
 
-模块描述。
+键盘组件，可以调用系统的默认键盘。
 
 #### Input 输入
 

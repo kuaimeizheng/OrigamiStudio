@@ -1,4 +1,5 @@
 ---
+title: Color 颜色
 sidebar_position: 10
 tags: [token]
 ---
@@ -9,7 +10,20 @@ tags: [token]
 
 将常用的颜色变量封装进模块里，可以方便的设置交互动画中不同的色值。
 
-![](http://ssy-design.oss-cn-shenzhen.aliyuncs.com/images/ixd/patches/color%20palette.png)
+<!-- ![](http://ssy-design.oss-cn-shenzhen.aliyuncs.com/images/ixd/patches/color%20palette.png) -->
+
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Color Palette</h3>
+        <ul className="inputs">
+            <li>Primary Color <span>Teal</span></li>
+            <li>Weight <span>600</span></li>
+        </ul>
+        <ul className="outputs">
+            <li><span></span>Color</li>
+        </ul>
+    </div>
+</div>
 
 #### Input 输入
 

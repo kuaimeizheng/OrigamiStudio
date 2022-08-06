@@ -1,5 +1,6 @@
 ---
-sidebar_position: 10
+title: Slider 滑块
+sidebar_position: 35
 tags: [components]
 ---
 
@@ -7,7 +8,7 @@ tags: [components]
 
 ---
 
-模块描述。
+滑块组件。
 
 #### Input 输入
 

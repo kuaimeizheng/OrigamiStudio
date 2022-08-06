@@ -1,5 +1,6 @@
 ---
-sidebar_position: 10
+title: Activity Indicator 状态指示器
+sidebar_position: 60
 tags: [components]
 ---
 
@@ -7,7 +8,7 @@ tags: [components]
 
 ---
 
-模块描述。
+状态指示器组件。
 
 #### Input 输入
 

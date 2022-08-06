@@ -1,5 +1,6 @@
 ---
-sidebar_position: 10
+title: Visual Effect 毛玻璃
+sidebar_position: 50
 tags: [components]
 ---
 
@@ -7,7 +8,7 @@ tags: [components]
 
 ---
 
-模块描述。
+可以对当前界面添加毛玻璃的效果，等同于 sketch 中的背景模糊。
 
 #### Input 输入
 

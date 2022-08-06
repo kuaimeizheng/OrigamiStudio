@@ -1,5 +1,6 @@
 ---
-sidebar_position: 10
+title: Action Sheet 操作列表
+sidebar_position: 55
 tags: [components]
 ---
 
@@ -7,7 +8,7 @@ tags: [components]
 
 ---
 
-模块描述。
+操作列表组件。
 
 #### Input 输入
 

@@ -1,5 +1,6 @@
 ---
-sidebar_position: 10
+title: Checkbox 多选框
+sidebar_position: 20
 tags: [components]
 ---
 
@@ -7,7 +8,7 @@ tags: [components]
 
 ---
 
-模块描述。
+多选框组件。
 
 #### Input 输入
 

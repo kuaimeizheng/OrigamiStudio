@@ -1,5 +1,6 @@
 ---
-sidebar_position: 10
+title: Progress 进度
+sidebar_position: 30
 tags: [components]
 ---
 
@@ -7,7 +8,7 @@ tags: [components]
 
 ---
 
-模块描述。
+进度显示组件。
 
 #### Input 输入
 

@@ -1,5 +1,6 @@
 ---
-sidebar_position: 10
+title: Alert View 警示窗
+sidebar_position: 45
 tags: [components]
 ---
 
@@ -7,7 +8,7 @@ tags: [components]
 
 ---
 
-模块描述。
+警示弹窗的组件。
 
 #### Input 输入
 

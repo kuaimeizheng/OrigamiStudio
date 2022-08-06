@@ -1,5 +1,6 @@
 ---
-order: 20
+title: Shadow 阴影
+sidebar_position: 20
 tags: [token]
 ---
 
@@ -9,7 +10,22 @@ tags: [token]
 
 快捷设置交互效果的阴影样式。
 
-![](http://ssy-design.oss-cn-shenzhen.aliyuncs.com/images/ixd/patches/shadow.png)
+[//]: # '![](http://ssy-design.oss-cn-shenzhen.aliyuncs.com/images/ixd/patches/shadow.png)'
+
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Shadow</h3>
+        <ul className="inputs">
+            <li>Shadow Token <span>Z 100</span></li>
+            <li>Enable <span className="checkbox-off"></span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Shadow Opacity <span>0</span></li>
+            <li>Shadow Radius <span>0</span></li>
+            <li>Shadow Offset Y <span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 #### Input 输入
 

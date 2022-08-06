@@ -1,5 +1,6 @@
 ---
-sidebar_position: 10
+title: Button 按钮
+sidebar_position: 5
 tags: [components]
 ---
 
@@ -7,7 +8,7 @@ tags: [components]
 
 ---
 
-模块描述。
+按钮组件。
 
 #### Input 输入
 
