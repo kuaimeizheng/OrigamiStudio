@@ -12,15 +12,12 @@ tags: [interaction]
     <div className="patch processor">
         <h3>Touch Over</h3>
         <ul className="inputs">
-            <li>Record <span className="checkbox-off"></span></li>
-            <li>Playback <span className="checkbox-off"></span></li>
-            <li>Recording <span>...</span></li>
-            <li>Load <span className="checkbox-off"></span></li>
+            <li>Layer<span className="checkbox-off"></span></li>
+            <li><small>X<span>0</span>Y<span>0</span></small></li>
         </ul>
         <ul className="outputs">
-            <li>Status <span className="patch-color-preview status" ></span></li>
-            <li>Touches<span>[ ]</span> </li>
-            <li>Recording <span>[...]</span> </li>
+            <li>Over<span className="checkbox-off"></span></li>
+            <li>Position<span></span></li>
         </ul>
     </div>
 </div>
@@ -30,24 +27,19 @@ tags: [interaction]
 
 ### Input 输入
 
-#### Record 录制
+#### Layer
 
-#### Playback 回放
+#### X/Y
 
-#### Recording 记录
-
-#### Load 加载
 
 </div>
 <div className="outputs">
 
 ### Output 输出
 
-#### Status 状态
+#### Over
 
-#### Touches 触摸
-
-#### Recoding 记录
+#### Position
 
 </div>
 </div>
