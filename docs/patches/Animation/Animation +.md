@@ -1,7 +1,7 @@
 ---
-title: Animation +
+title: Animation + 动画 +
 sidebar_position: 20
-tags: [loop]
+tags: [animation]
 ---
 
 # Animation +
@@ -29,13 +29,13 @@ tags: [loop]
 
 ### Input 输入
 
-#### Number
+#### Number 数值
 
-#### Duration
+#### Duration 持续时间
 
-#### Bias
+#### Bias 偏差
 
-#### Curve
+#### Curve 曲线
 
 
 </div>
@@ -43,9 +43,9 @@ tags: [loop]
 
 ### Output 输出
 
-#### Output
+#### Output 输出
 
-#### Curve
+#### Curve 曲线
 
 
 </div>

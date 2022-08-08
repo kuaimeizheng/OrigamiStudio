@@ -1,7 +1,7 @@
 ---
-title: Pie Progress
+title: Pie Progress 圆饼进度
 sidebar_position: 20
-tags: [loop]
+tags: [animation]
 ---
 
 # Pie Progress

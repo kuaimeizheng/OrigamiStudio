@@ -1,23 +1,21 @@
 ---
-title: Animation Info 动画信息
+title: Progress Direction 事件方向
 sidebar_position: 20
-tags: [animation]
+tags: [utilities]
 ---
 
-# Animation Info
-
-查看动画的信息.
+# Progress Direction
 
 <div className="patch-container">
     <div className="patch processor">
-        <h3>Animation Info</h3>
+        <h3>Progress Direction</h3>
         <ul className="inputs">
             <li>Progress <span>0</span></li>
         </ul>
         <ul className="outputs">
-            <li><span>3.2</span>Duration </li>
-            <li><span>3.2</span>Actual</li> 
-            <li><span>3.2</span>Adjusted</li>
+            <li>Increasing <span className="checkbox-off"></span></li>
+            <li>Decreasing <span className="checkbox-off"></span></li>
+            <li>Stationary <span className="checkbox-off"></span></li>
         </ul>
     </div>
 </div>
@@ -34,11 +32,11 @@ tags: [animation]
 
 ### Output 输出
 
-#### Duration 持续时间
+#### Increasing 增加
 
-#### Actual 实际
+#### Decreasing 减少
 
-#### Adjusted 调整后的
+#### Stationary 静止
 
 </div>
 </div>

@@ -17,7 +17,6 @@ tags: [animation]
             <li>Curve <span>Linear</span></li>
             <li>Mirrored <span className="checkbox-off"></span></li>
             <li>Reset <span className="patch-pulse-preview"><span className="dot"></span></span></li>
-
         </ul>
         <ul className="outputs">
             <li>Progress<span>0</span> </li>
@@ -30,22 +29,22 @@ tags: [animation]
 
 ### Input 输入
 
-#### Enable
+#### Enable 启用
 
-#### Duration
+#### Duration 持续时间
 
-#### Curve
+#### Curve 曲线
 
-#### Mirrored
+#### Mirrored 镜像
 
-#### Reset
+#### Reset 重置
 
 </div>
 <div className="outputs">
 
 ### Output 输出
 
-#### Progress
+#### Progress 进度
 
 
 </div>
