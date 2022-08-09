@@ -15,8 +15,8 @@ tags: [interaction]
         </ul>
         <ul className="outputs">
             <li>Fingers <span>0</span></li>
-            <li>Is Zoom In <span className="checkbox-off"></span></li>
-            <li>Is Zoom Out <span className="checkbox-off"></span></li>
+            <li>Zoom In <span className="checkbox-off"></span></li>
+            <li>Zoom Out <span className="checkbox-off"></span></li>
             <li>Scale <span>1</span></li>
         </ul>
     </div>
@@ -40,9 +40,9 @@ Desktop、Mobile device。
 
 #### Fingers 手指
 
-#### Is Zoom In 是放大
+#### Zoom In 放大
 
-#### Is Zoom Out 是缩小
+#### Zoom Out 缩小
 
 #### Scale 比例
 
