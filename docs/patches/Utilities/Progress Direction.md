@@ -1,5 +1,5 @@
 ---
-title: Progress Direction 事件方向
+title: Progress Direction 进度方向
 sidebar_position: 20
 tags: [utilities]
 ---
