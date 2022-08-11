@@ -128,31 +128,32 @@ const config = {
                         type: 'doc',
                         docId: 'patches/intro',
                         position: 'left',
-                        label: '自定义模块',
+                        label: '模块',
                     },
-                    // {
-                    //     type: 'doc',
-                    //     docId: 'example/intro',
-                    //     position: 'left',
-                    //     label: '自定义例子',
-                    // },
+
                     {
                         to: 'showcase',
-                        label: '自定义例子',
+                        label: '例子',
                         position: 'left'
                     },
                     {
                         type: 'doc',
                         docId: 'system/intro',
                         position: 'left',
-                        label: '自定义组件系统',
+                        label: '组件系统',
+                    },
+                    {
+                        type: 'doc',
+                        docId: 'special/intro',
+                        position: 'left',
+                        label: '专题',
                     },
 
                     {
                         type: 'doc',
                         docId: 'device/intro',
                         position: 'left',
-                        label: '自定义设备',
+                        label: '设备',
                     },
                     {
                       type: 'doc',
