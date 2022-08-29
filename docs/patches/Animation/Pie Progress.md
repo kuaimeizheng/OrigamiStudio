@@ -21,13 +21,13 @@ tags: [animation]
 </div>
 
 
-### Radius
+### Radius 半径
 
-### Progress
+### Progress 进度
 
-### Active Colo
+### Active Color 使用中颜色
 
-### InActive Color
+### InActive Color 非使用中颜色
 
 
 ------
