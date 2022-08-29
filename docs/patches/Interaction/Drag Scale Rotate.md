@@ -25,25 +25,25 @@ tags: [interaction]
  </div>
 </div>
 
-### Enable
+### Enable 启用
 
-### Position
+### Position 位置
 
-### Size
+### Size 大小
 
-### Clip Content
+### Clip Content 裁剪内容
 
-### Bounds
+### Bounds 边界
 
 ### Pan
 
-### Zoom
+### Zoom 缩放
 
-### Rotate
+### Rotate 旋转
 
-### Momentum
+### Momentum 动量
 
-### Friction
+### Friction 摩擦
 
 
 ------
