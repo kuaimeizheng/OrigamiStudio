@@ -27,11 +27,11 @@ tags: [media]
 
 ### Input 输入
 
-#### Size 
+#### Size 大小
 
-#### Sample
+#### Sample 采样
 
-#### Volume Meter
+#### Volume Meter 音量计算器
 
 </div>
 <div className="outputs">
