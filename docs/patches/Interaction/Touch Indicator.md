@@ -23,21 +23,21 @@ tags: [interaction]
  </div>
 </div>
 
-### Enable
+### Enable 启用
 
-### Color
+### Color 颜色
 
-### Size
+### Size 大小
 
-### Show on
+### Show on 显示
 
-### Fade out
+### Fade out 淡出
 
-### Bounciness
+### Bounciness 弹力
 
-### Speed
+### Speed 速度
 
-### Mass
+### Mass 质量
 
 
 ------
