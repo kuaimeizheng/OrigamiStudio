@@ -26,11 +26,11 @@ tags: [utilities]
 
 ### Input 输入
 
-#### Origin
+#### Origin 原点
 
-#### Radius
+#### Radius 半径
 
-#### Angle
+#### Angle 角度
 
 </div>
 <div className="outputs">
