@@ -31,15 +31,15 @@ tags: [scroll]
 
 ### Input 输入
 
-#### Enable
+#### Enable 启用
 
-#### Swipe Layer 
+#### Swipe Layer 滑动图层
 
-#### Swipe Tolerance
+#### Swipe Tolerance 滑动偏差
 
-#### Switch Off
+#### Switch Off 滑动关闭
 
-#### Scroll Layer
+#### Scroll Layer 滚动图层
 
 
 </div>
@@ -47,13 +47,13 @@ tags: [scroll]
 
 ### Output 输出
 
-#### Swipe Position
+#### Swipe Position 滑动位置
 
-#### Scroll Position
+#### Scroll Position 滚动位置
 
-#### Swipe Progress
+#### Swipe Progress 滑动进度
 
-#### On/ Off
+#### On/Off 开/关
 
 
 </div>
