@@ -29,24 +29,24 @@ tags: [interaction]
 
 ### Input 输入
 
-#### Value
+#### Value 值
 
-#### Response
+#### Response 响应
 
-#### Damping Fraction
+#### Damping Fraction 阻尼因素
 
-#### Mass
+#### Mass 质量
 
-#### Gesture Active
+#### Gesture Active 手势活跃
 
-#### Gesture Velocity
+#### Gesture Velocity 手势速率
 
 </div>
 <div className="outputs">
 
 ### Output 输出
 
-#### Progress
+#### Progress 进度
 
 
 </div>
