@@ -26,11 +26,11 @@ tags: [utilities]
 
 ### Input 输入
 
-#### Height Card
+#### Height Card 卡片高度
 
-#### Number of Cards
+#### Number of Cards 卡片数量
 
-#### Space
+#### Space 间距
 
 </div>
 <div className="outputs">
