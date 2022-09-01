@@ -32,30 +32,30 @@ tags: [layer]
 
 ### Input 输入
 
-#### Value
+#### Value 值
 
-#### Min
+#### Min 最小
 
-#### Max
+#### Max 最大
 
-#### Opacity Start
+#### Opacity Start 不透明度开始
 
-#### Opacity End
+#### Opacity End 不透明度结束
 
-#### Scale Start
+#### Scale Start 缩放开始
 
-#### Scale End
+#### Scale End 缩放结束
 
-#### Torelance
+#### Torelance 公差
 
 </div>
 <div className="outputs">
 
 ### Output 输出
 
-#### Opacity
+#### Opacity 不透明度
 
-#### Scale
+#### Scale 缩放
 
 </div>
 </div>
