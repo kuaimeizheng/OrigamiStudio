@@ -21,19 +21,19 @@ tags: [text]
  </div>
 </div>
 
-### Enable 启用
+#### Enable 启用
 
-### Position 位置
+#### Position 位置
 
-### Anchor 锚点
+#### Anchor 锚点
 
-### Text 文本
+#### Text 文本
 
-### Font Size 字体大小
+#### Font Size 字体大小
 
-### Circle Radius 圆半径
+#### Circle Radius 圆半径
 
-### Position位置
+#### Position位置
 
 
 ------
