@@ -25,16 +25,16 @@ tags: [layer]
 
 ### Input 输入
 
-#### Turn On
+#### Turn On 打开
 
-#### Position
+#### Position 位置
 
 </div>
 <div className="outputs">
 
 ### Output 输出
 
-#### Shape
+#### Shape 形状
 
 </div>
 </div>
