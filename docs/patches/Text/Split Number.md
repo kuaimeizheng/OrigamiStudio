@@ -26,9 +26,9 @@ tags: [text]
 
 ### Input 输入
 
-#### Depth
+#### Depth 深度
 
-#### Split
+#### Split 拆分
 
 
 </div>
@@ -36,9 +36,9 @@ tags: [text]
 
 ### Output 输出
 
-#### High 
+#### High 高
 
-#### Low 
+#### Low 低
 
 </div>
 </div>
