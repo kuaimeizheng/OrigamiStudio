@@ -133,7 +133,7 @@ const config = {
 
                     {
                         to: 'showcase',
-                        label: '例子',
+                        label: '例子(待完善)',
                         position: 'left'
                     },
                     {
