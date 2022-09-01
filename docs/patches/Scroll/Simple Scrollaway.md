@@ -25,9 +25,9 @@ tags: [scroll]
 
 ### Input 输入
 
-#### Scroll
+#### Scroll 滚动
 
-#### Range
+#### Range 范围
 
 
 </div>
@@ -35,7 +35,7 @@ tags: [scroll]
 
 ### Output 输出
 
-#### Progress
+#### Progress 进度
 
 
 </div>
