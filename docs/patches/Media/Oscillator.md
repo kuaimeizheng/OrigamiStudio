@@ -32,21 +32,21 @@ tags: [media]
 
 ### Input 输入
 
-#### Frequency 
+#### Frequency 频率
 
-#### Wave
+#### Wave 波长
 
-#### Sine
+#### Sine 正弦
 
-#### Square
+#### Square 正方形
 
-#### Triangle
+#### Triangle 三角形
 
-#### Sawtooth
+#### Sawtooth 锯齿
 
-#### Noise
+#### Noise 噪点
 
-#### Pause
+#### Pause 暂停
 
 
 </div>
@@ -54,7 +54,7 @@ tags: [media]
 
 ### Output 输出
 
-#### Number
+#### Number 数值
 
 
 </div>
