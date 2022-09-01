@@ -19,13 +19,13 @@ tags: [layer]
  </div>
 </div>
 
-### Enable
+### Enable 启用
 
-### Position
+### Position 位置
 
-### Progress
+### Progress 进度
 
-### Tint
+### Tint 色彩
 
 
 ------
