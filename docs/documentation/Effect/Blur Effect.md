@@ -45,5 +45,5 @@ The final filter effect to pass to the Effects Override input on a layer or Laye
 
 ### Related Patches 相关模块
 
-[Option Picker 选项选择器](./Utility/Option%20Picker.md)
+[Option Picker 选项选择器](./../Utility/Option%20Picker.md)
 

@@ -34,7 +34,7 @@ For illustration, below is a Layer Group of height 400 pixels and width 300 pixe
 
 Anchor points change the origin of the coordinate system for that patch. Anchor points can be defined in the Patch Editor with a Point patch, where X and Y are any decimal 0-1.
 
-更改锚点会改变模块的坐标原点位置。 锚点可以通过### [Point]### 模块控制，X 和 Y 的值可以是 0 ～ 1 之间的任何数。
+更改锚点会改变模块的坐标原点位置。 锚点可以通过 Point 模块控制，X 和 Y 的值可以是 0 ～ 1 之间的任何数字。
 
 <div class="coord-example">
  <div class="dot dot-top-left dot-top dot-left"></div>

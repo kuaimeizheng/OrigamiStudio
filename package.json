@@ -33,7 +33,7 @@
     "react-popper": "^2.3.0",
     "rehype-katex": "^4.0.0",
     "remark-math": "^3.0.1",
-    "sass": "^1.54.3"
+    "sass": "^1.54.9"
   },
   "devDependencies": {
     "@docusaurus/lqip-loader": "^2.0.1",

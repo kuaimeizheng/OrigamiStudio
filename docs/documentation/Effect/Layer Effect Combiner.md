@@ -41,4 +41,4 @@ Combines multiple filters into a stack that can be applied to a layer.
 
 ### Related Patches 相关模块
 
-[Option Picker 选项选择器](./Utility/Option%20Picker.md)
+[Option Picker 选项选择器](./../Utility/Option%20Picker.md)
