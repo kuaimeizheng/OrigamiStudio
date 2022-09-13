@@ -1,0 +1,9 @@
+{
+  "label": "Effect 效果",
+  "position": 18,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index"
+  }
+}
