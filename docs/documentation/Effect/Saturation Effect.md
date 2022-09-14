@@ -1,12 +1,13 @@
 ---
-title: Saturation Effect
+title: Saturation Effect 饱和度效果
 sidebar_position: 10
 ---
 
-# Saturation Effect
+# Saturation Effect 饱和度效果
 
 Changes the saturation of a layer.
 
+改变一个图层的饱和度。
 
 <div className="patch-container">
     <div className="patch processor">
@@ -25,7 +26,7 @@ Changes the saturation of a layer.
 
 ### Input 输入
 
-#### Saturation
+#### Saturation 饱和度
 
 The amount of saturation that will be applied to a layer. Values can range between 0.0 and 2.0
 
@@ -35,7 +36,7 @@ The amount of saturation that will be applied to a layer. Values can range betwe
 
 ### Output 输出
 
-#### Layer Effect
+#### Layer Effect 图层效果
 
 The final filter effect to pass to the Effects Override input on a layer or Layer Effect Combiner to stack filters with multiple Layer Effect patches.
 

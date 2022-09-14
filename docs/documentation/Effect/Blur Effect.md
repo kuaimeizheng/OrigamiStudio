@@ -1,5 +1,5 @@
 ---
-title: Blur Effect
+title: Blur Effect 模糊效果
 sidebar_position: 10
 ---
 
@@ -37,7 +37,7 @@ The intensity at which the layer will be blurred. Values can range between 0.0 a
 
 ### Output 输出
 
-#### Layer Effect
+#### Layer Effect 图层效果
 
 The final filter effect to pass to the Effects Override input on a layer or Layer Effect Combiner to stack filters with multiple Layer Effect patches.
 

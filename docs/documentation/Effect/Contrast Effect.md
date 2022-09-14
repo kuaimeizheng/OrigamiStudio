@@ -1,11 +1,13 @@
 ---
-title: Contrast Effect
+title: Contrast Effect 对比效果
 sidebar_position: 10
 ---
 
-# Contrast Effect
+# Contrast Effect 对比效果
 
 Changes the contrast of a layer.
+
+改变图层的对比度。
 
 <div className="patch-container">
     <div className="patch processor">
@@ -24,16 +26,18 @@ Changes the contrast of a layer.
 
 ### Input 输入
 
-#### Contrast
+#### Contrast 对比度
 
 The amount of contrast that will be applied to a layer. Values can range between 0.25 and 4.0.
+
+将应用到一个图层上的对比量。取值范围在0.25到4.0之间。
 
 </div>
 <div className="outputs">
 
 ### Output 输出
 
-#### Layer Effect
+#### Layer Effect 图层效果
 
 The final filter effect to pass to the Effects Override input on a layer or Layer Effect Combiner to stack filters with multiple Layer Effect patches.
 

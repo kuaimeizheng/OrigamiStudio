@@ -1,11 +1,13 @@
 ---
-title: Layer Effect Combiner
+title: Layer Effect Combiner 图层效果组合器
 sidebar_position: 10
 ---
 
-# Layer Effect Combiner
+# Layer Effect Combiner 图层效果组合器
 
 Combines multiple filters into a stack that can be applied to a layer.
+
+将多个滤镜组合成一个堆栈，可以应用到一个图层。
 
 <div className="patch-container">
     <div className="patch processor">
@@ -26,13 +28,13 @@ Combines multiple filters into a stack that can be applied to a layer.
 
 ### Input 输入
 
----
+
 </div>
 <div className="outputs">
 
 ### Output 输出
 
-#### Layer Effect
+#### Layer Effect 图层效果
 
 </div>
 </div>
