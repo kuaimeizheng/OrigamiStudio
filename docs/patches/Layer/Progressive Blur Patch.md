@@ -1,5 +1,5 @@
 ---
-title: Progressive Blur Patch 渐变模糊
+title: Progressive Blur Patch 渐变模糊模块
 sidebar_position: 20
 tags: [layer]
 ---
