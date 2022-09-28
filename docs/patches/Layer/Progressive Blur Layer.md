@@ -1,10 +1,10 @@
 ---
-title: Progressive Blur 逐渐模糊
+title: Progressive Blur Layer 渐变模糊图层
 sidebar_position: 20
 tags: [layer]
 ---
 
-# Progressive Blur
+# Progressive Blur Layer
 
 创建无缝渐进模糊效果，如在应用列表或音乐应用。
 性能很差，所以不要过度使用它，尽管在设备上运行的没有问题。
