@@ -27,19 +27,19 @@ Create a rounded rectangle to be used with the Shape Layer.
 
 ### Input 输入
 
-### Position 位置
+#### Position 位置
 
 The position of the rounded rectangle.
 
 圆角矩形的位置。
 
-### Size 尺寸
+#### Size 尺寸
 
 The size of the rounded rectangle.
 
 圆角矩形尺寸。
 
-### Radius 圆角
+#### Radius 圆角
 
 The corner radius of the rounded rectangle.
 
@@ -51,7 +51,7 @@ The corner radius of the rounded rectangle.
 
 ### Output 输出
 
-### Shape 形状### 
+#### Shape 形状
 
 The rounded rectangle shape. Connect to a [Shape Layer](https://www.notion.so/Shape-6381402c7a90468d97365c58ab562ea1).
 
