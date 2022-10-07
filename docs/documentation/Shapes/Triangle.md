@@ -28,11 +28,11 @@ The third point of the triangle.
 
 第三个点的 X、Y 坐标值。
 
-### Shape 形状### 
+### Shape 形状
 
 The triangle shape. Connect to a [Shape Layer](https://www.notion.so/Shape-6381402c7a90468d97365c58ab562ea1).
 
-三角形形状。连接到 形状图层 的 ### Shape属性。
+三角形形状。连接到形状图层的 Shape 属性。
 
 ------
 
