@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 5
 ---
 
 # Cubic Bezier Curve 三次贝塞尔曲线

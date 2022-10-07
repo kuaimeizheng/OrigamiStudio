@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 5
 ---
 
 # Rounded Rectangle 圆角矩形
@@ -8,7 +8,24 @@ Create a rounded rectangle to be used with the Shape Layer.
 
 创建一个圆角矩形的形状图层。
 
-![Image](./../../../static/img/docs/Shapes/rounded-rectangle.png
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Rounded Rectangle</h3>
+        <ul className="inputs">
+            <li>Position <small> X <span>0</span> Y <span>0</span></small></li> 
+            <li>Size <small> X <span>100</span> Y <span>100</span></small></li> 
+            <li>Radius <span>10</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Shape </li>
+        </ul>
+    </div>
+</div>
+
+<div className="port-descriptions">
+<div className="inputs">
+
+### Input 输入
 
 ### Position 位置
 
@@ -28,11 +45,20 @@ The corner radius of the rounded rectangle.
 
 圆角矩形的圆角大小。
 
+
+</div>
+<div className="outputs">
+
+### Output 输出
+
 ### Shape 形状### 
 
 The rounded rectangle shape. Connect to a [Shape Layer](https://www.notion.so/Shape-6381402c7a90468d97365c58ab562ea1).
 
-圆角矩形形状。连接到 形状图层 的 ### Shape属性。
+圆角矩形形状。连接到形状图层的 Shape 属性。
+
+</div>
+</div>
 
 ------
 
