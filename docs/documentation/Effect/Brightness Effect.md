@@ -2,7 +2,7 @@
 title: Brightness Effect 亮度效果
 sidebar_position: 1
 last_update:
-  author: 蒯美政0
+  author: 蒯美政
 ---
 
 # Brightness Effect 亮度效果

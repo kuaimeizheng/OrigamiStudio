@@ -2,7 +2,7 @@
 title: Saturation Effect 饱和度效果
 sidebar_position: 1
 last_update:
-  author: 蒯美政0
+  author: 蒯美政
 ---
 
 # Saturation Effect 饱和度效果

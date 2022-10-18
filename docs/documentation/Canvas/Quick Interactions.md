@@ -1,5 +1,8 @@
 ---
-sidebar_position: 3
+title: Quick Interactions 快捷交互
+sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Quick Interactions 快捷交互

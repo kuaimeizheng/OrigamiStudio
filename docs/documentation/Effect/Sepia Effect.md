@@ -2,7 +2,7 @@
 title: Sepia Effect 棕褐色效果
 sidebar_position: 1
 last_update:
-  author: 蒯美政0
+  author: 蒯美政
 ---
 
 # Sepia Effect 棕褐色效果

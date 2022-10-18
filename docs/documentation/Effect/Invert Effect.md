@@ -2,7 +2,7 @@
 title: Invert Effect 反转效果
 sidebar_position: 1
 last_update:
-  author: 蒯美政0
+  author: 蒯美政
 ---
 
 # Invert Effect 反转效果

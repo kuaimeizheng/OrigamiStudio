@@ -1,5 +1,6 @@
 ---
-sidebar_position: 1
+title: Math Expressions 数学表达式
+sidebar_position: 5
 last_update:
   author: 蒯美政
 ---

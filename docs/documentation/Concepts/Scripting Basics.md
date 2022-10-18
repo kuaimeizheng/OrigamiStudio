@@ -1,6 +1,6 @@
 ---
-title: Scripting Basics
-sidebar_position: 1
+title: Scripting Basics 脚本基础
+sidebar_position: 5
 last_update:
   author: 蒯美政
 ---
