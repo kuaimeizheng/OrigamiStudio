@@ -3,8 +3,6 @@ title: JavaScript Patch API
 sidebar_position: 1
 last_update:
   author: 蒯美政
-last_update:
-  author: 蒯美政
 ---
 
 # JavaScript Patch API
