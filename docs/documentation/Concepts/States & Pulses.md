@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+last_update:
+  author: 蒯美政
 ---
 
 # States & Pulses 状态 & 脉冲

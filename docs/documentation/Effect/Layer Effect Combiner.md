@@ -1,6 +1,8 @@
 ---
 title: Layer Effect Combiner 图层效果组合器
-sidebar_position: 10
+sidebar_position: 1
+last_update:
+  author: 蒯美政0
 ---
 
 # Layer Effect Combiner 图层效果组合器

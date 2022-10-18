@@ -1,5 +1,7 @@
 ---
 sidebar_position: 1
+last_update:
+  author: 蒯美政
 ---
 
 # Math Expressions 数学表达式

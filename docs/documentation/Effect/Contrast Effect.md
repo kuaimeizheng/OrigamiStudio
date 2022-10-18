@@ -1,6 +1,8 @@
 ---
 title: Contrast Effect 对比效果
-sidebar_position: 10
+sidebar_position: 1
+last_update:
+  author: 蒯美政0
 ---
 
 # Contrast Effect 对比效果
