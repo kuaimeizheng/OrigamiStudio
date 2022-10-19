@@ -1,0 +1,7 @@
+.container {
+    max-width: 100% !important;
+    margin-left: 40px;
+}
+.col--3 {
+    --ifm-col-width: calc(3 / 12 * 100%);
+  }

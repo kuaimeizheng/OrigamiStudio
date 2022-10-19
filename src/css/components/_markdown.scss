@@ -1,0 +1,11 @@
+code {
+    margin: 0 4px 0 4px;
+}
+:root{
+    --ifm-code-padding-horizontal: 0.4rem;
+    --ifm-code-padding-vertical: 0.1rem;
+}
+// md文档图片适配全宽
+p > img{
+    width: 100%;
+}

@@ -10,6 +10,8 @@
 //import styles from './styles.module.scss';
 @import "./components/origamipatches";
 @import "./components/doc-sidebar";
+@import "./components/layout";
+@import "./components/markdown";
 
 :root {
     --ifm-color-primary: #0969da;
