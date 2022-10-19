@@ -255,11 +255,11 @@ For this reason, Origami provides an additional method on `console` called `watc
 
 因此，Origami在`console`上提供了一个额外的方法，称为`watch`。这对于通过不同的评估周期跟踪特定变量非常有效。例如:
 
-<video src="https://origami.design/public/images/videos/scripting-console-log.mov
-" height="500" width="100%" autoplay="" muted="" loop="loop"></video>
+<video src="https://origami.design/public/images/videos/scripting-console-log.mov" 
+height="500" width="100%" autoplay="" muted="" loop="loop"></video>
 
-<video src="https://origami.design/public/images/videos/scripting-console-watch.mov
-" height="500" width="100%" autoplay="" muted="" loop="loop"></video>
+<video src="https://origami.design/public/images/videos/scripting-console-watch.mov" 
+height="500" width="100%" autoplay="" muted="" loop="loop"></video>
 
 
 ## Modifying a Script 修改脚本
