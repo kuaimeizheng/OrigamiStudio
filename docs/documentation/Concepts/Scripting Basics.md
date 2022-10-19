@@ -24,14 +24,14 @@ There are two ways to add a JavaScript Patch into Origami:
 有两种方法添加JavaScript模块到Origami:
 
 <video src="https://origami.design/public/images/videos/scripting-droppingJSPatch.mov
-" height="500" width="100%" autoplay="" muted="" loop=""></video>
+" height="500" width="100%" autoplay="" muted="" loop="loop" align="left"></video>
 
 Drag and drop a valid .js file into the patch graph
 
 将有效的.js文件拖放到模块图中
 
 <video src="https://origami.design/public/images/videos/scripting-addJs.mov
-" height="500" width="100%" autoplay="" muted="" loop=""></video>
+" height="500" width="100%" autoplay="" muted="" loop="loop"></video>
 
 Insert a JavaScript Patch via the Patch Picker.
 
@@ -245,7 +245,7 @@ For example take this code: `patch.outputs[0].value = [];`
 
 This will try to write an array to a single value. Thus the console will output the following warning: `WARNING: Could not convert a JavaScript value into an appropriate Origami type. Ignoring.`
 
-这将尝试将一个数组写入单个值。因此控制台将输出以下警告:`警告:无法将JavaScript值转换为适当的Origami类型。Ignoring.`
+这将尝试将一个数组写入单个值。因此控制台将输出以下警告:`警告:无法将JavaScript值转换为适当的Origami类型。忽略.`
 
 Logging messages can accumulate quickly and Origami sets a max [limit](https://origami.design/documentation/concepts/scriptingbasics?fbclid=IwAR2y3vdZaoLrtlUoA-bio42zeWZefYd7vM6HPB4nnA-kGnxJTJPtxXmuBoo#maximum-log-messages) on them. This can make messages hard to track.
 
@@ -256,10 +256,10 @@ For this reason, Origami provides an additional method on `console` called `watc
 因此，Origami在`console`上提供了一个额外的方法，称为`watch`。这对于通过不同的评估周期跟踪特定变量非常有效。例如:
 
 <video src="https://origami.design/public/images/videos/scripting-console-log.mov
-" height="500" width="100%" autoplay="" muted="" loop=""></video>
+" height="500" width="100%" autoplay="" muted="" loop="loop"></video>
 
 <video src="https://origami.design/public/images/videos/scripting-console-watch.mov
-" height="500" width="100%" autoplay="" muted="" loop=""></video>
+" height="500" width="100%" autoplay="" muted="" loop="loop"></video>
 
 
 ## Modifying a Script 修改脚本
