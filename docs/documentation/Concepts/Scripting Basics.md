@@ -11,7 +11,7 @@ last_update:
 
 The Patch Editor offers a robust and flexible [programming environment](https://origami.design/tutorials/getting-started/coming-from-code.html) in Origami. However there are times when traditional imperative programming can be a better solution.
 
-模块编辑器在Origami中提供了一个健壮而灵活的[编程环境](https://origami.design/tutorials/getting-started/coming-from-code.html)。然而，有时传统的命令式编程可能是更好的解决方案。
+模块编辑器在Origami中提供了一个强大灵活的[编程环境](https://origami.design/tutorials/getting-started/coming-from-code.html)。然而，有时传统的命令式编程可能是更好的解决方案。
 
 Thanks to the new Javascript Patch, Origami can now directly run JavaScript ([ES6*](https://github.com/facebook/hermes/blob/main/doc/Features.md)) via its Hermes runtime.
 
@@ -75,7 +75,7 @@ return patch;
    - Reading and writing values. 读写值
 5. Return the patch object. 返回模块对象
 
-**Create the patch object**.  创建模块对象
+#### Create the patch object.  创建模块对象
 
 The first step is to create an object of the class [Patch](https://origami.design/documentation/concepts/ScriptingAPI.html#patch). This class is the interface provided to execute any JavaScript.
 
@@ -85,11 +85,11 @@ The first step is to create an object of the class [Patch](https://origami.desig
 var patch = new Patch();
 ```
 
-**Define its inputs and outputs.**  定义其输入和输出
+#### Define its inputs and outputs.  定义其输入和输出
 
-`inputs` is an array of [PatchInput](https://origami.design/documentation/concepts/ScriptingAPI.html#patchinput) and similarly `outputs` is an array of [PatchOutput](https://origami.design/documentation/concepts/ScriptingAPI.html#patchoutput). Create a port with Name, Type and optionally a default value. The order of each port in the array is the one that will be shown when this is converted into a patch (see image below)
+`inputs`is an array of [PatchInput](https://origami.design/documentation/concepts/ScriptingAPI.html#patchinput) and similarly `outputs` is an array of [PatchOutput](https://origami.design/documentation/concepts/ScriptingAPI.html#patchoutput). Create a port with Name, Type and optionally a default value. The order of each port in the array is the one that will be shown when this is converted into a patch (see image below)
 
-' inputs '是[PatchInput](https://origami.design/documentation/concepts/ScriptingAPI.html#patchinput)的数组，同样' outputs '是[PatchOutput](https://origami.design/documentation/concepts/ScriptingAPI.html#patchoutput)的数组。创建一个带有Name、Type和可选默认值的端口。数组中每个端口的顺序将在转换为模块时显示(见下图)
+`inputs`是[PatchInput](https://origami.design/documentation/concepts/ScriptingAPI.html#patchinput)的数组，同样`outputs`是[PatchOutput](https://origami.design/documentation/concepts/ScriptingAPI.html#patchoutput)的数组。创建一个带有Name、Type和可选默认值的端口。数组中每个端口的顺序将在转换为模块时显示(见下图)
 
 A list of the types available in the Javascript File patch can be found here: [Types](https://origami.design/documentation/concepts/ScriptingAPI.html#types)
 
@@ -106,7 +106,6 @@ patch.outputs = [
 ```
 
 
-
 <div className="patch-container">
       <div className="patch processor">
           <h3>Javscript Patch</h3>
@@ -121,11 +120,11 @@ patch.outputs = [
 
 
 
-**Set the patch properties**. 设置模块属性
+#### Set the patch properties. 设置模块属性
 
  There are a few properties that can change how a patch is evaluated. ([loopAware](https://origami.design/documentation/concepts/ScriptingAPI.html#patchloopaware-boolean-default-false), [alwaysNeedsToEvaluate](https://origami.design/documentation/concepts/ScriptingAPI.html#patchalwaysneedstoevaluate-boolean-default-false)) This step is optional, as these properties already have a default value of false.
 
-有几个属性可以改变评估模块的方式。这一步是可选的，因为这些属性已经有了默认值false。
+有几个属性可以改变评估模块的方式。这一步是可选的，因为这些属性已经有了默认值 false。
 
 ```
 patch.alwaysNeedsToEvaluate = false;  
@@ -134,11 +133,11 @@ patch.loopAware = false;
 
 
 
-**Add logic**.  添加逻辑
+#### Add logic.  添加逻辑
 
 Every patch object must provide an evaluate function. This function doesn’t take any arguments and doesn’t return any values; the expectation is to read from the input ports and write to the output ports instead.
 
-每个模块对象必须提供一个evaluate函数。这个函数不接受任何参数，也不返回任何值;我们期望从输入端口读取数据，并向输出端口写入数据。
+每个模块对象必须提供一个evaluate函数。这个函数不接受任何参数，也不返回任何值；我们期望从输入端口读取数据，并向输出端口写入数据。
 
 This evaluate function is the place to add the core functionality of the patch. The evaluate function will run any time at least one of the inputs changes. Unless the property[alwaysNeedsToEvaluate](https://origami.design/documentation/concepts/ScriptingAPI.html#patchalwaysneedstoevaluate-boolean-default-false) is set to `true.` 
 
@@ -146,7 +145,7 @@ This evaluate function is the place to add the core functionality of the patch. 
 
 In that case the evaluate function will be called every frame. A great deal of effort has been put into making Origami run as efficiently as possible by using a highly optimized evaluation schedule, so for most cases this should be set to `false`.
 
-在这种情况下，每一帧都会调用evaluate函数。为了使Origami尽可能高效地运行，我们已经投入了大量的精力，使用高度优化的评估时间表，所以在大多数情况下，这应该被设置为“false”。
+在这种情况下，每一帧都会调用evaluate函数。为了使Origami尽可能高效地运行，我们已经投入了大量的精力，使用高度优化的评估时间表，所以在大多数情况下，这应该被设置为`false`。
 
 ```
 patch.evaluate = function() {  
@@ -156,25 +155,25 @@ patch.evaluate = function() {
 
 
 
-**Reading and writing values.** 读写值
+#### Reading and writing values. 读写值
 
 In order to read the value of an input the script needs to reference the `inputs` array by index. For example: to read the value of the first input: `patch.inputs[0].value;`
 
-为了读取输入的值，脚本需要通过索引引用“输入”数组。例如:读取第一个输入的值:' patch.inputs[0].value; '
+为了读取输入的值，脚本需要通过索引引用“输入”数组。例如:读取第一个输入的值：`patch.inputs[0].value; `
 
 Output values are set in a similar way, by assigning the value to the index of the `outputs` array. For example to write something on the first output: `patch.outputs[0].value = 10;`
 
-输出值也以类似的方式设置，即将值赋给' outputs '数组的索引。例如，在第一个输出上写一些东西:' patch.outputs[0]。值= 10;”
+输出值也以类似的方式设置，即将值赋给' outputs '数组的索引。例如，在第一个输出上写一些东西：`patch.outputs[0]。值= 10;`
 
 For looped values use the `values` property (instead of just `value`). The `values` property makes it possible to read or write an Array of values to represent your looped values.
 
-对于循环值，使用' values '属性(而不是仅仅使用' value ')。' values '属性可以读取或写入一个数组的值来表示循环的值。
+对于循环值，使用`values`属性(instead of just `value`)。`values`属性可以读取或写入一个数组的值来表示循环的值。
 
 see more details on [PatchInput](https://origami.design/documentation/concepts/ScriptingAPI.html#patchinput) and [PatchOutput](https://origami.design/documentation/concepts/ScriptingAPI.html#patchoutput)
 
 详情可查看[PatchInput](https://origami.design/documentation/concepts/ScriptingAPI.html#patchinput) 和 [PatchOutput](https://origami.design/documentation/concepts/ScriptingAPI.html#patchoutput)。
 
-**Return the object.**  返回对象
+#### Return the object. 返回对象
 
 Finally we need to return the Patch object fully configured. Origami uses [IIFE](https://www.javascripttutorial.net/javascript-immediately-invoked-function-expression-iife/) as a mechanism to load the Patch. That’s why returning the patch at the end is very important or Origami will throw an error.
 
@@ -192,7 +191,7 @@ Validating an email can become very complicated with patches, whereas Imperative
 
 Another advantage is that there are many more snippets of code in the internet that uses Imperative programming. For example a quick search for [how to validate an email with regular expressions](https://html.spec.whatwg.org/multipage/input.html#valid-e-mail-address)
 
-另一个优点是在互联网上有更多的代码片段使用命令式编程。例如，快速搜索[如何用正则表达式验证电子邮件](https://html.spec.whatwg.org/multipage/input.html#valid-e-mail-address)
+另一个优点是在网上有更多的命令式编程的代码片段。例如，快速搜索[如何用正则表达式验证电子邮件](https://html.spec.whatwg.org/multipage/input.html#valid-e-mail-address)
 
 ```
 var patch = new Patch();  
@@ -220,11 +219,13 @@ return patch;
 
 This script generates a single patch that easily checks if an input string has a valid email format.
 
+这个脚本生成一个模块，可以轻松检查输入字符串是否具有有效的电子邮件格式。
+
 ## Debugging 调试
 
 Currently there are no proper tools to debug a JavaScript Patch such as Breakpoints. However it is possible to output messages to the Origami’s JavaScript Console by using `console.log(...)` .
 
-目前还没有合适的工具来调试JavaScript模块，比如断点。然而，通过使用' Console .log(…)'可以将消息输出到Origami的JavaScript控制台。
+目前还没有合适的工具来调试JavaScript模块，比如断点。然而，通过使用`Console .log(…)`可以将消息输出到Origami的JavaScript控制台。
 
 The JavaScript Console can be found in the View Menu under Hide/Show JavaScript Console.
 
@@ -244,7 +245,7 @@ For example take this code: `patch.outputs[0].value = [];`
 
 This will try to write an array to a single value. Thus the console will output the following warning: `WARNING: Could not convert a JavaScript value into an appropriate Origami type. Ignoring.`
 
-这将尝试将一个数组写入单个值。因此控制台将输出以下警告:'警告:无法将JavaScript值转换为适当的Origami类型。Ignoring.”
+这将尝试将一个数组写入单个值。因此控制台将输出以下警告:`警告:无法将JavaScript值转换为适当的Origami类型。Ignoring.`
 
 Logging messages can accumulate quickly and Origami sets a max [limit](https://origami.design/documentation/concepts/scriptingbasics?fbclid=IwAR2y3vdZaoLrtlUoA-bio42zeWZefYd7vM6HPB4nnA-kGnxJTJPtxXmuBoo#maximum-log-messages) on them. This can make messages hard to track.
 
@@ -252,7 +253,7 @@ Logging messages can accumulate quickly and Origami sets a max [limit](https://o
 
 For this reason, Origami provides an additional method on `console` called `watch` . This works well for tracking specific variables through different evaluation cycles. For example:
 
-因此，Origami在“console”上提供了一个额外的方法，称为“watch”。这对于通过不同的评估周期跟踪特定变量非常有效。例如:
+因此，Origami在`console`上提供了一个额外的方法，称为`watch`。这对于通过不同的评估周期跟踪特定变量非常有效。例如:
 
 <video src="https://origami.design/public/images/videos/scripting-console-log.mov
 " height="500" width="100%" autoplay="" muted="" loop=""></video>
@@ -265,7 +266,7 @@ For this reason, Origami provides an additional method on `console` called `watc
 
 Right clicking on any JavaScript patch will present the option to “*Open in default editor*“
 
-右键单击任何JavaScript模块都会出现“*在默认编辑器中打开*”选项。
+右键单击任何JavaScript模块都会出现 “*在默认编辑器中打开*” 选项。
 
 ![img](https://origami.design/public/images/documentation/scripting-editjsPatch.png)
 
@@ -275,7 +276,7 @@ Make sure you have a proper editor configured. It is very common that Chrome (or
 
 Alternatively in the same contextual menu there’s the option to “*Open With*” Which lets you select from a list of possible apps that can edit a JavaScript file.
 
-此外，在相同的上下文菜单中还有一个选项“*Open With*”，它可以让你从可以编辑JavaScript文件的应用程序列表中进行选择。
+此外，在相同的上下文菜单中还有一个选项 “*Open With*” ，它可以让你从可以编辑JavaScript文件的应用程序列表中进行选择。
 
 ### Considerations when modifying a script. 修改脚本时的注意事项。
 
@@ -314,7 +315,7 @@ Duplicated JavaScript Patches point to the same file source. Therefore modifying
 
 It is very common to see JS code that uses calls like `alert(...)` or `document.getElementById(...)`, etc
 
-经常会看到JS代码使用' alert(…)'或' document.getElementById(…)'等调用
+经常会看到JS代码使用`alert(…)`或`document.getElementById(…)`等调用
 
 These methods are specific to a browser [BOM](https://www.w3schools.com/js/js_window.asp) or to HTML [DOM](https://www.w3schools.com/js/js_htmldom.asp). And for that reason they aren’t part of the JavaScript language itself and therefore not supported in Origami.
 
