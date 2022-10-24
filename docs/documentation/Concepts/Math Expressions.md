@@ -9,7 +9,9 @@ last_update:
 
 Math Expressions are a powerful tool to create more complex logic in Origami prototypes. Instead of adding patches for each arithmetic operation and connecting them together, you can insert a single [Math Expression](./../Math/Math%20Expression.md)  patch, type the expression you want to compute, and connect its inputs and outputs. Here’s a simple example:
 
-数学表达式是一个强大的工具，可以创建更复杂的逻辑原型。您可以插入单个 [Math Expression](./../Math/Math%20Expression.md) 模块，输入要计算的表达式，并连接其输入和输出，而不是为每个计算操作添加模块并将它们连接在一起。下面是一个简单的例子:
+数学表达式是一个强大的工具，可以创建更复杂的逻辑原型。
+
+您可以插入单个 [Math Expression](./../Math/Math%20Expression.md) 模块，输入要计算的表达式，并连接其输入和输出，而不是为每个计算操作添加模块并将它们连接在一起。下面是一个简单的例子:
 
 ![Image](./../../../static/img/docs/Concepts/math-expressions-1.png)
 
@@ -23,11 +25,15 @@ When you insert a Math Expression patch from the patch picker, it initially has 
 
 To edit the expression used in a Math Expression patch, right-click the patch and select “Patch Info” from the menu (or press ⌘I). Once you’re done editing, press enter to save the update. Note that changing the title of the patch does not affect the expression.
 
-要编辑 Math expression 模块中使用的表达式，右键单击模块，在菜单中选择“patch Info”(或按下⌘I)。编辑完成后，按回车键保存更新。注意，更改模块的标题不会影响表达式。
+要编辑 Math expression 模块中使用的表达式，右键单击模块，在菜单中选择 “patch Info” (或按下⌘I)。
+
+编辑完成后，按回车键保存更新。注意，更改模块的标题不会影响表达式。
 
 Expressions can include any mathematical operations (+, -, *, /, %, ### ) or functions from the [JavaScript Math library](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math). Any expression that is valid in JavaScript can be used, but the inputs and outputs can only be numbers. If you type an invalid expression into the editor, it will not be saved and will be highlighted in red.
 
-表达式可以包含任何数学运算(+，-，*，/，%，### )或 JavaScript Math 库中的函数。任何在JavaScript中有效的表达式都可以使用，但输入和输出只能是数字。如果您在编辑器中输入无效的表达式，它将不会被保存，并以红色高亮显示。
+表达式可以包含任何数学运算(+，-，*，/，%，### )或 JavaScript Math 库中的函数。
+
+任何在JavaScript中有效的表达式都可以使用，但输入和输出只能是数字。如果您在编辑器中输入无效的表达式，它将不会被保存，并以红色高亮显示。
 
 # Example Math Expressions 数学表达式示例
 

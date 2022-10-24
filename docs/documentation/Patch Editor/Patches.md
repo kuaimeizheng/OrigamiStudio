@@ -66,31 +66,54 @@ Add layer property patches by clicking on any property in the Layer inspector. T
 
 Ports allow patches to receive information in and pass information back out. The ports on the left side of a patch are inputs, and the ones on the right are outputs. Edit Inputsby clicking the port’s value(unless a cable from another patch is connected to the Input already).
 
-端口允许模块接收信息并返回信息。模块左边的端口为输入端口，右边的端口为输出端口。通过单击端口的值编辑(如果另一个模块的连线已经连接到输入端口，将不能编辑)。
+端口允许模块接收信息并返回信息。模块左边的端口为输入端口，右边的端口为输出端口。
+
+通过单击端口的值编辑(如果另一个模块的连线已经连接到输入端口，将不能编辑)。
 
 Each port has a different type of information it can receive — the important types of values used in Origami are:
 
 每个端口都有它可以接收的不同类型的信息——Origami 中使用的常用值类型包括：
 
 - Number: An integer or decimal.
+
 - Boolean: A boolean value, which can have two possible values (ex: true/false, yes/no, on/off, 0/1). Boolean ports are often labeled On/Off, and the On value is represented with a checkmark. Similar to programming, a boolean can be converted to a number 0 (off) or 1 (on) when passing values between patches.
+
 - **Text:** Any text string.
+
 - **Image:** Any image that you drag or paste.
+
 - **Video:** Any video that you drag or paste.
+
 - **Sound:** Any sound that you drag or paste.
+
 - **Color:** Any RGB or HSL color.
+
 - **IndeX:** Any non-negative, integer (ex: 0, 1, 2)
+
 - **JSON Data:** Any number of values of any type in JSON format. JSON (JavaScript Object Notation) is a common format for storing and exchanging data.
+
 - **Point:** A value that represents numbers in 2D, 3D, or 4D. Points can represent any set of X, Y, Z values (ex: Position X, Y, Z; Rotation X, Y, Z).
+
 - **值：**整数或小数。
-- **布尔值：**一个布尔值，可以有两个可能的值（例如：真/假、是/否、开/关、0/1）。布尔值的端口通常标记为 开/关，并且 打开 时用复选框的标记表示。与编程类似，在模块之间传递值时，布尔值可以转换为数字 0（关闭）或 1（打开）
+
+- **布尔值：**一个布尔值，可以有两个可能的值（例如：真/假、是/否、开/关、0/1）。
+
+  布尔值的端口通常标记为 开/关，并且 打开 时用复选框的标记表示。与编程类似，在模块之间传递值时，布尔值可以转换为数字 0（关闭）或 1（打开）
+
 - **文本：**任何文本字符串。
+
 - **图像：**您拖动或粘贴的图像。
+
 - **视频：**您拖动或粘贴的视频。
+
 - **声音：**您拖动或粘贴的声音。
+
 - **颜色：**任何RGB或HSL颜色。
+
 - **索引：**任何非负整数（例如：0、1、2）
+
 - **JSON数据：**JSON 格式的任意类型和数量的值。JSON（JavaScript Object Notation）是一种用于存储和交换数据的通用格式。
+
 - **Point：**表示2D、3D或4D的数值。点可以表示任意一组 X, Y, Z 值(例如:位置 X, Y, Z; 旋转 X, Y, Z)。
 
 Some patches can change the number of ports it has or the type of value it supports. Right-click any patch to see the options available.
@@ -101,7 +124,9 @@ Some patches can change the number of ports it has or the type of value it suppo
 
 Cables pass information (values) from patch to patch via their ports. Think of values like water, and cables as the pipes that move it from place to place. The values flow in one direction: left-to-right from an output to an input.
 
-连线通过端口将信息(值)从一个模块传递到另一个模块。把信息(值)想象成水，把连线看作是把它从一个地方连接到另一个地方的管道。这些信息(值)按照特定的方向流动: 从输出到输入，从左到右。
+连线通过端口将信息(值)从一个模块传递到另一个模块。把信息(值)想象成水，把连线看作是把它从一个地方连接到另一个地方的管道。
+
+这些信息(值)按照特定的方向流动: 从输出到输入，从左到右。
 
 To create a cable, drag from an output port (on the right of a patch) to an input port (on the left of a patch). To disconnect a cable, drag the right end out of the Input port.
 
@@ -109,7 +134,9 @@ To create a cable, drag from an output port (on the right of a patch) to an inpu
 
 An output port may connect to multiple cables, but an input port can only accept one cable at a time. Use patches like math (+, -, x, /), logic (Or, And, Not), Transition, or Option Picker to combine or select from multiple cables. Quickly connect an output to multiple inputs by selecting the output, and shift-clicking the inputs you want to connect.
 
-一个输出端口可以连接多根连线，但一个输入端口一次只能接收一根连线。使用一些模块如 数学 (+， -， x， /)， 逻辑 (或, 与, 非)， 转换，或 选项选择器 这些组合可以选择多根连线。通过选择输出，并按下 shift 键单击要连接的输入，可以快速将一个输出连接到多个输入。
+一个输出端口可以连接多根连线，但一个输入端口一次只能接收一根连线。使用一些模块如 数学 (+， -， x， /)， 逻辑 (或, 与, 非)， 转换，或 选项选择器 这些组合可以选择多根连线。
+
+通过选择输出，并按下 shift 键单击要连接的输入，可以快速将一个输出连接到多个输入。
 
 # Connecting them together 连接在一起
 

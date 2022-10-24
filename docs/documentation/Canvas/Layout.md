@@ -9,7 +9,9 @@ last_update:
 
 Layout is a dynamic system of constraints that controls the way your design elements are placed to create adaptive layouts. Designs automatically respond to any changes, making it faster to create & iterate on your work. Those coming from the web can think of it similarly to Flexbox.
 
-布局是一个动态的约束系统，它控制设计元素的放置方式，以创建自适应的布局。设计自动响应任何变化，使它更快地创建和迭代您的工作。类似于网页开发中的Flexbox。
+布局是一个动态的约束系统，它控制设计元素的放置方式，以创建自适应的布局。
+
+设计自动响应任何变化，使它更快地创建和迭代您的工作。类似于网页开发中的Flexbox。
 
 In order to use Layout, you have to enable it on Artboards and Group layers. Any objects within that group will get new Layout-related properties.
 
@@ -66,7 +68,9 @@ https://origami.design/public/images/videos/layout_direction.mp4
 
 Alignment determines the anchor point that layers align to. It applies to any parent group that has Layout enabled. Alignment does not change the order the objects are stacked – it only changes their starting point. To change the order they stack, rearrange the layers in your layers list or rearrange the objects on Canvas.
 
-对齐决定了图层对齐的锚点。它适用于任何启用了布局的父组。对齐并不会改变物体的堆叠顺序——它只会改变它们的起始点。要改变它们堆叠的顺序，请在图层列表中重新排列图层或在画布上重新排列对象。
+对齐决定了图层对齐的锚点。它适用于任何启用了布局的父组。对齐并不会改变物体的堆叠顺序——它只会改变它们的起始点。
+
+要改变它们堆叠的顺序，请在图层列表中重新排列图层或在画布上重新排列对象。
 
 https://origami.design/public/images/videos/layout_alignment.mp4
 
