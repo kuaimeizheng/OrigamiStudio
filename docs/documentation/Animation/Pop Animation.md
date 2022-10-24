@@ -1,5 +1,8 @@
 ---
+title: Pop Animation 流行动画
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Pop Animation 流行动画
@@ -16,27 +19,50 @@ Use [Classic Animation]for traditional animation curves. See [Animation Basics
 
 使用 Classic Animation 模块的经典动画曲线。有关更多信息请参考 [Animation Basics 动画基础]。
 
-![Image](./../../../static/img/docs/Animation/pop-animation.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Pop Animation</h3>
+        <ul className="inputs">
+            <li>Number<span>0</span></li>
+            <li>Bounciness<span>5</span></li>
+            <li>Speed<span>10</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Progress<span>0</span></li>
+        </ul>
+    </div>
+</div>
 
-### Number 值
+
+<div className="port-descriptions">
+<div className="inputs">
+
+### Input 输入
+
+#### Number 值
 
 The number to animate to.
 
 表示动画开始的数值。
 
-### Bounciness 弹性
+#### Bounciness 弹性
 
 A number that represents the bounciness of the animation.
 
 一个数值，表示动画的弹性。
 
-### Speed 速度
+#### Speed 速度
 
 A number that represents the speed of the animation.
 
 一个数值，表示动画的速度。
 
-### Progress 进度
+</div>
+<div className="outputs">
+
+### Output 输出
+
+#### Progress 进度
 
 A number that is tweened (or interpolated) with a bouncy animation as it moves toward the Number input.
 Typically a progress value. See Animation Basics for more information.
@@ -44,6 +70,9 @@ Typically a progress value. See Animation Basics for more information.
 一个数值，表示当它向输入的数值移动时，会用弹性动画进行补间（或插值）。
 
 通常这是一个进度值。有关更多信息请参考  Animation Basics。
+
+</div>
+</div>
 
 ---
 
