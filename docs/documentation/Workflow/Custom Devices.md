@@ -49,7 +49,46 @@ All installed devices are stored in `~/Library/Application Support/Diamond/Devic
 # Example info.json info.json 例子
 
 ```
-{   "key" : "iPhone4",   "displayName" : "iPhone 4",   "platform" : "iOS",   "type" : "phone",   "screenScale" : 2,   "screenSize" : [     320,     480   ],   "handsImageScale" : 0.5649999999999999,   "handsImageOffset" : [     2,     45   ],   "handsImages" : [     "iPhoneHands.png",     "iPhoneHands2.png",     "iPhoneHands3.png"   ],   "deviceInsets" : [     130,     28,     130,     28   ],   "deviceImages" : {     "White" : "iPhone4-White.png",     "Black" : "iPhone4-Black.png"   },   "shadowOffset" : [     20,     -5   ],   "defaultDeviceOrientation" : "Portrait",   "supportsDeviceOrientationPortrait" : true,   "supportsDeviceOrientationLandscapeLeft" : true,   "supportsDeviceOrientationLandscapeRight" : true,   "supportsDeviceOrientationPortraitUpsideDown" : true }
+{
+  "key" : "iPhone4",
+  "displayName" : "iPhone 4",
+  "platform" : "iOS",
+  "type" : "phone",
+  "screenScale" : 2,
+  "screenSize" : [
+    320,
+    480
+  ],
+  "handsImageScale" : 0.5649999999999999,
+  "handsImageOffset" : [
+    2,
+    45
+  ],
+  "handsImages" : [
+    "iPhoneHands.png",
+    "iPhoneHands2.png",
+    "iPhoneHands3.png"
+  ],
+  "deviceInsets" : [
+    130,
+    28,
+    130,
+    28
+  ],
+  "deviceImages" : {
+    "White" : "iPhone4-White.png",
+    "Black" : "iPhone4-Black.png"
+  },
+  "shadowOffset" : [
+    20,
+    -5
+  ],
+  "defaultDeviceOrientation" : "Portrait",
+  "supportsDeviceOrientationPortrait" : true,
+  "supportsDeviceOrientationLandscapeLeft" : true,
+  "supportsDeviceOrientationLandscapeRight" : true,
+  "supportsDeviceOrientationPortraitUpsideDown" : true
+}
 ```
 
 # info.json Documentation info.json 文档
@@ -248,13 +287,13 @@ The default device orientation to show the device in for the provided screen siz
 
 根据提供的屏幕大小和设备图片显示设备的默认方向。例如，如果设备是横向的电视或平板电脑，则该值应为 `LandscapeLeft`或 `LandscapeRight`。可用的方向是`Portrait`, `LandscapeLeft`, `LandscapeRight`, `PortraitUpsideDown`.。如果未指定，则默认为`Portrait`。
 
-### `supportsDeviceOrientationPortrait`,
+### `supportsDeviceOrientationPortrait`支持设备方向纵向,
 
-### `supportsDeviceOrientationLandscapeLeft`,
+### `supportsDeviceOrientationLandscapeLeft`支持设备方向横向向左,
 
-### `supportsDeviceOrientationLandscapeRight`,
+### `supportsDeviceOrientationLandscapeRight`支持设备方向横向向右,
 
-### `supportsDeviceOrientationPortraitUpsideDown`
+### `supportsDeviceOrientationPortraitUpsideDown`支持设备方向纵向倒置
 
 Type: Boolean, Optional
 
@@ -262,4 +301,4 @@ Type: Boolean, Optional
 
 Interface orientations that the device supports when being rotated.
 
-设备旋转使支持的界面方向。
+设备旋转支持的界面方向。
