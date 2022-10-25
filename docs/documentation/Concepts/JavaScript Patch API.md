@@ -35,7 +35,7 @@ Set this property to `true` if this patch is capable of processing values in an 
 If you don’t set this property to `true`, then multiple copies of the patch’s JavaScript environment will be created to process each value in a loop.
 
 如果此模块能够处理Origami循环中的值，则将此属性设置为“true”。使用[PatchInput.values](https://origami.design/documentation/concepts/scriptingapi#patchinputvalues-array-read-only)数组从循环中访问值。
-如果你不将这个属性设置为“true”，那么将会创建多个补丁的JavaScript环境副本来循环处理每个值。
+如果你不将这个属性设置为“true”，那么将会创建多个模块的JavaScript环境副本来循环处理每个值。
 
 ### `Patch.alwaysNeedsToEvaluate` *boolean* (default: false)
 
@@ -133,7 +133,7 @@ If this ouput’s type is [PULSE](https://origami.design/documentation/concepts/
 
 JavaScript patch does not support all the available data types in Origami, for example Images, Sounds and Videos are not supported. Here’s the list of types that should be used for [PatchInput](https://origami.design/documentation/concepts/scriptingapi#patchinput) and [PatchOutput](https://origami.design/documentation/concepts/scriptingapi#patchoutput).
 
-JavaScript补丁不支持Origami中所有可用的数据类型，例如图像、声音和视频不支持。下面是应该用于[PatchInput](https://origami.design/documentation/concepts/scriptingapi#patchinput)和[PatchOutput](https://origami.design/documentation/concepts/scriptingapi#patchoutput)的类型列表。
+JavaScript模块不支持Origami中所有可用的数据类型，例如图像、声音和视频不支持。下面是应该用于[PatchInput](https://origami.design/documentation/concepts/scriptingapi#patchinput)和[PatchOutput](https://origami.design/documentation/concepts/scriptingapi#patchoutput)的类型列表。
 
 ### `NUMBER`
 

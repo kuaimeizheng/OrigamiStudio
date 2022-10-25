@@ -153,7 +153,7 @@ This will help mitigate any versioning issues with components and hopefully any 
 
 If the duplicate exists inside of a component, you will need to replace it with the version that you wish to keep and re-attach it to any linkage that the duplicate was attached to previously in the Patch Graph. 
 
-如果副本存在于组件内部，您将需要用您希望保留的版本替换它，并重新将它附加到补丁图中先前附加的副本的任何链接上。
+如果副本存在于组件内部，您将需要用您希望保留的版本替换它，并重新将它附加到模块图中先前附加的副本的任何链接上。
 
 Once the migration is complete and you are satisfied with the state of the components, proceed onto the publishing flow.
 
