@@ -9,7 +9,9 @@ last_update:
 
 The Canvas in Origami works the way one might expect coming from Sketch or Figma. Visually drag, drop and resize to layout your prototype. Draw and edit shape layers, text, images, videos and layers imported from Sketch & Figma. Setup adaptive layouts in your artboards and groups using layout.
 
-Origami 中的画布类似 Sketch 和 Figma 中的画布。可以直观地拖放和调整您原型的大小。也可以绘制以及编辑从 Sketch 和 Figma 导入的形状图层、文本、图像、视频和图层。使用 [布局](./Layout.md) 功能可以在您的画板和图层组中设置自适应布局。
+Origami 中的画布类似 Sketch 和 Figma 中的画布。可以直观地拖放和调整您原型的大小。
+
+也可以绘制以及编辑从 Sketch 和 Figma 导入的形状图层、文本、图像、视频和图层。使用 [布局](./Layout.md) 功能可以在您的画板和图层组中设置自适应布局。
 
 ------
 
@@ -17,13 +19,13 @@ Origami 中的画布类似 Sketch 和 Figma 中的画布。可以直观地拖放
 
 Artboards allow you to contain the layers for each screen you’re designing. The artboard dimensions are determined by the Device Size selected in the far left corner of the Origami toolbar.
 
-画板允许你为每个屏幕里的图层进行设计。画板尺寸由 Origami 工具栏最左上角中选择的 “Device Size 设备大小” 决定。
+画板允许你为每个屏幕里的图层进行设计。画板尺寸由 Origami 工具栏最左上角中选择的 **Device Size 设备大小** 决定。
 
 # Layer Library 图层库
 
 Add a layer with the layer insertion popover using **⌘⇧N** or the **+** button in the toolbar. (Explain how the layer library is different from the patch library).
 
-使用  **⌘⇧N** 或工具栏中的 **+** 按钮在弹出窗口中添加一个图层。(也是图层库和模块库的区别)。
+使用 &nbsp; **⌘⇧N** &nbsp;或工具栏中的&nbsp; **+** &nbsp;按钮在弹出窗口中添加一个图层。(也是图层库和模块库的区别)。
 
 ![](https://origami.design/public/images/documentation/layer_library.png)
 
@@ -59,7 +61,7 @@ You can also drag a cable directly from a patch to a layer property in the inspe
 
 If a property has multiple coordinates (ex: Position X/Y, Size W/H), you can click on the coordinate specifically, ex: X
 
-如果一个属性有多个坐标值(例如:位置 X/Y，大小 W/H)，你可以点击特定的坐标值，例如:X
+如果一个属性有多个坐标值(例如：位置 X/Y，大小 W/H)，你可以点击特定的坐标值，例如：X
 
 ![](./../../../static/img/docs/Canvas/canvas-3.png)
 
@@ -71,7 +73,7 @@ If a property has multiple coordinates (ex: Position X/Y, Size W/H), you can cli
 
 Clicking on a property with multiple coordinates (ex: Position, Size, Rotation) will automatically insert a Point patch, which can expose additional coordinates (ex: Z) that aren't shown by default.
 
-点击具有多个坐标值 (例如: 位置，大小，角度) 的属性将自动插入一个对应的模块，这可以显示默认情况下未显示的其他坐标(例如:Z)。
+点击具有多个坐标值 (例如: 位置，大小，角度) 的属性将自动插入一个对应的模块，这可以显示默认情况下未显示的其他坐标(例如：Z)。
 
 # Groups 组
 
@@ -83,7 +85,9 @@ Layers can be grouped by selecting any number of layers and pressing **⌘G**. L
 
 Layers can be masked by other layers. Pressing **⌘⌥M** will turn the layer to an alpha mask, clipping the layer right above it. To add additional layers to be masked, you can select the layers and press **⌘⌥⇧M**.
 
-图层可以被其他图层遮罩。**⌘⌥M** 可以把该图层变成 alpha 蒙版，将在它的正上方剪切该图层。要给其他图层添加遮罩，您可以选择图层并按下  **⌘⌥⇧M** 。
+图层可以被其他图层遮罩。**⌘⌥M** 可以把该图层变成 alpha 蒙版，将在它的正上方剪切该图层。
+
+要给其他图层添加遮罩，您可以选择图层并按下  **⌘⌥⇧M** 。
 
 All masks are alpha masks, which can let you do advanced masks like gradient masks or composite masks based on a group of shapes.
 
@@ -97,7 +101,9 @@ There is a growing collection of pre-built components for quickly prototyping wi
 
 Create custom components by selecting layers and pressing **⌘⌥G** to group them into a component. Double-click the component to enter it and make changes. Add it to your Library and share it with others by pressing **⌘⌥C**.
 
-通过选择图层并按快捷键 **⌘⌥G**将它们组合在一起来创建自定义模块。双击模块进入内部进行编辑。也可以将其添加到库中，然后按快捷键  **⌘⌥C**与其他人共享
+通过选择图层并按快捷键 **⌘⌥G**将它们组合在一起来创建自定义模块。
+
+双击模块进入内部进行编辑。也可以将其添加到库中，然后按快捷键  **⌘⌥C**与其他人共享
 
 ------
 

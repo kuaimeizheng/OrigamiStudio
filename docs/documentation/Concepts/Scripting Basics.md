@@ -285,11 +285,15 @@ Alternatively in the same contextual menu there’s the option to “*Open With*
 
 Modifying a script could involve also changing the structure of the Patch. For example adding inputs or outputs. Those changes need to be reflected in the patch graph because of that Origami needs to be open to be able to process those changes. Any changes made outside this workflow could be missed or cause malfunction on the prototype.
 
-修改脚本还可能涉及修改模块的结构。例如，增加输入或输出。这些变化需要反映在模块图中，因为Origami需要是开放的，以便能够处理这些变化。在此工作流之外所做的任何更改都可能被遗漏或导致原型出现故障。
+修改脚本还可能涉及修改模块的结构。
+
+例如，增加输入或输出。这些变化需要反映在模块图中，因为Origami需要是开放的，以便能够处理这些变化。在此工作流之外所做的任何更改都可能被遗漏或导致原型出现故障。
 
 Be aware that once you close Origami. The JavaScript file you were editing is deleted. You should not try to reuse that file. Depending on the editor being used it could be more or less prominent the fact that is not safe to keep editing the file at that path. For example notice in VS Code it shows in the title the file has been deleted.
 
-注意，一旦你关闭Origami。您正在编辑的JavaScript文件被删除。您不应该尝试重用该文件。根据所使用的编辑器，在该路径上继续编辑文件是不安全的这一事实可能或多或少会很突出。例如，在VS Code中，它在标题中显示文件已被删除。
+注意，一旦你关闭Origami。您正在编辑的JavaScript文件被删除。
+
+您不应该尝试重用该文件。根据所使用的编辑器，在该路径上继续编辑文件是不安全的这一事实可能或多或少会很突出。例如，在VS Code中，它在标题中显示文件已被删除。
 
 ![img](https://origami.design/public/images/documentation/scripting-deletedFile.png)
 
@@ -297,7 +301,9 @@ Be aware that once you close Origami. The JavaScript file you were editing is de
 
 When modifying the inputs or outputs on a JavaScript Patch that already has connections. It is important to remember that it is safe to change the name or even the type of the Port and Origami will keep the connections. In general as long as the order of the ports stays the same, the connections can be preserved. Removing an input and then re-adding it would lose any previous connection.
 
-当修改已连接的JavaScript模块上的输入或输出时。重要的是要记住，更改端口的名称甚至类型是安全的，Origami将保持连接。一般来说，只要端口的顺序保持不变，就可以保持连接。删除一个输入然后重新添加它会丢失之前的任何连接。
+当修改已连接的JavaScript模块上的输入或输出时。重要的是要记住，更改端口的名称甚至类型是安全的，Origami将保持连接。
+
+一般来说，只要端口的顺序保持不变，就可以保持连接。删除一个输入然后重新添加它会丢失之前的任何连接。
 
 Changing the order of two ports is effectively the same as renaming them. Since the access of the ports is always by index.
 
@@ -307,7 +313,9 @@ Changing the order of two ports is effectively the same as renaming them. Since 
 
 Duplicated JavaScript Patches point to the same file source. Therefore modifying the file would have effect in all those same patches. This only happens within the context of a same file. Copy/Paste a JavaScript Patch to a different file creates a completely new JavaScript file.
 
-重复的JavaScript模块指向相同的文件源。因此，修改该文件将在所有这些相同的模块中生效。这只发生在同一个文件的上下文中。复制/粘贴一个JavaScript模块到另一个文件将创建一个全新的JavaScript文件。
+重复的JavaScript模块指向相同的文件源。因此，修改该文件将在所有这些相同的模块中生效。
+
+这只发生在同一个文件的上下文中。复制/粘贴一个JavaScript模块到另一个文件将创建一个全新的JavaScript文件。
 
 ## Limitations 限制
 
@@ -335,7 +343,9 @@ It is not possible to split your script in multiple files and import modules. Th
 
 Hermes is the engine Origami uses to execute JavaScript. Here’s a [link](https://github.com/facebook/hermes/blob/main/doc/Features.md) of its unsupported features. But broadly, Javascript File scripting is a logic-focused implementation and as such it doesn’t support the use of modules or external libraries.
 
-Hermes是Origami用来执行JavaScript的引擎。这里有一个[链接](https://github.com/facebook/hermes/blob/main/doc/Features.md)它不支持的功能。但总的来说，Javascript文件脚本是一个以逻辑为中心的实现，因此它不支持使用模块或外部库。
+Hermes是Origami用来执行JavaScript的引擎。这里有一个[链接](https://github.com/facebook/hermes/blob/main/doc/Features.md)它不支持的功能。
+
+但总的来说，Javascript文件脚本是一个以逻辑为中心的实现，因此它不支持使用模块或外部库。
 
 ### Unsupported Origami Types 不支持的Origami类型
 

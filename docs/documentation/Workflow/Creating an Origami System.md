@@ -8,13 +8,9 @@ sidebar_position: 5
 
 ------
 
-在线视频链接：https://player.vimeo.com/video/701724282?portrait=0&title=0&byline=0
+在线视频教程链接：https://player.vimeo.com/video/701724282?portrait=0&title=0&byline=0
 
-[//]: # (<video controls id="video" preload="metadata" width="100%">)
 
-[//]: # (  <source id="mp4" src="./../../../static/video/Video%20By%20Vimeo.mp4" type="video/mp4"/>)
-
-[//]: # (</video>)
 
 
 Create and share a library of [layer and patch components](./Components.md) with your team and keep everyone up to date by using an Origami System.
@@ -41,7 +37,9 @@ Previously, when you wanted to create an Origami System, you would first create 
 
 While this worked fine, there were a few shortcomings of the System Maker. It made it possible to have multiple versions of the same component within the system. Which could either lead to conflicts that would not allow the System to be published, or mismatching components between files. Added, with the original System Maker, you would have to manage numerous Origami files. This ended up making building and maintaining a System Library a tedious affair.
 
-虽然这样子很好，但System Maker有一些缺点。它使得在系统中有会出现相同组件的多个版本。这可能会出现冲突导致不允许发布系统，或者导致文件之间的组件不匹配。另外，使用原始的System Maker，你必须管理大量的Origami文件。这最终使得构建和维护系统库成为一件苦恼的事情。
+虽然这样子很好，但System Maker有一些缺点。它使得在系统中有会出现相同组件的多个版本。这可能会出现冲突导致不允许发布系统，或者导致文件之间的组件不匹配。
+
+另外，使用原始的System Maker，你必须管理大量的Origami文件。这最终使得构建和维护系统库成为一件苦恼的事情。
 
 ## The New Origami System Workflow 新的Origami系统流程
 
@@ -79,23 +77,39 @@ Once you are satisfied with what component(s) are being included and the informa
 
 The first line is where you’ll enter the Name of your System, so for here, we’ll type in Custom Components. The second line is where you’ll enter your name or the name of the org that will be managing the Library. The last field is where you can enter a brief description about the Origami System. We’ll type in “A collection of regularly used custom components by Your Name.” From here, you can also enter/edit a few additional options by clicking on the Advanced Options tab.
 
-第一行是输入系统名称的地方，因此在这里，我们将输入自定义组件。第二行是你将输入你的名字或组织的名称，将管理组件库的作者信息。最后一个字段是您可以输入关于Origami系统的简要描述的地方。我们将输入“以您的名字命名的常用组件集合”。在这里，你还可以通过点击Advanced options选项卡来输入/编辑一些额外的选项。
+第一行是输入系统名称的地方，因此在这里，我们将输入自定义组件。
+
+第二行是你将输入你的名字或组织的名称，将管理组件库的作者信息。
+
+最后一个字段是您可以输入关于Origami系统的简要描述的地方。我们将输入“以您的名字命名的常用组件集合”。
+
+在这里，你还可以通过点击Advanced options选项卡来输入/编辑一些额外的选项。
 
 ![img](https://origami.design/public/images/documentation/system-creation-workflow-5.png)
 
 The Advanced Options allows you to modify/tailor the System Identifier, set the versioning of the System and set a display Icon that will be displayed next to any component that is used from your published Origami System. Here is also where you will attach any JSON files that handle text styling, color libraries, or data. Let’s add a custom icon for our System. In the Starting folder, there is an image file called “cranestudios_large@2x.png”. Simply click on the image in your Finder and drag and drop it over the image field.
 
-高级选项允许您修改/定制系统标识符，设置系统的版本，并设置一个显示图标，将显示旁边的任何组件，使用从您发布的Origami系统。这里还可以附加任何处理文本样式、颜色库或数据的JSON文件。让我们为系统添加一个自定义图标。在Starting文件夹中，有一个名为“cranestudios_large@2x.png”的镜像文件。只需单击您的Finder中的图像，并将其拖放到图像字段上。
+高级选项允许您修改/定制系统标识符，设置系统的版本，并设置一个显示图标，将显示旁边的任何组件，使用从您发布的Origami系统。
+
+这里还可以附加任何处理文本样式、颜色库或数据的JSON文件。
+
+让我们为系统添加一个自定义图标。在Starting文件夹中，有一个名为“cranestudios_large@2x.png”的镜像文件。只需单击您的Finder中的图像，并将其拖放到图像字段上。
 
 Once all of the fields are filled, hit the Continue button and you will be taken to a finder window to set where you wish to have your published library saved. You can change the name of the system if you wish, by default the system will inherit the name you entered in the Name field in the previous window. Click on Save and you have now published an Origami System.
 
-一旦所有字段都被填满，点击继续按钮，你将被带到一个finder窗口，设置你希望在哪里保存你发布的库。如果您愿意，您可以更改系统的名称，默认情况下，系统将继承您在上一个窗口的name字段中输入的名称。点击Save，现在你已经发布了一个Origami System。
+一旦所有字段都被填满，点击继续按钮，你将被带到一个finder窗口，设置你希望在哪里保存你发布的库。
+
+如果您愿意，您可以更改系统的名称，默认情况下，系统将继承您在上一个窗口的name字段中输入的名称。点击Save，现在你已经发布了一个Origami System。
 
 ## Loading and Sharing an Origami System 加载和分享Origami系统
 
 The first way to load your newly created System into Origami is by double-clicking on the exported file. This will automatically add it to Origami. The next way is to load it in directly via the Preferences pane. In the System Bar menu, Navigate to Origami Studio > Preferences. A pop-up menu will appear and from here, navigate to the Components Tab.
 
-将新创建的System加载到Origami中的第一种方法是双击导出的文件。这将自动添加到折纸。下一种方法是通过Preferences窗格直接加载它。在系统栏菜单中，导航到Origami Studio &gt;偏好。将出现一个弹出菜单，从这里导航到Components选项卡。
+将新创建的System加载到Origami中的第一种方法是双击导出的文件。这将自动添加到折纸。
+
+下一种方法是通过Preferences窗格直接加载它。在系统栏菜单中，导航到Origami Studio &gt;偏好。
+
+将出现一个弹出菜单，从这里导航到Components选项卡。
 
 ![img](https://origami.design/public/images/documentation/system-creation-adding.png)
 
@@ -105,7 +119,9 @@ Click on the + symbol in the lower right corner, and then navigate to where the 
 
 If you plan on sharing the system with others, we’d recommend publishing the system on a shared folder or a file sharing service like [Dropbox](https://dropbox.com/) or [Google Drive](https://www.google.com/drive/). When the system is installed from a shared location, everyone will receive updates to the system, and existing documents with older components will be prompted to upgrade.
 
-如果你想他人共享系统，我们建议将系统发布在共享文件夹或文件共享服务上，比如[Dropbox](https://dropbox.com/) 或 [谷歌Drive](https://www.google.com/drive/) 。当系统从共享位置安装时，每个人都将收到对系统的更新，并且包含较旧组件的现有文档将被提示进行升级。
+如果你想他人共享系统，我们建议将系统发布在共享文件夹或文件共享服务上，比如[Dropbox](https://dropbox.com/) 或 [谷歌Drive](https://www.google.com/drive/) 。
+
+当系统从共享位置安装时，每个人都将收到对系统的更新，并且包含较旧组件的现有文档将被提示进行升级。
 
 ## Using components from the System 使用系统中的组件
 
@@ -137,7 +153,9 @@ We can also add patch components to Origami systems to distribute along with lay
 
 If you have a previously built Origami System that utilizes the old System Maker, upgrading to the new method is fairly straight-forward, but there are some caveats. If all of your layer and patch components are already in a single Origami file, you’re good to go and can go straight to Components > Publish Components and fill out the corresponding fields.
 
-如果你有一个使用旧System Maker的Origami System，升级到新方法是相当简单的，但有一些注意事项。如果你所有的图层和模块组件都在一个Origami文件中，你就可以直接进入components &gt;Publish Components 并填写相应的字段。
+如果你有一个使用旧System Maker的Origami System，升级到新方法是相当简单的，但有一些注意事项。
+
+如果你所有的图层和模块组件都在一个Origami文件中，你就可以直接进入components &gt;Publish Components 并填写相应的字段。
 
 If the components are spread out through multiple files you’ll need to copy and paste the components into a single Origami file. We suggest starting with the larger components that may contain other layer and/or patch components (subcomponents). 
 
@@ -145,11 +163,15 @@ If the components are spread out through multiple files you’ll need to copy an
 
 This will help mitigate any versioning issues with components and hopefully any breakage of a component. This will also help cutdown on the amount of copying and pasting you’ll need to do. Once you’ve finished copying and pasting all of the components into the new file, review all the components and double-check there are no duplicates.
 
-这将有助于缓解组件的任何版本问题，希望还能缓解组件的任何破坏。这也将有助于减少你需要做的复制和粘贴的数量。一旦您将所有组件复制并粘贴到新文件中，检查所有组件并再次检查是否有重复的内容。
+这将有助于缓解组件的任何版本问题，希望还能缓解组件的任何破坏。
+
+这也将有助于减少你需要做的复制和粘贴的数量。一旦您将所有组件复制并粘贴到新文件中，检查所有组件并再次检查是否有重复的内容。
 
  If there are duplicates, and the component is used in several other components, unfortunately, you’ll need to decide which is the version of the component you wish to keep. Rename the duplicate component to something that is easily identifiable (ex. Component Name (dup)), and then inspect all of the components that may contain the duplicate component(s). 
 
-如果有重复的组件，并且该组件在其他几个组件中使用，不幸的是，您需要决定哪一个是您希望保留的组件版本。将重复的组件重命名为容易识别的名称(例如:组件名称(dup))，然后检查所有可能包含重复组件的组件。
+如果有重复的组件，并且该组件在其他几个组件中使用，不幸的是，您需要决定哪一个是您希望保留的组件版本。
+
+将重复的组件重命名为容易识别的名称(例如:组件名称(dup))，然后检查所有可能包含重复组件的组件。
 
 If the duplicate exists inside of a component, you will need to replace it with the version that you wish to keep and re-attach it to any linkage that the duplicate was attached to previously in the Patch Graph. 
 

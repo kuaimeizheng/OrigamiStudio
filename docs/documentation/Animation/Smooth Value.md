@@ -1,5 +1,8 @@
 ---
+title: Smooth Value 平滑值
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Smooth Value 平滑值
@@ -8,19 +11,36 @@ For advanced use only — use the Pop Animation or Classic Animation patch inste
 
 Smooth a value as it changes.
 
-高级模块，可用Pop Animation### 或 ### Classic Animation### 替代。
+高级模块，可用Pop Animation或Classic Animation替代。
 
 平滑改变中的值。
 
-![Image](./../../../static/img/docs/Animation/smooth-value.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Smooth Value</h3>
+        <ul className="inputs">
+            <li>Value<span>0</span></li>
+            <li>Hysterisis<span>0.4</span></li>
+            <li>Reset <span className="patch-pulse-preview"><span className="dot"></span></span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Progress<span>0</span></li>
+        </ul>
+    </div>
+</div>
 
-### Value 值
+<div className="port-descriptions">
+<div className="inputs">
+
+### Input 输入
+
+#### Value 值
 
 A number to smooth.
 
 平滑值。
 
-### Hysterisis 滞后
+#### Hysterisis 滞后
 
 A number from 0-1 that represents the rate at which to smooth the value, where the value in the next frame = (previous frame * hysterisis) + (current frame * (1 - hysterisis).
 
@@ -32,11 +52,19 @@ A pulse that resets the value to the input value.
 
 让动画跳回开始时。
 
-### Progress 进度
+</div>
+<div className="outputs">
+
+### Output 输出
+
+#### Progress 进度
 
 Animated value
 
 进度值
+
+</div>
+</div>
 
 ---
 

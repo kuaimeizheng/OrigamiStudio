@@ -22,7 +22,9 @@ Origami Studio Interface
 
 Visually drag, drop and resize to layout your prototype. Draw and edit shape layers, text, images, videos and layers imported from Sketch & Figma. Setup adaptive layouts in your artboards and groups using [Layout], and create [Quick Interactions]between artboards.
 
-直观地拖放和调整您原型的大小。绘制以及编辑从 Sketch 和 Figma 导入的形状图层、文本、图像、视频和图层。使用 [布局]功能可以在您的画板和图层组中设置自适应布局，并在画板之间快速创建交互。
+直观地拖放和调整您原型的大小。绘制以及编辑从 Sketch 和 Figma 导入的形状图层、文本、图像、视频和图层。
+
+使用 [布局]功能可以在您的画板和图层组中设置自适应布局，并在画板之间快速创建交互。
 
 ### 2. Patch Editor 模块编辑器
 
@@ -34,7 +36,9 @@ Add interaction, animation, and behavior to your prototype using blocks called 
 
 A list of layers in your prototype. Add a new layer with the ### +###  button in the toolbar. To add interactions to a layer, hover on it and click the Touch button to select from a list of interactions like Tap, Scroll, or Swipe.
 
-原型中的图层列表。### 使用工具栏中的 +按钮添加一个新图层。要将交互添加到图层，请将鼠标悬停在图层上并单击 `“Touch 触摸”` 按钮以从交互列表中选择，例如 `“Tap 点击”`、`“Scroll 滚动”` 或 `“Swipe 滑动”`。
+原型中的图层列表。使用工具栏中的`+`按钮添加一个新图层。
+
+要将交互添加到图层，请将鼠标悬停在图层上并单击 `“Touch 触摸”` 按钮以从交互列表中选择，例如 `“Tap 点击”`、`“Scroll 滚动”` 或 `“Swipe 滑动”`。
 
 ### 4. Inspector 检查
 

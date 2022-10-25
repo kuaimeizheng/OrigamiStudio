@@ -14,7 +14,9 @@ Origami Studio 支持在 iOS 和 Android 上预览实时原型，以及通过 iO
 
 Connect an iOS or Android device via USB and run Origami live. The frontmost prototype will immediately begin previewing on the phone or tablet. Any changes you make in Origami Studio are immediately reflected in the preview, without needing to restart it.
 
-通过 USB 连接 iOS 或 Android 设备并运行 Origami。当前的原型将立即开始在手机或平板电脑上显示预览。您在 Origami Studio 中所做的任何更改都会立即显示在预览中，无需重新启动。
+通过 USB 连接 iOS 或 Android 设备并运行 Origami。
+
+当前的原型将立即开始在手机或平板电脑上显示预览。您在 Origami Studio 中所做的任何更改都会立即显示在预览中，无需重新启动。
 
 ### Origami Live for iOS
 

@@ -9,21 +9,33 @@ last_update:
 
 Loops are a powerful feature for easily building dynamic repeating UI and interactions in Origami, such as a list or a grid of photos. So instead of manually copying and pasting a Layer five times, we would connect our Layer to a Loop patch by any of it’s properties in the Patch Editor with a Count Input of five. If you’re coming from a programming background Loops behave similarly to Arrays or a for statement. Loops are a great way to reduce complexity and repetition in your prototype.
 
-循环是一个强大的功能，可以在 Origami 中轻松创建动态以及重复设计和交互，例如列表或照片网格。因此，我们无需手动复制和粘贴图层五次，而是通过模块编辑器中的相应属性将图层连接到循环模块，计数端口输入为 5。如果你有编程知识，循环的行为类似于数组 for 语句。循环主要是为了减少原型的复杂性和重复性。
+循环是一个强大的功能，可以在 Origami 中轻松创建动态以及重复设计和交互，例如列表或照片网格。
+
+因此，我们无需手动复制和粘贴图层五次，而是通过模块编辑器中的相应属性将图层连接到循环模块，计数端口输入为 5。
+
+如果你有编程知识，循环的行为类似于数组 for 语句。循环主要是为了减少原型的复杂性和重复性。
 
 Loops are especially powerful when combined with [Layout](./../Canvas/Layout.md) in the Canvas. By default looped layers will stack on top of each other on the Canvas, but when added to a [Layout-enabled Group](./../Layer/Group.md) the looped layers will automatically be arranged based on the Layout settings on the Group, such as a vertical list or a grid.
 
-循环与画布中的布局结合使用时，循环尤其强大。默认情况下，循环图层会在画布上相互堆叠，但当添加到启用布局的组时，循环图层将根据组的布局设置进行排列，例如垂直列表或网格。
+循环与画布中的布局结合使用时，循环尤其强大。
+
+默认情况下，循环图层会在画布上相互堆叠，但当添加到启用布局的组时，循环图层将根据组的布局设置进行排列，例如垂直列表或网格。
 
 We can also use Loops to generate repeating Layers or Components from real dynamic data sources, for example we could create a list of daily [weather forecasts](https://origami.design/examples/weather-forecast.html) from a weather API using the [Network Request](./../Data/Network%20Request.md) patch. Check out the Prototyping with [Data tutorial](https://origami.design/tutorials/smarter-interactions/Prototyping-with-Data.html) for an example of how to do this. Thinking in Loops can be helpful when handing-off a prototype to an engineer to get built since they translate more closely to how the design will be implemented in code.
 
-我们还可以使用循环从真实的动态数据源生成重复的图层或组件，例如，我们可以使用网络请求模块从天气 API 创建每日天气预报列表。关于如何做这个，请请查看[Data tutorial 使用数据制作原型教程](https://origami.design/tutorials/smarter-interactions/Prototyping-with-Data.html)。在将原型交给工程师进行开发时，循环思维很有帮助，因为更接近于如何用代码实现设计。
+我们还可以使用循环从真实的动态数据源生成重复的图层或组件，例如，我们可以使用网络请求模块从天气 API 创建每日天气预报列表。
+
+关于如何做这个，请请查看[Data tutorial 使用数据制作原型教程](https://origami.design/tutorials/smarter-interactions/Prototyping-with-Data.html)。在将原型交给工程师进行开发时，循环思维很有帮助，因为更接近于如何用代码实现设计。
 
 # Creating Loops 创建循环
 
 Loop patches in Origami are all colored green and any patches that get connected to a Loop patch will have a green tinted connection cable. Any time you see patches connected with a green connection cable, that connected patch graph is being evaluated for each item in the loop. Loops can be created using the Loop, Loop Builder and Loop Over Array patches.
 
-Origami 中的循环模块都是绿色的，任何连接到循环的模块都将有一条绿色的连接线。每当您看到通过绿色连接线连接的模块时，都会为循环中的每个项目评估连接的模块图。可以使用 Loop循环、Loop Builder 循环生成器 和 Loop Over Array 循环数组 模块创建循环。
+Origami 中的循环模块都是绿色的，任何连接到循环的模块都将有一条绿色的连接线。
+
+每当您看到通过绿色连接线连接的模块时，都会为循环中的每个项目评估连接的模块图。
+
+可以使用 Loop循环、Loop Builder 循环生成器 和 Loop Over Array 循环数组 模块创建循环。
 
 https://origami.design/public/images/videos/loop_connections.mp4
 
@@ -31,7 +43,9 @@ https://origami.design/public/images/videos/loop_connections.mp4
 
 The simplest loop in Origami is created using the Loop patch, this will output a loop counting up to the number of items in the Count input. Loops in Origami are Zero-Indexed, which means they start counting from 0, so a Loop with a Count of 5 will be “0, 1, 2, 3, 4“.
 
-Origami 中最简单的循环是使用循环模块创建的，这将在Count计数端口输出一个循环的项目数量。 Origami 中的循环是从零开始索引的，这表示它们从 0 开始计数，因此计数为 5 的话，循环将是“0、1、2、3、4”。
+Origami 中最简单的循环是使用循环模块创建的，这将在Count计数端口输出一个循环的项目数量。
+
+ Origami 中的循环是从零开始索引的，这表示它们从 0 开始计数，因此计数为 5 的话，循环将是“0、1、2、3、4”。
 
 We can easily see the value of each item in our loop by clicking on the output of the Loop patch. Hovering over each item in the loop popover will show how the connected patch graph is evaluated for each item in the loop.
 
@@ -49,7 +63,9 @@ https://origami.design/public/images/videos/loop_patch.mp4
 
 Another way to create a loop is with the Loop Builder patch. This patch allows more control over what value you’d like each item in your loop to be. By default this will a loop of numbers but we can change the [type](./../Patch%20Editor/States.md) by clicking on the patch header and selecting a different type. For example we could create a loop of colors as seen below or a loop of On/Off boolean values.
 
-创建循环的另一种方法是使用 Loop Builder 循环生成器 模块。此模块允许您更方便地控制环中每个项目的值。默认情况下，这是一个数字循环，但我们可以通过单击模块标题，并选择其他类型来更改类型。例如，我们可以创建如下所示的颜色循环或 On/Off 布尔值循环。
+创建循环的另一种方法是使用 Loop Builder 循环生成器 模块。此模块允许您更方便地控制环中每个项目的值。
+
+默认情况下，这是一个数字循环，但我们可以通过单击模块标题，并选择其他类型来更改类型。例如，我们可以创建如下所示的颜色循环或 On/Off 布尔值循环。
 
 https://origami.design/public/images/videos/loop_builder.mp4
 
@@ -69,7 +85,9 @@ https://origami.design/public/images/videos/loop_builder.mp4
 
 Using loops with Components allows us to specify what point in the layer hierarchy we want our loop to repeat. For example if we were creating a list of contacts from a loop of names, and we passed the names loop to the Text Layer, it would create multiple Text Layers for each name.
 
-使用循环组件允许我们设置循环重复的是图层层次结构中的哪个属性点。例如，如果我们正在创建来自一组名称循环的联系人列表，并且我们将名称循环传递给文本图层，它将为每个名称创建多个文本图层。
+使用循环组件允许我们设置循环重复的是图层层次结构中的哪个属性点。
+
+例如，如果我们正在创建来自一组名称循环的联系人列表，并且我们将名称循环传递给文本图层，它将为每个名称创建多个文本图层。
 
 However, if we were to group our contact list cell into a component while maintaining the connecting between the loop of names and the text layer inside the component, it would create multiple instances of the list cell while still passing the name to the text layer inside as shown in the example below.
 
@@ -81,7 +99,7 @@ https://origami.design/public/images/videos/group_into_component.mp4
 
 Loops can also be created from Arrays by using the [Loop Over Array](./../Loops/Loop%20Over%20Array.md) patch. This is useful when working with a web API data source with using the [Network Request](./../Data/Network%20Request.md) patch.
 
-循环也可以通过使用 Loop Over Array 数组遍历 模块从数组中创建。这一般用于使用网络请求模块处理web API数据源。
+循环也可以通过使用 Loop Over Array 数组遍历 模块从数组中创建。这一般用于使用网络请求模块处理 web API 数据源。
 
 ![Image](./../../../static/img/docs/Concepts/loop-1.png)
 
@@ -91,13 +109,19 @@ Nested arrays to Loops of Loops 嵌套数组到循环的循环
 
 Often when building more complex prototypes there will be cases where you’ll want to use loops inside other loops. For example a newsfeed prototype could have a loop of posts and within each post there could be a carousel of images loop and a Facepile of reactions loop, creating a loop of loops.
 
-通常在构建更复杂的原型时，会出现需要在其他循环中使用循环的情况。例如，一个新闻流原型可能会有一个帖子循环，并且在每个帖子中有一个轮播图的图像循环和响应Facepile(头像)循环，这就是一个循环中的循环。
+通常在构建更复杂的原型时，会出现需要在其他循环中使用循环的情况。
+
+例如，一个新闻流原型可能会有一个帖子循环，并且在每个帖子中有一个轮播图的图像循环和响应Facepile(头像)循环，这就是一个循环中的循环。
 
 https://origami.design/public/images/videos/multiple_loops.mp4
 
 When we combine loops together by connecting multiple loops to multiple properties of a layer, Origami will try to interleave or “zipper” the loops together as seen in the video above. This has some helpful use cases but often what we want is to have one loop create multiple of the other loop, the way we can do that is by using Components. When we create a Component in Origami, the Component Info popover lets us decide what behavior we want connected loops to have on the component.
 
-当我们通过将多个循环连接到图层的多个属性来组合在一起时，Origami 将尝试在上面的视频中看到的嵌套或“封装”循环。一些常用的做法，就是通常我们想要的是有一个循环创建多个其他循环，我们可以通过组件来实现这一点。当我们在 Origami 中创建一个组件时，组件信息弹窗允许我们设置连接的循环在组件上有什么特性。
+当我们通过将多个循环连接到图层的多个属性来组合在一起时，Origami 将尝试在上面的视频中看到的嵌套或“封装”循环。
+
+一些常用的做法，就是通常我们想要的是有一个循环创建多个其他循环，我们可以通过组件来实现这一点。
+
+当我们在 Origami 中创建一个组件时，组件信息弹窗允许我们设置连接的循环在组件上有什么特性。
 
 ![Image](./../../../static/img/docs/Concepts/loop-2.png)
 

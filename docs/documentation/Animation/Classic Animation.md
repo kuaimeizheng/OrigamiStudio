@@ -1,5 +1,8 @@
 ---
+title: Classic Animation 经典动画
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Classic Animation 经典动画
@@ -12,21 +15,38 @@ See [Animation Basics] for more information.
 
 有关详细信息，请参考 [动画基础](./../Patch%20Editor/Animations.md)。
 
-![Image](./../../../static/img/docs/Animation/classic-animation.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Classic Animation</h3>
+        <ul className="inputs">
+            <li>Number<span>0</span></li>
+            <li>Duration<span>0.4s</span></li>
+            <li>Curve<span>Linear</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>0</li>
+        </ul>
+    </div>
+</div>
 
-### Number 数值
+<div className="port-descriptions">
+<div className="inputs">
+
+### Input 输入
+
+#### Number 数值
 
 The number to animate to.
 
 当接收到数值时，动画开始
 
-### Duration 持续时间
+#### Duration 持续时间
 
 The length of the animation, in seconds
 
 动画的持续时间，以秒为单位
 
-### Curve 曲线
+#### Curve 曲线
 
 The easing curve to animate with.
 
@@ -64,7 +84,12 @@ The options are:
 
 曲线 In & Out ：慢 ➔ 快 ➔ 慢
 
-### Progress
+</div>
+<div className="outputs">
+
+### Output 输出
+
+#### Progress
 
 A number that is tweened with an easing curve as it moves toward the Number input.
 
@@ -73,6 +98,9 @@ A number that is tweened with an easing curve as it moves toward the Number inpu
 Typically a progress value. See [Animation Basics]for more information.
 
 通常是一个进度值，更多信息请参考 [动画基础](./../Patch%20Editor/Animations.md)。
+
+</div>
+</div>
 
 ---
 
