@@ -7,59 +7,57 @@ last_update:
 
 # JavaScript Patch API
 
-
-
 ## Patch 模块
 
-### `new Patch()` *constructor*
+### `new Patch()` _constructor_
 
 Creates a new patch object. You should create exactly one of these objects, set its properties.
 
 创建一个新的模块对象。您应该创建这些对象中的一个，并设置其属性。
 
-### `Patch.inputs` *array*
+### `Patch.inputs` _array_
 
 An array of [PatchInput](https://origami.design/documentation/concepts/scriptingapi#patchinput) objects that define the input ports to the patch. This property may only be defined at the top-level; you may not update it later during patch execution.
 
 一个[PatchInput](https://origami.design/documentation/concepts/scriptingapi#patchinput)对象数组，定义模块的输入端口。此属性只能在顶层定义;你不能在以后的模块执行过程中更新它。
 
-### `Patch.outputs` *array*
+### `Patch.outputs` _array_
 
 An array of [PatchOutput](https://origami.design/documentation/concepts/scriptingapi#patchoutput) objects that define the output ports to the patch. This property may only be defined at the top-level; you may not update it later during patch execution.
 
 一个[PatchOutput](https://origami.design/documentation/concepts/scriptingapi#patchoutput)对象数组，定义模块的输出端口。此属性只能在顶层定义;你不能在以后的模块执行过程中更新它。
 
-### `Patch.loopAware` *boolean* (default: false)
+### `Patch.loopAware` _boolean_ (default: false)
 
 Set this property to `true` if this patch is capable of processing values in an Origami loop. Use [PatchInput.values](https://origami.design/documentation/concepts/scriptingapi#patchinputvalues-array-read-only) array to access values from loops.
 If you don’t set this property to `true`, then multiple copies of the patch’s JavaScript environment will be created to process each value in a loop.
 
-如果此模块能够处理Origami循环中的值，则将此属性设置为“true”。使用[PatchInput.values](https://origami.design/documentation/concepts/scriptingapi#patchinputvalues-array-read-only)数组从循环中访问值。
-如果你不将这个属性设置为“true”，那么将会创建多个模块的JavaScript环境副本来循环处理每个值。
+如果此模块能够处理 Origami 循环中的值，则将此属性设置为“true”。使用[PatchInput.values](https://origami.design/documentation/concepts/scriptingapi#patchinputvalues-array-read-only)数组从循环中访问值。
+如果你不将这个属性设置为“true”，那么将会创建多个模块的 JavaScript 环境副本来循环处理每个值。
 
-### `Patch.alwaysNeedsToEvaluate` *boolean* (default: false)
+### `Patch.alwaysNeedsToEvaluate` _boolean_ (default: false)
 
 Set this property to `true` if you need the the patch to be evaluated on every frame. In most cases this is not needed and will only affect performance negatively. Avoid setting this to `true`.
 
 如果你需要在每一帧上计算模块，请将此属性设置为“true”。在大多数情况下，这是不需要的，只会对性能产生负面影响。避免将此设置为“true”。
 
-### `Patch.evaluate()` *function*
+### `Patch.evaluate()` _function_
 
 Define the patch logic in this function. It will be called when needed based on the Engine run loop or every single frame when [Patch.alwaysNeedsToEvaluate](https://origami.design/documentation/concepts/scriptingapi#patchalwaysneedstoevaluate-boolean-default-false) is set to `true`.
 
 在这个函数中定义模块逻辑。当[Patch.alwaysNeedsToEvaluate](https://origami.design/documentation/concepts/scriptingapi#patchalwaysneedstoevaluate-boolean-default-false)被设置为' true '时，它将根据引擎运行循环或每一帧被调用。
 
-------
+---
 
 ## PatchInput 模块输入
 
-### `new PatchInput(name, type, [defaultValue])` *constructor*
+### `new PatchInput(name, type, [defaultValue])` _constructor_
 
 Use this constructor to create a new input port for the patch. You must give the port a name (which may be the empty string) and a type (from the [types](https://origami.design/documentation/concepts/scriptingapi#types) enum). You may also give the input a default value; if you don’t supply one, the default default value for the type you selected will be used.
 
 使用这个构造函数为模块创建一个新的输入端口。您必须给端口一个名称(可能是空字符串)和一个类型(来自[types](https://origami.design/documentation/concepts/scriptingapi#types) enum)。你也可以给输入一个默认值;如果不提供，则将使用所选类型的默认默认值。
 
-### `PatchInput.name` *string*
+### `PatchInput.name` _string_
 
 The name of the input port, which is displayed next to the port in the Patch Graph.
 
@@ -69,11 +67,11 @@ The name of the input port, which is displayed next to the port in the Patch Gra
 
 The type of the input port. Must be one of the values from the [types](https://origami.design/documentation/concepts/scriptingapi#types) enum.
 
-### `PatchInput.value` *read-only*
+### `PatchInput.value` _read-only_
 
 The current value being passed into the input port.
 
-### `PatchInput.values` *array, read-only*
+### `PatchInput.values` _array, read-only_
 
 If the [patch.loopAware](https://origami.design/documentation/concepts/scriptingapi#patchloopaware-boolean-default-false) property is set to `true` and the input port is receiving a loop as input, then this property is an array of the values in the loop. Otherwise, this property is an array containing a single value equal to [PatchInput.value](https://origami.design/documentation/concepts/scriptingapi#patchinputvalue-read-only).
 
@@ -81,29 +79,29 @@ If the [patch.loopAware](https://origami.design/documentation/concepts/scripting
 
 The default value for the input port.
 
-### `PatchInput.isDirty()` *function*
+### `PatchInput.isDirty()` _function_
 
 Returns `true` if the input port’s value has changed since the last time it was evaluated, or `false` otherwise.
 
-### `PatchInput.readRising()` *function*
+### `PatchInput.readRising()` _function_
 
 Returns `true` if the input port has just changed to a nonzero/“truthy” value, or `false` otherwise. Useful when dealing with Pulses (see [State & Pulses](https://origami.design/documentation/concepts/PulseSignal.html))
 
-### `PatchInput.readFalling()` *function*
+### `PatchInput.readFalling()` _function_
 
 Returns `true` if the input port has just changed to a zero/“falsey” value, or `false` otherwise. Useful when dealing with Pulses (see [State & Pulses](https://origami.design/documentation/concepts/PulseSignal.html))
 
-------
+---
 
 ## PatchOutput 模块输出
 
-### `new PatchOutput(name, type, [defaultValue])` *constructor*
+### `new PatchOutput(name, type, [defaultValue])` _constructor_
 
 Use this constructor to create a new output port for the patch. You must give the port a name (which may be the empty string) and a type (from the [types](https://origami.design/documentation/concepts/scriptingapi#types) enum). You may also give the input a default value; if you don’t supply one, the default default value for the type you selected will be used.
 
 使用这个构造函数为模块创建一个新的输出端口。您必须给端口一个名称(可能是空字符串)和一个类型(来自[types](https://origami.design/documentation/concepts/scriptingapi#types) enum)。你也可以给输入一个默认值;如果不提供，则将使用所选类型的默认默认值。
 
-### `PatchOutput.name` *string*
+### `PatchOutput.name` _string_
 
 The name of the output port, which is displayed next to the port in the Patch Graph.
 
@@ -111,11 +109,11 @@ The name of the output port, which is displayed next to the port in the Patch Gr
 
 The type of the output port. Must be one of the values from the [types](https://origami.design/documentation/concepts/scriptingapi#types) enum.
 
-### `PatchOutput.value` *read-only*
+### `PatchOutput.value` _read-only_
 
 The current value being passed into the output port.
 
-### `PatchOutput.values` *array, read-only*
+### `PatchOutput.values` _array, read-only_
 
 If the [patch.loopAware](https://origami.design/documentation/concepts/scriptingapi#patchloopaware-boolean-default-false) property is set to `true`, you may set this property to output a loop of values from the port. The property must be an array, and the type of each element of the array must match the type of the port.
 
@@ -123,17 +121,17 @@ If the [patch.loopAware](https://origami.design/documentation/concepts/scripting
 
 The default value for the output port.
 
-### `PatchOutput.pulse()` *function*
+### `PatchOutput.pulse()` _function_
 
 If this ouput’s type is [PULSE](https://origami.design/documentation/concepts/scriptingapi#pulse), you may call this function to send a pulse on this output port.
 
-------
+---
 
 ## Types 类型
 
 JavaScript patch does not support all the available data types in Origami, for example Images, Sounds and Videos are not supported. Here’s the list of types that should be used for [PatchInput](https://origami.design/documentation/concepts/scriptingapi#patchinput) and [PatchOutput](https://origami.design/documentation/concepts/scriptingapi#patchoutput).
 
-JavaScript模块不支持Origami中所有可用的数据类型，例如图像、声音和视频不支持。下面是应该用于[PatchInput](https://origami.design/documentation/concepts/scriptingapi#patchinput)和[PatchOutput](https://origami.design/documentation/concepts/scriptingapi#patchoutput)的类型列表。
+JavaScript 模块不支持 Origami 中所有可用的数据类型，例如图像、声音和视频不支持。下面是应该用于[PatchInput](https://origami.design/documentation/concepts/scriptingapi#patchinput)和[PatchOutput](https://origami.design/documentation/concepts/scriptingapi#patchoutput)的类型列表。
 
 ### `NUMBER`
 

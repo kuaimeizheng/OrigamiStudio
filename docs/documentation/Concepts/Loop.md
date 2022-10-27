@@ -35,7 +35,7 @@ Origami 中的循环模块都是绿色的，任何连接到循环的模块都将
 
 每当您看到通过绿色连接线连接的模块时，都会为循环中的每个项目评估连接的模块图。
 
-可以使用 Loop循环、Loop Builder 循环生成器 和 Loop Over Array 循环数组 模块创建循环。
+可以使用 Loop 循环、Loop Builder 循环生成器 和 Loop Over Array 循环数组 模块创建循环。
 
 https://origami.design/public/images/videos/loop_connections.mp4
 
@@ -43,9 +43,9 @@ https://origami.design/public/images/videos/loop_connections.mp4
 
 The simplest loop in Origami is created using the Loop patch, this will output a loop counting up to the number of items in the Count input. Loops in Origami are Zero-Indexed, which means they start counting from 0, so a Loop with a Count of 5 will be “0, 1, 2, 3, 4“.
 
-Origami 中最简单的循环是使用循环模块创建的，这将在Count计数端口输出一个循环的项目数量。
+Origami 中最简单的循环是使用循环模块创建的，这将在 Count 计数端口输出一个循环的项目数量。
 
- Origami 中的循环是从零开始索引的，这表示它们从 0 开始计数，因此计数为 5 的话，循环将是“0、1、2、3、4”。
+Origami 中的循环是从零开始索引的，这表示它们从 0 开始计数，因此计数为 5 的话，循环将是“0、1、2、3、4”。
 
 We can easily see the value of each item in our loop by clicking on the output of the Loop patch. Hovering over each item in the loop popover will show how the connected patch graph is evaluated for each item in the loop.
 
@@ -111,7 +111,7 @@ Often when building more complex prototypes there will be cases where you’ll w
 
 通常在构建更复杂的原型时，会出现需要在其他循环中使用循环的情况。
 
-例如，一个新闻流原型可能会有一个帖子循环，并且在每个帖子中有一个轮播图的图像循环和响应Facepile(头像)循环，这就是一个循环中的循环。
+例如，一个新闻流原型可能会有一个帖子循环，并且在每个帖子中有一个轮播图的图像循环和响应 Facepile(头像)循环，这就是一个循环中的循环。
 
 https://origami.design/public/images/videos/multiple_loops.mp4
 
@@ -127,13 +127,13 @@ When we combine loops together by connecting multiple loops to multiple properti
 
 ### Loop Behavior 循环特性
 
-*Pass into Component* - Makes the loop available inside the component by passing it through without looping the component. Passing in (Default in Origami Version 81 and older)
+_Pass into Component_ - Makes the loop available inside the component by passing it through without looping the component. Passing in (Default in Origami Version 81 and older)
 
-传递组件——通过传递循环而不是循环组件，使循环限制在组件内部。(默认值为Origami版本81及以上)
+传递组件——通过传递循环而不是循环组件，使循环限制在组件内部。(默认值为 Origami 版本 81 及以上)
 
-*Loop the Component* - The component will be evaluated for each item in the loop passing the item into the component. (Default in Origami Version 82 and newer)
+_Loop the Component_ - The component will be evaluated for each item in the loop passing the item into the component. (Default in Origami Version 82 and newer)
 
-循环组件——将计算循环中的每个项目，并将项目传递到组件。（默认值为Origami Version 82及更新版本)
+循环组件——将计算循环中的每个项目，并将项目传递到组件。（默认值为 Origami Version 82 及更新版本)
 
 To create a loop that loops another loop, one of the component inputs loop behavior needs to be set to “Loop the Component” and another needs to be set to “Pass into Component”.
 
@@ -141,7 +141,7 @@ The loop passed to the “Loop the Component” will create multiple instances o
 
 要创建循环另一个循环的循环，则需要将其中一个组件输入循环特性设置为“Loop the Component 循环组件”，另一个需要将其设置为“Pass into Component 传入组件”。
 
-传递给“Loop the Component 循环组件”的循环将创建多个组件实例，传递给“Pass into Component  传递组件”的循环可以在每个组件实例内独立循环，如下所示。
+传递给“Loop the Component 循环组件”的循环将创建多个组件实例，传递给“Pass into Component 传递组件”的循环可以在每个组件实例内独立循环，如下所示。
 
 https://origami.design/public/images/videos/loop_of_loops.mp4
 
@@ -149,7 +149,7 @@ https://origami.design/public/images/videos/loop_of_loops.mp4
 
 Another way of building looped components is using the [Loop Over Array](./../Loops/Loop%20Over%20Array.md) patch with a nested array. This is useful for working with data from a web API that includes multidimensional arrays.
 
-构建循环组件的另一种方法是使用带有嵌套数组的Loop Over Array数组遍历模块。这一般用于处理包含多维数组的web API的数据。
+构建循环组件的另一种方法是使用带有嵌套数组的 Loop Over Array 数组遍历模块。这一般用于处理包含多维数组的 web API 的数据。
 
 ![Image](./../../../static/img/docs/Concepts/loop-3.png)
 
@@ -159,13 +159,13 @@ Nested arrays to Loops of Loops
 
 ### Looped Component Outputs 循环组件输出
 
-An important caveat about Looped Components is that components cannot *output* a loop of loops. Outputs from looped components are appended to one another into a flat loop.
+An important caveat about Looped Components is that components cannot _output_ a loop of loops. Outputs from looped components are appended to one another into a flat loop.
 
 An example of this is adding a tap Output to the Looped Component shown earlier this would output a flattened loop of 25 pulse outputs since 5 x 5 is 25.
 
 关于循环组件需要注意食物是，组件不能输出循环的循环组。来自循环组件的输出被一个接一个地输出到一个扁平循环中。
 
-比如在之前的循环组件中添加一个点击输出，这将输出一个包含25个脉冲输出的扁平循环，因为5 x 5等于25。
+比如在之前的循环组件中添加一个点击输出，这将输出一个包含 25 个脉冲输出的扁平循环，因为 5 x 5 等于 25。
 
 ![Image](./../../../static/img/docs/Concepts/loop-4.png)
 
@@ -175,13 +175,13 @@ Looped Component Outputs 循环组件输出
 
 [Loop Filter](./../Loops/Loop%20Filter.md) and [Loop Select](./../Loops/Loop%20Select.md) are the two patches for selecting items from a loop, useful for working with the [Loop Option Switch](./../Loops/Loop%20Option%20Switch.md) for getting the selected item in a loop.
 
-Loop Filter 循环筛选 和 Loop Select 循环选择 是用于从循环中选择项目的两个模块，一般用于在使用Loop Option Switch 循环选项开关 在循环中获取所选项目。
+Loop Filter 循环筛选 和 Loop Select 循环选择 是用于从循环中选择项目的两个模块，一般用于在使用 Loop Option Switch 循环选项开关 在循环中获取所选项目。
 
 ### Loops & Interactions 循环&交互
 
 When we add an [Interaction](./../Interaction/Interaction.md) patch to a looper layer, the Interactions output will then be looped as well. Using the [Loop Option Switch](./../Loops/Loop%20Option%20Switch.md) patch with the [Loop Select](./../Loops/Loop%20Select.md) patch we can get the value of the tapped on item
 
-当我们向循环图层添加一个交互模块时，交互输出也将被循环。通过使用Loop Option Switch 循环选项开关 模块和 Loop Select 循环选择模块，我们可以得到项目上被选中的值
+当我们向循环图层添加一个交互模块时，交互输出也将被循环。通过使用 Loop Option Switch 循环选项开关 模块和 Loop Select 循环选择模块，我们可以得到项目上被选中的值
 
 https://origami.design/public/images/videos/loop_interactions.mp4
 
@@ -191,11 +191,11 @@ https://origami.design/public/images/videos/loop_interactions.mp4
 - Use Layout to control how looped Layers and Components are arranged on the Canvas
 - Use Components to define what Group in the layer hierarchy should be repeated
 - Use Components when you want to build loops of loops
-- Loop behavior for Components is defined in the Component Info popover for each port. *Pass into Component* passes the loop into the component without looping the component and *Loop the Component* will loop the component passing in each item from the loop.
+- Loop behavior for Components is defined in the Component Info popover for each port. _Pass into Component_ passes the loop into the component without looping the component and _Loop the Component_ will loop the component passing in each item from the loop.
 - Interactions on a looped layer will have their outputs looped as well.
-- 循环是在Origami中创建动态重复UI和交互的一个非常强大的功能。
+- 循环是在 Origami 中创建动态重复 UI 和交互的一个非常强大的功能。
 - 使用布局来控制如何排列画布上的循环图层和组件。
 - 使用组件来设置图层层次结构中应重复的组。
 - 使用组件来构建嵌套循环。
-- 组件的循环特性在每个端口的组件信息弹窗中定义。*Pass into Component传入组件* 把循环传递给组件，而不是让组件循环。
+- 组件的循环特性在每个端口的组件信息弹窗中定义。_Pass into Component 传入组件_ 把循环传递给组件，而不是让组件循环。
 - 循环图层的交互也将循环输出。

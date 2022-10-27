@@ -11,17 +11,17 @@ Layout is a dynamic system of constraints that controls the way your design elem
 
 布局是一个动态的约束系统，它控制设计元素的放置方式，以创建自适应的布局。
 
-设计自动响应任何变化，使它更快地创建和迭代您的工作。类似于网页开发中的Flexbox。
+设计自动响应任何变化，使它更快地创建和迭代您的工作。类似于网页开发中的 Flexbox。
 
 In order to use Layout, you have to enable it on Artboards and Group layers. Any objects within that group will get new Layout-related properties.
 
 要使用布局，你必须在画板和图层组上启用它。该组中的任何对象都将获得与布局相关的新属性。
 
-------
+---
 
 # Position 位置
 
-Position determines where an object is in relation to other objects in the group. Position applies to any layer that has a parent group with Layout enabled. When setting Position, there are two parameters to choose from:  Relative and  Absolute.
+Position determines where an object is in relation to other objects in the group. Position applies to any layer that has a parent group with Layout enabled. When setting Position, there are two parameters to choose from: Relative and Absolute.
 
 位置决定了一个对象与组中其他对象的关系。位置应用于任何启用布局的父组中的图层。在设置位置时，有两个参数可供选择:相对位置和绝对位置。
 
@@ -34,7 +34,7 @@ https://origami.design/public/images/videos/layout_position.mp4
 
 # Size 尺寸
 
-Size determines the width and height of an object or group. It applies to any layer that has a parent group with Layout enabled AND any parent group with Layout enabled. When setting  Size, there are three parameters to choose from:  Auto, Grow , and  Fixed .
+Size determines the width and height of an object or group. It applies to any layer that has a parent group with Layout enabled AND any parent group with Layout enabled. When setting Size, there are three parameters to choose from: Auto, Grow , and Fixed .
 
 大小决定了对象或组的宽度和高度。它适用于启用布局的父组和启用布局的父组图层。设置大小时，有三个参数可供选择:自动、增长和固定。
 
@@ -49,7 +49,7 @@ https://origami.design/public/images/videos/layout_size.mp4
 
 # Direction 方向
 
-The direction determines how they layers in an AutoLayout group are arranged. When setting Direction , there are three parameters to choose from:  Horizontal ,  Vertical , and Grid .
+The direction determines how they layers in an AutoLayout group are arranged. When setting Direction , there are three parameters to choose from: Horizontal , Vertical , and Grid .
 
 方向决定了在启用了自动布局的组中图层的排列方式。
 
@@ -78,18 +78,18 @@ https://origami.design/public/images/videos/layout_alignment.mp4
 
 These 3 properties determine the separation between, around and outside of layers in a Layout enabled group.
 
-这3个属性决定了在启用布局的组中，图层之间、图层周围和图层外部的间距。
+这 3 个属性决定了在启用布局的组中，图层之间、图层周围和图层外部的间距。
 
-Spacingapplies to any parent group that has Layout enabled. When setting Spacing, there are 3 parameters to choose from:  Between ,  Evenly, and Fixed .
+Spacingapplies to any parent group that has Layout enabled. When setting Spacing, there are 3 parameters to choose from: Between , Evenly, and Fixed .
 
-间距适用于任何启用了布局的父组。设置间距时，有3个参数可供选择:平均 ，均匀 ，固定。
+间距适用于任何启用了布局的父组。设置间距时，有 3 个参数可供选择:平均 ，均匀 ，固定。
 
 - Betweenmeans there will be even space between objects in the group.
 - Evenlymeans there will be even space between objects in the group AND between objects and the group’s edge.
 - Fixed (any number value)means the space between objects is set to a specific number. To set a group’s Spacing to Fixed, you enter a number in the Spacing input field.
 - 平均表示在组中对象之间的间距会是偶数。
 - 均匀表示组中的对象之间以及对象与组的边缘之间的间距是均匀的。
-- 固定（任意数值）表示对象之间的间距是一个特定的数字。要将组的间距设置为固定，您需要在 Spacing间距 输入字段中输入一个数字。
+- 固定（任意数值）表示对象之间的间距是一个特定的数字。要将组的间距设置为固定，您需要在 Spacing 间距 输入字段中输入一个数字。
 
 Paddingapplies to any parent group that has Layout enabled. Padding affects the space between the group’s edge and the objects inside of it.
 
@@ -103,7 +103,7 @@ https://origami.design/public/images/videos/layout_spacing.mp4
 
 Determines how Origami will vertically measure text bounds.
 
-了解Origami如何测量文本的垂直边界。
+了解 Origami 如何测量文本的垂直边界。
 
 - EnabledCap & Baseline snaps the text bounds to the cap & base height of the text.
 - DisabledCap & Baseline snaps the text bounds to the bounding box.
@@ -116,7 +116,7 @@ Cap & Baseline examples
 
 上限&基线 示例
 
-------
+---
 
 # Summary 总结
 

@@ -13,7 +13,7 @@ Origami 中的画布类似 Sketch 和 Figma 中的画布。可以直观地拖放
 
 也可以绘制以及编辑从 Sketch 和 Figma 导入的形状图层、文本、图像、视频和图层。使用 [布局](./Layout.md) 功能可以在您的画板和图层组中设置自适应布局。
 
-------
+---
 
 # Artboards 画板
 
@@ -79,7 +79,7 @@ Clicking on a property with multiple coordinates (ex: Position, Size, Rotation) 
 
 Layers can be grouped by selecting any number of layers and pressing **⌘G**. Layer groups in Origami Studio have their own size and position, and clip layers within.
 
-可以选择任意数量的图层并按下 **⌘G **来对图层进行分组。Origami的图层组有自己的大小和位置，并剪辑组中的图层。
+可以选择任意数量的图层并按下 **⌘G **来对图层进行分组。Origami 的图层组有自己的大小和位置，并剪辑组中的图层。
 
 # Masking 蒙版
 
@@ -87,7 +87,7 @@ Layers can be masked by other layers. Pressing **⌘⌥M** will turn the layer t
 
 图层可以被其他图层遮罩。**⌘⌥M** 可以把该图层变成 alpha 蒙版，将在它的正上方剪切该图层。
 
-要给其他图层添加遮罩，您可以选择图层并按下  **⌘⌥⇧M** 。
+要给其他图层添加遮罩，您可以选择图层并按下 **⌘⌥⇧M** 。
 
 All masks are alpha masks, which can let you do advanced masks like gradient masks or composite masks based on a group of shapes.
 
@@ -97,21 +97,21 @@ All masks are alpha masks, which can let you do advanced masks like gradient mas
 
 There is a growing collection of pre-built components for quickly prototyping with standard components on Android or iOS. Components are listed in the layer insertion popover.
 
-在Android或iOS上，有越来越多的用于快速构建原型的预置组件。组件列表在插入图层的弹出框中。
+在 Android 或 iOS 上，有越来越多的用于快速构建原型的预置组件。组件列表在插入图层的弹出框中。
 
 Create custom components by selecting layers and pressing **⌘⌥G** to group them into a component. Double-click the component to enter it and make changes. Add it to your Library and share it with others by pressing **⌘⌥C**.
 
 通过选择图层并按快捷键 **⌘⌥G**将它们组合在一起来创建自定义模块。
 
-双击模块进入内部进行编辑。也可以将其添加到库中，然后按快捷键  **⌘⌥C**与其他人共享
+双击模块进入内部进行编辑。也可以将其添加到库中，然后按快捷键 **⌘⌥C**与其他人共享
 
-------
+---
 
 # Summary 总结
 
 - Layers are similar to layers in other apps like Sketch and Photoshop, and can be grouped and masked
 - Animate and change layers by clicking on layer properties in the inspector to add a corresponding patch in the Patch Editor.
 - Use pre-made components to speed up your workflow, and create your own library to share.
-- 图层类似于Sketch和Photoshop等其他软件中的图层，可以进行分组和蒙版。
+- 图层类似于 Sketch 和 Photoshop 等其他软件中的图层，可以进行分组和蒙版。
 - 通过点击检查器中的图层属性，在模块编辑器中添加相应的补模块来创建动画和改变图层。
 - 使用预置的组件可以节省你的工作时间，也可以创建自己的组件库进行共享。
