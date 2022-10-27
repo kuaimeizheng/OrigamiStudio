@@ -230,11 +230,11 @@ JavaScript控制台可以在隐藏/显示JavaScript控制台的视图菜单中�
 
 Once the console is open It will display the log messages from the last JavaScript patch selected.
 
-一旦控制台打开，它将显示来自选定的最后一个JavaScript补丁的日志消息。
+一旦控制台打开，它将显示来自选定的最后一个JavaScript模块的日志消息。
 
 JavaScript Console messages will come directly from the patch’s code, or from warnings or errors in the Script.
 
-JavaScript控制台消息将直接来自补丁的代码，或者来自脚本中的警告或错误。
+JavaScript控制台消息将直接来自模块的代码，或者来自脚本中的警告或错误。
 
 For example take this code: `patch.outputs[0].value = [];`
 

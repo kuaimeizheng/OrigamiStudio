@@ -11,7 +11,7 @@ Quick Interactions are a faster way to create flows between screens in the Origa
 
 快捷交互是在 Origami 画布中创建屏幕转场的一种更快的方式。
 
-------
+---
 
 # Presenting Screens 显示屏幕
 
@@ -23,7 +23,7 @@ To create a Quick Interaction, click on the Quick Interaction icon in the toolba
 
 Presenting and dismissing will use the corresponding transition styles of whichever device platform you have selected in the Devices dropdown in the Origami toolbar. So an iPhone will use the iOS presentation and dismiss transitions while a Pixel will use the Material presentation and dismiss transitions.
 
-显示和关闭将使用您在工具栏中的“设备”下拉菜单中选择的设备对应的过渡样式，所以iPhone会使用iOS的过渡样式，而Pixel会使用Material的样式。
+显示和关闭将使用您在工具栏中的“设备”下拉菜单中选择的设备对应的过渡样式，所以 iPhone 会使用 iOS 的过渡样式，而 Pixel 会使用 Material 的样式。
 
 ![](https://origami.design/public/images/documentation/quick_interactions_present@2x.png)
 
@@ -33,12 +33,12 @@ Presenting screens with Quick Interations
 
 Trigger a present transition using a Tap, Double Tap or Long Press interaction. You can change the presentation transition type from Push, Modal or None in the Inspector panel on the right hand side of Origami.
 
-使用轻按、双击或长按交互来触发当前的过渡。您可以在Origami右侧的检查器面板中，选择Push、Modal或None来更改过渡类型。
+使用轻按、双击或长按交互来触发当前的过渡。您可以在 Origami 右侧的检查器面板中，选择 Push、Modal 或 None 来更改过渡类型。
 
 - **Push** Default iOS transition, will slide in the next screen being presented from right to left
 - **Modal** Will transition in the next screen from the bottom up
 - **None** Will present the next screen immediately with no transition.
-- **推动** 默认iOS过渡，下一个屏幕将从右向左显示
+- **推动** 默认 iOS 过渡，下一个屏幕将从右向左显示
 - **模态** 下一个屏幕将从下向上过渡
 - **无** 下一个屏幕没有过渡立即出现。
 
@@ -62,11 +62,11 @@ Creating a Quick Interaction will automatically generate a corresponding patch i
 
 ![](./../../../static/img/docs/Canvas/quick-interactions-1.png)
 
-*When creating multiple Quick Interactions, Origami will often stack the automatically generated patches on top of each other so double check that if you’re not seeing them show up in the Patch Editor.*
+_When creating multiple Quick Interactions, Origami will often stack the automatically generated patches on top of each other so double check that if you’re not seeing them show up in the Patch Editor._
 
-当创建多个快捷交互时，Origami通常会将自动生成的模块堆叠在彼此的顶部，如果你没有在模块编辑器中看到它们，请仔细检查。
+当创建多个快捷交互时，Origami 通常会将自动生成的模块堆叠在彼此的顶部，如果你没有在模块编辑器中看到它们，请仔细检查。
 
-------
+---
 
 # Summary 总结
 

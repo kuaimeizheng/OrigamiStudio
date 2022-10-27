@@ -8,7 +8,7 @@ Every prototype has multiple states it can transition between. In Origami, Switc
 
 每个原型都有多个可以转换的状态。 在 Origami 中，[Switch 开关](./../Utility/Switch.md) 模块可以帮助追踪模块所处的状态。它们就像电灯开关，可以通过交互模块进行切换。
 
-------
+---
 
 # State patches 状态模块
 
@@ -32,7 +32,7 @@ Multiple Switch patches can combined with Logic patches ([Or](./../Logic/Or.md),
 
 [选项开关](./../Utility/Option%20Switch.md)模块适用于不能共存的互斥状态，例如标签栏。选项开关通常与选项选择器一起使用，以根据状态传递不同的值。
 
-例如，如果要在3种状态之间更改导航栏标题：
+例如，如果要在 3 种状态之间更改导航栏标题：
 
 ![](./../../../static/img/docs/Patch%20Editor/states-2.png)
 
@@ -50,15 +50,15 @@ Both Switch and Option Switch patches output a number for the state that is acti
 
 [Switch 开关](./../Utility/Switch.md) 和 [Option Switch 选项开关](./../Utility/Option%20Switch.md) 模块都会输出激活状态的数字。
 
-开关模块输出 0（关闭）或 1（打开），选项开关模块输出一个数字，第一个状态从0开始，第二个状态从1开始，依此类推：
+开关模块输出 0（关闭）或 1（打开），选项开关模块输出一个数字，第一个状态从 0 开始，第二个状态从 1 开始，依此类推：
 
-- Index 0 → Initial state / Off State  索引 0 → 初始状态/关闭状态
-- Index 1 → 2nd state / On State  索引 1 → 第二状态/打开状态
-- Index 2 → 3rd state  索引 2 → 第三状态
-- Index 3 → 4th state  索引 3 → 第四状态
+- Index 0 → Initial state / Off State 索引 0 → 初始状态/关闭状态
+- Index 1 → 2nd state / On State 索引 1 → 第二状态/打开状态
+- Index 2 → 3rd state 索引 2 → 第三状态
+- Index 3 → 4th state 索引 3 → 第四状态
 - ...
 
-------
+---
 
 # Summary 总结
 

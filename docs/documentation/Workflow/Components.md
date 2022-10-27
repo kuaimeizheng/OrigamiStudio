@@ -8,9 +8,9 @@ Components are a powerful feature in Origami that allow you to reuse layers and 
 
 组件是 Origami 中的一项强大功能，允许您在文档中的画板、屏幕甚至多个文档中重复使用图层和模块。
 
- 当您对组件进行更改时，这些更改同步显示在原型中使用组件的地方。 它们在概念上类似于 Figma 或 Sketch 中的组件。
+当您对组件进行更改时，这些更改同步显示在原型中使用组件的地方。 它们在概念上类似于 Figma 或 Sketch 中的组件。
 
-------
+---
 
 Components can be comprised of layers, patches or both.
 
@@ -28,9 +28,9 @@ Layer Componentsare made up of both layers and patches. Use layer components for
 
 # Creating Patch Components 创建模块组件
 
-To group multiple patches into one component, select the patches and choose  Component > Create Component⌃⌘G from the menu bar or right-click and select  Group Into Component… .
+To group multiple patches into one component, select the patches and choose Component > Create Component⌃⌘G from the menu bar or right-click and select Group Into Component… .
 
-要将多个模块组合成一个组件，请选择模块并从菜单栏中选择 Component 组件 > Create component 创建组件⌃⌘G 或右键单击并选择  Group Into Component 组成组件 …。
+要将多个模块组合成一个组件，请选择模块并从菜单栏中选择 Component 组件 > Create component 创建组件 ⌃⌘G 或右键单击并选择 Group Into Component 组成组件 …。
 
 https://origami.design/public/images/videos/even-or-odd.mp4
 
@@ -42,17 +42,17 @@ The group of patches above will be replaced by a new single patch component name
 
 ![Image](./../../../static/img/docs/Workflow/components-1.png)
 
-*Note: Layer property patches cannot be grouped into a patch component - to build patch groups with layers, use layer components.*
+_Note: Layer property patches cannot be grouped into a patch component - to build patch groups with layers, use layer components._
 
 注意:图层属性模块不能被组合到一个模块组件中——要用图层构建模块组件，请使用图层组件。
 
-###  Editing Patch Components 编辑模块组件
+### Editing Patch Components 编辑模块组件
 
 To enter a patch group, double-click it or press `⌥↓`. To leave it and go back, press` ⌥↑`. Menu items for entering and leaving a patch group are Component > Enter Componentand Component > Exit Component.
 
 双击或按`⌥↓` 进入模块组。按` ⌥↑` 离开并返回。
 
-进入和离开模块组的菜单项为`Component 组件 > Enter Component 进入组件 `和` Component 组件 > Exit Component 退出组件 `。
+进入和离开模块组的菜单项为`Component 组件 > Enter Component 进入组件 `和`Component 组件 > Exit Component 退出组件`。
 
 The Input ports within components are represented by purple patches and the Output ports are represented by the blue patches.
 
@@ -64,7 +64,7 @@ Editing Patch Components 编辑模块组件
 
 # Creating Layer Components 创建图层组件
 
-To create a component, select the patches from the Patch Editor and/or the layers from the Layers Panel/Canvas that you would like to be included in your component. Then, with those selected, from the menu bar click on  Component > Group Into Component⌃⌘G. Choose a name for your component then click  Create.
+To create a component, select the patches from the Patch Editor and/or the layers from the Layers Panel/Canvas that you would like to be included in your component. Then, with those selected, from the menu bar click on Component > Group Into Component⌃⌘G. Choose a name for your component then click Create.
 
 要创建组件，从模块编辑器中选择模块以及从图层面板中选择你想要设置为组件的图层。
 
@@ -82,7 +82,7 @@ You’ll notice a single layer with a purple cog icon has replaced the card grou
 
 这是因为所有内容都已移至组件中。现在是一个本地文档组件，可以在文档组件下的图层库中找到。
 
-###  Editing Layer Components 编辑图层组件
+### Editing Layer Components 编辑图层组件
 
 Edit a component by selecting the components artboard on the Canvas or by double-clicking the component in the Layer List or Patch Editor.
 
@@ -112,11 +112,11 @@ To add, edit, re-order or remove the individual inputs and outputs, select the p
 
 Editing Component Info 编辑组件信息
 
-To publish inputs or outputs from inside a patch component, select a port and choose  Component > Publish Port⌥P. This will add a purple or blue patch that represents an input or output on the patch group.
+To publish inputs or outputs from inside a patch component, select a port and choose Component > Publish Port⌥P. This will add a purple or blue patch that represents an input or output on the patch group.
 
 要从模块组件内部发布输入或输出，请选择一个端口并选择 `Component 组件 > Publish Port 发布端口`或` ⌥P`。将添加一个紫色或蓝色模块，表示模块组上的输入或输出。
 
-Components also have a number of special port tags available in the dropdown menu - for example, using the *Enable* tag will reveal the eye icon on your component for quick enabling or disabling. When a special tag isn’t needed, use the generic Custom tag.
+Components also have a number of special port tags available in the dropdown menu - for example, using the _Enable_ tag will reveal the eye icon on your component for quick enabling or disabling. When a special tag isn’t needed, use the generic Custom tag.
 
 组件在下拉菜单中还有一些特殊的端口标签可用 —— 例如，使用 启用 标签将显示组件上的眼睛图标，以便快速启用或禁用。当不需要特殊标签时，请使用通用自定义标签。
 
@@ -124,13 +124,13 @@ Components also have a number of special port tags available in the dropdown men
 
 Components are a type of layer in Origami and live inside the Layer Library. To insert a component click the + in the toolbar to access the dropdown, then click Layer Library or use the shortcut ⌘ + Return to open the Layer Library directly.
 
-组件是Origami中的一种图层类型，在图层库中。要插入一个组件，请点击工具栏上的 `+`进入下拉菜单，然后点击图层库，或者使用快捷键  `⌘+ 回车键`，直接打开图层库。
+组件是 Origami 中的一种图层类型，在图层库中。要插入一个组件，请点击工具栏上的 `+`进入下拉菜单，然后点击图层库，或者使用快捷键 `⌘+ 回车键`，直接打开图层库。
 
 ![](https://origami.design/public/images/documentation/adding-components.png)
 
 # Types of Components 组件类型
 
-###  Platform Components 平台组件
+### Platform Components 平台组件
 
 iOS and Android native components such as status bar, tab bars, action sheets, progress spinners and more. These take on the properties and behaviors of their platform so your prototype feels native. These are also maintained by the Origami team.
 
@@ -138,7 +138,7 @@ iOS 和 Android 原生组件，例如状态栏、标签栏、操作列表、进�
 
 这些具有其平台的属性和行为，因此您的原型用起来是原生的体验。这些模块也由 Origami 团队维护。
 
-###  Device Components 设备组件
+### Device Components 设备组件
 
 Special components that allow you to access device specific elements such as the Camera (called “Viewfinder”) and Text Field which captures text typed on the device keyboard.
 
@@ -146,7 +146,7 @@ Special components that allow you to access device specific elements such as the
 
 例如相机（称为“取景器”）和捕获在设备键盘上输入的文本的文本字段。
 
-###  Document Components 文档组件
+### Document Components 文档组件
 
 Custom components that a user can create within a single document. This component will appear in the Layer Library for that document only.
 
@@ -172,7 +172,7 @@ Once a component is in your library, you will be able to add it the same way as 
 
 注意：如果要在当前文档中立即可用，需要关闭并重新打开文档。
 
-###  Updating Components 更新组件
+### Updating Components 更新组件
 
 To make changes or add functionality to a component in your library, insert the patch or layer component to your document, make your changes and choose Component > Add to User Libraryagain. Close and re-open any documents using this patch group or component, and Origami Studio will prompt you to upgrade the patches to the new version.
 
@@ -184,7 +184,7 @@ Make one-off changes to any patch or component by unlinking it from the library.
 
 通过从库中取消链接，对任何模块或组件进行临时更改。选择模块或图层组件，然后选择 `Component 组件 > Unlink Component from Library 从库中取消链接组件`。
 
-###  Platform-specific Components 特定于平台的组件
+### Platform-specific Components 特定于平台的组件
 
 To limit a patch or component to a platform, specify a platform in the Patch Setup tab of the Patch Info popover. This will make your patch or component available only if the current device matches the chosen platform.
 
@@ -198,7 +198,7 @@ To make components accessible to other team members, create a shared [Dropbox](h
 
 要将文档中的组件保存到共享文件夹，请使用 `Component 组件 > Add to Other Library 添加到其他库`。
 
-Members of the team can add this folder to the list of loaded libraries using the *+* button in Systems tab in Origami Studio preferences.
+Members of the team can add this folder to the list of loaded libraries using the _+_ button in Systems tab in Origami Studio preferences.
 
 团队成员可以使用 Origami Studio 偏好设置中系统选项卡中的 + 按钮，将模块文件夹添加到库列表中使用。
 

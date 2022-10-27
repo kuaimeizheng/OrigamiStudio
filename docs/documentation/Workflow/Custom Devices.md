@@ -8,12 +8,12 @@ Extend the library of simulated devices in Origami Studio by making your own dev
 
 通过使用自定义尺寸、比例、框架和手形图片制作自定义设备，扩展 Origami Studio 中的模拟设备库。
 
-------
+---
 
 # Creating a New Device 创建新设备
 
 1. Download the [custom device example](https://s3-us-west-2.amazonaws.com/fborigami/custom_device_example/Example_device.origamidevice.zip) 下载自定义设备示例
-2. Open the `.origamidevice` bundle by right-clicking and choosing *Show Package Contents* in the contextual menu 通过右键单击并在菜单中选择“显示包内容”打开 `.origamidevice` 包
+2. Open the `.origamidevice` bundle by right-clicking and choosing _Show Package Contents_ in the contextual menu 通过右键单击并在菜单中选择“显示包内容”打开 `.origamidevice` 包
 3. Make adjustments to `info.json` file describing the device (see documentation below). Make sure to choose a unique key for every device you’re creating
 4. Replace or add .png images and reference them in the `info.json` file
 5. Double-click the bundle file to install it
@@ -23,7 +23,7 @@ Extend the library of simulated devices in Origami Studio by making your own dev
 9. 替换或添加 .png 图像并在 `info.json` 文件中引用它们
 10. 双击包文件安装
 
-Your new device will appear in the Device picker under the *Custom* menu item. Specify the `type` key in info.json to change this.
+Your new device will appear in the Device picker under the _Custom_ menu item. Specify the `type` key in info.json to change this.
 
 您的新设备将出现在自定义菜单项下的设备选择列表中。可以在 info.json 中设置 `type` 来改变。
 
@@ -49,7 +49,46 @@ All installed devices are stored in `~/Library/Application Support/Diamond/Devic
 # Example info.json info.json 例子
 
 ```
-{   "key" : "iPhone4",   "displayName" : "iPhone 4",   "platform" : "iOS",   "type" : "phone",   "screenScale" : 2,   "screenSize" : [     320,     480   ],   "handsImageScale" : 0.5649999999999999,   "handsImageOffset" : [     2,     45   ],   "handsImages" : [     "iPhoneHands.png",     "iPhoneHands2.png",     "iPhoneHands3.png"   ],   "deviceInsets" : [     130,     28,     130,     28   ],   "deviceImages" : {     "White" : "iPhone4-White.png",     "Black" : "iPhone4-Black.png"   },   "shadowOffset" : [     20,     -5   ],   "defaultDeviceOrientation" : "Portrait",   "supportsDeviceOrientationPortrait" : true,   "supportsDeviceOrientationLandscapeLeft" : true,   "supportsDeviceOrientationLandscapeRight" : true,   "supportsDeviceOrientationPortraitUpsideDown" : true }
+{
+  "key" : "iPhone4",
+  "displayName" : "iPhone 4",
+  "platform" : "iOS",
+  "type" : "phone",
+  "screenScale" : 2,
+  "screenSize" : [
+    320,
+    480
+  ],
+  "handsImageScale" : 0.5649999999999999,
+  "handsImageOffset" : [
+    2,
+    45
+  ],
+  "handsImages" : [
+    "iPhoneHands.png",
+    "iPhoneHands2.png",
+    "iPhoneHands3.png"
+  ],
+  "deviceInsets" : [
+    130,
+    28,
+    130,
+    28
+  ],
+  "deviceImages" : {
+    "White" : "iPhone4-White.png",
+    "Black" : "iPhone4-Black.png"
+  },
+  "shadowOffset" : [
+    20,
+    -5
+  ],
+  "defaultDeviceOrientation" : "Portrait",
+  "supportsDeviceOrientationPortrait" : true,
+  "supportsDeviceOrientationLandscapeLeft" : true,
+  "supportsDeviceOrientationLandscapeRight" : true,
+  "supportsDeviceOrientationPortraitUpsideDown" : true
+}
 ```
 
 # info.json Documentation info.json 文档
@@ -140,7 +179,7 @@ Type: Boolean, Optional
 
 Whether this device uses a native mac window to display when popped out into its own window. The screenSize is then able to be resized freely.
 
-当弹出自己的窗口时，设备是否使用本机mac窗口来显示。然后屏幕大小可以自由调整。
+当弹出自己的窗口时，设备是否使用本机 mac 窗口来显示。然后屏幕大小可以自由调整。
 
 ### `deviceInsets` 设备插件
 
@@ -248,13 +287,13 @@ The default device orientation to show the device in for the provided screen siz
 
 根据提供的屏幕大小和设备图片显示设备的默认方向。例如，如果设备是横向的电视或平板电脑，则该值应为 `LandscapeLeft`或 `LandscapeRight`。可用的方向是`Portrait`, `LandscapeLeft`, `LandscapeRight`, `PortraitUpsideDown`.。如果未指定，则默认为`Portrait`。
 
-### `supportsDeviceOrientationPortrait`,
+### `supportsDeviceOrientationPortrait`支持设备方向纵向,
 
-### `supportsDeviceOrientationLandscapeLeft`,
+### `supportsDeviceOrientationLandscapeLeft`支持设备方向横向向左,
 
-### `supportsDeviceOrientationLandscapeRight`,
+### `supportsDeviceOrientationLandscapeRight`支持设备方向横向向右,
 
-### `supportsDeviceOrientationPortraitUpsideDown`
+### `supportsDeviceOrientationPortraitUpsideDown`支持设备方向纵向倒置
 
 Type: Boolean, Optional
 
@@ -262,4 +301,4 @@ Type: Boolean, Optional
 
 Interface orientations that the device supports when being rotated.
 
-设备旋转使支持的界面方向。
+设备旋转支持的界面方向。

@@ -14,7 +14,7 @@ Patches allow you to add interaction, animation, and behavior to your prototype.
 
 模块允许你在原型中添加交互、动画和行为。每个模块都有一个独特的功能，可以向其他模块传递和接收信息。
 
-------
+---
 
 The patch library contains a large number of patches, but a core set of 15-20 patches will support most prototypes. They all have single key [Keyboard Shortcuts] to enable super fast iteration.
 
@@ -26,7 +26,7 @@ Patches range from simple math patches:
 
 ![](./../../../static/img/docs/Patch%20Editor/patches-1.png)
 
-The  [+] patch takes two number inputs on the left, and outputs the sum on the right. 2 + 3 = 5.
+The [+] patch takes two number inputs on the left, and outputs the sum on the right. 2 + 3 = 5.
 
 - 模块 在左边端口接收两个数字输入，在右边输出它们的和。例如：2 + 3 = 5。
 
@@ -38,7 +38,7 @@ The  [+] patch takes two number inputs on the left, and outputs the sum on the r
 
 The [Interaction](./../Interaction/Interaction.md) patch outputs information about touches on the Viewer on a layer. When a finger is touching down on Rectangle, it outputs ✓ in the Down port.
 
-交互模块在图层的查看器上输出关于触摸的信息。当手指按下选择的图层时，在down端口输出 ✓。
+交互模块在图层的查看器上输出关于触摸的信息。当手指按下选择的图层时，在 down 端口输出 ✓。
 
 … to patches that manage states:
 
@@ -46,9 +46,7 @@ The [Interaction](./../Interaction/Interaction.md) patch outputs information abo
 
 ![](./../../../static/img/docs/Patch%20Editor/patches-3.png)
 
-
-
-The [Switch](./../Utility/Switch.md)  patch can be turned on or off by the inputs on the left, and outputs the current state on the right.
+The [Switch](./../Utility/Switch.md) patch can be turned on or off by the inputs on the left, and outputs the current state on the right.
 
 [Switch](./../Utility/Switch.md) 开关模块可以通过左边的输入端口设置打开或关闭，右边输出当前开关状态。
 
@@ -108,13 +106,13 @@ Each port has a different type of information it can receive — the important t
 
 - **声音：**您拖动或粘贴的声音。
 
-- **颜色：**任何RGB或HSL颜色。
+- **颜色：**任何 RGB 或 HSL 颜色。
 
 - **索引：**任何非负整数（例如：0、1、2）
 
-- **JSON数据：**JSON 格式的任意类型和数量的值。JSON（JavaScript Object Notation）是一种用于存储和交换数据的通用格式。
+- **JSON 数据：**JSON 格式的任意类型和数量的值。JSON（JavaScript Object Notation）是一种用于存储和交换数据的通用格式。
 
-- **Point：**表示2D、3D或4D的数值。点可以表示任意一组 X, Y, Z 值(例如:位置 X, Y, Z; 旋转 X, Y, Z)。
+- **Point：**表示 2D、3D 或 4D 的数值。点可以表示任意一组 X, Y, Z 值(例如:位置 X, Y, Z; 旋转 X, Y, Z)。
 
 Some patches can change the number of ports it has or the type of value it supports. Right-click any patch to see the options available.
 
@@ -146,16 +144,14 @@ In the example below, three different patches pass values to each other with cab
 
 ![](./../../../static/img/docs/Patch%20Editor/patches-5.png)
 
-
-
-------
+---
 
 # Summary 总结
 
 - Patches let you quickly add interaction, animation, and behavior to your prototype.
 - A patch can have inputs and outputs that let it communicate with other patches.
 - There is a large library to support building any idea. For most prototypes, you only need to know about 15-20.
-- Learn [keyboard shorcuts]  to speed up your workflow.
+- Learn [keyboard shorcuts] to speed up your workflow.
 - 模块可以让你在原型中快速添加交互，动画和行为。
 - 一个模块有输入和输出端口，可以与其他模块进行通信。
 - 一个大的模块库帮助你快速实现想法，大多数原型只需要用到 15-20 个。

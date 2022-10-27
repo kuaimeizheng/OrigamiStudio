@@ -88,4 +88,6 @@ A number that represents spring speed (Pop Animation)
 
 [Bouncy Converter 弹性转换器](./Bouncy%20Converter.md)
 
+### 相关参考
 
+https://developer.apple.com/documentation/swiftui/animation

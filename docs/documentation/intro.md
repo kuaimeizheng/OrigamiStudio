@@ -6,7 +6,7 @@ sidebar_position: 0
 
 Origami Studio is a free design tool created by Facebook and available for Mac. It allows designers to rapidly build and share interactive interfaces.
 
-Origami Sudio 是Facebook开发的一款免费的设计工具，支持Mac系统。设计人员可以快速构建和分享做好的交互原型。
+Origami Sudio 是 Facebook 开发的一款免费的设计工具，支持 Mac 系统。设计人员可以快速构建和分享做好的交互原型。
 
 ---
 
@@ -30,7 +30,7 @@ Visually drag, drop and resize to layout your prototype. Draw and edit shape lay
 
 Add interaction, animation, and behavior to your prototype using blocks called [Patches]. Connect patch outputs to layer properties in the Inspector.
 
-使用我们定义的 [Patches模块]向原型添加交互、动画和行为。然后将模块输出端口连接到检查器中的图层属性。
+使用我们定义的 [Patches 模块]向原型添加交互、动画和行为。然后将模块输出端口连接到检查器中的图层属性。
 
 ### 3. Layer List 图层列表
 

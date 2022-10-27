@@ -33,3 +33,23 @@ The type of haptic response to activate on the iPhone (Selection, Impact Light, 
 [Vibrate 震动](./Vibrate.md)
 
 [Trackpad Haptic 触控板触觉](./Trackpad%20Haptic.md)
+
+### 相关参考
+
+##### 核心触觉模式：
+
+https://developer.apple.com/documentation/corehaptics
+
+##### 设计文档：
+
+https://developer.apple.com/design/human-interface-guidelines/patterns/playing-haptics
+
+##### 开发文档：
+
+https://developer.apple.com/documentation/uikit/uifeedbackgenerator
+
+##### 自定义触觉：
+
+Apple 在 iOS 13 中引入了使用新的 AHAP 文件设计自己的触觉体验的能力。 该工具可以用图形方式可视化设计您自己的模式。
+
+https://ahap.fancypixel.it/

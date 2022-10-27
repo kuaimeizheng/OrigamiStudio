@@ -8,24 +8,24 @@ Animation patches in Origami are designed to be fluid and reversible: they take 
 
 Origami 中的动画模块的设计流畅且可反转。为了动画平滑采用一直变化的数字和补间。
 
-------
+---
 
 # Animation patches 动画模块
 
-- [Pop Animation]  A Natural bouncy animations commonly found in Facebook apps, and easily pass values to your developers with the the [Pop](https://github.com/facebook/pop) framework for iOS, [Rebound](https://facebook.github.io/rebound/) for Android, and [Rebound JS](https://github.com/facebook/rebound-js) for the web.
-- [Classic Animation]  C Traditional easing curves, like linear, ease-in, and ease-out.
-- [Repeating Motion]  Repeating, back-and-forth animations with easing curves.
+- [Pop Animation] A Natural bouncy animations commonly found in Facebook apps, and easily pass values to your developers with the the [Pop](https://github.com/facebook/pop) framework for iOS, [Rebound](https://facebook.github.io/rebound/) for Android, and [Rebound JS](https://github.com/facebook/rebound-js) for the web.
+- [Classic Animation] C Traditional easing curves, like linear, ease-in, and ease-out.
+- [Repeating Motion] Repeating, back-and-forth animations with easing curves.
 - [流行动画] 脸书应用中常见的自然弹性动画，因为是通过 iOS 的 POP 框架、Android 的 Rebound 和 Web 的 Rebound JS 框架，所以可以轻松将参数传递给开发人员。
-- [经典动画]  传统的缓动曲线，如线性、缓入、缓出。
+- [经典动画] 传统的缓动曲线，如线性、缓入、缓出。
 - [重复动画] 带有缓动曲线的重复、来回动画。
 
-------
+---
 
 # Animating values 动画值
 
 In combination with an [Interaction] or a [Switch] patch, which output 0 or 1, an Animation patch can tween that value so it smoothly animates from 0 to 1, and vice versa. Origami refers to this 0 to 1 value generally as **progress** .
 
-与输出 0 或 1 的j交互或Switch开关模块结合使用时，动画模块可以对该值进行补间，使其平滑地从0过渡到1，反之亦然。
+与输出 0 或 1 的 j 交互或 Switch 开关模块结合使用时，动画模块可以对该值进行补间，使其平滑地从 0 过渡到 1，反之亦然。
 
 Origami 通常将这个 0 到 1 的值称为 **进度**。
 
@@ -39,9 +39,9 @@ This example below will scale a Layer from 0 to 1 (or 0% to 100%) when you touch
 
 Animating from 0 to 1 is simple, but what about animating between other values?
 
-从0到1设置动画很简单，但是在其他值之间设置动画呢？
+从 0 到 1 设置动画很简单，但是在其他值之间设置动画呢？
 
-[Transition]  T patches let you transform that 0/1 into any start/end value:
+[Transition] T patches let you transform that 0/1 into any start/end value:
 
 转换模块可以让你将 0/1 转换为任何 开始/结束值:
 
@@ -75,7 +75,7 @@ In combination with an animation patch, you can now animate between any two valu
 
 ![Image](./../../../static/img/docs/Patch%20Editor/animations-6.png)
 
-------
+---
 
 # Summary 总结
 
