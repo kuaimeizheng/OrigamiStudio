@@ -17,8 +17,8 @@ tags: [interaction]
         <ul className="inputs">
             <li>Enable <span className="checkbox-off"></span></li>
             <li>Layer <span>None</span></li>
-            <li>Start <small> X <span>Off</span></small></li>
-            <li>Start <small> Y <span>Free</span></small></li>
+            <li>Scroll X <small><span>Off</span></small></li>
+            <li>Sscroll Y <small><span>Free</span></small></li>
             <li>Settings <span>[...]</span></li>
             <li>Natural Scrolling <span className="checkbox-off"></span></li>
         </ul>
@@ -38,9 +38,9 @@ tags: [interaction]
 
 #### Layer 图层
 
-#### Start X 
+#### Scroll X 
 
-#### Start Y 
+#### Scroll Y 
 
 #### Settings 设置参数
 
