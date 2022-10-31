@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkorigami_studio=self.webpackChunkorigami_studio||[]).push([[17815],{88139:e=>{e.exports=JSON.parse('{"title":"Demo","slug":"/category/demo","permalink":"/OrigamiStudio/docs/category/demo","navigation":{"next":{"title":"400x300","permalink":"/OrigamiStudio/docs/device/Demo/400x300"}}}')}}]);
