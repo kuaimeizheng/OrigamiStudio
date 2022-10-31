@@ -7,9 +7,4 @@ last_update:
 
 # Introduction 入门
 
-## 包含以下设备
-
-- computers 电脑
-- phones 手机
-- tablets 平板
-- other 其它
+主要研究各个平台系统、框架在 Origami 上的应用和实践。
