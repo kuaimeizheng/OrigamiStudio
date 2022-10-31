@@ -1,6 +1,8 @@
 ---
 title: Keyboard Shortcuts 键盘快捷键
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Keyboard Shortcuts 键盘快捷键
@@ -9,7 +11,8 @@ Origami Studio 提供了常用功能的快捷键。 熟记模块的的快捷方�
 
 [键盘快捷键详细介绍](./../documentation/Workflow/Keyboard%20Shortcuts.md)
 
-------
+---
+
 ## General 常用
 
 | 快捷键 | 英文          | 中文           |
@@ -17,7 +20,6 @@ Origami Studio 提供了常用功能的快捷键。 熟记模块的的快捷方�
 | ⌥ ⏎    | Insert Patch  | 打开模块库窗口 |
 | ⌘ ⏎    | Insert Layer  | 插入图层       |
 | ⌘ /    | Documentation | 打开帮助文档   |
-
 
 ## Inserting Patches 插入模块
 
@@ -40,7 +42,7 @@ Origami Studio 提供了常用功能的快捷键。 熟记模块的的快捷方�
 | U      | Pulse                | 脉冲       |
 | +      | Add                  | 加法       |
 | -      | Minus                | 减法       |
-| *      | Multiple             | 乘法       |
+| \*     | Multiple             | 乘法       |
 | /      | Divide               | 除法       |
 | %      | Modulus/Remainder    | 模数/余数  |
 | ⇧ A    | AND (Logic)          | 和(逻辑)   |
@@ -101,15 +103,15 @@ Origami Studio 提供了常用功能的快捷键。 熟记模块的的快捷方�
 | ⌥ H    | Toggle Hand       | 切换手样式          |
 | ⌘ ⌥ F  | Mini Viewer       | 缩小查看器          |
 | ⌘ ⇧ F  | Fullscreen Viewer | 全屏查看器          |
-| ⌘ ⌥ 0  | 1:1 Viewer        | 1:1查看器           |
+| ⌘ ⌥ 0  | 1:1 Viewer        | 1:1 查看器          |
 
 ## Number Inputs 数值输入
 
-| 快捷键 | 英文                   | 中文      |
-| :----- | :--------------------- | :-------- |
-| ▲      | Increase number by 1   | 数值加1   |
-| ▼      | Decrease number by 1   | 数值减1   |
-| ⇧ ▲    | Increase number by 10  | 数值加10  |
-| ⇧ ▼    | Decrease number by 10  | 数值减10  |
-| ⌥ ▲    | Increase number by 0.1 | 数值加0.1 |
-| ⌥ ▼    | Decrease number by 0.1 | 数值减0.1 |
+| 快捷键 | 英文                   | 中文       |
+| :----- | :--------------------- | :--------- |
+| ▲      | Increase number by 1   | 数值加 1   |
+| ▼      | Decrease number by 1   | 数值减 1   |
+| ⇧ ▲    | Increase number by 10  | 数值加 10  |
+| ⇧ ▼    | Decrease number by 10  | 数值减 10  |
+| ⌥ ▲    | Increase number by 0.1 | 数值加 0.1 |
+| ⌥ ▼    | Decrease number by 0.1 | 数值减 0.1 |
