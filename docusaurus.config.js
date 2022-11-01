@@ -130,12 +130,17 @@ const config = {
             position: 'left',
             label: '模块',
           },
-
           {
-            to: 'showcase',
-            label: '例子(待完善)',
-            position: 'left'
+            type: 'doc',
+            docId: 'tutorial/intro',
+            position: 'left',
+            label: '教程',
           },
+          // {
+          //   to: 'showcase',
+          //   label: '例子(待完善)',
+          //   position: 'left'
+          // },
           {
             type: 'doc',
             docId: 'system/intro',
