@@ -1,5 +1,8 @@
 ---
+title: Array Append 数组添加
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Array Append 数组添加
@@ -8,7 +11,19 @@ Add items to a JSON array.
 
 将项目添加到JSON数组。
 
-![Image](./../../../static/img/docs/Data/array-append.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Array Append</h3>
+        <ul className="inputs">
+            <li>Array<span></span></li>
+            <li>Item<span></span></li>
+            <li>Append<span></span></li>
+        </ul>
+        <ul className="outputs">
+            <li><span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Array 数组
 

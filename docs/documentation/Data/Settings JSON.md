@@ -1,5 +1,8 @@
 ---
+title: Settings JSON 设置JSON
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Settings JSON 设置JSON

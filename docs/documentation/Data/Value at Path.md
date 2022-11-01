@@ -1,5 +1,8 @@
 ---
+title: Value at Path 路径值
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Value at Path 路径值

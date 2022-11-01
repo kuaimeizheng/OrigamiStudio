@@ -1,5 +1,8 @@
 ---
+title: Array Join 数组连接
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Array Join 数组连接
@@ -10,7 +13,18 @@ Joins multiple arrays into a single array.
 
 Right-click the patch to add additional inputs.
 
-![Image](./../../../static/img/docs/Data/array-join.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Array Join</h3>
+        <ul className="inputs">
+            <li>&nbsp;<span></span></li>
+            <li>&nbsp;<span></span></li>
+        </ul>
+        <ul className="outputs">
+            <li><span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Input 输入
 

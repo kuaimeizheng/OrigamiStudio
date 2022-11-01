@@ -1,5 +1,8 @@
 ---
+title: Array Count 数组数量
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Array Count 数组数量
@@ -8,7 +11,17 @@ Count the number of items in a JSON array.
 
 计算 JSON 数组选项的数量。
 
-![Image](./../../../static/img/docs/Data/array-count.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Array Count</h3>
+        <ul className="inputs">
+            <li>Array<span></span></li>
+        </ul>
+        <ul className="outputs">
+            <li><span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Array 数组
 
