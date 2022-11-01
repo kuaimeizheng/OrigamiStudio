@@ -1,0 +1,9 @@
+{
+  "label": "iPhone",
+  "position": 20,
+  "collapsible": true,
+  "collapsed": false,
+  "link": {
+    "type": "generated-index"
+  }
+}
