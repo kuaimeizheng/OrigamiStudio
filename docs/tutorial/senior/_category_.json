@@ -1,0 +1,9 @@
+{
+  "label": "资深",
+  "position": 50,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index"
+  }
+}
