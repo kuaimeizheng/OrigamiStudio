@@ -1,0 +1,34 @@
+{
+  "mouseInput" : true,
+  "displayName" : "400x300",
+  "key" : "MacWindow_400_300",
+  "type" : "window",
+  "screenSize" : [
+    400,
+    300
+  ],
+  "safeArea": {
+    "portrait": [
+      0, 
+      0, 
+      0, 
+      0
+    ],
+    "landscape": [
+      0, 
+      0, 
+      0, 
+      0
+    ]
+  },
+  "deviceImages" : {
+  },
+  "platform" : "OSX",
+  "viewerWindowNative" : false,
+  "screenScale" : 1,
+  "defaultDeviceOrientation" : "Portrait",
+  "supportsDeviceOrientationPortrait" : true,
+  "supportsDeviceOrientationLandscapeRight" : false,
+  "supportsDeviceOrientationLandscapeLeft" : false,
+  "supportsDeviceOrientationPortraitUpsideDown" : false
+}
