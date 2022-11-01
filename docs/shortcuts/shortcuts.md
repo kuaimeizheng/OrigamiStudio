@@ -13,6 +13,10 @@ Origami Studio 提供了常用功能的快捷键。 熟记模块的的快捷方�
 
 ---
 
+import styles from './styles.module.css';
+
+<div className={styles.main}>
+
 ## General 常用
 
 | 快捷键 | 英文          | 中文           |
@@ -50,7 +54,7 @@ Origami Studio 提供了常用功能的快捷键。 熟记模块的的快捷方�
 | ⇧ N    | NOT (Logic)          | 非(逻辑)   |
 | E      | Equals               | 等于       |
 | >      | Greater Than         | 大于       |
-| <      | Less Than            | 小于       |
+| <div   | Less Than            | 小于       |
 | ⇧ R    | Progress             | 进度       |
 | R      | Reverse Progress     | 反转进度   |
 
@@ -115,3 +119,5 @@ Origami Studio 提供了常用功能的快捷键。 熟记模块的的快捷方�
 | ⇧ ▼    | Decrease number by 10  | 数值减 10  |
 | ⌥ ▲    | Increase number by 0.1 | 数值加 0.1 |
 | ⌥ ▼    | Decrease number by 0.1 | 数值减 0.1 |
+
+</div>

@@ -128,13 +128,13 @@ const config = {
             type: 'doc',
             docId: 'patches/intro',
             position: 'left',
-            label: '模块',
+            label: '个人模块',
           },
           {
             type: 'doc',
             docId: 'tutorial/intro',
             position: 'left',
-            label: '教程',
+            label: '学习教程',
           },
           // {
           //   to: 'showcase',
@@ -151,14 +151,14 @@ const config = {
             type: 'doc',
             docId: 'special/intro',
             position: 'left',
-            label: '专题',
+            label: '专题练习',
           },
 
           {
             type: 'doc',
             docId: 'device/intro',
             position: 'left',
-            label: '设备',
+            label: '设备展示',
           },
           {
             type: 'doc',
