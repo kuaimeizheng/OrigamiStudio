@@ -1,0 +1,9 @@
+{
+  "label": "Watch",
+  "position": 60,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index"
+  }
+}
