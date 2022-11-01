@@ -1,6 +1,6 @@
 ---
 title: 基于 Origami 的 AI 文字识别技术应用
-sidebar_position: 5
+sidebar_position: 20
 tag: [ai]
 last_update:
   author: 蒯美政
