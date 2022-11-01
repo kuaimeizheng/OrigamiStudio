@@ -10,4 +10,4 @@ authors: [kuaimeizheng]
 
 **Wechat：**303268393
 
-![](./wechat.jpg)
+![](./wechat.png)
