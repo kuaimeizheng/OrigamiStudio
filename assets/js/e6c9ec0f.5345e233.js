@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkorigami_studio=self.webpackChunkorigami_studio||[]).push([[46573],{72903:i=>{i.exports=JSON.parse('{"title":"iOS \u82f9\u679c","slug":"/category/ios-\u82f9\u679c","permalink":"/OrigamiStudio/docs/category/ios-\u82f9\u679c","navigation":{"next":{"title":"Widget iOS 14","permalink":"/OrigamiStudio/docs/example/iOS/Widget iOS 14"}}}')}}]);
