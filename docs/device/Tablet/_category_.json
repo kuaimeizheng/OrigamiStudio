@@ -1,0 +1,9 @@
+{
+  "label": "Tablet",
+  "position": 80,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index"
+  }
+}
