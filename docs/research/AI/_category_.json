@@ -2,7 +2,7 @@
   "label": "AI Patches",
   "position": 10,
   "collapsible": true,
-  "collapsed": false,
+  "collapsed": true,
   "link": {
     "type": "generated-index"
   }

@@ -2,8 +2,8 @@
   "label": "Canvas 画布",
   "position": 5,
   "collapsible": true,
-"collapsed": true,
-"link": {
+  "collapsed": true,
+  "link": {
     "type": "generated-index",
     "description": "5 minutes to learn the most important Docusaurus concepts."
   }
