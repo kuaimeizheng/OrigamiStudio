@@ -1,5 +1,8 @@
 ---
+title: Color to RGB 转换为 RGB 颜色
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Color to RGB 转换为 RGB 颜色
@@ -8,7 +11,20 @@ Converts a color to RGBA values from 0 to 1.
 
 将颜色的值从 0～1 转换为RGBA值。
 
-![Image](./../../../static/img/docs/Color/color-to-rgb.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Color to RGB</h3>
+        <ul className="inputs">
+            <li><span></span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Red<span></span></li>
+            <li>Green<span></span></li>
+            <li>Blue<span></span></li>
+            <li>Alpha<span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Input 输入
 

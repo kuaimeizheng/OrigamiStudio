@@ -1,5 +1,8 @@
 ---
+title: RGB Color RGB颜色
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # RGB Color RGB颜色
@@ -8,7 +11,20 @@ Create a color from RGBA values from 0 to 1.
 
 创建一个值在0～1之间的RGBA颜色。
 
-![Image](./../../../static/img/docs/Color/rgb-color.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>RGB Color</h3>
+        <ul className="inputs">
+            <li>Red<span></span></li>
+            <li>Green<span></span></li>
+            <li>Blue<span></span></li>
+            <li>Alpha<span></span></li>
+        </ul>
+        <ul className="outputs">
+            <li><span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Red 红色
 

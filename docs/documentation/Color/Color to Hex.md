@@ -1,5 +1,8 @@
 ---
+title: Color to Hex 转换为 Hex 颜色
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Color to Hex 转换为 Hex 颜色
@@ -8,7 +11,17 @@ Convert a color to hex. The alpha value of the color is discarded.
 
 将颜色转换为十六进制。颜色的透明度值将不再使用。
 
-![Image](./../../../static/img/docs/Color/color-to-hex.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Color to Hex</h3>
+        <ul className="inputs">
+            <li>Color<span></span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Hex<span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Color 颜色
 

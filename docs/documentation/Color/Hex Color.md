@@ -1,5 +1,8 @@
 ---
+title: Hex Color Hex 颜色
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Hex Color Hex 颜色
@@ -8,7 +11,17 @@ Create a color from hex.
 
 创建一个十六进制值颜色。
 
-![Image](./../../../static/img/docs/Color/hex-color.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Hex Color</h3>
+        <ul className="inputs">
+            <li>Hex<span></span></li>
+        </ul>
+        <ul className="outputs">
+            <li><span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Hex 十六进制
 

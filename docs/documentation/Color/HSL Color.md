@@ -1,5 +1,8 @@
 ---
+title: HSL Color HSL颜色
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # HSL Color HSL颜色
@@ -8,7 +11,20 @@ Create a color from HSL, and alpha values from 0 to 1.
 
 创建一个HSL颜色，用 0～1 之间的数字表示透明度。
 
-![Image](./../../../static/img/docs/Color/hsl-color.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>HSL Color</h3>
+        <ul className="inputs">
+            <li>Hue<span></span></li>
+            <li>Saturation<span></span></li>
+            <li>Lightness<span></span></li>
+            <li>Alpha<span></span></li>
+        </ul>
+        <ul className="outputs">
+            <li><span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Hue 色相
 

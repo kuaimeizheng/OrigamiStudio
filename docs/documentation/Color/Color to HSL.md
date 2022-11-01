@@ -1,5 +1,8 @@
 ---
+title: Color to HSL 转换为 HSL 颜色
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Color to HSL 转换为 HSL 颜色
@@ -8,7 +11,21 @@ Convert a color to HSL and alpha values from 0 to 1.
 
 将颜色转换为HSL颜色，并将透明度从 0 转换到 1。
 
-![Image](./../../../static/img/docs/Color/color-to-hsl.png)
+
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Color to HSL</h3>
+        <ul className="inputs">
+            <li><span></span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Hue<span></span></li>
+            <li>Saturation<span></span></li>
+            <li>Lightness<span></span></li>
+            <li>Alpha<span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Input 输入
 
