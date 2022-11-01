@@ -8,6 +8,8 @@
 /* You can override the default Infima variables here. */
 
 //import styles from './styles.module.scss';
+
+@import "./components/homepage";
 @import "./components/origamipatches";
 @import "./components/doc-sidebar";
 @import "./components/layout";
@@ -26,6 +28,14 @@
     --site-color-checkbox-checked-bg: rgba(10, 115, 240, 0.08);
     --ifm-code-font-size: 95%;
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+
+    --docs-color-text: #000000;
+    --docs-color-text-100: #646464;
+    --docs-color-border: #dadde1;
+    --docs-color-background: #ffffff;
+    --docs-color-background-100: #f8f8f8;
+    --docs-color-background-200: #efefef;
+    --docs-color-background-300: #dcdcdc;
 }
 
 
@@ -40,6 +50,14 @@
     --ifm-color-primary-lighter: #1a9fff;
     --ifm-color-primary-lightest: #3eaeff;
     --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+
+    --docs-color-border: #2e2e2e;
+    --docs-color-text: #ffffff;
+    --docs-color-text-100: #b4b4b4;
+    --docs-color-background: #161616;
+    --docs-color-background-100: #1c1c1c;
+    --docs-color-background-200: #2a2a2a;
+    --docs-color-background-300: #2e2e2e;
 }
 
 
