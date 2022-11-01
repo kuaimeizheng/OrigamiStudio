@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkorigami_studio=self.webpackChunkorigami_studio||[]).push([[61134],{86185:e=>{e.exports=JSON.parse('{"title":"AI Patches","slug":"/category/ai-patches","permalink":"/OrigamiStudio/docs/category/ai-patches","navigation":{"next":{"title":"Baidu API Access Token","permalink":"/OrigamiStudio/docs/research/AI/Research"}}}')}}]);
