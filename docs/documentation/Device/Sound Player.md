@@ -1,5 +1,8 @@
 ---
+title: Sound Player 声音播放器
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Sound Player 声音播放器

@@ -1,5 +1,8 @@
 ---
+title: Mouse Cursor 鼠标手势
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Mouse Cursor 鼠标手势

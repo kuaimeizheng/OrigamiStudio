@@ -1,5 +1,8 @@
 ---
+title: Interface Orientation 界面方向
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Interface Orientation 界面方向

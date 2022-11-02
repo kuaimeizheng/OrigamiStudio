@@ -1,5 +1,8 @@
 ---
+title: Trackpad Haptic 触控板触觉
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Trackpad Haptic 触控板触觉

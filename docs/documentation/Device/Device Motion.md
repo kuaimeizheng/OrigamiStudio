@@ -1,5 +1,8 @@
 ---
+title: Device Motion 设备运动
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Device Motion 设备运动

@@ -1,5 +1,8 @@
 ---
+title: Device Info 设备信息
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Device Info 设备信息

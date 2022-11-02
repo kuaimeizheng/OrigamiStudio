@@ -1,5 +1,8 @@
 ---
+title: Game Controller 游戏控制器
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Game Controller 游戏控制器

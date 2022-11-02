@@ -1,5 +1,8 @@
 ---
+title: Sound Player Setting 声音播放器设置
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Sound Player Setting 声音播放器设置

@@ -1,5 +1,8 @@
 ---
+title: Device Buttons 设备按钮
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Device Buttons 设备按钮

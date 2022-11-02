@@ -1,5 +1,8 @@
 ---
+title: Sound Kit 音效包
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Sound Kit 音效包

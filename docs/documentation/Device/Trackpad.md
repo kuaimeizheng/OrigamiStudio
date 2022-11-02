@@ -1,5 +1,8 @@
 ---
+title: Trackpad 触控板
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Trackpad 触控板

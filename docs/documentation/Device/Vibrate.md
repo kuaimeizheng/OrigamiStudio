@@ -1,5 +1,8 @@
 ---
+title: Vibrate 震动
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Vibrate 震动

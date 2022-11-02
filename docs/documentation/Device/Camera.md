@@ -1,5 +1,8 @@
 ---
+title: Camera 摄像头
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Camera 摄像头

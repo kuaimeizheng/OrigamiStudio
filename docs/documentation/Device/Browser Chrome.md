@@ -1,5 +1,8 @@
 ---
+title: Browser Chrome 浏览器
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Browser Chrome 浏览器
