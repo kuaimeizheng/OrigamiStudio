@@ -15,13 +15,13 @@ Origami 中的画布类似 Sketch 和 Figma 中的画布。可以直观地拖放
 
 ---
 
-# Artboards 画板
+## Artboards 画板
 
 Artboards allow you to contain the layers for each screen you’re designing. The artboard dimensions are determined by the Device Size selected in the far left corner of the Origami toolbar.
 
 画板允许你为每个屏幕里的图层进行设计。画板尺寸由 Origami 工具栏最左上角中选择的 **Device Size 设备大小** 决定。
 
-# Layer Library 图层库
+## Layer Library 图层库
 
 Add a layer with the layer insertion popover using **⌘⇧N** or the **+** button in the toolbar. (Explain how the layer library is different from the patch library).
 
@@ -31,7 +31,7 @@ Add a layer with the layer insertion popover using **⌘⇧N** or the **+** butt
 
 Layer Library 图层库
 
-# Layer Properties 图层属性
+## Layer Properties 图层属性
 
 Layer properties are similar to ports on patches. The values of these input ports determine the appearance of the layer.
 
@@ -43,7 +43,7 @@ Connecting Patch outputs to layer property inputs
 
 模块输出端口连接到图层属性输入端口
 
-# Layer Property Patches 图层属性模块
+## Layer Property Patches 图层属性模块
 
 To adjust layer properties via patches, click on the property in the inspector, and a blue layer property patch is created with the name of the layer and a single input port that writes a value to that port.
 
@@ -75,13 +75,13 @@ Clicking on a property with multiple coordinates (ex: Position, Size, Rotation) 
 
 点击具有多个坐标值 (例如: 位置，大小，角度) 的属性将自动插入一个对应的模块，这可以显示默认情况下未显示的其他坐标(例如：Z)。
 
-# Groups 组
+## Groups 组
 
 Layers can be grouped by selecting any number of layers and pressing **⌘G**. Layer groups in Origami Studio have their own size and position, and clip layers within.
 
 可以选择任意数量的图层并按下 **⌘G **来对图层进行分组。Origami 的图层组有自己的大小和位置，并剪辑组中的图层。
 
-# Masking 蒙版
+## Masking 蒙版
 
 Layers can be masked by other layers. Pressing **⌘⌥M** will turn the layer to an alpha mask, clipping the layer right above it. To add additional layers to be masked, you can select the layers and press **⌘⌥⇧M**.
 
@@ -93,7 +93,7 @@ All masks are alpha masks, which can let you do advanced masks like gradient mas
 
 所有的遮罩都是 alpha 遮罩，支持更高级的样式，比如渐变遮罩或者基于合并形状的复合遮罩。
 
-# Components 组件
+## Components 组件
 
 There is a growing collection of pre-built components for quickly prototyping with standard components on Android or iOS. Components are listed in the layer insertion popover.
 
@@ -107,7 +107,7 @@ Create custom components by selecting layers and pressing **⌘⌥G** to group t
 
 ---
 
-# Summary 总结
+## Summary 总结
 
 - Layers are similar to layers in other apps like Sketch and Photoshop, and can be grouped and masked
 - Animate and change layers by clicking on layer properties in the inspector to add a corresponding patch in the Patch Editor.

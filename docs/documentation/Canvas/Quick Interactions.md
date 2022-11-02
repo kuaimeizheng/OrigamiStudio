@@ -1,6 +1,6 @@
 ---
 title: Quick Interactions 快捷交互
-sidebar_position: 5
+sidebar_position: 15
 last_update:
   author: 蒯美政
 ---
@@ -13,7 +13,7 @@ Quick Interactions are a faster way to create flows between screens in the Origa
 
 ---
 
-# Presenting Screens 显示屏幕
+## Presenting Screens 显示屏幕
 
 To create a Quick Interaction, click on the Quick Interaction icon in the toolbar and then click on the layer you’d like to trigger the Interaction from to the arboard you’d like to present. You can also Ctrl + Drag from the layer to the artboard.
 
@@ -42,7 +42,7 @@ Trigger a present transition using a Tap, Double Tap or Long Press interaction. 
 - **模态** 下一个屏幕将从下向上过渡
 - **无** 下一个屏幕没有过渡立即出现。
 
-# Dismissing Screens 关闭屏幕
+## Dismissing Screens 关闭屏幕
 
 To dismiss a screen, drag from the layer you’d like to add the interaction to the containing Artboard. This will dismiss that screen and return back to the Artboard you presented from.
 
@@ -54,7 +54,7 @@ Dismissing screens with Quick Interations
 
 关闭屏幕的快捷交互
 
-# Quick Interactions & Patch Editor 快捷交互&模块编辑器
+## Quick Interactions & Patch Editor 快捷交互&模块编辑器
 
 Creating a Quick Interaction will automatically generate a corresponding patch in the Patch Editor.
 
@@ -68,7 +68,7 @@ _When creating multiple Quick Interactions, Origami will often stack the automat
 
 ---
 
-# Summary 总结
+## Summary 总结
 
 - Use the Quick Interaction feature to create transitions between screens in your prototypes.
 - 使用快捷交互功能在原型中创建屏幕之间的转场。

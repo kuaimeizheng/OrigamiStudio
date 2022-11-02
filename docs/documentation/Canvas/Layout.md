@@ -1,6 +1,6 @@
 ---
 title: Layout 布局
-sidebar_position: 5
+sidebar_position: 10
 last_update:
   author: 蒯美政
 ---
@@ -19,7 +19,7 @@ In order to use Layout, you have to enable it on Artboards and Group layers. Any
 
 ---
 
-# Position 位置
+## Position 位置
 
 Position determines where an object is in relation to other objects in the group. Position applies to any layer that has a parent group with Layout enabled. When setting Position, there are two parameters to choose from: Relative and Absolute.
 
@@ -32,7 +32,7 @@ Position determines where an object is in relation to other objects in the group
 
 https://origami.design/public/images/videos/layout_position.mp4
 
-# Size 尺寸
+## Size 尺寸
 
 Size determines the width and height of an object or group. It applies to any layer that has a parent group with Layout enabled AND any parent group with Layout enabled. When setting Size, there are three parameters to choose from: Auto, Grow , and Fixed .
 
@@ -47,7 +47,7 @@ Size determines the width and height of an object or group. It applies to any la
 
 https://origami.design/public/images/videos/layout_size.mp4
 
-# Direction 方向
+## Direction 方向
 
 The direction determines how they layers in an AutoLayout group are arranged. When setting Direction , there are three parameters to choose from: Horizontal , Vertical , and Grid .
 
@@ -64,7 +64,7 @@ The direction determines how they layers in an AutoLayout group are arranged. Wh
 
 https://origami.design/public/images/videos/layout_direction.mp4
 
-# Alignment 对齐
+## Alignment 对齐
 
 Alignment determines the anchor point that layers align to. It applies to any parent group that has Layout enabled. Alignment does not change the order the objects are stacked – it only changes their starting point. To change the order they stack, rearrange the layers in your layers list or rearrange the objects on Canvas.
 
@@ -74,7 +74,7 @@ Alignment determines the anchor point that layers align to. It applies to any pa
 
 https://origami.design/public/images/videos/layout_alignment.mp4
 
-# Spacing, Padding & Margins 间距，内边距&外边距
+## Spacing, Padding & Margins 间距，内边距&外边距
 
 These 3 properties determine the separation between, around and outside of layers in a Layout enabled group.
 
@@ -99,7 +99,7 @@ Paddingapplies to any parent group that has Layout enabled. Padding affects the 
 
 https://origami.design/public/images/videos/layout_spacing.mp4
 
-# Cap & Baseline 上限&基线
+## Cap & Baseline 上限&基线
 
 Determines how Origami will vertically measure text bounds.
 
@@ -118,7 +118,7 @@ Cap & Baseline examples
 
 ---
 
-# Summary 总结
+## Summary 总结
 
 - Layout makes it easy to create complex interfaces that respond to their content.
 - Enable Layout on Artboards and Group layers from the Layout section in the Inspector panel.
