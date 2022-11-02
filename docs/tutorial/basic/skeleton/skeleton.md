@@ -11,8 +11,7 @@ last_update:
 
 ## 动画示例
 
-![](./images/example.gif)
-
+![](./images/example.gif)-
 Skeleton骨架屏加载动画
 
 💡 背景：在长时间等待数据加载中，给用户提供一个更好的视觉效果和体验。
@@ -147,9 +146,9 @@ patch图
 
 在这一步我们需要使用的核心patch包括：
 
-When Prototype Starts
+- When Prototype Starts
 
-Delay
+- Delay
 
 如图：
 
