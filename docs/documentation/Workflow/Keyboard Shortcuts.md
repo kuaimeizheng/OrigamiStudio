@@ -1,5 +1,8 @@
 ---
-sidebar_position: 5
+title: Keyboard Shortcuts 键盘快捷键
+sidebar_position: 20
+last_update:
+  author: 蒯美政
 ---
 
 # Keyboard Shortcuts 键盘快捷键
@@ -10,7 +13,7 @@ Origami Studio 提供了常用功能的快捷键。 熟记模块的的快捷方�
 
 ---
 
-# General 常用
+## General 常用
 
 | 快捷键 | 英文          | 中文           |
 | :----- | :------------ | :------------- |
@@ -18,7 +21,7 @@ Origami Studio 提供了常用功能的快捷键。 熟记模块的的快捷方�
 | ⌘ ⏎    | Insert Layer  | 插入图层       |
 | ⌘ /    | Documentation | 打开帮助文档   |
 
-# Patches 模块
+## Patches 模块
 
 While there is a large library of patches, there is a core set of patches that support a majority of interaction prototypes which have single key shortcuts to speed up workflow.
 
@@ -77,7 +80,7 @@ Tip: Use these shortcuts when hovering/selecting a port to quickly connect patch
 | ⌘ ⌥ L   | Add Patch Component to User Library  | 添加模块组件到用户库 |
 | ⌘ ⌥ ⇧ L | Add Patch Component to Other Library | 添加模块组件到其他库 |
 
-# Layers 图层
+## Layers 图层
 
 | 快捷键  | 英文                       | 中文             |
 | :------ | :------------------------- | :--------------- |
@@ -99,7 +102,7 @@ Tip: Use these shortcuts when hovering/selecting a port to quickly connect patch
 | ⌘ ⌥ L   | Add Layer to User Library  | 添加图层到用户库 |
 | ⌘ ⌥ ⇧ L | Add Layer to Other Library | 添加图层到其他库 |
 
-# Viewer 查看器
+## Viewer 查看器
 
 | 快捷键 | 英文              | 中文                |
 | :----- | :---------------- | :------------------ |
@@ -110,7 +113,7 @@ Tip: Use these shortcuts when hovering/selecting a port to quickly connect patch
 | ⌘ ⇧ F  | Fullscreen Viewer | 全屏查看器          |
 | ⌘ ⌥ 0  | 1:1 Viewer        | 1:1 查看器          |
 
-# Number Inputs 数值输入
+## Number Inputs 数值输入
 
 | 快捷键 | 英文                   | 中文       |
 | :----- | :--------------------- | :--------- |

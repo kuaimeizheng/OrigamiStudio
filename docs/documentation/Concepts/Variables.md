@@ -1,11 +1,13 @@
 ---
 title: Variables 变量
-sidebar_position: 5
+sidebar_position: 35
 last_update:
   author: 蒯美政
 ---
 
 # Variables 变量
+
+---
 
 Variables are a way to organize and simplify the patch graph of your prototype. At the simplest level, a Variable Broadcasterand Variable Receiverscan replace the cables that normally connect one patch’s output to other patches’ inputs. (In previous versions of Origami these patches were named Wireless Broadcasters and Receivers, because they removed the “wires” between patches!)
 
@@ -71,7 +73,7 @@ As your prototype becomes more complex, you’ll probably want to encapsulate fu
 
 随着原型变得越来越复杂，您可能想要使用组件封装功能。您创建的组件也可以利用这些集中的值和全局变量。
 
-# What Are Global Variables? 什么是全局变量?
+## What Are Global Variables? 什么是全局变量?
 
 Global variables in Origami are used to define values at a high level and propagate those values to wherever they are needed in the prototype. They can be used to change the appearance or functionality of an entire prototype. Global variable values cascade downward throughout components.
 
@@ -81,7 +83,7 @@ So, from any location in the prototype, a user is able to read from a global var
 
 因此，在原型中的任何位置，用户都能够从同一个组件、其父组件或任何祖先组件中的全局变量中读取数据。
 
-# How to Use Global Variables 怎么使用全局变量
+## How to Use Global Variables 怎么使用全局变量
 
 Perform the following steps to use global variables in Origami:
 
@@ -106,7 +108,7 @@ In the example from above, imagine we’ve made each item in our scrolling view 
 
 https://origami.design/public/images/videos/variables-global.mp4
 
-# Global Variables are Cascading 全局变量是级联的
+## Global Variables are Cascading 全局变量是级联的
 
 It’s important to note that when you define a global variable, it is accessible from the component it was created in, as well as any components contained within that component. The value cascades from the top level down to each child component that access it, including their children, and their children’s children, and so on. However, components can override an ancestor’s global variable by defining a new global variable with the same name and type of value.
 
@@ -134,7 +136,7 @@ By creating a new Dark Mode global broadcaster in the Photo View component, we c
 
 ---
 
-# Conclusion 结论
+## Conclusion 结论
 
 Variables are a key tool to organize and simplify your Origami prototypes, allowing you to make your patch graph easier to understand, to consolidate logic, and even enable powerful new capabilities for components.
 

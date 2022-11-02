@@ -1,5 +1,8 @@
 ---
-sidebar_position: 5
+title: Custom Devices 自定义设备
+sidebar_position: 15
+last_update:
+  author: 蒯美政
 ---
 
 # Custom Devices 自定义设备
@@ -10,7 +13,7 @@ Extend the library of simulated devices in Origami Studio by making your own dev
 
 ---
 
-# Creating a New Device 创建新设备
+## Creating a New Device 创建新设备
 
 1. Download the [custom device example](https://s3-us-west-2.amazonaws.com/fborigami/custom_device_example/Example_device.origamidevice.zip) 下载自定义设备示例
 2. Open the `.origamidevice` bundle by right-clicking and choosing _Show Package Contents_ in the contextual menu 通过右键单击并在菜单中选择“显示包内容”打开 `.origamidevice` 包
@@ -27,7 +30,7 @@ Your new device will appear in the Device picker under the _Custom_ menu item. S
 
 您的新设备将出现在自定义菜单项下的设备选择列表中。可以在 info.json 中设置 `type` 来改变。
 
-# Testing your Device 测试你的设备
+## Testing your Device 测试你的设备
 
 To test your custom device after installation:
 
@@ -46,7 +49,7 @@ All installed devices are stored in `~/Library/Application Support/Diamond/Devic
 
 所有已安装的设备都存储在 `~/Library/Application Support/Diamond/Devices` 中。如果您在该文件夹中已有同名设备，会被替换。
 
-# Example info.json info.json 例子
+## Example info.json info.json 例子
 
 ```
 {
@@ -91,7 +94,7 @@ All installed devices are stored in `~/Library/Application Support/Diamond/Devic
 }
 ```
 
-# info.json Documentation info.json 文档
+## info.json Documentation info.json 文档
 
 Many of the properties of the device `info.json` file are exposed via the [Device Info](../Device/Device%20Info) patch.
 

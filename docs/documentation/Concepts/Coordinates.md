@@ -7,6 +7,8 @@ last_update:
 
 # Coordinates 坐标
 
+---
+
 Origami Studio use pt/dp coordinates instead of pixels. Specify position or size in pt/dp, and Origami will handle rendering layers at the appropriate density. For instance an iPhone 7 is 375x667 in points, but 750x1334 in pixels.
 
 Origami Studio 使用 pt / dp 单位为坐标，不是像素。
@@ -37,7 +39,7 @@ For illustration, below is a Layer Group of height 400 pixels and width 300 pixe
 
 </div>
 
-# Anchor Point 坐标锚点
+## Anchor Point 坐标锚点
 
 Anchor points change the origin of the coordinate system for that patch. Anchor points can be defined in the Patch Editor with a Point patch, where X and Y are any decimal 0-1.
 
@@ -100,7 +102,7 @@ If you want to inset it by 40 pixels, give it an X Position of -40 and a Y Posit
  <div class="label dot-bottom-right dot-bottom dot-right">-40, -40</div>
 </div>
 
-# Pivot 图层中心点
+## Pivot 图层中心点
 
 The pivot port changes the point about which a layer scales and rotates, and can be controlled separately from anchor points. Pivots can be defined in the Patch Editor with a Point patch, where X and Y are any decimal 0-1.
 

@@ -1,11 +1,13 @@
 ---
 title: Loop 循环
-sidebar_position: 5
+sidebar_position: 15
 last_update:
   author: 蒯美政
 ---
 
 # Loop 循环
+
+---
 
 Loops are a powerful feature for easily building dynamic repeating UI and interactions in Origami, such as a list or a grid of photos. So instead of manually copying and pasting a Layer five times, we would connect our Layer to a Loop patch by any of it’s properties in the Patch Editor with a Count Input of five. If you’re coming from a programming background Loops behave similarly to Arrays or a for statement. Loops are a great way to reduce complexity and repetition in your prototype.
 
@@ -27,7 +29,7 @@ We can also use Loops to generate repeating Layers or Components from real dynam
 
 关于如何做这个，请请查看[Data tutorial 使用数据制作原型教程](https://origami.design/tutorials/smarter-interactions/Prototyping-with-Data.html)。在将原型交给工程师进行开发时，循环思维很有帮助，因为更接近于如何用代码实现设计。
 
-# Creating Loops 创建循环
+## Creating Loops 创建循环
 
 Loop patches in Origami are all colored green and any patches that get connected to a Loop patch will have a green tinted connection cable. Any time you see patches connected with a green connection cable, that connected patch graph is being evaluated for each item in the loop. Loops can be created using the Loop, Loop Builder and Loop Over Array patches.
 
@@ -95,7 +97,7 @@ However, if we were to group our contact list cell into a component while mainta
 
 https://origami.design/public/images/videos/group_into_component.mp4
 
-# Loops and Data 循环和数据
+## Loops and Data 循环和数据
 
 Loops can also be created from Arrays by using the [Loop Over Array](./../Loops/Loop%20Over%20Array.md) patch. This is useful when working with a web API data source with using the [Network Request](./../Data/Network%20Request.md) patch.
 
@@ -105,7 +107,7 @@ Loops can also be created from Arrays by using the [Loop Over Array](./../Loops/
 
 Nested arrays to Loops of Loops 嵌套数组到循环的循环
 
-# Multiple Loops 多个循环
+## Multiple Loops 多个循环
 
 Often when building more complex prototypes there will be cases where you’ll want to use loops inside other loops. For example a newsfeed prototype could have a loop of posts and within each post there could be a carousel of images loop and a Facepile of reactions loop, creating a loop of loops.
 
@@ -185,7 +187,7 @@ When we add an [Interaction](./../Interaction/Interaction.md) patch to a looper 
 
 https://origami.design/public/images/videos/loop_interactions.mp4
 
-# Summary 总结
+## Summary 总结
 
 - Loops are a powerful feature for creating dynamic repeating UI and interactions in Origami
 - Use Layout to control how looped Layers and Components are arranged on the Canvas

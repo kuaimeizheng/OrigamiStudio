@@ -1,5 +1,8 @@
 ---
-sidebar_position: 5
+title: Previewing & Sharing 预览&分享
+sidebar_position: 30
+last_update:
+  author: 蒯美政
 ---
 
 # Previewing & Sharing 预览&分享
@@ -10,7 +13,7 @@ Origami Studio 支持在 iOS 和 Android 上预览实时原型，以及通过 iO
 
 ---
 
-# Mirroring with USB USB 镜像
+## Mirroring with USB USB 镜像
 
 Connect an iOS or Android device via USB and run Origami live. The frontmost prototype will immediately begin previewing on the phone or tablet. Any changes you make in Origami Studio are immediately reflected in the preview, without needing to restart it.
 
@@ -31,7 +34,7 @@ Connect an iOS or Android device via USB and run Origami live. The frontmost pro
 3. Connect your Android phone or tablet with a USB cable. Note: a cable that supports data transfer is required. Some cables only support charging the device.
 4. Open Origami Studio and make sure you have at least one document open
 
-# Exporting Prototypes 导出原型
+## Exporting Prototypes 导出原型
 
 Export a prototype to your phone or tablet via the export button in the toolbar:
 
@@ -43,13 +46,13 @@ Then, take your phone or tablet with you to test your ideas on the go.
 
 然后可以方便的带上手机或平板电脑，随时随地测试你的设计。
 
-# Sharing Prototypes 分享原型
+## Sharing Prototypes 分享原型
 
 Origami Studio files can also be sent directly to a phone or tablet via email, Dropbox, AirDrop, etc. Download the corresponding iOS or Android app to open any prototype.
 
 Origami Studio 文件也可以通过电子邮件、Dropbox、AirDrop 等方式直接发送到手机或平板电脑。下载相应的 iOS 或 Android 应用程序即可以打开原型。
 
-# Using Custom Fonts 使用自定义字体
+## Using Custom Fonts 使用自定义字体
 
 Origami Studio doesn’t mirror custom fonts to your device.
 
@@ -75,7 +78,7 @@ The procedure of installing a custom font on Android varies [depending on the de
 
 每个 Android 设备安装自定义字体的过程都不同。
 
-# Troubleshooting 排除故障
+## Troubleshooting 排除故障
 
 In most cases, issues can be resolved by restarting Origami Live, Origami Studio, or the phone/tablet/computer.
 

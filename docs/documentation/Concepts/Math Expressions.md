@@ -1,11 +1,13 @@
 ---
 title: Math Expressions 数学表达式
-sidebar_position: 5
+sidebar_position: 20
 last_update:
   author: 蒯美政
 ---
 
 # Math Expressions 数学表达式
+
+---
 
 Math Expressions are a powerful tool to create more complex logic in Origami prototypes. Instead of adding patches for each arithmetic operation and connecting them together, you can insert a single [Math Expression](./../Math/Math%20Expression.md) patch, type the expression you want to compute, and connect its inputs and outputs. Here’s a simple example:
 
@@ -35,7 +37,7 @@ Expressions can include any mathematical operations (+, -, \*, /, %, ### ) or fu
 
 任何在 JavaScript 中有效的表达式都可以使用，但输入和输出只能是数字。如果您在编辑器中输入无效的表达式，它将不会被保存，并以红色高亮显示。
 
-# Example Math Expressions 数学表达式示例
+## Example Math Expressions 数学表达式示例
 
 Compute the distance between two points using the following expression patch. Notice how we included “distance = “ at the beginning of the expression to name the output of the patch.
 

@@ -1,5 +1,8 @@
 ---
+title: Components 组件
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Components 组件
@@ -26,7 +29,7 @@ Layer Componentsare made up of both layers and patches. Use layer components for
 
 (例如，按钮组件可以有文本和矩形图层，也可以包含交互模块，或者其他功能)
 
-# Creating Patch Components 创建模块组件
+## Creating Patch Components 创建模块组件
 
 To group multiple patches into one component, select the patches and choose Component > Create Component⌃⌘G from the menu bar or right-click and select Group Into Component… .
 
@@ -62,7 +65,7 @@ The Input ports within components are represented by purple patches and the Outp
 
 Editing Patch Components 编辑模块组件
 
-# Creating Layer Components 创建图层组件
+## Creating Layer Components 创建图层组件
 
 To create a component, select the patches from the Patch Editor and/or the layers from the Layers Panel/Canvas that you would like to be included in your component. Then, with those selected, from the menu bar click on Component > Group Into Component⌃⌘G. Choose a name for your component then click Create.
 
@@ -100,7 +103,7 @@ Exit the component by clicking on Components > Exit Component⌃⌥↑or using t
 
 通过点击 ` Components 组件 > Exit component 退出组件`或` ⌃⌥↑`或使用层列表顶部的返回箭头退出组件。
 
-# Components Inputs and Outputs 组件的输入和输出
+## Components Inputs and Outputs 组件的输入和输出
 
 To add, edit, re-order or remove the individual inputs and outputs, select the patch group and choose Component > Component Info⇧⌘I to bring up the Patch Info popover. The Port Setup tab allows you to change the port type and other properties like default, maximum and minimum values.
 
@@ -120,7 +123,7 @@ Components also have a number of special port tags available in the dropdown men
 
 组件在下拉菜单中还有一些特殊的端口标签可用 —— 例如，使用 启用 标签将显示组件上的眼睛图标，以便快速启用或禁用。当不需要特殊标签时，请使用通用自定义标签。
 
-# Inserting Components 插入组件
+## Inserting Components 插入组件
 
 Components are a type of layer in Origami and live inside the Layer Library. To insert a component click the + in the toolbar to access the dropdown, then click Layer Library or use the shortcut ⌘ + Return to open the Layer Library directly.
 
@@ -128,7 +131,7 @@ Components are a type of layer in Origami and live inside the Layer Library. To 
 
 ![](https://origami.design/public/images/documentation/adding-components.png)
 
-# Types of Components 组件类型
+## Types of Components 组件类型
 
 ### Platform Components 平台组件
 
@@ -158,7 +161,7 @@ Custom components that have been saved to the user’s library and available in 
 
 已保存到用户库并在任何 Origami 文件的图层库中可用的自定义组件。
 
-# Patch Library 组件库
+## Patch Library 组件库
 
 If you have a patch component that you use over and over, it may make sense to add it to your patch library. Select the patch component and choose Component > Add to User Library⌘⌥L. Reveal the patch library folder by choosing Component > Show Patch Folder.
 
@@ -190,7 +193,7 @@ To limit a patch or component to a platform, specify a platform in the Patch Set
 
 要将模块或组件限制用在某个平台，请在“模块信息”弹窗的“模块设置”选项卡中指定一个平台。这将使您的模块或组件仅在当前设备与所选平台匹配时才可用。
 
-# Sharing a Folder of Patches and Components 共享组件和模块的文件夹
+## Sharing a Folder of Patches and Components 共享组件和模块的文件夹
 
 To make components accessible to other team members, create a shared [Dropbox](https://dropbox.com/) folder and add your components to it. To save a component in your document to a shared folder, use the Component > Add to Other LibrarY.
 

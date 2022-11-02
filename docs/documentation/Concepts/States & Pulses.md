@@ -1,11 +1,13 @@
 ---
 title: States & Pulses 状态 & 脉冲
-sidebar_position: 5
+sidebar_position: 30
 last_update:
   author: 蒯美政
 ---
 
 # States & Pulses 状态 & 脉冲
+
+---
 
 [States](./../Patch%20Editor/States.md)help remember information in your prototype. Pulses are used to tell patches to perform an action. Understanding how these work together will help you be more effective at building Origami prototypes.
 
@@ -25,7 +27,7 @@ last_update:
 
 ---
 
-# States 状态
+## States 状态
 
 A state is a value that persists over time. The simplest version of state is in the Switch patch. Switches are either on or off, and they remain that way until you tell them otherwise.
 
@@ -43,7 +45,7 @@ A switch is off until you turn it on. You can see the state goes from off to on 
 
 可以看到状态 Frame 1 ～ 4 是关闭的，Frame 5 之后开启了。一帧通常是 1/60 秒。
 
-# Pulses 脉冲
+## Pulses 脉冲
 
 While state persists over time, pulses are On ✓ only for a single frame. The value of the cable sending the pulse is otherwise off.
 
@@ -63,7 +65,7 @@ They’re used to tell patches to ### perform an action### , like telling a Swit
 
 脉冲还可用于传递用户交互，例如在屏幕上点击或按了键盘上的按键。
 
-# Examples of State & Pulses 状态&脉冲示例
+## Examples of State & Pulses 状态&脉冲示例
 
 - The [Switch](./../Utility/Switch.md) patch outputs the state of the **switch** (on / off) and accepts **pulses** to flip the switch, turn it on, or turn it off.
 - Switch 模块接收一个交互模块发出的 **脉冲** ，根据指令输出开关的 **状态** 将其打开或关闭。
@@ -72,7 +74,7 @@ They’re used to tell patches to ### perform an action### , like telling a Swit
 - The [Counter](./../Utility/Counter.md) patch outputs the **state** of the counter (the number value) and accepts **pulses** to increase it or decrease it.
 - Counter 模块输出计数器的 **状态** (数值)并接受来自其他模块的 **脉冲** 增加或减少数值。
 
-# Creating Pulses from State 给状态创建脉冲
+## Creating Pulses from State 给状态创建脉冲
 
 There are a couple ways to create a pulse from state. The more explicit way is to use the [Pulse](./../Utility/Pulse.md) patch. The Pulse patch accepts a state called On/Off and will output a pulse on the Turned On port when the state turns on and the Turned Off port when the state turns off. This is an example that flips a switch the moment the user touches the screen.
 
@@ -88,7 +90,7 @@ Another way is to infer a state change is to connect a state directly to a port 
 
 接收脉冲的端口将观察状态何时由关变为开，并在那一刻推断出脉冲。因此，如果你想让开关在用户手指触碰屏幕时翻转，你可以直接将 down 端口连接到 switch 的 flip 端口，而不需要使用 Pulse 模块。
 
-# Temporary State with the Delay patch 延迟模块和临时状态
+## Temporary State with the Delay patch 延迟模块和临时状态
 
 Sometimes you need a state to turn on for a few moments and then turn off. For example, say you were making a confirmation window appear for a couple seconds after the user pressed a button. You could do this using a Switch, but then you’d need to build logic that turns the switch off after some time. A simpler way to do this is to use the [Delay](./../Utility/Delay.md) D patch.
 

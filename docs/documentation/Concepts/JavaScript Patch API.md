@@ -1,11 +1,13 @@
 ---
 title: JavaScript Patch API
-sidebar_position: 5
+sidebar_position: 10
 last_update:
   author: 蒯美政
 ---
 
 # JavaScript Patch API
+
+---
 
 ## Patch 模块
 
