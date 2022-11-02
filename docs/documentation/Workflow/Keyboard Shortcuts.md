@@ -7,8 +7,6 @@ last_update:
 
 # Keyboard Shortcuts 键盘快捷键
 
-Origami Studio provides a variety of keyboard shortcuts for common functions. Mastering the shortcuts for patches will allow you to maintain flow while quickly iterating on your ideas.
-
 Origami Studio 提供了常用功能的快捷键。 熟记模块的的快捷方式能很大程度的提高效率。
 
 ---
@@ -23,15 +21,11 @@ Origami Studio 提供了常用功能的快捷键。 熟记模块的的快捷方�
 
 ## Patches 模块
 
-While there is a large library of patches, there is a core set of patches that support a majority of interaction prototypes which have single key shortcuts to speed up workflow.
-
 虽然模块库中有丰富的模块，但是一般情况并不需要用到全部模块，熟悉一小部分的常用模块就能实现大多数交互，常用模块都有对应的快捷键。
 
 ### Inserting Patches 插入模块
 
-Tip: Use these shortcuts when hovering/selecting a port to quickly connect patches together.
-
-提示：选中一个模块的输出端口，再通过快捷键添加新模块可以快速将两个模块连接起来。
+提示：悬停或选中一个模块的输出端口，再通过快捷键添加新模块可以快速将两个模块连接起来。
 
 | 快捷键 | 英文                 | 中文       |
 | :----- | :------------------- | :--------- |
