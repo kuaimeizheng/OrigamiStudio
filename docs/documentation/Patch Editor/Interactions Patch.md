@@ -1,5 +1,8 @@
 ---
-sidebar_position: 5
+title: Interactions Patch 交互模块
+sidebar_position: 20
+last_update:
+  author: 蒯美政
 ---
 
 # Interactions Patch 交互模块
@@ -12,7 +15,7 @@ Interaction patches output information about user interactions (touches, swipes,
 
 ---
 
-# Interaction patches 交互模块
+## Interaction patches 交互模块
 
 - [Interaction](./../Interaction/Interaction.md) This is the bread and butter of interaction in Origami. It can tell you when a user touches down or taps on a particular layer. It also provides the position of the touch within its parent group, and the amount of force applied when using a laptop, phone, or tablet that supports 3D Touch.
 
@@ -46,7 +49,7 @@ Interaction patches output information about user interactions (touches, swipes,
 
 - [悬停](./../Interaction/Hover.md) 允许你捕捉鼠标悬停交互。
 
-# Notes on touch detection 触摸检测注意事项
+## Notes on touch detection 触摸检测注意事项
 
 Layers need to be enabled and have opacity larger than 0 to receive touches. Touches in Layer Groups are propagated and shared with the parent groups, allowing you to build scrolling layer groups with tappable layers inside.
 
@@ -54,7 +57,7 @@ Layers need to be enabled and have opacity larger than 0 to receive touches. Tou
 
 ---
 
-# Summary 总结
+## Summary 总结
 
 - Interaction patches pass information about user interactions.
 - Interactions for a particular layer can be captured by using the Touch menu.

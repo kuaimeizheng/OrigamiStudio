@@ -1,5 +1,8 @@
 ---
-sidebar_position: 4
+title: Animations 动画
+sidebar_position: 15
+last_update:
+  author: 蒯美政
 ---
 
 # Animations 动画
@@ -10,7 +13,7 @@ Origami 中的动画模块的设计流畅且可反转。为了动画平滑采用
 
 ---
 
-# Animation patches 动画模块
+## Animation patches 动画模块
 
 - [Pop Animation] A Natural bouncy animations commonly found in Facebook apps, and easily pass values to your developers with the the [Pop](https://github.com/facebook/pop) framework for iOS, [Rebound](https://facebook.github.io/rebound/) for Android, and [Rebound JS](https://github.com/facebook/rebound-js) for the web.
 - [Classic Animation] C Traditional easing curves, like linear, ease-in, and ease-out.
@@ -21,7 +24,7 @@ Origami 中的动画模块的设计流畅且可反转。为了动画平滑采用
 
 ---
 
-# Animating values 动画值
+## Animating values 动画值
 
 In combination with an [Interaction] or a [Switch] patch, which output 0 or 1, an Animation patch can tween that value so it smoothly animates from 0 to 1, and vice versa. Origami refers to this 0 to 1 value generally as **progress** .
 
@@ -35,7 +38,7 @@ This example below will scale a Layer from 0 to 1 (or 0% to 100%) when you touch
 
 ![Image](./../../../static/img/docs/Patch%20Editor/animations-1.png)
 
-# Transitions 过渡
+## Transitions 过渡
 
 Animating from 0 to 1 is simple, but what about animating between other values?
 
@@ -77,7 +80,7 @@ In combination with an animation patch, you can now animate between any two valu
 
 ---
 
-# Summary 总结
+## Summary 总结
 
 - Pop Animation and Classic Animation automatically tween any number.
 - Interaction, Switch, Animation, Transition (ISAT) are your bread and butter for animating layers.

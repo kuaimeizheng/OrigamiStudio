@@ -1,5 +1,8 @@
 ---
-sidebar_position: 3
+title: States 状态
+sidebar_position: 10
+last_update:
+  author: 蒯美政
 ---
 
 # States 状态
@@ -10,7 +13,7 @@ Every prototype has multiple states it can transition between. In Origami, Switc
 
 ---
 
-# State patches 状态模块
+## State patches 状态模块
 
 ### Switch ⇧S 卡关
 
@@ -44,7 +47,7 @@ Multiple Switch patches can combined with Logic patches ([Or](./../Logic/Or.md),
 
 ![](./../../../static/img/docs/Patch%20Editor/states-3.png)
 
-# Index numbers represent states 索引序号表示状态
+## Index numbers represent states 索引序号表示状态
 
 Both Switch and Option Switch patches output a number for the state that is active. Switch patches output a 0 (off) or a 1 (on), and Option Switch patches output a number starting from 0 for the first state, to 1 for the 2nd, and so on:
 
@@ -60,7 +63,7 @@ Both Switch and Option Switch patches output a number for the state that is acti
 
 ---
 
-# Summary 总结
+## Summary 总结
 
 - Manage state with Switch, Option Switch, or Counter
 - States are represented with integers, starting from 0

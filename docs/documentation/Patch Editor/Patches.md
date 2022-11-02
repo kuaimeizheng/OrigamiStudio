@@ -1,5 +1,6 @@
 ---
-sidebar_position: 1
+title: Patches 模块
+sidebar_position: 5
 last_update:
   author: 蒯美政
 ---
@@ -60,7 +61,7 @@ Add layer property patches by clicking on any property in the Layer inspector. T
 
 点击图层检查器中的任何属性添加图层属性模块。这个模块控制一个矩形图层是否显示/隐藏。
 
-# Ports 端口
+## Ports 端口
 
 Ports allow patches to receive information in and pass information back out. The ports on the left side of a patch are inputs, and the ones on the right are outputs. Edit Inputsby clicking the port’s value(unless a cable from another patch is connected to the Input already).
 
@@ -118,7 +119,7 @@ Some patches can change the number of ports it has or the type of value it suppo
 
 一些模块可以更改它的端口数量或它支持的值的类型。右键单击任意模块可查看可用的选项。
 
-# Cables 连线
+## Cables 连线
 
 Cables pass information (values) from patch to patch via their ports. Think of values like water, and cables as the pipes that move it from place to place. The values flow in one direction: left-to-right from an output to an input.
 
@@ -136,7 +137,7 @@ An output port may connect to multiple cables, but an input port can only accept
 
 通过选择输出，并按下 shift 键单击要连接的输入，可以快速将一个输出连接到多个输入。
 
-# Connecting them together 连接在一起
+## Connecting them together 连接在一起
 
 In the example below, three different patches pass values to each other with cables that are connected to their ports. Together, the patches describe a touch down interaction that switches a layer on and off.
 
@@ -146,7 +147,7 @@ In the example below, three different patches pass values to each other with cab
 
 ---
 
-# Summary 总结
+## Summary 总结
 
 - Patches let you quickly add interaction, animation, and behavior to your prototype.
 - A patch can have inputs and outputs that let it communicate with other patches.
