@@ -15,6 +15,7 @@ import TemplateSvg from "./images/template.svg";
 import IxdSvg from "./images/ixd.svg";
 import AnalyzeSvg from "./images/analyze.svg";
 import MotionSvg from "./images/motion.svg";
+import KeyboardSvg from "./images/keyboard.svg";
 
 import styles from "./index.module.css";
 
@@ -26,7 +27,7 @@ export default function Homepage() {
       <div className="pad">
         <div className="center homepage-content">
           <div id="hero">
-          <h2>Origami 研习社</h2>
+            <h2>Origami 研习社</h2>
             <p>Origami 中文文档&使用手册&教程</p>
           </div>
           <div className={styles.buttons}>
@@ -39,8 +40,7 @@ export default function Homepage() {
           </div>
 
           <Section title="快捷入口" id="menu-entry" hasSubSections>
-            <Section
-            >
+            <Section>
               <Card
                 title="中文文档"
                 description="基于官方英文文档翻译成中文，方便查阅。"
@@ -97,7 +97,7 @@ export default function Homepage() {
                 title="键盘快捷键"
                 description="提供了常用功能的快捷键。 熟记模块的的快捷方式能很大程度的提高效率。"
                 to="/docs/shortcuts"
-                icon={<MotionSvg />}
+                icon={<KeyboardSvg />}
               />
             </Section>
           </Section>
