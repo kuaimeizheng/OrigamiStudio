@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Origami 研习社 Blog</title>
+        <link>https://kuaimeizheng.github.io/OrigamiStudio/en/blog</link>
+        <description>Origami 研习社 Blog</description>
+        <lastBuildDate>Thu, 03 Nov 2022 16:38:31 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://kuaimeizheng.github.io/OrigamiStudio/en/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Thu, 03 Nov 2022 16:38:31 GMT</pubDate>
+            <description><![CDATA[联系方式：]]></description>
+            <content:encoded><![CDATA[<h3 class="anchor anchorWithStickyNavbar_LWe7" id="联系方式">联系方式：<a class="hash-link" href="#联系方式" title="Direct link to heading">​</a></h3><p><strong>Wechat：</strong>303268393</p><p><img loading="lazy" src="/OrigamiStudio/en/assets/images/wechat-bef5b7990c2a3f6b55bd8fec97f65759.png" width="1200" height="753" class="img_ev3q"></p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

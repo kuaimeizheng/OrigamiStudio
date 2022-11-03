@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkorigami_studio=self.webpackChunkorigami_studio||[]).push([[66881],{27952:o=>{o.exports=JSON.parse('{"permalink":"/OrigamiStudio/en/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
