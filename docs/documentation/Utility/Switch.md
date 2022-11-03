@@ -16,7 +16,7 @@ The Switch patch’s On and Off ports are useful when different types of interac
 
 On 和 Off 接口用于不同类型的交互控制同一个开关。例如在一个编辑弹窗中，可能编辑按钮打开开关，取消和确定按钮关闭开关。
 
-See [State Basics](./../Patch%20Editor/States.md) for more information.
+See [State Basics](./../PatchEditor/States.md) for more information.
 
 更多信息请参考 State Basic。
 

@@ -15,7 +15,7 @@ Convert a value between 0 and 1 to a new range defined by the start and end valu
 
 ### Progress 进度
 
-A progress value. See [Animation Basics](./../Patch%20Editor/Animations.md) for more information.
+A progress value. See [Animation Basics](./../PatchEditor/Animations.md) for more information.
 
 一个进度值。有关详情信息，请参考 Animation Basic
 

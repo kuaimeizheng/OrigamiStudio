@@ -8,7 +8,7 @@ Control two or more states using an index (0, 1, 2…). For two states, use [Swi
 
 Right-click to add additional states.
 
-See [State Basics](./../Patch%20Editor/States.md) for more information.
+See [State Basics](./../PatchEditor/States.md) for more information.
 
 使用索引（0，1，2 ...）控制两个或更多状态，用于需要在多个状态中选择一个的交互（如：标签栏）。只有两种状态一般用 [Switch] 模块。
 

@@ -63,7 +63,7 @@ https://origami.design/public/images/videos/loop_patch.mp4
 
 ### Loop Builder Patch 循环生成器模块
 
-Another way to create a loop is with the Loop Builder patch. This patch allows more control over what value you’d like each item in your loop to be. By default this will a loop of numbers but we can change the [type](./../Patch%20Editor/States.md) by clicking on the patch header and selecting a different type. For example we could create a loop of colors as seen below or a loop of On/Off boolean values.
+Another way to create a loop is with the Loop Builder patch. This patch allows more control over what value you’d like each item in your loop to be. By default this will a loop of numbers but we can change the [type](./../PatchEditor/States.md) by clicking on the patch header and selecting a different type. For example we could create a loop of colors as seen below or a loop of On/Off boolean values.
 
 创建循环的另一种方法是使用 Loop Builder 循环生成器 模块。此模块允许您更方便地控制环中每个项目的值。
 

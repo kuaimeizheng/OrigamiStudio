@@ -27,7 +27,7 @@ Origami 通常将这个 0 到 1 的值称为 **进度**。
 
 下面的示例将在您按下时将图层从 0 缩放到 1（或 0% 到 100%），并带有反转且有弹性的动画：
 
-![Image](./../../../static/img/docs/Patch%20Editor/animations-1.png)
+![Image](./../../../static/img/docs/PatchEditor/animations-1.png)
 
 ## Transitions 过渡
 
@@ -35,25 +35,25 @@ Origami 通常将这个 0 到 1 的值称为 **进度**。
 
 [Transition] T 模块可以让你将 0/1 转换为任何 开始/结束值:
 
-![Image](./../../../static/img/docs/Patch%20Editor/animations-2.png)
+![Image](./../../../static/img/docs/PatchEditor/animations-2.png)
 
 例如，如果您想将图层的宽度从 100 像素设置为 200 像素。 您将设置起始值 100，结束值 200。结合上面的 0 到 1 动画值，您可以轻松地为图层宽度设置动画。
 
 进度为 0 时:
 
-![Image](./../../../static/img/docs/Patch%20Editor/animations-3.png)
+![Image](./../../../static/img/docs/PatchEditor/animations-3.png)
 
 进度为 0.5 时:
 
-![Image](./../../../static/img/docs/Patch%20Editor/animations-4.png)
+![Image](./../../../static/img/docs/PatchEditor/animations-4.png)
 
 进度为 1 时:
 
-![Image](./../../../static/img/docs/Patch%20Editor/animations-5.png)
+![Image](./../../../static/img/docs/PatchEditor/animations-5.png)
 
 结合动画模块，您现在可以轻松地在任意两个值之间制作动画：
 
-![Image](./../../../static/img/docs/Patch%20Editor/animations-6.png)
+![Image](./../../../static/img/docs/PatchEditor/animations-6.png)
 
 ---
 

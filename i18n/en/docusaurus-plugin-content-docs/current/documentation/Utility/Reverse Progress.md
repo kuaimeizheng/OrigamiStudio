@@ -16,13 +16,13 @@ Useful to sync an animation that is reversed (ex: a photo that fades in as anoth
 
 ### Progress 进度
 
-A progress value. See [Animation Basics](./../Patch%20Editor/Animations.md) for more information.
+A progress value. See [Animation Basics](./../PatchEditor/Animations.md) for more information.
 
 一个进度值。有关详细信息，请参阅动画基础知识。
 
 ### Progress 进度
 
-The reversed progress value. See [Animation Basics](./../Patch%20Editor/Animations.md) for more information.
+The reversed progress value. See [Animation Basics](./../PatchEditor/Animations.md) for more information.
 
 反转进度值。有关详细信息，请参阅动画基础知识。
 

@@ -27,7 +27,7 @@ Convert a number from any range to 0 to 1 with [Progress](./Progress.md).
 
 使用 Progress 可以将任意范围内的数值转换为 0 到 1。
 
-Often used with a [Switch](./Switch.md) and [Pop](./../Animation/Pop%20Animation.md)/[Classic Animation](./../Animation/Classic%20Animation.md). See [Animation Basics](./../Patch%20Editor/Animations.md) for more information.
+Often used with a [Switch](./Switch.md) and [Pop](./../Animation/Pop%20Animation.md)/[Classic Animation](./../Animation/Classic%20Animation.md). See [Animation Basics](./../PatchEditor/Animations.md) for more information.
 
 Right-click to change the type (ex: number, position, color).
 
@@ -59,7 +59,7 @@ Size Axis
 
 ### Progress 进度
 
-A progress value. See [Animation Basics](./../Patch%20Editor/Animations.md) for more information.
+A progress value. See [Animation Basics](./../PatchEditor/Animations.md) for more information.
 
 进度值。更多信息请参考 Animation Basics
 

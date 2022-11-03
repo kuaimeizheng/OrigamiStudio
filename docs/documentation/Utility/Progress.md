@@ -32,7 +32,7 @@ The end value of the range.
 
 A progress value.
 
-See [Animation Basics](./../Patch%20Editor/Animations.md) for more information.
+See [Animation Basics](./../PatchEditor/Animations.md) for more information.
 
 一个进度值。
 

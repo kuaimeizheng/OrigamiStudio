@@ -89,7 +89,7 @@ A number that represents the current position, rotation or scale. Connect to the
 
 ### Progress 进度
 
-A progress value that represents the animation progress between the start and end values. See [Animation Basics](./../Patch%20Editor/Animations.md) for more information.
+A progress value that represents the animation progress between the start and end values. See [Animation Basics](./../PatchEditor/Animations.md) for more information.
 
 一个进度值，表示开始值和结束值之间的动画进度。
 

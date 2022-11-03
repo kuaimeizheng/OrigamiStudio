@@ -13,7 +13,7 @@ Animate a number (ex: position, opacity, scale) using a standard animation curve
 
 See [Animation Basics] for more information.
 
-有关详细信息，请参考 [动画基础](./../Patch%20Editor/Animations.md)。
+有关详细信息，请参考 [动画基础](./../PatchEditor/Animations.md)。
 
 <div className="patch-container">
     <div className="patch processor">
@@ -97,7 +97,7 @@ A number that is tweened with an easing curve as it moves toward the Number inpu
 
 Typically a progress value. See [Animation Basics]for more information.
 
-通常是一个进度值，更多信息请参考 [动画基础](./../Patch%20Editor/Animations.md)。
+通常是一个进度值，更多信息请参考 [动画基础](./../PatchEditor/Animations.md)。
 
 </div>
 </div>

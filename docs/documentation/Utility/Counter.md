@@ -25,9 +25,9 @@ Constrain the counter by specifying a value in the Maximum Count port. If the co
 
 通过在最大计数端口中指定值来约束计数器。如果计数器在达到该最大值后递增，它将重置为零。将计数器从其初始值递减将使其返回最大值。如果计数器受到约束，“跳转到数字”值必须在范围内，否则计数器将返回到起始值。
 
-Often used to track a sequential state (ex: an onboarding flow) interchangeably with [Option Switch](./Option%20Switch.md). See [State Basics](./../Patch%20Editor/States.md) for more information.
+Often used to track a sequential state (ex: an onboarding flow) interchangeably with [Option Switch](./Option%20Switch.md). See [State Basics](./../PatchEditor/States.md) for more information.
 
-通常用于跟踪顺序状态(例如:加载流程)，可与 [Option Switch](./Option%20Switch.md) 互换。更多信息请参考 [状态基础](./../Patch%20Editor/States.md) 。
+通常用于跟踪顺序状态(例如:加载流程)，可与 [Option Switch](./Option%20Switch.md) 互换。更多信息请参考 [状态基础](./../PatchEditor/States.md) 。
 
 ![Image](./../../../static/img/docs/Utility/counter.png)
 

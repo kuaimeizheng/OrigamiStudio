@@ -19,7 +19,7 @@ last_update:
 
 它有助于构建简单的只有两种状态的交互，例如在弹出窗口中显示和隐藏评论。
 
-![](./../../../static/img/docs/Patch%20Editor/states-1.png)
+![](./../../../static/img/docs/PatchEditor/states-1.png)
 
 多个开关模块可以与逻辑模块（[Or 或](./../Logic/Or.md), [And 和](./../Logic/And.md), [Not 非](./../Logic/Not.md) ）组合在一起，相互构建，例如，打开一个具有不同附件选项的装置，用户可以切换这些选项。
 
@@ -29,13 +29,13 @@ last_update:
 
 例如，如果要在 3 种状态之间更改导航栏标题：
 
-![](./../../../static/img/docs/Patch%20Editor/states-2.png)
+![](./../../../static/img/docs/PatchEditor/states-2.png)
 
 ### Counter 计数器
 
 [Counter 计数器](./../Utility/Counter.md)模块适用于不能共存的互斥状态，并且以固定的顺序递增，例如，入职流程。
 
-![](./../../../static/img/docs/Patch%20Editor/states-3.png)
+![](./../../../static/img/docs/PatchEditor/states-3.png)
 
 ## Index numbers represent states 索引序号表示状态
 

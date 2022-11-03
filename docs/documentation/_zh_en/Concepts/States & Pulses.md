@@ -9,7 +9,7 @@ last_update:
 
 ---
 
-[States](./../Patch%20Editor/States.md)help remember information in your prototype. Pulses are used to tell patches to perform an action. Understanding how these work together will help you be more effective at building Origami prototypes.
+[States](./../PatchEditor/States.md)help remember information in your prototype. Pulses are used to tell patches to perform an action. Understanding how these work together will help you be more effective at building Origami prototypes.
 
 状态帮助记住原型中信息。脉冲用来告诉模块反馈哪个动作。了解这些工作方式有助于更有效地制作原型。
 

@@ -25,7 +25,7 @@ Patches range from simple math patches:
 
 包括简单的数学模块：
 
-![](./../../../static/img/docs/Patch%20Editor/patches-1.png)
+![](./../../../static/img/docs/PatchEditor/patches-1.png)
 
 The [+] patch takes two number inputs on the left, and outputs the sum on the right. 2 + 3 = 5.
 
@@ -35,7 +35,7 @@ The [+] patch takes two number inputs on the left, and outputs the sum on the ri
 
 添加图层交互的模块:
 
-![](./../../../static/img/docs/Patch%20Editor/patches-2.png)
+![](./../../../static/img/docs/PatchEditor/patches-2.png)
 
 The [Interaction](./../Interaction/Interaction.md) patch outputs information about touches on the Viewer on a layer. When a finger is touching down on Rectangle, it outputs ✓ in the Down port.
 
@@ -45,7 +45,7 @@ The [Interaction](./../Interaction/Interaction.md) patch outputs information abo
 
 管理状态的模块：
 
-![](./../../../static/img/docs/Patch%20Editor/patches-3.png)
+![](./../../../static/img/docs/PatchEditor/patches-3.png)
 
 The [Switch](./../Utility/Switch.md) patch can be turned on or off by the inputs on the left, and outputs the current state on the right.
 
@@ -55,7 +55,7 @@ The [Switch](./../Utility/Switch.md) patch can be turned on or off by the inputs
 
 控制图层属性的模块：
 
-![](./../../../static/img/docs/Patch%20Editor/patches-4.png)
+![](./../../../static/img/docs/PatchEditor/patches-4.png)
 
 Add layer property patches by clicking on any property in the Layer inspector. This patch controls if a layer named Rectangle is shown/hidden.
 
@@ -143,7 +143,7 @@ In the example below, three different patches pass values to each other with cab
 
 在下面的例子中，三个不同的模块通过连接到各自端口的连线相互传递值。这些模块组合在一起表示了一种打开和关闭图层的交互。
 
-![](./../../../static/img/docs/Patch%20Editor/patches-5.png)
+![](./../../../static/img/docs/PatchEditor/patches-5.png)
 
 ---
 

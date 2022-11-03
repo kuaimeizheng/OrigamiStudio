@@ -23,7 +23,7 @@ The [Switch](./../Utility/Switch.md) patch is like a light switch: turning it on
 
 它有助于构建简单的只有两种状态的交互，例如在弹出窗口中显示和隐藏评论。
 
-![](./../../../static/img/docs/Patch%20Editor/states-1.png)
+![](./../../../static/img/docs/PatchEditor/states-1.png)
 
 Multiple Switch patches can combined with Logic patches ([Or](./../Logic/Or.md), [And](./../Logic/And.md), [Not](./../Logic/Not.md) to build on top of each other, e.g. opening a composer with different attachment options which the user can toggle.
 
@@ -37,7 +37,7 @@ Multiple Switch patches can combined with Logic patches ([Or](./../Logic/Or.md),
 
 例如，如果要在 3 种状态之间更改导航栏标题：
 
-![](./../../../static/img/docs/Patch%20Editor/states-2.png)
+![](./../../../static/img/docs/PatchEditor/states-2.png)
 
 ### Counter 计数器
 
@@ -45,7 +45,7 @@ Multiple Switch patches can combined with Logic patches ([Or](./../Logic/Or.md),
 
 [计数器](./../Utility/Counter.md)模块适用于不能共存的互斥状态，并且以固定的顺序递增，例如，入职流程。
 
-![](./../../../static/img/docs/Patch%20Editor/states-3.png)
+![](./../../../static/img/docs/PatchEditor/states-3.png)
 
 ## Index numbers represent states 索引序号表示状态
 
