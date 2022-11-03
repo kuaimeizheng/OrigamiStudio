@@ -4,15 +4,15 @@
     "description": "The title in the navbar"
   },
   "item.label.中文文档": {
-    "message": "中文文档",
+    "message": "Documentation",
     "description": "Navbar item with label 中文文档"
   },
   "item.label.例子": {
-    "message": "例子",
+    "message": "Example",
     "description": "Navbar item with label 例子"
   },
   "item.label.关于作者": {
-    "message": "关于作者",
+    "message": "About Author",
     "description": "Navbar item with label 关于作者"
   },
   "item.label.GitHub": {
@@ -20,35 +20,35 @@
     "description": "Navbar item with label GitHub"
   },
   "item.label.个人模块": {
-    "message": "个人模块",
+    "message": "Custom Patches",
     "description": "Navbar item with label 个人模块"
   },
   "item.label.学习教程": {
-    "message": "学习教程",
+    "message": "Learning Tutorial",
     "description": "Navbar item with label 学习教程"
   },
   "item.label.组件系统": {
-    "message": "组件系统",
+    "message": "Component System",
     "description": "Navbar item with label 组件系统"
   },
   "item.label.专题练习": {
-    "message": "专题练习",
+    "message": "Project",
     "description": "Navbar item with label 专题练习"
   },
   "item.label.设备展示": {
-    "message": "设备展示",
+    "message": "Device",
     "description": "Navbar item with label 设备展示"
   },
   "item.label.技术探索": {
-    "message": "技术探索",
+    "message": "Technology Explore",
     "description": "Navbar item with label 技术探索"
   },
   "item.label.动画模块": {
-    "message": "动画模块",
+    "message": "Animation Patch",
     "description": "Navbar item with label 动画模块"
   },
   "item.label.键盘快捷键": {
-    "message": "键盘快捷键",
+    "message": "Keyboard Shortcut",
     "description": "Navbar item with label 键盘快捷键"
   }
 }
