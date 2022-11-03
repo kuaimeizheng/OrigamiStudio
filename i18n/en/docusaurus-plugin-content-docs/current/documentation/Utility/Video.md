@@ -1,5 +1,8 @@
 ---
+title: Video 视频
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Video 视频
@@ -12,7 +15,7 @@ Alternatively, drag an image directly into the layer list to create a Video Laye
 
 或者，将图像直接拖到图层列表中以创建视频图层。
 
-![Image](@site/static/img/docs/Utility/video.png)
+![Image](./../../../static/img/docs/Utility/video.png)
 
 ### Output 输出
 

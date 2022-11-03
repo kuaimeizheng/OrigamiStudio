@@ -1,5 +1,8 @@
 ---
+title: Sample and Hold 采样保持
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Sample and Hold 采样保持

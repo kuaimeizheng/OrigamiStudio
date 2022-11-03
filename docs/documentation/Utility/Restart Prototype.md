@@ -1,5 +1,8 @@
 ---
+title: Restart Prototype 重启原型
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Restart Prototype 重启原型

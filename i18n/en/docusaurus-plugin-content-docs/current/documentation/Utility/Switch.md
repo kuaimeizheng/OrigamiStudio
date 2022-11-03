@@ -1,5 +1,8 @@
 ---
+title: Switch 开关
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Switch 开关
@@ -20,7 +23,7 @@ See [State Basics](./../PatchEditor/States.md) for more information.
 
 更多信息请参考 State Basic。
 
-![Image](@site/static/img/docs/Utility/switch.png)
+![Image](./../../../static/img/docs/Utility/switch.png)
 
 ### Flip 反转
 

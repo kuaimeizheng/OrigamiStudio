@@ -1,5 +1,8 @@
 ---
+title: Vec4 四维
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Vec4 四维

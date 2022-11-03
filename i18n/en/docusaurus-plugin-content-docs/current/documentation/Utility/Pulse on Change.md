@@ -1,5 +1,8 @@
 ---
+title: Pulse on Change 脉冲变化
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Pulse on Change 脉冲变化
@@ -12,7 +15,7 @@ Right-click to change the type (ex: number, text, color).
 
 右键单击以更改类型（例如：数字、文本、颜色）。
 
-![Image](@site/static/img/docs/Utility/pulse-on-change.png)
+![Image](./../../../static/img/docs/Utility/pulse-on-change.png)
 
 ### Value 值
 

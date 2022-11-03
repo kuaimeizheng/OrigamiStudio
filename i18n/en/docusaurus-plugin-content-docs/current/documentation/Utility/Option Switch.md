@@ -1,5 +1,8 @@
 ---
+title: Option Switch 选项开关
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Option Switch 选项开关
@@ -16,7 +19,7 @@ See [State Basics](./../PatchEditor/States.md) for more information.
 
 查看  State Basics了解更多信息。
 
-![Image](@site/static/img/docs/Utility/option-switch.png)
+![Image](./../../../static/img/docs/Utility/option-switch.png)
 
 ### Set to 0 接口 1
 

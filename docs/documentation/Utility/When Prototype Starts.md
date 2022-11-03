@@ -1,5 +1,8 @@
 ---
+title: When Prototype Starts 当原型启动时
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # When Prototype Starts 当原型启动时

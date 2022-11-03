@@ -1,5 +1,8 @@
 ---
+title: Transition 过渡
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Transition 过渡

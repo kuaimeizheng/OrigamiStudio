@@ -15,7 +15,7 @@ For example, if an input value is 1.5, but the Max bound is set to 1, the output
 
 例如，如果输入值为 1.5。但最大范围设置为 1，则输出值将被裁剪为 1.
 
-![Image](@site/static/img/docs/Utility/clip.png)
+![Image](./../../../static/img/docs/Utility/clip.png)
 
 ### Value 值
 

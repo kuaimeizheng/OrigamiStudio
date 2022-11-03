@@ -1,5 +1,8 @@
 ---
+title: Vec4 四维
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Vec4 四维
@@ -8,7 +11,7 @@ Create a point with 4 dimensions (X, Y, Z, W).
 
 创建一个具有 4 个维度（X、Y、Z、W）的点。
 
-![Image](@site/static/img/docs/Utility/vec4.png)
+![Image](./../../../static/img/docs/Utility/vec4.png)
 
 ### X
 

@@ -11,7 +11,7 @@ Use Date & Time Formatter to make human-readable formats from time in seconds.
 
 使用 Date & Time Formatter 模块将以秒为单位生成我们可读的时间格式。
 
-![Image](@site/static/img/docs/Utility/date&time-formatter.png)
+![Image](./../../../static/img/docs/Utility/date&time-formatter.png)
 
 ### Time 时间
 
@@ -33,7 +33,7 @@ A text string that represents a format of time (ex: %H:%M:%S, %m/%d/%y). See the
 
 ### Type 类型
 
-![Image](@site/static/img/docs/Utility/date&time-formatter-item.png)
+![Image](./../../../static/img/docs/Utility/date&time-formatter-item.png)
 
 ### Output 输出
 

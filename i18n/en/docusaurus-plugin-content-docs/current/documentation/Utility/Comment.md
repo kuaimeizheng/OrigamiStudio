@@ -19,4 +19,4 @@ Double-click the name or hit return to edit the comment. Right-click the patch t
 
 双击模块或按回车键编辑注释。在模块上右键更改颜色，以及拖动右下角调整尺寸。
 
-![Image](@site/static/img/docs/Utility/comment.png)
+![Image](./../../../static/img/docs/Utility/comment.png)

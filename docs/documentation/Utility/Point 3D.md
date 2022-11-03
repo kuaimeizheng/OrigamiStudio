@@ -1,5 +1,8 @@
 ---
+title: Point 3D 三维点
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Point 3D 三维点

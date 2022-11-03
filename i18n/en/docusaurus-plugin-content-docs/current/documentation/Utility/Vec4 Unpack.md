@@ -1,5 +1,8 @@
 ---
+title: Vec4 Unpack 四维解组
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Vec4 Unpack 四维解组
@@ -8,7 +11,7 @@ Turn a point with 4 dimensions into its individual X, Y, Z, and W values.
 
 将具有 4 个维度的点转换为其单独的 X、Y、Z 和 W 值。
 
-![Image](@site/static/img/docs/Utility/vec4-unpack.png)
+![Image](./../../../static/img/docs/Utility/vec4-unpack.png)
 
 ### Input 输入
 

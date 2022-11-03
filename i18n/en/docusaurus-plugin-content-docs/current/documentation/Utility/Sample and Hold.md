@@ -1,5 +1,8 @@
 ---
+title: Sample and Hold 采样保持
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Sample and Hold 采样保持
@@ -12,7 +15,7 @@ Right-click to change the type (ex: number, text, color).
 
 右键更改接口数量和类型。
 
-![Image](@site/static/img/docs/Utility/sample-and-hold.png)
+![Image](./../../../static/img/docs/Utility/sample-and-hold.png)
 
 ### Value 值
 
@@ -40,7 +43,7 @@ A pulse that clears the currently stored value.
 
 ### Type 类型
 
-![Image](@site/static/img/docs/Utility/sample-and-hold-item.png)
+![Image](./../../../static/img/docs/Utility/sample-and-hold-item.png)
 
 ### Output 输出
 

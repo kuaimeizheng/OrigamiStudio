@@ -13,7 +13,7 @@ Delay a value by the specified number of seconds. The patch will not output the 
 
 Right-click to change the type (ex: number, boolean, color).
 
-![Image](@site/static/img/docs/Utility/delay.png)
+![Image](./../../../static/img/docs/Utility/delay.png)
 
 ### Value 值
 

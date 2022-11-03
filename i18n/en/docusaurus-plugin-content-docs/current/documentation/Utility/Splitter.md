@@ -1,5 +1,8 @@
 ---
+title: Splitter 分离器
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Splitter 分离器
@@ -16,7 +19,7 @@ Can be used interchangeably with Variable Broadcasters and Variable Receivers.
 
 可以与变量发送器和变量接收器互换使用。
 
-![Image](@site/static/img/docs/Utility/splitter.png)
+![Image](./../../../static/img/docs/Utility/splitter.png)
 
 ### Input 输入
 
@@ -32,7 +35,7 @@ The same value from the input.
 
 ### Type 类型
 
-![Image](@site/static/img/docs/Utility/splitter-item.png)
+![Image](./../../../static/img/docs/Utility/splitter-item.png)
 
 ------
 

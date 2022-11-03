@@ -1,5 +1,8 @@
 ---
+title: Option Switch 选项开关
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Option Switch 选项开关

@@ -1,5 +1,8 @@
 ---
+title: Progress 进度
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Progress 进度
@@ -8,7 +11,7 @@ Convert a number from any range to progress (0 to 1). Useful with [Transition](h
 
 将任何范围内的数字转换为进度（0到1）。和 [Transition 过渡](./Transition.md) 一起使用可以将动画值转换为其它的范围（例如：100～125、20～30）。
 
-![Image](@site/static/img/docs/Utility/progress.png)
+![Image](./../../../static/img/docs/Utility/progress.png)
 
 ### Value 值
 

@@ -1,5 +1,8 @@
 ---
+title: Point Unpack 点解组
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Point Unpack 点解组
@@ -8,7 +11,7 @@ Turn a point with 2 dimensions (position, size, anchor, pivot) into its individu
 
 将2维（位置，旋转）的点转换为单独的X、Y值。
 
-![Image](@site/static/img/docs/Utility/point-unpack.png)
+![Image](./../../../static/img/docs/Utility/point-unpack.png)
 
 ### Input 输入
 

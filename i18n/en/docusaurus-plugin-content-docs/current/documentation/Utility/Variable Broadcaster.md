@@ -1,5 +1,8 @@
 ---
+title: Variable Broadcaster 变量发送器
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Variable Broadcaster 变量发送器
@@ -20,7 +23,7 @@ Right-click the patch to change the type of the value, or to change the scope of
 
 右键单击模块以更改值的类型，或更改变量可用的范围。
 
-![Image](@site/static/img/docs/Utility/variable-broadcaster.png)
+![Image](./../../../static/img/docs/Utility/variable-broadcaster.png)
 
 ### Input 输入
 

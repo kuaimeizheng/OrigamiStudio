@@ -1,5 +1,8 @@
 ---
+title: Spacing 间距
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Spacing 间距
@@ -8,7 +11,7 @@ Create spacing with 2 dimensions (X, Y). Useful when providing spacing to Layout
 
 创建具有 2 个维度（X、Y）的间距。在为图层布局需要间距时很有用。
 
-![Image](@site/static/img/docs/Utility/spacing.png)
+![Image](./../../../static/img/docs/Utility/spacing.png)
 
 ### X
 

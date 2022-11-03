@@ -1,5 +1,8 @@
 ---
+title: Stopwatch 秒表
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Stopwatch 秒表
@@ -8,7 +11,7 @@ Measure elapsed time. Use [Wait](./Wait.md) to create a countdown/timer.
 
 测量经过的时间。使用 [Wait 等待](./Wait.md) 模块创建倒计时/计时器。
 
-![Image](@site/static/img/docs/Utility/stopwatch.png)
+![Image](./../../../static/img/docs/Utility/stopwatch.png)
 
 ### Start 开始
 

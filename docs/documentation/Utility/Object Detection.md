@@ -1,5 +1,8 @@
 ---
+title: Object Detection 目标检测
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Object Detection 目标检测

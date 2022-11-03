@@ -1,5 +1,8 @@
 ---
+title: Variable Receiver 变量接收器
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Variable Receiver 变量接收器

@@ -1,5 +1,8 @@
 ---
+title: Switch 开关
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Switch 开关

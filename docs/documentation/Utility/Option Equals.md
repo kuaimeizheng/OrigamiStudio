@@ -1,5 +1,8 @@
 ---
+title: Option Equals
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Option Equals

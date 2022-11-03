@@ -1,5 +1,8 @@
 ---
+title: Repeating Pulse 重复脉冲
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Repeating Pulse 重复脉冲

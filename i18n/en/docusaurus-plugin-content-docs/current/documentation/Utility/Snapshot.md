@@ -1,5 +1,8 @@
 ---
+title: Snapshot 快照
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Snapshot 快照
@@ -12,7 +15,7 @@ There are some limitations of layers that can be captured, including particle sy
 
 可以捕获的图层有一些限制，包括粒子系统和某些图层变换。
 
-![Image](@site/static/img/docs/Utility/snapshot.png)
+![Image](./../../../static/img/docs/Utility/snapshot.png)
 
 ### Layer 图层
 

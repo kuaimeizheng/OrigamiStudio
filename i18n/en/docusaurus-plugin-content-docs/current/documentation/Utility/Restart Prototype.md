@@ -1,5 +1,8 @@
 ---
+title: Restart Prototype 重启原型
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Restart Prototype 重启原型
@@ -8,7 +11,7 @@ Restarts the currently loaded prototype when pulsed.
 
 接收到脉冲时重新启动当前加载的原型。
 
-![Image](@site/static/img/docs/Utility/restart-prototype.png)
+![Image](./../../../static/img/docs/Utility/restart-prototype.png)
 
 ### Restart重启
 

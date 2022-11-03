@@ -1,5 +1,8 @@
 ---
+title: Random 随机
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Random 随机
@@ -8,7 +11,7 @@ Generate a random number (with decimals) that falls between two numbers of your 
 
 生成一个介于您设置的两个数字之间的随机数（带小数）。模块每次在其 Randomize 端口上接收到脉冲时，都会生成并输出一个随机数。
 
-![Image](@site/static/img/docs/Utility/random.png)
+![Image](./../../../static/img/docs/Utility/random.png)
 
 ### Randomize 随机化
 

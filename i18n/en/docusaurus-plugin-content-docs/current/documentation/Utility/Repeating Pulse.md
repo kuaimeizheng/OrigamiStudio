@@ -1,5 +1,8 @@
 ---
+title: Repeating Pulse 重复脉冲
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Repeating Pulse 重复脉冲
@@ -12,7 +15,7 @@ See [States & Pulses](./../Concepts/States%20&%20Pulses.md) for more information
 
 有关更多信息，请参阅状态和脉冲。
 
-![Image](@site/static/img/docs/Utility/repeating-pulse.png)
+![Image](./../../../static/img/docs/Utility/repeating-pulse.png)
 
 ### Frequency 频率
 

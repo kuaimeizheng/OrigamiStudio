@@ -1,5 +1,8 @@
 ---
+title: Variable Receiver 变量接收器
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Variable Receiver 变量接收器
@@ -12,7 +15,7 @@ Click the patch name to select the value to receive. Click the wireless icon to 
 
 单击模块名称以选择要接收的值。点击无线图标跳转到对应的本地变量发送器。
 
-![Image](@site/static/img/docs/Utility/variable-receiver.png)
+![Image](./../../../static/img/docs/Utility/variable-receiver.png)
 
 ### Output 输出
 

@@ -1,5 +1,8 @@
 ---
+title: When Prototype Starts 当原型启动时
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # When Prototype Starts 当原型启动时
@@ -12,7 +15,7 @@ This patch also outputs a pulse when it is added from the Layer Library.
 
 当从图层库中添加此模块时，它也会输出一个脉冲。
 
-![Image](@site/static/img/docs/Utility/when-prototype-starts.png)
+![Image](./../../../static/img/docs/Utility/when-prototype-starts.png)
 
 ### Output 输出
 

@@ -1,5 +1,8 @@
 ---
+title: Video Info 视频信息
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Video Info 视频信息

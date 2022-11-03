@@ -1,5 +1,8 @@
 ---
+title: Velocity 速度
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Velocity 速度
@@ -12,7 +15,7 @@ Often used to measure the distance a touch has moved (ex: Drag, Scroll).
 
 通常用于测量触摸移动的距离(例如:拖动，滚动)。
 
-![Image](@site/static/img/docs/Utility/velocity.png)
+![Image](./../../../static/img/docs/Utility/velocity.png)
 
 ### Input 输入
 

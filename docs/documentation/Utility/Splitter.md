@@ -1,5 +1,8 @@
 ---
+title: Splitter 分离器
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Splitter 分离器

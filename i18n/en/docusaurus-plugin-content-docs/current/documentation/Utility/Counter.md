@@ -29,7 +29,7 @@ Often used to track a sequential state (ex: an onboarding flow) interchangeably 
 
 通常用于跟踪顺序状态(例如:加载流程)，可与 [Option Switch](./Option%20Switch.md) 互换。更多信息请参考 [状态基础](./../PatchEditor/States.md) 。
 
-![Image](@site/static/img/docs/Utility/counter.png)
+![Image](./../../../static/img/docs/Utility/counter.png)
 
 ### Increase 递增
 

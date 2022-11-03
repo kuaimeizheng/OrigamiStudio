@@ -1,5 +1,8 @@
 ---
+title: Option Sender 选项发送器
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Option Sender 选项发送器
@@ -12,7 +15,7 @@ Right-click to change the type (ex: color, boolean), or to add additional option
 
 右键更改类型 (如：颜色、布尔值)，或添加其它选项。
 
-![Image](@site/static/img/docs/Utility/option-sender.png)
+![Image](./../../../static/img/docs/Utility/option-sender.png)
 
 ### Option 选项
 

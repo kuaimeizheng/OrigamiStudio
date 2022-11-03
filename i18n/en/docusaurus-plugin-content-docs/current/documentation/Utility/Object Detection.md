@@ -1,5 +1,8 @@
 ---
+title: Object Detection 目标检测
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Object Detection 目标检测
@@ -8,7 +11,7 @@ Detect regions in a still image, video, or from a camera stream.
 
 检测静止图像、视频或摄像机流中的区域。
 
-![Image](@site/static/img/docs/Utility/object-detection.png)
+![Image](./../../../static/img/docs/Utility/object-detection.png)
 
 ### Enable 启用
 

@@ -1,5 +1,8 @@
 ---
+title: Transition 过渡
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Transition 过渡
@@ -55,7 +58,7 @@ Size 大小
 
 Size Axis
 
-![Image](@site/static/img/docs/Utility/transition.png)
+![Image](./../../../static/img/docs/Utility/transition.png)
 
 ### Progress 进度
 
@@ -83,7 +86,7 @@ The converted value.
 
 ### 支持类型
 
-![Image](@site/static/img/docs/Utility/transition-item.png)
+![Image](./../../../static/img/docs/Utility/transition-item.png)
 
 ------
 
