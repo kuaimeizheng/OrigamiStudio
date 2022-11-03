@@ -1,5 +1,8 @@
 ---
+title: Audio Metering 音频测量
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Audio Metering 音频测量

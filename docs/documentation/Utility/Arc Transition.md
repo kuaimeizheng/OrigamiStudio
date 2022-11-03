@@ -1,5 +1,8 @@
 ---
+title: Arc Transition 弧形过渡
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Arc Transition 弧形过渡
@@ -40,7 +43,7 @@ The converted value.
 
 转换后的值。
 
-------
+---
 
 ### Related Patches 相关模块
 

@@ -1,5 +1,8 @@
 ---
+title: Alert View 警示框
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Alert View 警示框
