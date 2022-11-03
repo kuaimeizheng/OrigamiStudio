@@ -1,0 +1,9 @@
+{
+  "label": "Animation 动画",
+  "position": 10,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index"
+  }
+}

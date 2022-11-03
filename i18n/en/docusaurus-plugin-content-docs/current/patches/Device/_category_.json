@@ -1,0 +1,9 @@
+{
+  "label": "Device 设备",
+  "position": 60,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index"
+  }
+}

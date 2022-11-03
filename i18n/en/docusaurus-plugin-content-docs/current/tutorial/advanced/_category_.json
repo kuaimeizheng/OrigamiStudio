@@ -1,0 +1,9 @@
+{
+  "label": "高级",
+  "position": 40,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index"
+  }
+}

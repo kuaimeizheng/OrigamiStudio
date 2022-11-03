@@ -1,0 +1,9 @@
+{
+  "label": "Shapes 形状",
+  "position": 70,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index"
+  }
+}

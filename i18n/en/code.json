@@ -249,5 +249,151 @@
   "theme.docs.sidebar.expandButtonAriaLabel": {
     "message": "Expand sidebar",
     "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "推荐": {
+    "message": "推荐"
+  },
+  "showcase.tag.推荐.description": {
+    "message": "推荐"
+  },
+  "Loop": {
+    "message": "Loop"
+  },
+  "showcase.tag.opensource.description": {
+    "message": "循环"
+  },
+  "Scroll": {
+    "message": "Scroll"
+  },
+  "showcase.tag.Scroll.description": {
+    "message": "滚动"
+  },
+  "Logic": {
+    "message": "Logic"
+  },
+  "showcase.tag.Logic.description": {
+    "message": "逻辑"
+  },
+  "Interaction": {
+    "message": "Interaction"
+  },
+  "showcase.tag.Interaction.description": {
+    "message": "交互"
+  },
+  "Layers": {
+    "message": "Layers"
+  },
+  "showcase.tag.Layers.description": {
+    "message": "图层"
+  },
+  "Utilities": {
+    "message": "Utilities"
+  },
+  "showcase.tag.Utilities.description": {
+    "message": "工具"
+  },
+  "Apple": {
+    "message": "Apple"
+  },
+  "showcase.tag.Apple.description": {
+    "message": "苹果"
+  },
+  "Data": {
+    "message": "Data"
+  },
+  "showcase.tag.Data.description": {
+    "message": "数据"
+  },
+  "Text": {
+    "message": "Text"
+  },
+  "showcase.tag.rtl.description": {
+    "message": "文本"
+  },
+  "Docusaurus Site Showcase": {
+    "message": "Docusaurus Site Showcase"
+  },
+  "List of websites people are building with Docusaurus": {
+    "message": "List of websites people are building with Docusaurus"
+  },
+  "showcase.filters.resultCount": {
+    "message": "1 site|{sitesCount} sites",
+    "description": "Pluralized label for the number of sites found on the showcase. Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "showcase.filters.title": {
+    "message": "筛选"
+  },
+  "showcase.searchBar.placeholder": {
+    "message": "输入搜索"
+  },
+  "showcase.usersList.noResult": {
+    "message": "No result"
+  },
+  "showcase.favoritesList.title": {
+    "message": "推荐"
+  },
+  "showcase.usersList.allUsers": {
+    "message": "全部"
+  },
+  "showcase.card.sourceLink": {
+    "message": "source"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "Close navigation bar",
+    "description": "The ARIA label for close button of mobile sidebar"
+  },
+  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+    "message": "Toggle navigation bar",
+    "description": "The ARIA label for hamburger menu button of mobile navigation"
+  },
+  "theme.IdealImageMessage.loading": {
+    "message": "Loading...",
+    "description": "When the full-scale image is loading"
+  },
+  "theme.IdealImageMessage.load": {
+    "message": "Click to load{sizeMessage}",
+    "description": "To prompt users to load the full image. sizeMessage is a parenthesized size figure."
+  },
+  "theme.IdealImageMessage.offline": {
+    "message": "Your browser is offline. Image not loaded",
+    "description": "When the user is viewing an offline document"
+  },
+  "theme.IdealImageMessage.404error": {
+    "message": "404. Image not found",
+    "description": "When the image is not found"
+  },
+  "theme.IdealImageMessage.error": {
+    "message": "Error. Click to reload",
+    "description": "When the image fails to load for unknown error"
+  },
+  "theme.SearchBar.noResultsText": {
+    "message": "No results"
+  },
+  "theme.SearchBar.seeAll": {
+    "message": "See all results"
+  },
+  "theme.SearchBar.label": {
+    "message": "Search",
+    "description": "The ARIA label and placeholder for search button"
+  },
+  "theme.SearchPage.existingResultsTitle": {
+    "message": "Search results for \"{query}\"",
+    "description": "The search page title for non-empty query"
+  },
+  "theme.SearchPage.emptyResultsTitle": {
+    "message": "Search the documentation",
+    "description": "The search page title for empty query"
+  },
+  "theme.SearchPage.documentsFound.plurals": {
+    "message": "1 document found|{count} documents found",
+    "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.SearchPage.noResultsText": {
+    "message": "No documents were found",
+    "description": "The paragraph for empty search result"
+  },
+  "theme.tags.tagsPageTitle": {
+    "message": "Tags",
+    "description": "The title of the tag list page"
   }
 }

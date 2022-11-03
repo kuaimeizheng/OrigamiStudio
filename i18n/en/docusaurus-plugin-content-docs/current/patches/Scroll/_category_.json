@@ -1,0 +1,9 @@
+{
+  "label": "Scroll 滑动",
+  "position": 40,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index"
+  }
+}

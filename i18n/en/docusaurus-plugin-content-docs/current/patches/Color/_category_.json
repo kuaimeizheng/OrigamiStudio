@@ -1,0 +1,9 @@
+{
+  "label": "Color 颜色",
+  "position": 50,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index"
+  }
+}

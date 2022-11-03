@@ -1,0 +1,9 @@
+{
+  "label": "3D 三维",
+  "position": 50,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index"
+  }
+}

@@ -86,5 +86,197 @@
   "sidebar.exampleSidebar.category.Shapes 形状": {
     "message": "Shapes 形状",
     "description": "The label for category Shapes 形状 in sidebar exampleSidebar"
+  },
+  "sidebar.documentionSidebar.category.Effect 效果": {
+    "message": "Effect 效果",
+    "description": "The label for category Effect 效果 in sidebar documentionSidebar"
+  },
+  "sidebar.patchesSidebar.category.Interaction 交互": {
+    "message": "Interaction 交互",
+    "description": "The label for category Interaction 交互 in sidebar patchesSidebar"
+  },
+  "sidebar.patchesSidebar.category.Animation 动画": {
+    "message": "Animation 动画",
+    "description": "The label for category Animation 动画 in sidebar patchesSidebar"
+  },
+  "sidebar.patchesSidebar.category.Media 媒体": {
+    "message": "Media 媒体",
+    "description": "The label for category Media 媒体 in sidebar patchesSidebar"
+  },
+  "sidebar.patchesSidebar.category.Loop 循环": {
+    "message": "Loop 循环",
+    "description": "The label for category Loop 循环 in sidebar patchesSidebar"
+  },
+  "sidebar.patchesSidebar.category.Utilities 工具": {
+    "message": "Utilities 工具",
+    "description": "The label for category Utilities 工具 in sidebar patchesSidebar"
+  },
+  "sidebar.patchesSidebar.category.Data 数据": {
+    "message": "Data 数据",
+    "description": "The label for category Data 数据 in sidebar patchesSidebar"
+  },
+  "sidebar.patchesSidebar.category.Text 文本": {
+    "message": "Text 文本",
+    "description": "The label for category Text 文本 in sidebar patchesSidebar"
+  },
+  "sidebar.patchesSidebar.category.Scroll 滑动": {
+    "message": "Scroll 滑动",
+    "description": "The label for category Scroll 滑动 in sidebar patchesSidebar"
+  },
+  "sidebar.patchesSidebar.category.Array 数组": {
+    "message": "Array 数组",
+    "description": "The label for category Array 数组 in sidebar patchesSidebar"
+  },
+  "sidebar.patchesSidebar.category.3D 三维": {
+    "message": "3D 三维",
+    "description": "The label for category 3D 三维 in sidebar patchesSidebar"
+  },
+  "sidebar.patchesSidebar.category.Color 颜色": {
+    "message": "Color 颜色",
+    "description": "The label for category Color 颜色 in sidebar patchesSidebar"
+  },
+  "sidebar.patchesSidebar.category.Layer 图层": {
+    "message": "Layer 图层",
+    "description": "The label for category Layer 图层 in sidebar patchesSidebar"
+  },
+  "sidebar.patchesSidebar.category.Logic 逻辑": {
+    "message": "Logic 逻辑",
+    "description": "The label for category Logic 逻辑 in sidebar patchesSidebar"
+  },
+  "sidebar.patchesSidebar.category.Particles 粒子": {
+    "message": "Particles 粒子",
+    "description": "The label for category Particles 粒子 in sidebar patchesSidebar"
+  },
+  "sidebar.patchesSidebar.category.Shapes 形状": {
+    "message": "Shapes 形状",
+    "description": "The label for category Shapes 形状 in sidebar patchesSidebar"
+  },
+  "sidebar.patchesSidebar.category.Device 设备": {
+    "message": "Device 设备",
+    "description": "The label for category Device 设备 in sidebar patchesSidebar"
+  },
+  "sidebar.tutorialSidebar.category.新手": {
+    "message": "新手",
+    "description": "The label for category 新手 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.初级": {
+    "message": "初级",
+    "description": "The label for category 初级 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.中级": {
+    "message": "中级",
+    "description": "The label for category 中级 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.高级": {
+    "message": "高级",
+    "description": "The label for category 高级 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.资深": {
+    "message": "资深",
+    "description": "The label for category 资深 in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.专家": {
+    "message": "专家",
+    "description": "The label for category 专家 in sidebar tutorialSidebar"
+  },
+  "sidebar.systemSidebar.category.Token 原子": {
+    "message": "Token 原子",
+    "description": "The label for category Token 原子 in sidebar systemSidebar"
+  },
+  "sidebar.systemSidebar.category.Components 组件": {
+    "message": "Components 组件",
+    "description": "The label for category Components 组件 in sidebar systemSidebar"
+  },
+  "sidebar.systemSidebar.category.Pattern 模式": {
+    "message": "Pattern 模式",
+    "description": "The label for category Pattern 模式 in sidebar systemSidebar"
+  },
+  "sidebar.systemSidebar.category.Example 例子": {
+    "message": "Example 例子",
+    "description": "The label for category Example 例子 in sidebar systemSidebar"
+  },
+  "sidebar.specialSidebar.category.iOS": {
+    "message": "iOS",
+    "description": "The label for category iOS in sidebar specialSidebar"
+  },
+  "sidebar.specialSidebar.category.Mac OS": {
+    "message": "Mac OS",
+    "description": "The label for category Mac OS in sidebar specialSidebar"
+  },
+  "sidebar.specialSidebar.category.Android 安卓": {
+    "message": "Android 安卓",
+    "description": "The label for category Android 安卓 in sidebar specialSidebar"
+  },
+  "sidebar.deviceSidebar.category.Demo 展示": {
+    "message": "Demo 展示",
+    "description": "The label for category Demo 展示 in sidebar deviceSidebar"
+  },
+  "sidebar.deviceSidebar.category.Computers 电脑": {
+    "message": "Computers 电脑",
+    "description": "The label for category Computers 电脑 in sidebar deviceSidebar"
+  },
+  "sidebar.deviceSidebar.category.Phones 手机": {
+    "message": "Phones 手机",
+    "description": "The label for category Phones 手机 in sidebar deviceSidebar"
+  },
+  "sidebar.deviceSidebar.category.Tablets 平板": {
+    "message": "Tablets 平板",
+    "description": "The label for category Tablets 平板 in sidebar deviceSidebar"
+  },
+  "sidebar.deviceSidebar.category.Other 其它": {
+    "message": "Other 其它",
+    "description": "The label for category Other 其它 in sidebar deviceSidebar"
+  },
+  "sidebar.deviceSidebar.category.Watch": {
+    "message": "Watch",
+    "description": "The label for category Watch in sidebar deviceSidebar"
+  },
+  "sidebar.deviceSidebar.category.Phone": {
+    "message": "Phone",
+    "description": "The label for category Phone in sidebar deviceSidebar"
+  },
+  "sidebar.deviceSidebar.category.Android": {
+    "message": "Android",
+    "description": "The label for category Android in sidebar deviceSidebar"
+  },
+  "sidebar.deviceSidebar.category.iPhone": {
+    "message": "iPhone",
+    "description": "The label for category iPhone in sidebar deviceSidebar"
+  },
+  "sidebar.deviceSidebar.category.Tablet": {
+    "message": "Tablet",
+    "description": "The label for category Tablet in sidebar deviceSidebar"
+  },
+  "sidebar.deviceSidebar.category.Computer": {
+    "message": "Computer",
+    "description": "The label for category Computer in sidebar deviceSidebar"
+  },
+  "sidebar.deviceSidebar.category.Television": {
+    "message": "Television",
+    "description": "The label for category Television in sidebar deviceSidebar"
+  },
+  "sidebar.deviceSidebar.category.Home": {
+    "message": "Home",
+    "description": "The label for category Home in sidebar deviceSidebar"
+  },
+  "sidebar.researchSidebar.category.AI Patches": {
+    "message": "AI Patches",
+    "description": "The label for category AI Patches in sidebar researchSidebar"
+  },
+  "sidebar.motionSidebar.category.iOS Animation": {
+    "message": "iOS Animation",
+    "description": "The label for category iOS Animation in sidebar motionSidebar"
+  },
+  "sidebar.motionSidebar.category.iOS Animation.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category iOS Animation in sidebar motionSidebar"
+  },
+  "sidebar.motionSidebar.category.React Native": {
+    "message": "React Native",
+    "description": "The label for category React Native in sidebar motionSidebar"
+  },
+  "sidebar.motionSidebar.category.React Native.link.generated-index.description": {
+    "message": "--",
+    "description": "The generated-index page description for category React Native in sidebar motionSidebar"
   }
 }

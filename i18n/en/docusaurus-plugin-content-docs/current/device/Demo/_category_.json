@@ -1,0 +1,9 @@
+{
+  "label": "Demo 展示",
+  "position": 10,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index"
+  }
+}

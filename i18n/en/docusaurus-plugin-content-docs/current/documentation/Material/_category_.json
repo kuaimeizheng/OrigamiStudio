@@ -1,0 +1,9 @@
+{
+  "label": "Material 谷歌移动端",
+  "position": 95,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index"
+  }
+}

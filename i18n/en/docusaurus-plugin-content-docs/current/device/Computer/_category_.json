@@ -1,0 +1,9 @@
+{
+  "label": "Computer",
+  "position": 90,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index"
+  }
+}

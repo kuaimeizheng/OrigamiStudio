@@ -1,0 +1,9 @@
+{
+  "label": "中级",
+  "position": 30,
+  "collapsible": true,
+  "collapsed": true,
+  "link": {
+    "type": "generated-index"
+  }
+}
