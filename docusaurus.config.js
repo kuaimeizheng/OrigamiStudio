@@ -194,6 +194,11 @@ const config = {
               type: 'localeDropdown',
               position: 'right',
             },
+            {
+              href: 'https://origami.design/documentation/',
+              label: '官方文档',
+              position: 'right',
+            },
           {
             href: 'https://github.com/kuaimeizheng/OrigamiStudio',
             label: 'GitHub',

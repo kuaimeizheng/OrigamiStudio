@@ -50,5 +50,9 @@
   "item.label.键盘快捷键": {
     "message": "Keyboard Shortcut",
     "description": "Navbar item with label 键盘快捷键"
+  },
+  "item.label.官方文档": {
+    "message": "Website Original",
+    "description": "Navbar item with label 官方文档"
   }
 }
