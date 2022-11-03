@@ -1,5 +1,8 @@
 ---
+title: Clip 裁剪
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Clip 裁剪

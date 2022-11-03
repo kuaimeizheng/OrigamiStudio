@@ -1,5 +1,8 @@
 ---
+title: Layer Info 图层信息
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Layer Info 图层信息

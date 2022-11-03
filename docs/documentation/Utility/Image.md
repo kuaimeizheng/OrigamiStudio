@@ -1,5 +1,8 @@
 ---
+title: Image 图片
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Image 图片
@@ -26,13 +29,13 @@ The image.
 
 输出一张图片。
 
-------
+---
 
 ### Related Patches 相关模块
 
 [Image Info 图片信息](./Image%20Info.md)
 
-------
+---
 
 ### Related Layers 相关图层
 

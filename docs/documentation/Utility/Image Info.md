@@ -1,5 +1,8 @@
 ---
+title: Image Info 图片信息
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Image Info 图片信息
