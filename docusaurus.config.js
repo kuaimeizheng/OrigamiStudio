@@ -31,11 +31,11 @@ const config = {
   i18n: {
     defaultLocale: 'zh-Hans',
     locales: ['zh-Hans', 'en'],
-    localeConfigs: {
-      en: {
-        htmlLang: 'en-GB',
-      },
-    },
+    // localeConfigs: {
+    //   en: {
+    //     htmlLang: 'en-GB',
+    //   },
+    // },
   },
 
 
