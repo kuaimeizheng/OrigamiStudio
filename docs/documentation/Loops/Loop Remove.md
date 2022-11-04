@@ -62,7 +62,49 @@ A loop of indices
 
 ### 支持类型
 
-![Image](./../../../static/img/docs/Loops/loop-remove-item.png)
+Anchor
+
+Bezier
+
+Boolean
+
+Color
+
+Edges
+
+Image
+
+Index
+
+JSON
+
+Layer
+
+Number
+
+Photo Library Asset
+
+Point 3D
+
+Position
+
+Progress
+
+Pulse
+
+Size
+
+Size Axis
+
+Sound
+
+Space Axis
+
+Spacing
+
+Text
+
+Video
 
 ---
 

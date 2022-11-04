@@ -50,9 +50,49 @@ A loop of the indices for the output values. ex: [0, 1, 2]
 
 ### 支持的类型
 
-![Image](./../../../static/img/docs/Loops/loop-dedepe-item.png)
+Anchor
 
+Bezier
 
+Boolean
+
+Color
+
+Edges
+
+Image
+
+Index
+
+JSON
+
+Layer
+
+Number
+
+Photo Library Asset
+
+Point 3D
+
+Position
+
+Progress
+
+Pulse
+
+Size
+
+Size Axis
+
+Sound
+
+Space Axis
+
+Spacing
+
+Text
+
+Video
 
 ------
 
