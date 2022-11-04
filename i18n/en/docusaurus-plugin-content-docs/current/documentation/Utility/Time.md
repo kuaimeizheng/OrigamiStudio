@@ -15,7 +15,7 @@ Use Date & Time Formatter to make human-readable formats.
 
 使用 Date & Time Formatter模块 制作我们常见刻度的格式。
 
-![Image](./../../../static/img/docs/Utility/time.png)
+![Image](@site/static/img/docs/Utility/time.png)
 
 ### Time 时间
 

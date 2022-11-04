@@ -15,7 +15,17 @@ Right-click to change the type (ex: number, position, color).
 
 右键更改类型（例如：数字、位置、颜色）
 
-![Image](./../../../static/img/docs/Utility/delay-1.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Delay 1</h3>
+        <ul className="inputs">
+            <li><span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li><span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Input 输入
 

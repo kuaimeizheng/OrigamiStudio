@@ -15,7 +15,7 @@ Useful to sync an animation that is reversed (ex: a photo that fades in as anoth
 
 用于同步反转的动画（例如：一张照片淡入，另一张淡出）。
 
-![Image](./../../../static/img/docs/Utility/reverse-progress.png)
+![Image](@site/static/img/docs/Utility/reverse-progress.png)
 
 ### Progress 进度
 

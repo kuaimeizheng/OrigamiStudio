@@ -45,7 +45,20 @@ curveTo : 附加一个三次方贝塞尔曲线从当前点到“curveTo(x,y)”�
 
 ![](https://origami.design/public/images/documentation/curveToShapeExample@2x.png)
 
-![Image](./../../../static/img/docs/Utility/json-to-shape.png)
+
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>JSON to Shape</h3>
+        <ul className="inputs">
+            <li>JSON<span>...</span></li>
+            <li>Coordinate Space <small>X<span>1</span>Y<span>1</span></small></li>
+        </ul>
+        <ul className="outputs">
+            <li>Shape<span></span></li>
+            <li>Error<span>...mi</span></li>
+        </ul>
+    </div>
+</div>
 
 ### JSON
 

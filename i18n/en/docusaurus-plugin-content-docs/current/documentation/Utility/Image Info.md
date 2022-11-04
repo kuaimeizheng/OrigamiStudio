@@ -11,7 +11,7 @@ Access information about an image.
 
 访问图片的信息。
 
-![Image](./../../../static/img/docs/Utility/image-info.png)
+![Image](@site/static/img/docs/Utility/image-info.png)
 
 ### Image  图片
 

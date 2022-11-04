@@ -15,7 +15,7 @@ If you want to have layer B follow layer A, add layer A as the “From parent”
 
 如果您想让 B 图层跟随 A 图层，请将 A 图层添加为 “From Parent” 并使用位置 0,0。然后将图层 B 的父级放入 To Parent。将此模块的输出连接到 B 图层。
 
-![Image](./../../../static/img/docs/Utility/convert-position.png)
+![Image](@site/static/img/docs/Utility/convert-position.png)
 
 ### From Parent 从父级
 

@@ -13,7 +13,21 @@ Delay a value by the specified number of seconds. The patch will not output the 
 
 Right-click to change the type (ex: number, boolean, color).
 
-![Image](./../../../static/img/docs/Utility/delay.png)
+
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Delay</h3>
+        <ul className="inputs">
+            <li>Value<span>0</span></li>
+            <li>Duration<span>1s</span></li>
+            <li>Style<span>Always</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Value<span>0</span></li>
+        </ul>
+    </div>
+</div>
+
 
 ### Value 值
 

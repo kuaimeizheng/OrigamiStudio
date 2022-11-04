@@ -15,7 +15,7 @@ See [States & Pulses](https://www.notion.so/States-Pulses-758351d7e4104b75b06da9
 
 了解更多信息请参考 States & Pulses。
 
-![Image](./../../../static/img/docs/Utility/pulse.png)
+![Image](@site/static/img/docs/Utility/pulse.png)
 
 ### On/Off 开/关
 

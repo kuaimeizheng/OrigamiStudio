@@ -19,4 +19,12 @@ Double-click the name or hit return to edit the comment. Right-click the patch t
 
 双击模块或按回车键编辑注释。在模块上右键更改颜色，以及拖动右下角调整尺寸。
 
-![Image](./../../../static/img/docs/Utility/comment.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Comment</h3>
+        <ul className="inputs">
+        </ul>
+        <ul className="outputs">
+        </ul>
+    </div>
+</div>

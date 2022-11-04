@@ -21,7 +21,16 @@ An image represented as a patch. Double-click the thumbnail to select an image f
 - 将 Image 模块的输出端口连接到 Image Layer 的 Image 属性。
 - 将图片直接拖动到图层列表中以创建 Image Layer。
 
-![Image](./../../../static/img/docs/Utility/image.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Image</h3>
+        <ul className="inputs">
+        </ul>
+        <ul className="outputs">
+            <li>&nbsp;<span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Output 输出
 

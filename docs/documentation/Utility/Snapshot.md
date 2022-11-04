@@ -15,7 +15,7 @@ There are some limitations of layers that can be captured, including particle sy
 
 可以捕获的图层有一些限制，包括粒子系统和某些图层变换。
 
-![Image](./../../../static/img/docs/Utility/snapshot.png)
+![Image](@site/static/img/docs/Utility/snapshot.png)
 
 ### Layer 图层
 

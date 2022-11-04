@@ -11,7 +11,7 @@ Access information about a layer.
 
 访问图层的信息。
 
-![Image](./../../../static/img/docs/Utility/layer-info.png)
+![Image](@site/static/img/docs/Utility/layer-info.png)
 
 ### Layer 图层
 

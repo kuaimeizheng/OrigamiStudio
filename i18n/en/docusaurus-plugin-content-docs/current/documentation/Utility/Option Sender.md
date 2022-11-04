@@ -15,7 +15,7 @@ Right-click to change the type (ex: color, boolean), or to add additional option
 
 右键更改类型 (如：颜色、布尔值)，或添加其它选项。
 
-![Image](./../../../static/img/docs/Utility/option-sender.png)
+![Image](@site/static/img/docs/Utility/option-sender.png)
 
 ### Option 选项
 

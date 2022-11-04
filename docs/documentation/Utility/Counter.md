@@ -29,7 +29,21 @@ Often used to track a sequential state (ex: an onboarding flow) interchangeably 
 
 通常用于跟踪顺序状态(例如:加载流程)，可与 [Option Switch](./Option%20Switch.md) 互换。更多信息请参考 [状态基础](./../PatchEditor/States.md) 。
 
-![Image](./../../../static/img/docs/Utility/counter.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Counter</h3>
+        <ul className="inputs">
+            <li>Increase<span className="patch-pulse-preview"><span className="dot"></span></span></li>
+            <li>Decrease<span className="patch-pulse-preview"><span className="dot"></span></span></li>
+            <li>Jump<span className="patch-pulse-preview"><span className="dot"></span></span></li>
+            <li>Jump to Number<span>0</span></li>
+            <li>Maximum Count<span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li><span>0</span> </li>
+        </ul>
+    </div>
+</div>
 
 ### Increase 递增
 

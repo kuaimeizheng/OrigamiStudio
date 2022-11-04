@@ -23,7 +23,7 @@ Right-click the patch to change the type of the value, or to change the scope of
 
 右键单击模块以更改值的类型，或更改变量可用的范围。
 
-![Image](./../../../static/img/docs/Utility/variable-broadcaster.png)
+![Image](@site/static/img/docs/Utility/variable-broadcaster.png)
 
 ### Input 输入
 

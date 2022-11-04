@@ -15,7 +15,7 @@ This patch also outputs a pulse when it is added from the Layer Library.
 
 当从图层库中添加此模块时，它也会输出一个脉冲。
 
-![Image](./../../../static/img/docs/Utility/when-prototype-starts.png)
+![Image](@site/static/img/docs/Utility/when-prototype-starts.png)
 
 ### Output 输出
 

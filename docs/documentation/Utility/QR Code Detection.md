@@ -15,7 +15,7 @@ All the outputs are loops of the same size; and the indices of each loop matches
 
 所有输出都是相同大小的循环；并且每个循环的索引与其他所有输出匹配。例如，左上 [2] 和右下 [2] 都对应索引 3 处的相同二维码。
 
-![Image](./../../../static/img/docs/Utility/qr-code-detection.png)
+![Image](@site/static/img/docs/Utility/qr-code-detection.png)
 
 ### Enable 启用
 

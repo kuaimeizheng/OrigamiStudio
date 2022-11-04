@@ -44,8 +44,6 @@ Origami Studio 文件也可以通过电子邮件、Dropbox、AirDrop 等方式�
 
 ## Using Custom Fonts 使用自定义字体
 
-Origami Studio doesn’t mirror custom fonts to your device.
-
 Origami Studio 不会将自定义字体镜像到您的设备。
 
 ### iOS

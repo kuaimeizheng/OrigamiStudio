@@ -17,7 +17,7 @@ All the outputs are loops of the same size; and the indices of each loop matches
 
 例如，左眼位置[3]和脸大小[3]都对应于索引4处的同一个脸。
 
-![Image](./../../../static/img/docs/Utility/face-detection.png)
+![Image](@site/static/img/docs/Utility/face-detection.png)
 
 ### Enable 启用
 
