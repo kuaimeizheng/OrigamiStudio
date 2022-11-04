@@ -11,7 +11,19 @@ Use Date & Time Formatter to make human-readable formats from time in seconds.
 
 使用 Date & Time Formatter 模块将以秒为单位生成我们可读的时间格式。
 
-![Image](@site/static/img/docs/Utility/date&time-formatter.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Date & Time Formatter</h3>
+        <ul className="inputs">
+            <li>Time<span>0</span></li>
+            <li>Format<span>12 Hours</span></li>
+            <li>Custom Format<span></span></li>
+        </ul>
+        <ul className="outputs">
+            <li><span>...12</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Time 时间
 

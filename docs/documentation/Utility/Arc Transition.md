@@ -11,7 +11,21 @@ Convert a value between 0 and 1 to a new range defined by the start and end valu
 
 将 0 到 1 之间的值转换为由开始值和结束值定义的新范围，同时指定它应该通过的中间值。 允许您在开始值和结束值之间“弧形”转换。
 
-![Image](@site/static/img/docs/Utility/arc-transition.png)
+
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Arc Transition</h3>
+        <ul className="inputs">
+            <li>Progress<span>0</span></li>
+            <li>Start<span>0</span></li>
+            <li>Middle<span>0</span></li>
+            <li>End<span>1</span></li>
+        </ul>
+        <ul className="outputs">
+            <li><span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Progress 进度
 
