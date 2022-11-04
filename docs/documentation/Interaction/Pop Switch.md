@@ -1,5 +1,8 @@
 ---
+title: Pop Switch 流行开关
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Pop Switch 流行开关

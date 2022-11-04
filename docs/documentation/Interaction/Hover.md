@@ -1,8 +1,13 @@
 ---
+title: Hover 悬停
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Hover 悬停
+
+---
 
 Capture hover events on individual layers. Note that layers must be enabled and have an opacity larger than 0 to receive hovers. Does not work on simulated or connected phones or tablets.
 

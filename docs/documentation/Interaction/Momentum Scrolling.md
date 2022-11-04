@@ -1,18 +1,35 @@
 ---
+title: Momentum Scrolling 动量滚动
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Momentum Scrolling 动量滚动
 
 For advanced use only — use the Scroll patch instead.
 
-仅供高级用户使用-可以使用Scroll模块代替。
+仅供高级用户使用-可以使用 Scroll 模块代替。
 
 Simulate the momentum physics that powers the Scroll patch. Use in a feedback loop that integrates the velocity of an interaction.
 
-模拟Scroll模块的动量物理的功能。在集成交互速度的反馈循环中使用。
+模拟 Scroll 模块的动量物理的功能。在集成交互速度的反馈循环中使用。
 
-![Image](./../../../static/img/docs/Interaction/momentum-scrolling.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Momentum Scrolling</h3>
+        <ul className="inputs">
+            <li>Sample Value<span></span></li>
+            <li>Value<span></span></li>
+            <li>Scrolling  Friction<span></span></li>
+            <li>Rubber Band Tension<span></span></li>
+            <li>Rubber Band Friction<span></span></li>
+        </ul>
+        <ul className="outputs">
+            <li><span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Sample Value 采样值
 
@@ -50,7 +67,7 @@ The value with momentum added. Feed back into the Value input and add velocity w
 
 增加动量的值。反馈到值输入中，并使用 + 模块添加速度。
 
-------
+---
 
 ### Related Patches 相关模块
 
