@@ -7,6 +7,6 @@ last_update:
 
 # 新手入门
 
-内容待完善。
+[相关链接](https://origami.design/tutorials/getting-started/getting-started)
 
 ---
