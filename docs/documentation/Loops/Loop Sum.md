@@ -1,14 +1,29 @@
 ---
+title: Loop Sum 循环总和
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Loop Sum 循环总和
+
+---
 
 Calculate the sum of every value in a loop.
 
 计算循环中每个值的总和。
 
-![Image](./../../../static/img/docs/Loops/loop-sum.png)
+<div className="patch-container">
+    <div className="patch loop">
+        <h3>Loop Sum</h3>
+        <ul className="inputs">
+            <li><span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Sum<span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Input 输入
 
@@ -22,7 +37,7 @@ A number that represents the sum of every value.
 
 一个数字，表示每个值的总和。
 
-------
+---
 
 ### Related Patches 相关模块
 

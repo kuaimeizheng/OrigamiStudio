@@ -1,8 +1,13 @@
 ---
+title: Loop Insert 循环插入
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Loop Insert 循环插入
+
+---
 
 Insert a value at a particular index of a loop.
 
@@ -12,7 +17,21 @@ Right-click to change the type of the loop and inserted value.
 
 右键单击以更改循环的类型和插入的值。
 
-![Image](./../../../static/img/docs/Loops/loop-insert.png)
+<div className="patch-container">
+    <div className="patch loop">
+        <h3>Loop Insert</h3>
+        <ul className="inputs">
+            <li>Loop<span>0</span></li>
+            <li>Value<span>0</span></li>
+            <li>Index<span>0</span></li>
+            <li>Insert<span className="patch-pulse-preview"><span className="dot"></span></span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Loop<span>0</span></li>
+            <li>Index<span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Loop 循环
 
@@ -54,7 +73,7 @@ A loop of indices.
 
 ![Image](./../../../static/img/docs/Loops/loop-insert-item.png)
 
-------
+---
 
 ### Related Patches 相关模块
 

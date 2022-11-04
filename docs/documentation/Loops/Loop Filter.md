@@ -1,8 +1,13 @@
 ---
+title: Loop Filter 循环筛选
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Loop Filter 循环筛选
+
+---
 
 This is a very powerful patch that can do a lot of things! It can filter items out of a loop, but it can also repeat items in a loop. It can even be used to create a new loop with a single value repeated X times.
 
@@ -10,7 +15,7 @@ This is a very powerful patch that can do a lot of things! It can filter items o
 
 The idea is that you pass in two loops. The values loop is what you want to modify — you either want to remove items or repeat items in this loop. The second loop you pass in tells us how many times each value should appear (or if it should be removed by repeating 0 times).
 
-你需要使用两个循环。 values值 循环是您要修改的内容——在此循环中删除项目或者重复项目。传入的第二个循环设置每个值应该出现多少次（或者是否通过重复 0 次来删除它）。
+你需要使用两个循环。 values 值 循环是您要修改的内容——在此循环中删除项目或者重复项目。传入的第二个循环设置每个值应该出现多少次（或者是否通过重复 0 次来删除它）。
 
 Example A: Filter to a subset of a loop.
 
@@ -38,7 +43,19 @@ Use Loop Builder to make a boolean or number loop.
 
 使用 Loop Builder 创建一个布尔值或数字循环。
 
-![Image](./../../../static/img/docs/Loops/loop-filter.png)
+<div className="patch-container">
+    <div className="patch loop">
+        <h3>Loop Filter</h3>
+        <ul className="inputs">
+            <li>Input<span>0</span></li>
+            <li>Include<span>1</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Loop<span>0</span></li>
+            <li>Index<span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Input 输入
 
@@ -46,7 +63,7 @@ A loop of values.
 
 包含值的循环。
 
-### Include 包含### 
+### Include 包含###
 
 A loop of booleans (to include or not include), or a loop of numbers (to decide how many times a value is repeated).
 
@@ -68,7 +85,7 @@ A loop of indices for the result loop
 
 ![Image](./../../../static/img/docs/Loops/loop-filter-item.png)
 
-------
+---
 
 ### Related Patches 相关模块
 

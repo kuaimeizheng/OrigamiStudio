@@ -1,8 +1,13 @@
 ---
+title: Loop Option Switch 循环选项开关
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Loop Option Switch 循环选项开关
+
+---
 
 Find the index of the last pulsed item in a loop of pulses.
 
@@ -14,7 +19,17 @@ Often used with an [Interaction](./../Interaction/Interaction.md) patch on a loo
 
 通常在循环的图层上添加一个交互模块，以检查哪个图层被点击了。
 
-![Image](./../../../static/img/docs/Loops/loop-option-switch.png)
+<div className="patch-container">
+    <div className="patch loop">
+        <h3>Loop Option Switch</h3>
+        <ul className="inputs">
+            <li><span className="patch-pulse-preview"><span className="dot"></span></span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Option<span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Input 输入
 
@@ -28,7 +43,7 @@ An index that represents the last pulsed item in a loop.
 
 一个索引，表示循环中最后一个脉冲项的位置。
 
-------
+---
 
 ### Related Patches 相关模块
 

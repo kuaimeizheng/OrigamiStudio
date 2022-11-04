@@ -1,8 +1,13 @@
 ---
+title: Loop Select 循环选择
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Loop Select 循环选择
+
+---
 
 Select one or more values from a loop.
 
@@ -24,7 +29,19 @@ Right-click the patch to change the expected type of the Input loop.
 
 右键单击模块以更改 输入循环 的类型。
 
-![Image](./../../../static/img/docs/Loops/loop-select.png)
+<div className="patch-container">
+    <div className="patch loop">
+        <h3>Loop Select</h3>
+        <ul className="inputs">
+            <li>Input<span>0</span></li>
+            <li>Index Loop<span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Loop<span>0</span></li>
+            <li>Index<span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Input 输入
 
@@ -56,7 +73,7 @@ The new index or set of indices to related to the output loop.
 
 ![Image](./../../../static/img/docs/Loops/loop-select-item.png)
 
-------
+---
 
 ### Related Patches 相关模块
 

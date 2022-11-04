@@ -195,7 +195,11 @@ div.patch ul li span {
     width: 10px;
     height: 10px;
     border-radius: 8px;
+    // background-color: rgba(0, 0, 0, 0.30);
     background-color: #4C4C4C;
+}
+.loop .patch-pulse-preview .dot{
+    background-color: #58a000;
 }
 .patch-color-preview {
     display: inline-block;

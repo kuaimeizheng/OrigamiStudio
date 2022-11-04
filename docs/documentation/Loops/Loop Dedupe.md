@@ -1,8 +1,13 @@
 ---
+title: Loop Dedupe 循环重复数据删除
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Loop Dedupe 循环重复数据删除
+
+---
 
 Remove duplicate values in a loop.
 
@@ -12,7 +17,18 @@ Right-click to change the type of the loop.
 
 右键单击以更改循环的类型。
 
-![Image](./../../../static/img/docs/Loops/loop-dedepe.png)
+<div className="patch-container">
+    <div className="patch loop">
+        <h3>Loop Dedupe</h3>
+        <ul className="inputs">
+            <li>Loop<span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Loop<span>0</span></li>
+            <li>Index<span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Loop 循环
 

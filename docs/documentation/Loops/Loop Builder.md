@@ -1,8 +1,13 @@
 ---
+title: Loop Builder 循环生成器
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Loop Builder 循环生成器
+
+---
 
 Create a loop of any value (ex: text, color, image).
 
@@ -14,7 +19,23 @@ To learn more about loops, see the [Introduction to Loops](./../Concepts/Loop.md
 
 右键更改类型或输入端口数量。了解更多信息，请参考 [循环简介](./../Concepts/Loop.md)
 
-![Image](./../../../static/img/docs/Loops/loop-builder.png)
+<div className="patch-container">
+    <div className="patch loop">
+        <h3>Loop Builder</h3>
+        <ul className="inputs">
+            <li><span>0</span></li>
+            <li><span>0</span></li>
+            <li><span>0</span></li>
+            <li><span>0</span></li>
+            <li><span>0</span></li>
+            <li><span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Index<span>0</span></li>
+            <li>Numbers<span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Input 输入
 
@@ -50,7 +71,7 @@ A loop of the input values. ex: [“apple”, “carrot”, “orange”]
 
 ![Image](./../../../static/img/docs/Loops/loop-builder-item.png)
 
-------
+---
 
 ### Related Patches 相关模块
 
@@ -69,4 +90,3 @@ A loop of the input values. ex: [“apple”, “carrot”, “orange”]
 [Running Total 累积总计](./Running%20Total.md)
 
 [Loop Count 循环数量](./Loop%20Count.md)
-
