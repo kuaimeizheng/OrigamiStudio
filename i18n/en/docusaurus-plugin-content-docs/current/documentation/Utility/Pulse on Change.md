@@ -15,7 +15,7 @@ Right-click to change the type (ex: number, text, color).
 
 右键单击以更改类型（例如：数字、文本、颜色）。
 
-![Image](./../../../static/img/docs/Utility/pulse-on-change.png)
+![Image](@site/static/img/docs/Utility/pulse-on-change.png)
 
 ### Value 值
 

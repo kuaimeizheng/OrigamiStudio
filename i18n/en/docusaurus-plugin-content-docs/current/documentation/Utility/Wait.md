@@ -13,7 +13,7 @@ Start a timer that waits the input duration before outputting a pulse.
 
 （设置延迟动画的计时器，在要延迟的脉冲上加上一个 Wait 模块，就能让这个脉冲延迟设定的时间到达下一个模块）
 
-![Image](./../../../static/img/docs/Utility/wait.png)
+![Image](@site/static/img/docs/Utility/wait.png)
 
 ### Start 开始
 

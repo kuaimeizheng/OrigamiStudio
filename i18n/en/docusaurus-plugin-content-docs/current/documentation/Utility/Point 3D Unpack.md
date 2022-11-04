@@ -11,7 +11,7 @@ Turn a point with 2 dimensions (position, rotation) into its individual X, Y, an
 
 将3维（位置，旋转）的点转换为单独的X、Y、Z值。
 
-![Image](./../../../static/img/docs/Utility/point-3d-unpack.png)
+![Image](@site/static/img/docs/Utility/point-3d-unpack.png)
 
 ### Input
 

@@ -58,7 +58,7 @@ Size 大小
 
 Size Axis
 
-![Image](./../../../static/img/docs/Utility/transition.png)
+![Image](@site/static/img/docs/Utility/transition.png)
 
 ### Progress 进度
 
@@ -86,7 +86,7 @@ The converted value.
 
 ### 支持类型
 
-![Image](./../../../static/img/docs/Utility/transition-item.png)
+![Image](@site/static/img/docs/Utility/transition-item.png)
 
 ------
 

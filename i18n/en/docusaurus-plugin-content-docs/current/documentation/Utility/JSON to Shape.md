@@ -45,7 +45,7 @@ curveTo : 附加一个三次方贝塞尔曲线从当前点到“curveTo(x,y)”�
 
 ![](https://origami.design/public/images/documentation/curveToShapeExample@2x.png)
 
-![Image](./../../../static/img/docs/Utility/json-to-shape.png)
+![Image](@site/static/img/docs/Utility/json-to-shape.png)
 
 ### JSON
 

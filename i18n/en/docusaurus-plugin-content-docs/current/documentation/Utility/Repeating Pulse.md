@@ -15,7 +15,7 @@ See [States & Pulses](./../Concepts/States%20&%20Pulses.md) for more information
 
 有关更多信息，请参阅状态和脉冲。
 
-![Image](./../../../static/img/docs/Utility/repeating-pulse.png)
+![Image](@site/static/img/docs/Utility/repeating-pulse.png)
 
 ### Frequency 频率
 
