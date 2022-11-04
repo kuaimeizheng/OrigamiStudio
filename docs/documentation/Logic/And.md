@@ -7,6 +7,8 @@ last_update:
 
 # And 和
 
+---
+
 Check if two or more booleans are true together.
 
 将两个或多个布尔值合并在一起。
@@ -15,7 +17,18 @@ Right-click to check more booleans.
 
 右键添加更多输入端口。
 
-![Image](./../../../static/img/docs/Logic/and.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>And</h3>
+        <ul className="inputs">
+            <li>&nbsp;<span></span></li>
+            <li>&nbsp;<span></span></li> 
+        </ul>
+        <ul className="outputs">
+            <li>&nbsp;<span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Input 输入
 
@@ -35,7 +48,7 @@ A boolean that is true if all inputs are true.
 
 一个布尔值，表示如果两个布尔值都为真的话，输出为真。
 
-------
+---
 
 ### Related Patches 相关模块
 

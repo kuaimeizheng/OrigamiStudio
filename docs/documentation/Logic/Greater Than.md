@@ -1,8 +1,13 @@
 ---
+title: Greater Than 大于
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Greater Than 大于
+
+---
 
 Check if a value is greater than another.
 
@@ -12,13 +17,24 @@ Each value is compared to the next one in order, and results are combined in one
 
 每个值按顺序与下一个值进行比较，结果合并在一个输出口中。
 
-例如，3 > 2 > 1为真，而4 > 3 > 10为假。
+例如，3 > 2 > 1 为真，而 4 > 3 > 10 为假。
 
 Right-click to add more values to compare, or change the type (ex: number, index, boolean).
 
 右键可以添加更多接口，或更改类型（如：数字、索引、布尔值）
 
-![Image](./../../../static/img/docs/Logic/greater-than.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Greater Than</h3>
+        <ul className="inputs">
+            <li>&nbsp;<span></span></li>
+            <li>&nbsp;<span></span></li> 
+        </ul>
+        <ul className="outputs">
+            <li>&nbsp;<span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Input 输入
 
@@ -38,7 +54,7 @@ A boolean that is true if the base value is greater than the subsequent values.
 
 一个布尔值，表示如果基数值大于后续值，则为 真。
 
-------
+---
 
 ### Related Patches 相关模块
 
