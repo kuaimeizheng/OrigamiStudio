@@ -15,7 +15,7 @@ Right-click to change the type (ex: number, position, color).
 
 右键更改类型（例如：数字、位置、颜色）
 
-![Image](./../../../static/img/docs/Utility/delay-1.png)
+![Image](@site/static/img/docs/Utility/delay-1.png)
 
 ### Input 输入
 

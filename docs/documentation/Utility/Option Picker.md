@@ -19,7 +19,7 @@ Right-click to change the type (ex: number, text, color), or to add additional o
 
 右键单击以更改类型（例如：数字、文本、颜色）或添加其他选项。
 
-![Image](./../../../static/img/docs/Utility/option-picker.png)
+![Image](@site/static/img/docs/Utility/option-picker.png)
 
 ### Option
 
@@ -49,7 +49,7 @@ The picked value.
 
 ### 支持类型
 
-![Image](./../../../static/img/docs/Utility/option-picker-item.png)
+![Image](@site/static/img/docs/Utility/option-picker-item.png)
 
 ------
 

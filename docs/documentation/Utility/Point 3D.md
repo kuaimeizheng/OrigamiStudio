@@ -11,7 +11,7 @@ Create a point with 3 dimensions (X, Y). Useful when providing position and rota
 
 创建具有3个维度（X，Y，Z）的点。用于当向图层提供位置、大小、锚点和轴心。
 
-![Image](./../../../static/img/docs/Utility/point-3d.png)
+![Image](@site/static/img/docs/Utility/point-3d.png)
 
 ### X
 
@@ -31,7 +31,7 @@ A number that represents the Z value, which can represent a depth position or ro
 
 一个数值，表示深度位置或滚动旋转的Z值
 
-![Image](./../../../static/img/docs/Utility/point-3d-example.png)
+![Image](@site/static/img/docs/Utility/point-3d-example.png)
 
 ### Output 输出
 

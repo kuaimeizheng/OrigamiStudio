@@ -11,7 +11,7 @@ Access information about a video. Useful when building video player controls and
 
 访问有关视频的信息。一般适用于在构建视频播放器控件和信息时。
 
-![Image](./../../../static/img/docs/Utility/video-info.png)
+![Image](@site/static/img/docs/Utility/video-info.png)
 
 ### Layer 图层
 

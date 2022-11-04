@@ -19,7 +19,7 @@ Can be used interchangeably with Variable Broadcasters and Variable Receivers.
 
 可以与变量发送器和变量接收器互换使用。
 
-![Image](./../../../static/img/docs/Utility/splitter.png)
+![Image](@site/static/img/docs/Utility/splitter.png)
 
 ### Input 输入
 
@@ -35,7 +35,7 @@ The same value from the input.
 
 ### Type 类型
 
-![Image](./../../../static/img/docs/Utility/splitter-item.png)
+![Image](@site/static/img/docs/Utility/splitter-item.png)
 
 ------
 

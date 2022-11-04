@@ -15,7 +15,7 @@ Alternatively, drag an image directly into the layer list to create a Video Laye
 
 或者，将图像直接拖到图层列表中以创建视频图层。
 
-![Image](./../../../static/img/docs/Utility/video.png)
+![Image](@site/static/img/docs/Utility/video.png)
 
 ### Output 输出
 

@@ -11,7 +11,7 @@ Create a point with 2 dimensions (X, Y). Useful when providing position, size, a
 
 创建具有2个维度（X，Y）的点。用于当向图层提供位置、大小、锚点和轴心。
 
-![Image](./../../../static/img/docs/Utility/point.png)
+![Image](@site/static/img/docs/Utility/point.png)
 
 ### X
 

@@ -21,7 +21,7 @@ An image represented as a patch. Double-click the thumbnail to select an image f
 - 将 Image 模块的输出端口连接到 Image Layer 的 Image 属性。
 - 将图片直接拖动到图层列表中以创建 Image Layer。
 
-![Image](./../../../static/img/docs/Utility/image.png)
+![Image](@site/static/img/docs/Utility/image.png)
 
 ### Output 输出
 

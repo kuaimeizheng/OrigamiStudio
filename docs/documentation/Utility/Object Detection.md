@@ -11,7 +11,7 @@ Detect regions in a still image, video, or from a camera stream.
 
 检测静止图像、视频或摄像机流中的区域。
 
-![Image](./../../../static/img/docs/Utility/object-detection.png)
+![Image](@site/static/img/docs/Utility/object-detection.png)
 
 ### Enable 启用
 

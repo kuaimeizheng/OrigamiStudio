@@ -23,7 +23,7 @@ See [State Basics](./../PatchEditor/States.md) for more information.
 
 更多信息请参考 State Basic。
 
-![Image](./../../../static/img/docs/Utility/switch.png)
+![Image](@site/static/img/docs/Utility/switch.png)
 
 ### Flip 反转
 

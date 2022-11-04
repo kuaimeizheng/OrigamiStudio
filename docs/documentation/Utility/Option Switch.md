@@ -19,7 +19,7 @@ See [State Basics](./../PatchEditor/States.md) for more information.
 
 查看  State Basics了解更多信息。
 
-![Image](./../../../static/img/docs/Utility/option-switch.png)
+![Image](@site/static/img/docs/Utility/option-switch.png)
 
 ### Set to 0 接口 1
 
