@@ -1,6 +1,6 @@
 ---
 title: Loop Filter 循环筛选
-sidebar_position: 5
+sidebar_position: 35
 last_update:
   author: 蒯美政
 ---
@@ -21,19 +21,73 @@ Example A: Filter to a subset of a loop.
 
 示例 A：筛选到循环的子集。
 
-![Image](./../../../static/img/docs/Loops/loop-filter-1.png)
+import styles from './styles.module.scss';
+
+<div className={styles.main}>
+
+| Input  |
+| ------ |
+| apple  |
+| carrot |
+| orange |
+
+| Include |
+| ------- |
+| 0       |
+| 3       |
+| 1       |
+
+| Output |
+| ------ |
+| carrot |
+| carrot |
+| carrot |
+| orange |
 
 Example B: Make a new loop by repeating a single value X times.
 
 示例 B：通过将单个值重复 X 次来创建一个新循环。
 
-![Image](./../../../static/img/docs/Loops/loop-filter-2.png)
+| Input |
+| ----- |
+| apple |
+
+| Include |
+| ------- |
+| 5       |
+
+| Output |
+| ------ |
+| apple  |
+| apple  |
+| apple  |
+| apple  |
+| apple  |
 
 Example C: Repeat and filter values by using a loop of numbers.
 
 示例 C：使用数字循环重复和过滤值。
 
-![Image](./../../../static/img/docs/Loops/loop-filter-3.png)
+| Input  |
+| ------ |
+| apple  |
+| carrot |
+| orange |
+
+| Include |
+| ------- |
+| 0       |
+| 3       |
+| 1       |
+
+| Output |
+| ------ |
+| carrot |
+| carrot |
+| carrot |
+| orange |
+
+</div>
 
 Right-click the patch to change the expected type of the Input loop.
 

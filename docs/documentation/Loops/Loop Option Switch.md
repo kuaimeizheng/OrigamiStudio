@@ -1,6 +1,6 @@
 ---
 title: Loop Option Switch 循环选项开关
-sidebar_position: 5
+sidebar_position: 50
 last_update:
   author: 蒯美政
 ---
@@ -13,7 +13,23 @@ Find the index of the last pulsed item in a loop of pulses.
 
 查找脉冲循环中最后一个脉冲项的索引。
 
-![Image](./../../../static/img/docs/Loops/loop-option-switch-1.png)
+import styles from './styles.module.scss';
+
+<div className={styles.main}>
+
+| Loop |
+| ---- |
+|      |
+|      |
+| ✓    |
+|      |
+|      |
+
+| Output |
+| ------ |
+| 2      |
+
+</div>
 
 Often used with an [Interaction](./../Interaction/Interaction.md) patch on a looped layer to check which of the layers was tapped.
 

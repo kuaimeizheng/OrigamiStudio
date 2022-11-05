@@ -1,11 +1,13 @@
 ---
 title: Loop Remove 循环移除
-sidebar_position: 5
+sidebar_position: 60
 last_update:
   author: 蒯美政
 ---
 
 # Loop Remove 循环移除
+
+---
 
 Remove a value from a particular index of a loop.
 

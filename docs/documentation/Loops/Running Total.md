@@ -1,6 +1,6 @@
 ---
 title: Running Total 累积总计
-sidebar_position: 5
+sidebar_position: 100
 last_update:
   author: 蒯美政
 ---
@@ -13,7 +13,23 @@ Calculate the sums of a loop of numbers, where the sum at each index is the sum 
 
 计算数字循环的总和，其中每个索引处的总和是当前数字之前的数字的总和。
 
-![Image](./../../../static/img/docs/Loops/running-total-1.png)
+import styles from './styles.module.scss';
+
+<div className={styles.main}>
+
+| Input |
+| ----- |
+| 1     |
+| 3     |
+| 5     |
+
+| Output |
+| ------ |
+| 0      |
+| 1      |
+| 4      |
+
+</div>
 
 To calculate the total sum of all numbers, use the [Sum](./Loop%20Sum.md) patch.
 

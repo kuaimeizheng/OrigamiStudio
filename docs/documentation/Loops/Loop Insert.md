@@ -1,6 +1,6 @@
 ---
 title: Loop Insert 循环插入
-sidebar_position: 5
+sidebar_position: 40
 last_update:
   author: 蒯美政
 ---

@@ -13,7 +13,23 @@ Check if any of the booleans in a loop are true.
 
 ---
 
-![Image](./../../../static/img/docs/Loops/any-1.png)
+import styles from './styles.module.scss';
+
+<div className={styles.main}>
+
+| Loop |
+| ---- |
+|      |
+| ✓    |
+|      |
+|      |
+|      |
+
+| Output |
+| ------ |
+| ✓      |
+
+</div>
 
 Often used with an [Interaction](./../Interaction/Interaction.md) patch on a looped layer to check when any of the layers are tapped.
 

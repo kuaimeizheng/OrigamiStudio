@@ -1,6 +1,6 @@
 ---
 title: Loop Select 循环选择
-sidebar_position: 5
+sidebar_position: 75
 last_update:
   author: 蒯美政
 ---
@@ -8,6 +8,10 @@ last_update:
 # Loop Select 循环选择
 
 ---
+
+import styles from './styles.module.scss';
+
+<div className={styles.main}>
 
 Select one or more values from a loop.
 
@@ -17,13 +21,53 @@ Example A: Select one value.
 
 示例 A：选择一个值。
 
-![Image](./../../../static/img/docs/Loops/loop-select-1.png)
+| Input  |
+| ------ |
+| apple  |
+| carrot |
+| orange |
+
+| Index Loop |
+| ---------- |
+| 2          |
+
+| Output Loop |
+| ----------- |
+| orange      |
+
+| Output Index |
+| ------------ |
+| 2            |
 
 Example B: Select and reorder multiple values.
 
 示例 B：选择并重新排序多个值。
 
-![Image](./../../../static/img/docs/Loops/loop-select-2.png)
+| Input  |
+| ------ |
+| apple  |
+| carrot |
+| orange |
+
+| Index Loop |
+| ---------- |
+| 2          |
+| 1          |
+| 0          |
+
+| Output Loop |
+| ----------- |
+| orange      |
+| carrot      |
+| apple       |
+
+| Output Index |
+| ------------ |
+| 0            |
+| 1            |
+| 2            |
+
+</div>
 
 Right-click the patch to change the expected type of the Input loop.
 

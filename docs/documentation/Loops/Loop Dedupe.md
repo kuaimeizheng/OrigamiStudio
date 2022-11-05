@@ -1,6 +1,6 @@
 ---
 title: Loop Dedupe 循环重复数据删除
-sidebar_position: 5
+sidebar_position: 30
 last_update:
   author: 蒯美政
 ---

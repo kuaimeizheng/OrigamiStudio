@@ -1,6 +1,6 @@
 ---
 title: Loop Shuffle 循环随机排序
-sidebar_position: 5
+sidebar_position: 80
 last_update:
   author: 蒯美政
 ---

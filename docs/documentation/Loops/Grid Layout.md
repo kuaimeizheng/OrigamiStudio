@@ -1,5 +1,8 @@
 ---
-sidebar_position: 5
+title: Grid Layout 网格布局
+sidebar_position: 10
+last_update:
+  author: 蒯美政
 ---
 
 # Grid Layout 网格布局

@@ -1,6 +1,6 @@
 ---
 title: Loop Remove Last 循环末尾移除
-sidebar_position: 5
+sidebar_position: 65
 last_update:
   author: 蒯美政
 ---
@@ -57,7 +57,50 @@ A loop of indices
 
 ### 支持类型
 
-![Image](./../../../static/img/docs/Loops/loop-remove-last-item.png)
+Anchor
+
+Bezier
+
+Boolean
+
+Color
+
+Edges
+
+Image
+
+Index
+
+JSON
+
+Layer
+
+Number
+
+Photo Library Asset
+
+Point 3D
+
+Position
+
+Progress
+
+Pulse
+
+Size
+
+Size Axis
+
+Sound
+
+Space Axis
+
+Spacing
+
+Text
+
+Video
+
 
 ---
 
