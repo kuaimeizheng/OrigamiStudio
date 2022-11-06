@@ -1,6 +1,8 @@
 ---
 title: Desktop Scroll 电脑滚动
 sidebar_position: 10
+last_update:
+  author: 蒯美政
 tags: [interaction]
 ---
 
@@ -8,8 +10,7 @@ tags: [interaction]
 
 通过控制笔记本电脑的触控板进行页面的滚动操作。
 
-
-------
+---
 
 <div className="patch-container">
     <div className="patch processor">
@@ -38,14 +39,13 @@ tags: [interaction]
 
 #### Layer 图层
 
-#### Scroll X 
+#### Scroll X
 
-#### Scroll Y 
+#### Scroll Y
 
 #### Settings 设置参数
 
 #### Natural Scrolling 自然滚动
-
 
 </div>
 <div className="outputs">
@@ -59,4 +59,4 @@ tags: [interaction]
 </div>
 </div>
 
-------
+---

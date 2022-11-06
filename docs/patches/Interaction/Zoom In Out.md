@@ -1,10 +1,14 @@
 ---
 title: Zoom In Out 放大缩小
 sidebar_position: 20
+last_update:
+  author: 蒯美政
 tags: [interaction]
 ---
 
 # Zoom In Out
+
+---
 
 <div className="patch-container">
     <div className="patch processor">

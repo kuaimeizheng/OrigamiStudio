@@ -1,12 +1,16 @@
 ---
 title: Long Press Pro 长按
 sidebar_position: 20
+last_update:
+  author: 蒯美政
 tags: [interaction]
 ---
 
 # Long Press Pro
 
 相对官方的 Long Press 模块，增强了一些功能。
+
+---
 
 <div className="patch-container">
     <div className="patch processor">

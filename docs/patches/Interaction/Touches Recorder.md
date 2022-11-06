@@ -1,12 +1,14 @@
 ---
 title: Touches Recorder 触摸记录
 sidebar_position: 20
+last_update:
+  author: 蒯美政
 tags: [interaction]
 ---
 
 # Touches Recorder
 
-
+---
 
 <div className="patch-container">
     <div className="patch processor">
