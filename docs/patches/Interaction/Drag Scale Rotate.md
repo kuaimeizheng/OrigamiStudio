@@ -1,49 +1,66 @@
 ---
 title: Drag Scale Rotate
 sidebar_position: 20
+last_update:
+  author: 蒯美政
 tags: [interaction]
 ---
 
 # Drag Scale Rotate
 
+---
 
-<div class="patch-container">
- <div class="patch layer">
-  <h3>Drag Scale Rotate</h3>
-   <ul class="inputs"> 
-        <li>Enable</li>  
-        <li>Position</li>
-        <li>Size</li>
-        <li>Clip Content</li>
-        <li>Bounds</li>  
-        <li>Pan</li>
-        <li>Zoom</li>
-        <li>Rotate</li>
-        <li>Momentum</li>
-        <li>Friction</li>
-   </ul>
- </div>
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Drag Scale Rotate</h3>
+        <ul className="inputs">
+            <li>Momentum<span className="checkbox-off"></span></li>
+            <li>Momentum Friction<span>8</span></li>
+            <li>Clip<span className="checkbox-off"></span></li>
+            <li>Rotate<span className="checkbox-off"></span></li>
+            <li>Pan<span className="checkbox-off"></span></li>
+            <li>Zoom<span className="checkbox-off"></span></li>
+            <li>Recording<span>...</span></li>
+            <li>Zoom Offset<span>1</span></li>
+            <li>Rotate Offset<span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li><span>[...]</span></li>
+        </ul>
+    </div>
 </div>
 
-#### Enable 启用
+<div className="port-descriptions">
+<div className="inputs">
 
-#### Position 位置
+### Input 输入
 
-#### Size 大小
+#### Momentum
 
-#### Clip Content 裁剪内容
+#### Momentum Friction
 
-#### Bounds 边界
+#### Clip
+
+#### Rotate
 
 #### Pan
 
-#### Zoom 缩放
+#### Zoom
 
-#### Rotate 旋转
+#### Recording
 
-#### Momentum 动量
+#### Zoom Offset
 
-#### Friction 摩擦
+#### Rotate Offset
 
+</div>
+<div className="outputs">
 
-------
+### Output 输出
+
+#### Output
+
+</div>
+</div>
+
+---
