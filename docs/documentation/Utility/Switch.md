@@ -23,9 +23,21 @@ On 和 Off 接口用于不同类型的交互控制同一个开关。例如在一
 
 See [State Basics](./../PatchEditor/States.md) for more information.
 
-更多信息请参考 State Basic。
+更多信息请参考 [State Basics](./../PatchEditor/States.md)。
 
-![Image](@site/static/img/docs/Utility/switch.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Switch</h3>
+        <ul className="inputs">
+            <li>Flip<span className="patch-pulse-preview"><span className="dot"></span></span></li>
+            <li>Turn On<span className="patch-pulse-preview"><span className="dot"></span></span></li>
+            <li>Turn Off<span className="patch-pulse-preview"><span className="dot"></span></span></li>
+        </ul>
+        <ul className="outputs">
+            <li>On/Off<span className="checkbox-off"></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Flip 反转
 
