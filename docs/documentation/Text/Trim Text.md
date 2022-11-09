@@ -1,14 +1,31 @@
 ---
+title: Trim Text 修剪文本
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Trim Text 修剪文本
+
+---
 
 Trim a text string to a smaller portion of it. Equivalent of `substring` in programming.
 
 将文本字符串修剪为较小的部分。相当于编程中的子字符串。
 
-![Image](./../../../static/img/docs/Text/trim-text.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Trim Text</h3>
+        <ul className="inputs">
+            <li>Text<span></span></li>
+            <li>Position<span>0</span></li>
+            <li>Length<span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>&nbsp;<span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Text 文本
 
@@ -34,7 +51,7 @@ The trimmed text string.
 
 修剪后的文本字符串。
 
-------
+---
 
 ### Related Patches 相关模块
 
@@ -46,7 +63,7 @@ The trimmed text string.
 
 [Text Length 文本长短](./Text%20Length.md)
 
-------
+---
 
 ### Related Layers 相关图层
 

@@ -1,14 +1,30 @@
 ---
+title: Text Starts With 文本开始
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Text Starts With 文本开始
+
+---
 
 Determine if some text starts with the given prefix.
 
 判断某些文本字符串是否以特定的前缀开头。
 
-![Image](./../../../static/img/docs/Text/text-starts-with.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Text Start With</h3>
+        <ul className="inputs">
+            <li>Text<span></span></li>
+            <li>Prefix<span></span></li>
+        </ul>
+        <ul className="outputs">
+            <li><span className="checkbox-off"></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Text 文本
 

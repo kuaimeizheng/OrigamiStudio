@@ -1,14 +1,32 @@
 ---
+title: Text Replace 文本替换
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Text Replace 文本替换
+
+---
 
 Find and replace all occurrences of text within a text string.
 
 查找并替换文本字符串中出现的文本。
 
-![Image](./../../../static/img/docs/Text/text-replace.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Text Replace</h3>
+        <ul className="inputs">
+            <li>Text<span></span></li>
+            <li>Find<span></span></li>
+            <li>Replace<span></span></li>
+            <li>Case Sensitive<span className="checkbox-off"></span></li>
+        </ul>
+        <ul className="outputs">
+            <li>&nbsp;<span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Text 文本
 

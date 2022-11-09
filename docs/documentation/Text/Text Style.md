@@ -1,8 +1,13 @@
 ---
+title: Text Style 文本样式
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Text Style 文本样式
+
+---
 
 Set the style of a specific range of characters on a text layer.
 

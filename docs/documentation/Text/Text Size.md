@@ -1,8 +1,13 @@
 ---
+title: Text Size 文本大小
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Text Size 文本大小
+
+---
 
 Measure the size of some text. This is done on the same device as the comp is running, so you should make sure the selected font is available there.
 

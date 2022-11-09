@@ -1,8 +1,13 @@
 ---
+title: Text Input Info 文本输入信息
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Text Input Info 文本输入信息
+
+---
 
 Access information about text inputs. Used with Text Field on iOS and Android.
 

@@ -1,14 +1,30 @@
 ---
+title: Text Ends With 文本结尾
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Text Ends With 文本结尾
+
+---
 
 Determine if some text ends with the given suffix.
 
 判断某些文本字符串是否以特定的后缀开头。
 
-![Image](./../../../static/img/docs/Text/text-ends-with.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Text Ends With</h3>
+        <ul className="inputs">
+            <li>Text<span></span></li>
+            <li>Suffix<span className="checkbox-off"></span></li>
+        </ul>
+        <ul className="outputs">
+            <li><span className="checkbox-off"></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Text 文本
 
@@ -28,7 +44,7 @@ A boolean that is true if the text ends with the suffix.
 
 一个布尔值，表示如果文本以后缀结尾，则为真。
 
-------
+---
 
 ### Related Patches 相关模块
 
@@ -42,9 +58,8 @@ A boolean that is true if the text ends with the suffix.
 
 [Equals Exactly 完全等于](./../Logic/Equals%20Exactly.md)
 
-------
+---
 
 ### Related Layers 相关图层
 
 [Text Layer 文本图层](./../Layer/Text%20Layer.md)
-

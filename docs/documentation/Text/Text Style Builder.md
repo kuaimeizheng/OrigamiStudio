@@ -1,8 +1,13 @@
 ---
+title: Text Style Builder 文本样式生成器
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Text Style Builder 文本样式生成器
+
+---
 
 Used with [Text Style](./Text%20Style.md) patch to combine multiple text styles for a text layer.
 
@@ -12,7 +17,18 @@ Right-click to add additional text style inputs.
 
 右键单击以添加其他文本样式输入。
 
-![Image](./../../../static/img/docs/Text/text-style-builder.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Text Style Builder</h3>
+        <ul className="inputs">
+            <li>&nbsp;<span></span></li>
+            <li>&nbsp;<span></span></li>
+        </ul>
+        <ul className="outputs">
+            <li>&nbsp;<span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Input 输入
 
@@ -32,13 +48,13 @@ The combined formatted text range to pass to the Style Override input on a [Text
 
 合并的文本格式传递到输入文本图层上。
 
-------
+---
 
 ### Related Patches 相关模块
 
 [Text Style 文本样式](./Text%20Style.md)
 
-------
+---
 
 ### Related Layers 相关图层
 

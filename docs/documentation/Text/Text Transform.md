@@ -1,14 +1,30 @@
 ---
+title: Text Transform 文本变换
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Text Transform 文本变换
+
+---
 
 Transform the case and capitalization of a text string.
 
 转换文本字符串的大小写和大小写。
 
-![Image](./../../../static/img/docs/Text/text-transform.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Text Transform</h3>
+        <ul className="inputs">
+            <li>Text<span></span></li>
+            <li>Transform<span>Uppercase</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>&nbsp;<span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Text 文本
 
@@ -28,7 +44,7 @@ The transformed text string.
 
 转换后的文本字符串。
 
-------
+---
 
 ### Related Patches 相关模块
 
@@ -42,7 +58,7 @@ The transformed text string.
 
 [Date & Time Formatter 日期&时间格式](./../Utility/Date%20&%20Time%20Formatter.md)
 
-------
+---
 
 ### Related Layers 相关图层
 
