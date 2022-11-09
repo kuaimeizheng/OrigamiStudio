@@ -1,8 +1,13 @@
 ---
+title: √ 根号
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # √ 根号
+
+---
 
 Calculate the square root of a value.
 
@@ -26,7 +31,7 @@ The square root of the value.
 
 平方根的值。
 
-------
+---
 
 ### Related Patches 相关模块
 
