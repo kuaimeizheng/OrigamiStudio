@@ -17,7 +17,19 @@ Right-click to change the type (ex: number, text, color).
 
 右键更改接口数量和类型。
 
-![Image](@site/static/img/docs/Utility/sample-and-hold.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Sample and Hold</h3>
+        <ul className="inputs">
+            <li>Value<span>0</span></li>
+            <li>Sample<span className="checkbox-off"></span></li>
+            <li>Reset<span className="checkbox-off"></span></li>
+        </ul>
+        <ul className="outputs">
+            <li><span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Value 值
 
