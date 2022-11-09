@@ -13,7 +13,18 @@ Create spacing with 2 dimensions (X, Y). Useful when providing spacing to Layout
 
 创建具有 2 个维度（X、Y）的间距。在为图层布局需要间距时很有用。
 
-![Image](@site/static/img/docs/Utility/spacing.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Spacing</h3>
+        <ul className="inputs">
+            <li>X<span>0</span></li>
+            <li>Y<span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li><span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### X
 
