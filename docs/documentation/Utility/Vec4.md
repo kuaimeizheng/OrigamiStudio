@@ -13,7 +13,20 @@ Create a point with 4 dimensions (X, Y, Z, W).
 
 创建一个具有 4 个维度（X、Y、Z、W）的点。
 
-![Image](@site/static/img/docs/Utility/vec4.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Vec4</h3>
+        <ul className="inputs">
+            <li>X<span>0</span></li>
+            <li>Y<span>0</span></li>
+            <li>Z<span>0</span></li>
+            <li>W<span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>&nbsp;<span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### X
 
