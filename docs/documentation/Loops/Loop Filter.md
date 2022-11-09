@@ -15,11 +15,11 @@ This is a very powerful patch that can do a lot of things! It can filter items o
 
 The idea is that you pass in two loops. The values loop is what you want to modify — you either want to remove items or repeat items in this loop. The second loop you pass in tells us how many times each value should appear (or if it should be removed by repeating 0 times).
 
-你需要使用两个循环。 values 值 循环是您要修改的内容——在此循环中删除项目或者重复项目。传入的第二个循环设置每个值应该出现多少次（或者是否通过重复 0 次来删除它）。
+你需要使用两个循环。 values 值循环是您要修改的内容——在此循环中删除项目或者重复项目。传入的第二个循环设置每个值应该出现多少次（或者是否通过重复 0 次来删除它）。
 
 Example A: Filter to a subset of a loop.
 
-示例 A：筛选到循环的子集。
+示例 A：从一个循环中筛选出的子集。
 
 import styles from './styles.module.scss';
 
@@ -115,9 +115,9 @@ Use Loop Builder to make a boolean or number loop.
 
 A loop of values.
 
-包含值的循环。
+一个包含值的循环。
 
-### Include 包含###
+### Include 包含
 
 A loop of booleans (to include or not include), or a loop of numbers (to decide how many times a value is repeated).
 
@@ -133,7 +133,7 @@ The result loop, with values either filtered or repeated
 
 A loop of indices for the result loop
 
-结果循环的索引循环
+一个结果循环中的索引循环。
 
 ### 支持的类型
 

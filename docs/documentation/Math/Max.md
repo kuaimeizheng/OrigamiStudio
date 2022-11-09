@@ -1,8 +1,13 @@
 ---
+title: Max 最大值
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Max 最大值
+
+---
 
 Compare two or more values and output the largest one. Although the patch’s default type is number, it can be used to compare position, point, color and index values as well.
 
@@ -32,7 +37,7 @@ The largest of the input values.
 
 输出最大的值。
 
-------
+---
 
 ### Related Patches 相关模块
 

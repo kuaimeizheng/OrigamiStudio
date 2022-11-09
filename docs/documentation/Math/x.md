@@ -1,8 +1,13 @@
 ---
+title: x 乘
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # x 乘
+
+---
 
 Multiply two or more values.
 
@@ -32,7 +37,7 @@ The product of the values.
 
 计算结果值。
 
-------
+---
 
 ### Related Patches 相关模块
 

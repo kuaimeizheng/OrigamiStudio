@@ -1,14 +1,19 @@
 ---
+title: Arctangent 反正切函数
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Arctangent 反正切函数
+
+---
 
 Calculate the angle of a triangle given its Y and X dimensions.
 
 See [Wikipedia](https://en.wikipedia.org/wiki/Trigonometric_functions) for more information.
 
-计算三角形Y和X间的角度。
+计算三角形 Y 和 X 间的角度。
 
 有关详细信息，请参阅[百度百科](https://link.jianshu.com/?t=http://baike.baidu.com/link?url=LHHVermrOYp8XKHATVvRg21Vj4eRaCXqGk6RoMr0_0rDuUUbseZeTiQIiRIBGbTHugB_2noAlJhOXBqO5L9NF31T669u77XzjiBM7X1XGELJgca6XgAsz0sNsWxNluEePz5-lfBVeMDS3Zho-q2vwa)。
 
@@ -26,13 +31,13 @@ A positive or negative number that represents the horizontal dimension of the tr
 
 表示三角形水平坐标尺寸的正数或负数。
 
-### Output输出
+### Output 输出
 
 A number in degrees that represents the angle of the triangle.
 
 一个数值，表示三角形角度的度数。
 
-------
+---
 
 ### Related Patches 相关模块
 

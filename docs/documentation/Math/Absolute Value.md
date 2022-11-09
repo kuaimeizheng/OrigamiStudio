@@ -1,8 +1,13 @@
 ---
+title: Absolute Value 绝对值
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Absolute Value 绝对值
+
+---
 
 Turn any value into a positive value (ex: -40 → 40, 500 → 500, 0 → 0).
 
@@ -26,7 +31,7 @@ The input as a positive value.
 
 输出值。
 
-------
+---
 
 ### Related Patches 相关模块
 

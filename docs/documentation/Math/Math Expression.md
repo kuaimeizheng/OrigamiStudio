@@ -1,8 +1,13 @@
 ---
+title: Math Expression 数学表达式
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Math Expression 数学表达式
+
+---
 
 Compute any mathematical expression. Edit the expression by right-clicking the patch and choosing “Patch Info” from the menu. Include variables in the expression to define the inputs to the patch. Any math expression that is valid in JavaScript is supported. Use functions from the [JavaScript Math library](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math) to write more complicated expressions. See [Math Expressions](https://origami.design/documentation/concepts/MathExpressions.html) for examples and more information.
 
@@ -14,6 +19,6 @@ Create multiple outputs by entering multiple expressions separated by semicolons
 
 ![Image](./../../../static/img/docs/Math/math-expression.png)
 
-------
+---
 
 ### Related Patches 相关模块

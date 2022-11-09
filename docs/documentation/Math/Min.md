@@ -1,8 +1,13 @@
 ---
+title: Min 最小值
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Min 最小值
+
+---
 
 Compare two or more values and output the smallest one. Although the patch’s default type is number, it can be used to compare position, point, color and index values as well.
 
@@ -32,7 +37,7 @@ The smallest of the input values.
 
 输出最小的值。
 
-------
+---
 
 ### Related Patches 相关模块
 
