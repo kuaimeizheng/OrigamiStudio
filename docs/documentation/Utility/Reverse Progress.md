@@ -17,7 +17,17 @@ Useful to sync an animation that is reversed (ex: a photo that fades in as anoth
 
 用于同步反转的动画（例如：一张照片淡入，另一张淡出）。
 
-![Image](@site/static/img/docs/Utility/reverse-progress.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Reverse Progress</h3>
+        <ul className="inputs">
+            <li>Progress<span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Progress<span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Progress 进度
 
