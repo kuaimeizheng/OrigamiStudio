@@ -13,7 +13,18 @@ Access information about a video. Useful when building video player controls and
 
 访问有关视频的信息。一般适用于在构建视频播放器控件和信息时。
 
-![Image](@site/static/img/docs/Utility/video-info.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Video Info</h3>
+        <ul className="inputs">
+            <li>Layer<span>None</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Duration<span>0s</span></li>
+            <li>Current Time<span>0s</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Layer 图层
 
