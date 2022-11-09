@@ -7,11 +7,11 @@ last_update:
 
 # Any 任意
 
+---
+
 Check if any of the booleans in a loop are true.
 
 检查循环中的任何布尔值是否为真。
-
----
 
 import styles from './styles.module.scss';
 

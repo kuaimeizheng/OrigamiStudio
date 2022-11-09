@@ -15,7 +15,7 @@ Create a loop over the items in an array.
 
 Use [Array Builder](./../Data/JSON%20Array.md) to create arrays.
 
-使用 JSON Array 模块 创建数组。
+使用 [JSON Array](./../Data/JSON%20Array.md) 模块 创建数组。
 
 <div className="patch-container">
     <div className="patch loop">
