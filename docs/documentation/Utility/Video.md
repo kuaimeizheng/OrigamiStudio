@@ -17,7 +17,16 @@ Alternatively, drag an image directly into the layer list to create a Video Laye
 
 或者，将图像直接拖到图层列表中以创建视频图层。
 
-![Image](@site/static/img/docs/Utility/video.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Video</h3>
+        <ul className="inputs">
+        </ul>
+        <ul className="outputs">
+            <li>&nbsp;<span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Output 输出
 
