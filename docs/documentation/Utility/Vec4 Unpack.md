@@ -13,7 +13,20 @@ Turn a point with 4 dimensions into its individual X, Y, Z, and W values.
 
 将具有 4 个维度的点转换为其单独的 X、Y、Z 和 W 值。
 
-![Image](@site/static/img/docs/Utility/vec4-unpack.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Vec4 Unpack</h3>
+        <ul className="inputs">
+            <li>&nbsp;<span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>X<span>0</span></li>
+            <li>Y<span>0</span></li>
+            <li>Z<span>0</span></li>
+            <li>W<span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Input 输入
 
