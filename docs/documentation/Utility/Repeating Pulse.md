@@ -7,6 +7,8 @@ last_update:
 
 # Repeating Pulse 重复脉冲
 
+---
+
 Output a pulse at regular intervals.
 
 定期输出一个脉冲。
@@ -29,7 +31,7 @@ A pulse repeated at regular intervals.
 
 以固定间隔重复的脉冲。
 
-------
+---
 
 ### Related Patches 相关模块
 

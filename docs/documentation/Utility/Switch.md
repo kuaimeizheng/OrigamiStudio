@@ -7,6 +7,8 @@ last_update:
 
 # Switch 开关
 
+---
+
 Remember state (on or off). Switch patches are like light switches. They can be off or on and are useful when building simple two-state interactions (showing and hiding comments in a popover, for example).
 
 记住 On 或 Off 两个状态。Switch 模块跟灯的开关一样。开关可以被打开或关闭，用于需要在两个状态之间切换（如，隐藏或显示评论。）
@@ -49,6 +51,6 @@ A boolean that is true if the switch is on.
 
 开关打开时布尔值为真。一般连接到动画模块。
 
-------
+---
 
 ### Related Patches 相关模块

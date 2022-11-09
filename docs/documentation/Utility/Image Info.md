@@ -7,13 +7,15 @@ last_update:
 
 # Image Info 图片信息
 
+---
+
 Access information about an image.
 
 访问图片的信息。
 
 ![Image](@site/static/img/docs/Utility/image-info.png)
 
-### Image  图片
+### Image 图片
 
 The image to display information for. Paste or drag an image into the patch editor, or use an [Image](./Image.md) patch.
 
@@ -37,13 +39,13 @@ The name of the image as text.
 
 图片的名称。
 
-------
+---
 
 ### Related Patches 相关模块
 
 [Image 图片](./Image.md)
 
-------
+---
 
 ### Related Layers 相关图层
 

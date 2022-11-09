@@ -7,6 +7,8 @@ last_update:
 
 # Clip 裁剪
 
+---
+
 Clip a number so that it does not exceed the specified bounds.
 
 裁剪一个数值，使其不超过指定的范围。
@@ -28,7 +30,6 @@ For example, if an input value is 1.5, but the Max bound is set to 1, the output
         </ul>
     </div>
 </div>
-
 
 ### Value 值
 
@@ -58,7 +59,7 @@ The clipped value.
 
 裁剪过的值。
 
-------
+---
 
 ### Related Patches 相关模块
 

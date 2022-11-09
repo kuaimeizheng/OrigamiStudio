@@ -7,9 +7,11 @@ last_update:
 
 # JSON to Shape JSON 转换图形
 
+---
+
 Takes a JSON with the following structure and commands to create a shape object:
 
-使用带有以下结构和命令的JSON来创建一个shape对象:
+使用带有以下结构和命令的 JSON 来创建一个 shape 对象:
 
 ```
 {   "path" : [     // Array of Commands to build the shape   ] }
@@ -45,7 +47,6 @@ curveTo : 附加一个三次方贝塞尔曲线从当前点到“curveTo(x,y)”�
 
 ![](https://origami.design/public/images/documentation/curveToShapeExample@2x.png)
 
-
 <div className="patch-container">
     <div className="patch processor">
         <h3>JSON to Shape</h3>
@@ -64,13 +65,13 @@ curveTo : 附加一个三次方贝塞尔曲线从当前点到“curveTo(x,y)”�
 
 A JSON Object that follows the path structure.
 
-遵循路径结构的JSON对象。
+遵循路径结构的 JSON 对象。
 
 ### Coordinate Space 坐标空间
 
 A width and height value that will act as a scale multiplier for every x,y component on the shape.
 
-宽度和高度值，将作为形状上每个x、y组件的比例相乘。
+宽度和高度值，将作为形状上每个 x、y 组件的比例相乘。
 
 ### Shape 图形
 
@@ -84,7 +85,7 @@ A string with an explanation of an error, if there was an error with the path st
 
 如果路径结构存在错误，则为带有错误解释的字符串。
 
-------
+---
 
 ### Related Layers 相关图层
 

@@ -7,6 +7,8 @@ last_update:
 
 # Spacing 间距
 
+---
+
 Create spacing with 2 dimensions (X, Y). Useful when providing spacing to Layout of layers.
 
 创建具有 2 个维度（X、Y）的间距。在为图层布局需要间距时很有用。
@@ -31,7 +33,7 @@ Spacing with 2 dimensions.
 
 二维空间。
 
-------
+---
 
 ### Related Patches 相关模块
 
@@ -39,7 +41,7 @@ Spacing with 2 dimensions.
 
 [Point 3D 三维点](./Point%203D.md)
 
-[Point 3D Unpack 3D点解组](./Point%203D%20Unpack.md)
+[Point 3D Unpack 3D 点解组](./Point%203D%20Unpack.md)
 
 [Vec4 四维](./Vec4.md)
 

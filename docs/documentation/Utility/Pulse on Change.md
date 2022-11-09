@@ -7,6 +7,8 @@ last_update:
 
 # Pulse on Change 脉冲变化
 
+---
+
 Output a pulse when the input value changes.
 
 当输入值改变时输出一个脉冲。
@@ -29,7 +31,7 @@ A pulse on every frame the input value changes.
 
 输入值变化的每一帧都有一个脉冲。
 
-------
+---
 
 ### Related Patches 相关模块
 

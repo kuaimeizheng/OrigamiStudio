@@ -7,6 +7,8 @@ last_update:
 
 # Transition 过渡
 
+---
+
 Convert a value between 0 and 1 (often a progress value) to a value between a new range defined by the start and end values.
 
 将 0 和 1 之间的值（通常是进度值）转换为由开始值和结束值定义的新范围之间的值。
@@ -15,16 +17,16 @@ For example, if the start value is 50 and the end value is 100:
 
 例如，如果开始值为 50，结束值为 100：
 
-- a progress of 0 will output 50 0 进度时将输出50
-- a progress of .5 will output 75 0.5 进度时将输出75
-- a progress of 1 will output 100 1 进度时将输出100
+- a progress of 0 will output 50 0 进度时将输出 50
+- a progress of .5 will output 75 0.5 进度时将输出 75
+- a progress of 1 will output 100 1 进度时将输出 100
 
 The number wraps when progress exceeds the 0 to 1 range:
 
-当进度超过0到1范围时，数字会自动换行：
+当进度超过 0 到 1 范围时，数字会自动换行：
 
-- a progress of -.5 will output 25 -.5进度时将输出25
-- a progress of 2 will output 150 2进度时将输出150
+- a progress of -.5 will output 25 -.5 进度时将输出 25
+- a progress of 2 will output 150 2 进度时将输出 150
 
 Convert a number from any range to 0 to 1 with [Progress](./Progress.md).
 
@@ -48,7 +50,7 @@ Index 索引
 
 Number 数值
 
-Point 3D 3D点
+Point 3D 3D 点
 
 Position 位置
 
@@ -88,7 +90,7 @@ The converted value.
 
 ![Image](@site/static/img/docs/Utility/transition-item.png)
 
-------
+---
 
 ### Related Patches 相关模块
 

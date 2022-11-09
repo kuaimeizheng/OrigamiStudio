@@ -7,6 +7,8 @@ last_update:
 
 # Image 图片
 
+---
+
 An image represented as a patch. Double-click the thumbnail to select an image from Finder. Drag an image into the graph to create an Image patch. Connect to an [Image Layer](./../Layer/Image%20Layer.md) to display it in the viewer.
 
 表示图像的模块。

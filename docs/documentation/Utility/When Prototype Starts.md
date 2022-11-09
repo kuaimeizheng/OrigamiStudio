@@ -7,6 +7,8 @@ last_update:
 
 # When Prototype Starts 当原型启动时
 
+---
+
 Output a pulse when the prototype starts (on the first frame). Restart the prototype with ⌘R to trigger a pulse.
 
 This patch also outputs a pulse when it is added from the Layer Library.
@@ -23,7 +25,7 @@ A pulse on the first frame of a prototype.
 
 连接到原型第一帧上的脉冲。一般连接到开关等事件类模块。
 
-------
+---
 
 ### Related Patches 相关模块
 

@@ -7,6 +7,8 @@ last_update:
 
 # Vec4 Unpack 四维解组
 
+---
+
 Turn a point with 4 dimensions into its individual X, Y, Z, and W values.
 
 将具有 4 个维度的点转换为其单独的 X、Y、Z 和 W 值。
@@ -37,13 +39,13 @@ A number that represents the Z value.
 
 表示 Z 值的数字。
 
-### W### 
+### W###
 
 A number that represents the W value.
 
 表示 W 值的数字。
 
-------
+---
 
 ### Related Patches 相关模块
 
@@ -53,7 +55,7 @@ A number that represents the W value.
 
 [Point 3D 三维点](./Point%203D.md)
 
-[Point 3D Unpack 3D点解组](./Point%203D%20Unpack.md)
+[Point 3D Unpack 3D 点解组](./Point%203D%20Unpack.md)
 
 [Vec4 四维](./Vec4.md)
 

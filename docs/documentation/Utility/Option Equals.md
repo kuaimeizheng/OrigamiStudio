@@ -7,6 +7,8 @@ last_update:
 
 # Option Equals
 
+---
+
 Check if a value is equal to any of the given inputs.
 
 检查一个值是否等于任何给定的输入。
@@ -27,19 +29,19 @@ A value to compare with the option inputs.
 
 A value that represents option 0.
 
-表示选项0的值。
+表示选项 0 的值。
 
 ### Input 输入
 
 A value that represents option 1.
 
-表示选项1的值。
+表示选项 1 的值。
 
 ### Input 输入
 
 A value that represents option 2.
 
-表示选项1的值。
+表示选项 1 的值。
 
 ### Option 选项
 
@@ -53,7 +55,7 @@ A boolean that is true if the value input matches any of the option inputs.
 
 一个布尔值，表示如果值输入与任何选项输入匹配，则为真。
 
-------
+---
 
 ### Related Patches 相关模块
 

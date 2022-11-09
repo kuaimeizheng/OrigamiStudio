@@ -7,12 +7,13 @@ last_update:
 
 # Delay 延迟
 
+---
+
 Delay a value by the specified number of seconds. The patch will not output the value it receives until the delay has elapsed.
 
 以指定的秒数延迟脉冲。Delay 模块在接收到信息后不会马上输出，而是等到指定的延迟时间过了之后才输出。
 
 Right-click to change the type (ex: number, boolean, color).
-
 
 <div className="patch-container">
     <div className="patch processor">
@@ -27,7 +28,6 @@ Right-click to change the type (ex: number, boolean, color).
         </ul>
     </div>
 </div>
-
 
 ### Value 值
 
@@ -57,11 +57,11 @@ The value, which will be output only after the delay has elapsed.
 
 输出延迟后的值。
 
-------
+---
 
 ### Related Patches 相关模块
 
-[Delay 1 延迟1](./Delay%201.md)
+[Delay 1 延迟 1](./Delay%201.md)
 
 [Switch 开关](./Switch.md)
 

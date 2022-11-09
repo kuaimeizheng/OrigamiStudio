@@ -7,6 +7,8 @@ last_update:
 
 # Sample and Hold 采样保持
 
+---
+
 Store a value of any type. The patch will store the value until a new value is sampled or until the current value is reset.
 
 存储任何类型的值。模块将存储采集的值，直到新值被采样或直到当前值被重置为止。
@@ -27,13 +29,13 @@ A value of any type. By default, the value is a number.
 
 A boolean that is true when the patch is sampling a value. When false, the patch will not sample the value, even if it changes. The patch outputs the most recently sampled value.
 
-一个布尔值，当模块对值采样时为true。
+一个布尔值，当模块对值采样时为 true。
 
-当值为false时，模块不会对该值进行采样，即使更改。
+当值为 false 时，模块不会对该值进行采样，即使更改。
 
 模块输出最近采样的值。
 
-通俗解释就是Sample开关打开，Value的值就会输出到输出端口。
+通俗解释就是 Sample 开关打开，Value 的值就会输出到输出端口。
 
 ### Reset 重置
 
@@ -51,7 +53,7 @@ The currently stored value.
 
 输出当前存储的值
 
-------
+---
 
 ### Related Patches 相关模块
 

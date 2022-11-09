@@ -7,6 +7,8 @@ last_update:
 
 # Pulse 脉冲
 
+---
+
 Output a pulse whenever a state changes from on to off.
 
 See [States & Pulses](https://www.notion.so/States-Pulses-758351d7e4104b75b06da93560565bc0) for more information.
@@ -35,7 +37,7 @@ A pulse that is output when the input turns off.
 
 一个脉冲，表示输入端口关闭时输出。
 
-------
+---
 
 ### Related Patches 相关模块
 

@@ -7,6 +7,8 @@ last_update:
 
 # Snapshot 快照
 
+---
+
 Captures a freeze frame image of a particular layer or the entire screen in the current state.
 
 在当前状态下捕获特定图层或整个屏幕的定格图像。
@@ -35,7 +37,7 @@ The image of the snapshot.
 
 快照的图像。
 
-------
+---
 
 ### Related Patches 相关模块
 

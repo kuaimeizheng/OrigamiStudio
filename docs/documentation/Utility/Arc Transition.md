@@ -7,10 +7,11 @@ last_update:
 
 # Arc Transition 弧形过渡
 
+---
+
 Convert a value between 0 and 1 to a new range defined by the start and end values, while specifying a middle value it should pass through. Allowing you to ‘arc’ a transition between the start and end values.
 
 将 0 到 1 之间的值转换为由开始值和结束值定义的新范围，同时指定它应该通过的中间值。 允许您在开始值和结束值之间“弧形”转换。
-
 
 <div className="patch-container">
     <div className="patch processor">

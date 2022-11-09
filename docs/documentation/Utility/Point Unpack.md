@@ -7,9 +7,11 @@ last_update:
 
 # Point Unpack 点解组
 
+---
+
 Turn a point with 2 dimensions (position, size, anchor, pivot) into its individual X and Y values.
 
-将2维（位置，旋转）的点转换为单独的X、Y值。
+将 2 维（位置，旋转）的点转换为单独的 X、Y 值。
 
 ![Image](@site/static/img/docs/Utility/point-unpack.png)
 
@@ -23,15 +25,15 @@ A point with 2 dimensions.
 
 A number that represents the horizontal X value.
 
-一个数值，表示水平位置的X值。
+一个数值，表示水平位置的 X 值。
 
 ### Y
 
 A number that represents the vertical Y value.
 
-一个数值，表述垂直位置的Y值。
+一个数值，表述垂直位置的 Y 值。
 
-------
+---
 
 ### Related Patches 相关模块
 
@@ -39,7 +41,7 @@ A number that represents the vertical Y value.
 
 [Point 3D 三维点](./Point%203D.md)
 
-[Point 3D Unpack 3D点解组](./Point%203D%20Unpack.md)
+[Point 3D Unpack 3D 点解组](./Point%203D%20Unpack.md)
 
 [Vec4 四维](./Vec4.md)
 

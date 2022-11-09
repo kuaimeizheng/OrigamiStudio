@@ -7,6 +7,8 @@ last_update:
 
 # QR Code Detection 二维码检测
 
+---
+
 Detect QR codes in a still image, video or, from a camera stream.
 
 检测静止图像、视频或摄像机流中的二维码。
@@ -71,7 +73,7 @@ A Loop of positions for the bottom right corner.
 
 右下角的位置循环。
 
-------
+---
 
 ### Related Patches 相关模块
 

@@ -7,6 +7,8 @@ last_update:
 
 # Reverse Progress 反转进度
 
+---
+
 Reverse a progress value, ex: 0 to 1 becomes 1 to 0, .3 becomes .7.
 
 反转一个进度值，例如：0 到 1 变为 1 到 0，0.3 变为 0.7。
@@ -29,7 +31,7 @@ The reversed progress value. See [Animation Basics](./../PatchEditor/Animations.
 
 反转进度值。有关详细信息，请参阅动画基础知识。
 
-------
+---
 
 ### Related Patches 相关模块
 

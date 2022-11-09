@@ -7,6 +7,8 @@ last_update:
 
 # Vec4 四维
 
+---
+
 Create a point with 4 dimensions (X, Y, Z, W).
 
 创建一个具有 4 个维度（X、Y、Z、W）的点。
@@ -31,7 +33,7 @@ A number that represents the Z value.
 
 表示 Z 值的数字。
 
-### W### 
+### W###
 
 A number that represents the W value.
 
@@ -43,7 +45,7 @@ A point with 4 dimensions.
 
 具有 4 个维度的点。
 
-------
+---
 
 ### Related Patches 相关模块
 
@@ -53,7 +55,7 @@ A point with 4 dimensions.
 
 [Point 3D 三维点](./Point%203D.md)
 
-[Point 3D Unpack 3D点解组](./Point%203D%20Unpack.md)
+[Point 3D Unpack 3D 点解组](./Point%203D%20Unpack.md)
 
 [Vec4 Unpack 四维解组](./Vec4%20Unpack.md)
 

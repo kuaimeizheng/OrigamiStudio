@@ -7,6 +7,8 @@ last_update:
 
 # Video 视频
 
+---
+
 A video represented as a patch. Double-click the thumbnail to select a video from Finder. Drag a video into the graph to create a Video patch. Connect to a [Video Layer](./../Layer/Video%20Layer.md) to display it in the viewer.
 
 表示视频的模块。双击缩略图以从 Finder 中选择视频。将视频拖到图表中以创建视频模块。连接到视频图层以在查看器中显示它。
@@ -23,7 +25,7 @@ The video.
 
 输出视频
 
-------
+---
 
 ### Related Patches 相关模块
 

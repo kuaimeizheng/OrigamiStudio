@@ -7,6 +7,8 @@ last_update:
 
 # Wait 等待
 
+---
+
 Start a timer that waits the input duration before outputting a pulse.
 
 启动等待指定时间的计时器
@@ -33,7 +35,7 @@ A boolean that is true when the wait is finished
 
 等待时间结束后发出脉冲。一般连接到事件类模块。
 
-------
+---
 
 ### Related Patches 相关模块
 

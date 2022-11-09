@@ -7,6 +7,8 @@ last_update:
 
 # Option Sender 选项发送器
 
+---
+
 Pick one of the outputs to send the value to. Often used with Option Switch to control which output to send the value to. Formerly known as Demultiplexer.
 
 把值发送到选中的一个输出口。 通常与 [Option Switch](./Option%20Switch.md) 一起使用来控制把值发送哪个输出口。
@@ -47,7 +49,7 @@ If selected (option is 1), the value. Otherwise, the default.
 
 如果选择（选项为 0），则该值。否则为默认。
 
-------
+---
 
 ### Related Patches 相关模块
 
