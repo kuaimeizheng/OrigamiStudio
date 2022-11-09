@@ -1,6 +1,8 @@
 ---
 title: Firebase Receiver
 sidebar_position: 20
+last_update:
+  author: 蒯美政
 tags: [data]
 ---
 
