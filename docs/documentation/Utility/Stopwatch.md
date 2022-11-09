@@ -13,7 +13,19 @@ Measure elapsed time. Use [Wait](./Wait.md) to create a countdown/timer.
 
 测量经过的时间。使用 [Wait 等待](./Wait.md) 模块创建倒计时/计时器。
 
-![Image](@site/static/img/docs/Utility/stopwatch.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Stopwatch</h3>
+        <ul className="inputs">
+            <li>Start<span className="patch-pulse-preview"><span className="dot"></span></span></li>
+            <li>Stop<span className="patch-pulse-preview"><span className="dot"></span></span></li>
+            <li>Reset<span className="patch-pulse-preview"><span className="dot"></span></span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Time<span>0s</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Start 开始
 
