@@ -17,7 +17,17 @@ Use Date & Time Formatter to make human-readable formats.
 
 使用 Date & Time Formatter 模块 制作我们常见刻度的格式。
 
-![Image](@site/static/img/docs/Utility/time.png)
+<div className="patch-container">
+    <div className="patch producer">
+        <h3>Time</h3>
+        <ul className="inputs">
+        </ul>
+        <ul className="outputs">
+            <li>Time<span>40...</span></li>
+            <li>Frame<span>24...</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Time 时间
 
