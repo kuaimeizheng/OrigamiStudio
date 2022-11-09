@@ -30,37 +30,29 @@ The number wraps when progress exceeds the 0 to 1 range:
 
 Convert a number from any range to 0 to 1 with [Progress](./Progress.md).
 
-使用 Progress 可以将任意范围内的数值转换为 0 到 1。
+使用 [Progress](./Progress.md) 可以将任意范围内的数值转换为 0 到 1。
 
 Often used with a [Switch](./Switch.md) and [Pop](./../Animation/Pop%20Animation.md)/[Classic Animation](./../Animation/Classic%20Animation.md). See [Animation Basics](./../PatchEditor/Animations.md) for more information.
 
 Right-click to change the type (ex: number, position, color).
 
-通常与 Switch 和 Pop/Classic Animation 使用。了解更多信息请参考 Animation Basics。
+通常与 [Switch](./Switch.md) 和 [Pop](./../Animation/Pop%20Animation.md)/[Classic Animation](./../Animation/Classic%20Animation.md). 使用。了解更多信息请参考 [Animation Basics](./../PatchEditor/Animations.md)。
 
-右键单击以更改需要转换的类型，
+右键单击以更改需要转换的类型。
 
-例如：
-
-Anchor 锚点
-
-Color 颜色
-
-Index 索引
-
-Number 数值
-
-Point 3D 3D 点
-
-Position 位置
-
-Progress
-
-Size 大小
-
-Size Axis
-
-![Image](@site/static/img/docs/Utility/transition.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Transition</h3>
+        <ul className="inputs">
+            <li>Progress<span>0</span></li>
+            <li>Start<span>0</span></li>
+            <li>End<span>1</span></li>
+        </ul>
+        <ul className="outputs">
+            <li><span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Progress 进度
 
@@ -86,9 +78,29 @@ The converted value.
 
 转换后的值。
 
-### 支持类型
+### Type 支持类型
 
-![Image](@site/static/img/docs/Utility/transition-item.png)
+Anchor 锚点
+
+Color 颜色
+
+Index 索引
+
+Number 数值
+
+Point 3D 3D 点
+
+Position 位置
+
+Progress 进度
+
+Size 尺寸
+
+Size Axis 尺寸轴
+
+Space Axis 间距轴
+
+Spacing 间距
 
 ---
 
