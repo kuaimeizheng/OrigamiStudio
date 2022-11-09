@@ -13,7 +13,19 @@ Create a point with 3 dimensions (X, Y). Useful when providing position and rota
 
 创建具有 3 个维度（X，Y，Z）的点。用于当向图层提供位置、大小、锚点和轴心。
 
-![Image](@site/static/img/docs/Utility/point-3d.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Point 3D</h3>
+        <ul className="inputs">
+            <li>X<span>0</span></li>
+            <li>Y<span>0</span></li>
+            <li>Z<span>0</span></li> 
+        </ul>
+        <ul className="outputs">
+            <li>&nbsp;<span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### X
 

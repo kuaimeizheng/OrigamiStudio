@@ -15,6 +15,17 @@ Restarts the currently loaded prototype when pulsed.
 
 ![Image](@site/static/img/docs/Utility/restart-prototype.png)
 
+<div className="patch-container">
+    <div className="patch consumer">
+        <h3>Restart Prototype</h3>
+        <ul className="inputs">
+            <li>Restart<span className="patch-pulse-preview"><span className="dot"></span></span></li>
+        </ul>
+        <ul className="outputs">
+        </ul>
+    </div>
+</div>
+
 ### Restart 重启
 
 A pulse that restarts the prototype.

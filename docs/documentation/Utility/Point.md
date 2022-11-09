@@ -13,7 +13,18 @@ Create a point with 2 dimensions (X, Y). Useful when providing position, size, a
 
 创建具有 2 个维度（X，Y）的点。用于当向图层提供位置、大小、锚点和轴心。
 
-![Image](@site/static/img/docs/Utility/point.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Point</h3>
+        <ul className="inputs">
+            <li>X<span>0</span></li>
+            <li>Y<span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>&nbsp;<span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### X
 

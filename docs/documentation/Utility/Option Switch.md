@@ -19,9 +19,21 @@ See [State Basics](./../PatchEditor/States.md) for more information.
 
 与 [Option Picker](./Option%20Picker.md) 模块一起使用，Option Picker 相当于升级版 Transition 模块，用来定义多个值。以前称为 Index Switch 索引开关。 右键增加更多状态（即左侧输入口的数量）。
 
-查看 State Basics 了解更多信息。
+查看 [State Basics](./../PatchEditor/States.md) 了解更多信息。
 
-![Image](@site/static/img/docs/Utility/option-switch.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Option Switch</h3>
+        <ul className="inputs">
+            <li>Set to 0<span className="patch-pulse-preview"><span className="dot"></span></span></li>
+            <li>Set to 1<span className="patch-pulse-preview"><span className="dot"></span></span></li>
+            <li>Set to 2<span className="patch-pulse-preview"><span className="dot"></span></span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Option<span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Set to 0 接口 1
 

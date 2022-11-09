@@ -13,7 +13,18 @@ Turn a point with 2 dimensions (position, size, anchor, pivot) into its individu
 
 将 2 维（位置，旋转）的点转换为单独的 X、Y 值。
 
-![Image](@site/static/img/docs/Utility/point-unpack.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Point Unpack</h3>
+        <ul className="inputs">
+            <li>&nbsp;<span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>X<span>0</span></li>
+            <li>Y<span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Input 输入
 

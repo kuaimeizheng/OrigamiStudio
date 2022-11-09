@@ -31,7 +31,7 @@ moveTo: 将当前点移动到(x, y)并开始一个新的子路径。
 
 lineTo: Append a straight line segment from the current point to (x, y) in shape and move the current point to (x, y).
 
-### lineTo### : 将当前点的直线段附加到(x, y)，并将当前点移动到(x, y)。
+lineTo: 将当前点的直线段附加到(x, y)，并将当前点移动到(x, y)。
 
 ```
 {   "type" : "lineTo"   "point" : {     "x" : 0,     "y" : 0   } }

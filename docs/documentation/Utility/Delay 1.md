@@ -1,5 +1,5 @@
 ---
-title: Delay 1 延迟1
+title: Delay 1 延迟 1
 sidebar_position: 5
 last_update:
   author: 蒯美政

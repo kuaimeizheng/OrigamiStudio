@@ -19,6 +19,22 @@ Right-click to change the type (ex: color, boolean), or to add additional option
 
 ![Image](@site/static/img/docs/Utility/option-sender.png)
 
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Option Sender</h3>
+        <ul className="inputs">
+            <li>Option<span>0</span></li>
+            <li>Value<span>0</span></li>
+            <li>Default<span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li><span>0</span></li>
+            <li><span>0</span></li>
+            <li><span>0</span></li>
+        </ul>
+    </div>
+</div>
+
 ### Option 选项
 
 An index (starting at 0) that represents the output to send the value to.

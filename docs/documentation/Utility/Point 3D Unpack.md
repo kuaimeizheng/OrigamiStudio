@@ -13,7 +13,19 @@ Turn a point with 2 dimensions (position, rotation) into its individual X, Y, an
 
 将 3 维（位置，旋转）的点转换为单独的 X、Y、Z 值。
 
-![Image](@site/static/img/docs/Utility/point-3d-unpack.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Point 3D Unpack</h3>
+        <ul className="inputs">
+            <li>&nbsp;<span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>X<span>0</span></li>
+            <li>Y<span>0</span></li>
+            <li>Z<span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Input
 

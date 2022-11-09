@@ -15,9 +15,19 @@ Output a pulse at regular intervals.
 
 See [States & Pulses](./../Concepts/States%20&%20Pulses.md) for more information.
 
-有关更多信息，请参阅状态和脉冲。
+有关更多信息，请参阅 [States & Pulses](./../Concepts/States%20&%20Pulses.md)。
 
-![Image](@site/static/img/docs/Utility/repeating-pulse.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Repeating Pulse</h3>
+        <ul className="inputs">
+            <li>Frequency<span>1</span></li>
+        </ul>
+        <ul className="outputs">
+            <li><span className="patch-pulse-preview"><span className="dot"></span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Frequency 频率
 

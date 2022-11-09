@@ -21,7 +21,20 @@ Right-click to change the type (ex: number, text, color), or to add additional o
 
 右键单击以更改类型（例如：数字、文本、颜色）或添加其他选项。
 
-![Image](@site/static/img/docs/Utility/option-picker.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Option Picker</h3>
+        <ul className="inputs">
+            <li>Option<span>0</span></li>
+            <li><span>0</span></li>
+            <li><span>0</span></li>
+            <li><span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Option<span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Option
 
