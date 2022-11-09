@@ -15,9 +15,19 @@ Measure the speed that a value is changing. Takes the value in the current frame
 
 Often used to measure the distance a touch has moved (ex: Drag, Scroll).
 
-通常用于测量触摸移动的距离(例如:拖动，滚动)。
+通常用于测量触摸移动的距离(例如：拖动，滚动)。
 
-![Image](@site/static/img/docs/Utility/velocity.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Velocity</h3>
+        <ul className="inputs">
+            <li>&nbsp;<span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>&nbsp;<span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Input 输入
 
