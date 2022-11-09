@@ -17,7 +17,16 @@ This patch also outputs a pulse when it is added from the Layer Library.
 
 当从图层库中添加此模块时，它也会输出一个脉冲。
 
-![Image](@site/static/img/docs/Utility/when-prototype-starts.png)
+<div className="patch-container">
+    <div className="patch producer">
+        <h3>When Prototype Starts</h3>
+        <ul className="inputs">
+        </ul>
+        <ul className="outputs">
+            <li><span className="patch-pulse-preview"><span className="dot"></span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Output 输出
 
