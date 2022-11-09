@@ -12,7 +12,7 @@ Use the Touch button on the component to get the state of the switch.
 
 使用组件上的触摸按钮获取交换机的状态。
 
-![Image](@site/static/img/docs/Material/switch.png)
+![Image](./../../../static/img/docs/Material/switch.png)
 
 ### Enable 启用
 

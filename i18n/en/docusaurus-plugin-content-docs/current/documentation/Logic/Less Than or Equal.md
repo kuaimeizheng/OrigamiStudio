@@ -1,8 +1,13 @@
 ---
+title: Less Than or Equal 小于等于
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Less Than or Equal 小于等于
+
+---
 
 Check if a value is less than or equal to another.
 
@@ -12,13 +17,24 @@ Each value is compared to the next one in order, and results are combined in one
 
 每个值按顺序与下一个值进行比较，结果合并在一个输出中。
 
-例：1 <= 1 <= 3 为真，而 3 <= 3 <= 1为假。
+例：1 <= 1 <= 3 为真，而 3 <= 3 <= 1 为假。
 
 Right-click to add more values to compare, or change the type (ex: number, index, boolean).
 
 右键单击可添加更多值进行比较，或更改类型(例如:数字、索引、布尔值)。
 
-![Image](@site/static/img/docs/Logic/less-than-or-equal.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Less Than or Equal</h3>
+        <ul className="inputs">
+            <li>&nbsp;<span></span></li>
+            <li>&nbsp;<span></span></li> 
+        </ul>
+        <ul className="outputs">
+            <li>&nbsp;<span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Input 输入
 
@@ -38,7 +54,7 @@ A boolean that is true if the base value is less than or equal to the subsequent
 
 如果基础值小于或等于后续值，则布尔值为真。
 
-------
+---
 
 ### Related Patches 相关模块
 

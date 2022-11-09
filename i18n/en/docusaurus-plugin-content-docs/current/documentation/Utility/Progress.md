@@ -7,11 +7,25 @@ last_update:
 
 # Progress 进度
 
+---
+
 Convert a number from any range to progress (0 to 1). Useful with [Transition](https://origami.design/documentation/patches/builtin.transition.html) to convert an animating value to another range.
 
-将任何范围内的数字转换为进度（0到1）。和 [Transition 过渡](./Transition.md) 一起使用可以将动画值转换为其它的范围（例如：100～125、20～30）。
+将任何范围内的数字转换为进度（0 到 1）。和 [Transition 过渡](./Transition.md) 一起使用可以将动画值转换为其它的范围（例如：100 ～ 125、20 ～ 30）。
 
-![Image](@site/static/img/docs/Utility/progress.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Progress</h3>
+        <ul className="inputs">
+            <li>Value<span>0</span></li>
+            <li>Start Value<span>0</span></li>
+            <li>End Value<span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Progress<span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Value 值
 
@@ -41,7 +55,7 @@ See [Animation Basics](./../PatchEditor/Animations.md) for more information.
 
 了解更多信息请参考 Animation Basic。
 
-------
+---
 
 ### Related Patches 相关模块
 

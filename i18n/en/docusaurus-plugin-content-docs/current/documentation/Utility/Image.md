@@ -7,6 +7,8 @@ last_update:
 
 # Image 图片
 
+---
+
 An image represented as a patch. Double-click the thumbnail to select an image from Finder. Drag an image into the graph to create an Image patch. Connect to an [Image Layer](./../Layer/Image%20Layer.md) to display it in the viewer.
 
 表示图像的模块。
@@ -21,7 +23,16 @@ An image represented as a patch. Double-click the thumbnail to select an image f
 - 将 Image 模块的输出端口连接到 Image Layer 的 Image 属性。
 - 将图片直接拖动到图层列表中以创建 Image Layer。
 
-![Image](@site/static/img/docs/Utility/image.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Image</h3>
+        <ul className="inputs">
+        </ul>
+        <ul className="outputs">
+            <li>&nbsp;<span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Output 输出
 

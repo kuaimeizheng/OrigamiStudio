@@ -8,7 +8,7 @@ Create a triangle to be used with the Shape Layer. The coordinates are relative 
 
 创建一个三角形的形状图层。坐标是相对于父组的中心。
 
-![Image](@site/static/img/docs/Shapes/triangle.png)
+![Image](./../../../static/img/docs/Shapes/triangle.png)
 
 ### First Point 第一个点
 

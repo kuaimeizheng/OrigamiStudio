@@ -11,7 +11,7 @@ Say cheese! A live stream of the current computer, phone, or tablet’s camera t
 
 当前计算机，手机或平板电脑摄像头的实时直播，支持录制视频和捕获图像。
 
-![Image](@site/static/img/docs/Device/camera.png)
+![Image](./../../../static/img/docs/Device/camera.png)
 
 ### Enable 启动
 

@@ -11,7 +11,7 @@ Record sound from the phone, tablet, or computer microphone. Connect to a Sound 
 
 用手机、平板、电脑的麦克风录音。连接到 Sound Player 播放录音。
 
-![Image](@site/static/img/docs/Device/microphone.png)
+![Image](./../../../static/img/docs/Device/microphone.png)
 
 ### Enable 启用
 

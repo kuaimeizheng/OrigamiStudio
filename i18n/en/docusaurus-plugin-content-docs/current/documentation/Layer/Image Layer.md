@@ -8,7 +8,7 @@ A layer that can display an image.
 
 可以显示图像的图层。
 
-![Image](@site/static/img/docs/Layer/image-layer.png)
+![Image](./../../../static/img/docs/Layer/image-layer.png)
 
 ### Enable 启用
 

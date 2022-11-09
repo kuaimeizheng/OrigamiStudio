@@ -11,7 +11,7 @@ Provides a circle shape with set properties, to be used with the Shape Layer.
 
 创建一个可以设置属性的圆形的形状图层。
 
-![Image](@site/static/img/docs/Shapes/circle.png)
+![Image](./../../../static/img/docs/Shapes/circle.png)
 
 ### Position 位置
 

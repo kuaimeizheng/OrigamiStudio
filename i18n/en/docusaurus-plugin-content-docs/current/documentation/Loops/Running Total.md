@@ -1,20 +1,51 @@
 ---
-sidebar_position: 5
+title: Running Total 累积总计
+sidebar_position: 100
+last_update:
+  author: 蒯美政
 ---
 
 # Running Total 累积总计
+
+---
 
 Calculate the sums of a loop of numbers, where the sum at each index is the sum of the numbers preceding the current number.
 
 计算数字循环的总和，其中每个索引处的总和是当前数字之前的数字的总和。
 
-![Image](@site/static/img/docs/Loops/running-total-1.png)
+import styles from './styles.module.scss';
+
+<div className={styles.main}>
+
+| Input |
+| ----- |
+| 1     |
+| 3     |
+| 5     |
+
+| Output |
+| ------ |
+| 0      |
+| 1      |
+| 4      |
+
+</div>
 
 To calculate the total sum of all numbers, use the [Sum](./Loop%20Sum.md) patch.
 
 要计算所有数字的总和，请使用 Sum 模块。
 
-![Image](@site/static/img/docs/Loops/running-total.png)
+<div className="patch-container">
+    <div className="patch loop">
+        <h3>Running Total</h3>
+        <ul className="inputs">
+            <li>Input<span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li><span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Input 输入
 
@@ -30,9 +61,29 @@ A loop of sums.
 
 ### 支持类型
 
-![Image](@site/static/img/docs/Loops/running-total-item.png)
+Anchor
 
-------
+Color
+
+Index
+
+Number
+
+Point 3D
+
+Position
+
+Progress
+
+Size
+
+Size Axis
+
+Space Axis
+
+Spacing
+
+---
 
 ### Related Patches 相关模块
 

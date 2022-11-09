@@ -16,7 +16,7 @@ Use the Touch button on the component to get information about the text and edit
 
 使用组件上的触摸按钮获取有关文本和编辑状态的信息。
 
-![Image](@site/static/img/docs/iOS/text-field.png)
+![Image](./../../../static/img/docs/iOS/text-field.png)
 
 ### Enable 启用
 

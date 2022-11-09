@@ -1,8 +1,13 @@
 ---
+title: Power 幂值
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Power 幂值
+
+---
 
 Calculate the first value (base) to the second value (exponent)’s power (ex: 2^3).
 
@@ -14,7 +19,7 @@ Right-click to add ports for additional exponents to chain, or change the type (
 
 右键选择更多的端口数量，或更改类型（例如：数字，位置，角度）。
 
-![Image](@site/static/img/docs/Math/power.png)
+![Image](./../../../static/img/docs/Math/power.png)
 
 ### Input 输入
 
@@ -34,7 +39,7 @@ The base value to the subsequent exponents’ powers.
 
 基础值乘以输入的次方后的幂值。
 
-------
+---
 
 ### Related Patches 相关模块
 

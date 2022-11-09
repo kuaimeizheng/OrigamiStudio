@@ -16,7 +16,7 @@ Use the Touch button on the component to get information about keyboard interact
 
 使用组件上的Touch按钮获取有关键盘交互的信息。
 
-![Image](@site/static/img/docs/iOS/fake-keyboard.png)
+![Image](./../../../static/img/docs/iOS/fake-keyboard.png)
 
 ### Enable 启用
 

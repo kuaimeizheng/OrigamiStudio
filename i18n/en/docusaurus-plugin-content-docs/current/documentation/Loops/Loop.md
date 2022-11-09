@@ -1,10 +1,13 @@
 ---
-sidebar_position: 1
+title: Loop 循环
+sidebar_position: 15
 last_update:
   author: 蒯美政
 ---
 
 # Loop 循环
+
+---
 
 Create a loop of indices, ex: a count of 3 outputs a loop of [0, 1, 2]. Similar to a for loop in programming.
 
@@ -14,7 +17,17 @@ To learn more about loops, see the [Introduction to Loops](./../Concepts/Loop.md
 
 了解更多信息，请参考 [循环简介](./../Concepts/Loop.md)
 
-![Image](@site/static/img/docs/Loops/loop.png)
+<div className="patch-container">
+    <div className="patch loop">
+        <h3>Loop</h3>
+        <ul className="inputs">
+            <li>Count<span>5</span></li>
+        </ul>
+        <ul className="outputs">
+          <li>Index<span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Count 数量
 
@@ -28,7 +41,7 @@ A loop of indices.
 
 循环后的目录。
 
-------
+---
 
 ### Related Patches 相关模块
 

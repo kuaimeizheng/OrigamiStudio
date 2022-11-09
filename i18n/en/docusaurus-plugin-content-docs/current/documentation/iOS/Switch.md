@@ -12,7 +12,7 @@ Use the Touch button on the component to get the state of the switch.
 
 使用组件上的触摸按钮获取开关的状态。
 
-![Image](@site/static/img/docs/iOS/switch.png)
+![Image](./../../../static/img/docs/iOS/switch.png)
 
 ### Enable 启用
 

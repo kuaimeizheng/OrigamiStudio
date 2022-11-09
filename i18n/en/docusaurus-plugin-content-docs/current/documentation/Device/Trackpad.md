@@ -13,7 +13,7 @@ Read the JSON with the [Structure Formatter](./../Data/JSON%20to%20Text.md) patc
 
 在触控板上捕捉触摸。 通过 [Structure Formatter](./../Data/JSON%20to%20Text.md) 模块连接到文本图层读取JSON。通过 [Object at Index](./../Data/Value%20at%20Index.md) 模块获得一个单独的触摸，用 [Structure Key](./../Data/Value%20for%20Key.md) 和 [Splitter](./../Utility/Splitter.md) 模块读取单个触摸的位置或力度，设置位置或数字以转换值。
 
-![Image](@site/static/img/docs/Device/trackpad.png)
+![Image](./../../../static/img/docs/Device/trackpad.png)
 
 ### Touches 触摸
 

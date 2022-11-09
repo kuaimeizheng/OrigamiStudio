@@ -1,14 +1,19 @@
 ---
-sidebar_position: 5
+title: Grid Layout 网格布局
+sidebar_position: 10
+last_update:
+  author: 蒯美政
 ---
 
 # Grid Layout 网格布局
+
+---
 
 Repeat a layer or group in a list or grid. Evenly divides the total grid width by the number of columns to quickly size and position the items.
 
 在列表或网格中重复图层或组。将总网格宽度平均除以列数，以快速调整项目的大小和位置。
 
-![Image](@site/static/img/docs/Loops/grid-layout.png)
+![Image](./../../../static/img/docs/Loops/grid-layout.png)
 
 ### Index 索引
 
@@ -16,7 +21,7 @@ A loop of indices that represent the number of items in the grid. Use a [Loop](.
 
 表示网格中项目数的索引循环。
 
-可以使用 Loop循环 模块。
+可以使用 Loop 循环 模块。
 
 ### Columns 列数
 
@@ -58,9 +63,8 @@ A loop of sizes for each item. Connect to a layer or group.
 
 每个项目大小的循环。连接到图层或组。
 
-------
+---
 
 ### Related Patches 相关模块
 
 [Loop 循环](./Loop.md)
-

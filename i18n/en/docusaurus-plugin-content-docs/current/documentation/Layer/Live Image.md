@@ -8,7 +8,7 @@ A layer that always displays the latest version of an image file on the computer
 
 始终在计算机上显示图像文件最新版本的图层。当更新所选图像时，此图像的图像将自动更新到最新版本。
 
-![Image](@site/static/img/docs/Layer/live-image.png)
+![Image](./../../../static/img/docs/Layer/live-image.png)
 
 ### Enable 启用
 

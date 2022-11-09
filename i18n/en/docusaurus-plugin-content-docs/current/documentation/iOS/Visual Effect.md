@@ -8,7 +8,7 @@ An iOS visual effect view that blurs all the layers below it.
 
 iOS视觉效果视图，模糊下面的所有图层。
 
-![Image](@site/static/img/docs/iOS/visual-effect.png)
+![Image](./../../../static/img/docs/iOS/visual-effect.png)
 
 ### Enable 启用
 

@@ -11,7 +11,7 @@ Opens a URL on the default external application.
 
 在默认外部应用程序上打开 URL。
 
-![Image](@site/static/img/docs/Data/open-url.png)
+![Image](./../../../static/img/docs/Data/open-url.png)
 
 ### Open 打开
 

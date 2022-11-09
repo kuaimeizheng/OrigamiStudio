@@ -11,7 +11,7 @@ Access the time on the connected phone, tablet, or the computer Origami is runni
 
 访问连接的手机、平板电脑、或者当前计算机的时间。
 
-![Image](@site/static/img/docs/Device/device-time.png)
+![Image](./../../../static/img/docs/Device/device-time.png)
 
 ### Seconds 秒
 

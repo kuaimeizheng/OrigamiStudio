@@ -8,7 +8,7 @@ An iOS status bar that is responsive and customizable.
 
 一个响应和可自定义的iOS状态栏。
 
-![Image](@site/static/img/docs/iOS/status-bar.png)
+![Image](./../../../static/img/docs/iOS/status-bar.png)
 
 ### Enable 启用
 

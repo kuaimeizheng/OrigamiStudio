@@ -1,14 +1,19 @@
 ---
+title: Round 四舍五入
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Round 四舍五入
+
+---
 
 Round a number.
 
 四舍五入数字。
 
-![Image](@site/static/img/docs/Math/round.png)
+![Image](./../../../static/img/docs/Math/round.png)
 
 ### Input
 
@@ -24,7 +29,7 @@ The number rounded to the nearest integer.
 
 例如：4.3 → 4、4.7 → 5。
 
-### Rounded Down 向下取整### 
+### Rounded Down 向下取整###
 
 The number rounded down.
 
@@ -32,7 +37,7 @@ The number rounded down.
 
 例如：4.3 → 4、4.7 → 4。
 
-### Rounded Up 向上取整### 
+### Rounded Up 向上取整###
 
 The number rounded up.
 
@@ -40,7 +45,7 @@ The number rounded up.
 
 4.3 → 5、4.7 → 5。
 
-------
+---
 
 ### Related Patches 相关模块
 

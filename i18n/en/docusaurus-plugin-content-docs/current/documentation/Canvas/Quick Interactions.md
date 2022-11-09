@@ -60,7 +60,7 @@ Creating a Quick Interaction will automatically generate a corresponding patch i
 
 创建快捷交互将自动在模块编辑器中生成相应的交互模块。
 
-![](@site/static/img/docs/Canvas/quick-interactions-1.png)
+![](./../../../static/img/docs/Canvas/quick-interactions-1.png)
 
 _When creating multiple Quick Interactions, Origami will often stack the automatically generated patches on top of each other so double check that if you’re not seeing them show up in the Patch Editor._
 

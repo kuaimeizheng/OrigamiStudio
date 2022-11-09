@@ -34,20 +34,20 @@ An array of [PatchOutput](https://origami.design/documentation/concepts/scriptin
 Set this property to `true` if this patch is capable of processing values in an Origami loop. Use [PatchInput.values](https://origami.design/documentation/concepts/scriptingapi#patchinputvalues-array-read-only) array to access values from loops.
 If you don’t set this property to `true`, then multiple copies of the patch’s JavaScript environment will be created to process each value in a loop.
 
-如果此模块能够处理 Origami 循环中的值，则将此属性设置为`true`。使用[PatchInput.values](https://origami.design/documentation/concepts/scriptingapi#patchinputvalues-array-read-only)数组从循环中访问值。
-如果你不将这个属性设置为`true`，那么将会创建多个模块的 JavaScript 环境副本来循环处理每个值。
+如果此模块能够处理 Origami 循环中的值，则将此属性设置为“true”。使用[PatchInput.values](https://origami.design/documentation/concepts/scriptingapi#patchinputvalues-array-read-only)数组从循环中访问值。
+如果你不将这个属性设置为“true”，那么将会创建多个模块的 JavaScript 环境副本来循环处理每个值。
 
 ### `Patch.alwaysNeedsToEvaluate` _boolean_ (default: false)
 
 Set this property to `true` if you need the the patch to be evaluated on every frame. In most cases this is not needed and will only affect performance negatively. Avoid setting this to `true`.
 
-如果你需要在每一帧上计算模块，请将此属性设置为`true`。在大多数情况下，这是不需要的，只会对性能产生负面影响。避免将此设置为`true`。
+如果你需要在每一帧上计算模块，请将此属性设置为“true”。在大多数情况下，这是不需要的，只会对性能产生负面影响。避免将此设置为“true”。
 
 ### `Patch.evaluate()` _function_
 
 Define the patch logic in this function. It will be called when needed based on the Engine run loop or every single frame when [Patch.alwaysNeedsToEvaluate](https://origami.design/documentation/concepts/scriptingapi#patchalwaysneedstoevaluate-boolean-default-false) is set to `true`.
 
-在这个函数中定义模块逻辑。当[Patch.alwaysNeedsToEvaluate](https://origami.design/documentation/concepts/scriptingapi#patchalwaysneedstoevaluate-boolean-default-false)被设置为`true`时，它将根据引擎运行循环或每一帧被调用。
+在这个函数中定义模块逻辑。当[Patch.alwaysNeedsToEvaluate](https://origami.design/documentation/concepts/scriptingapi#patchalwaysneedstoevaluate-boolean-default-false)被设置为' true '时，它将根据引擎运行循环或每一帧被调用。
 
 ---
 
@@ -69,43 +69,29 @@ The name of the input port, which is displayed next to the port in the Patch Gra
 
 The type of the input port. Must be one of the values from the [types](https://origami.design/documentation/concepts/scriptingapi#types) enum.
 
-输入端口的类型。必须是[types](https://origami.design/documentation/concepts/scriptingapi#types)枚举中的一个值。
-
 ### `PatchInput.value` _read-only_
 
 The current value being passed into the input port.
-
-传入输入端口的当前值。
 
 ### `PatchInput.values` _array, read-only_
 
 If the [patch.loopAware](https://origami.design/documentation/concepts/scriptingapi#patchloopaware-boolean-default-false) property is set to `true` and the input port is receiving a loop as input, then this property is an array of the values in the loop. Otherwise, this property is an array containing a single value equal to [PatchInput.value](https://origami.design/documentation/concepts/scriptingapi#patchinputvalue-read-only).
 
-如果[patch.loopAware](https://origami.design/documentation/concepts/scriptingapi#patchloopaware-boolean-default-false)属性被设置为`true`，并且输入端口接收一个循环作为输入，那么该属性是循环中的值的数组。否则，该属性是一个数组，包含一个等于[PatchInput.value](https://origami.design/documentation/concepts/scriptingapi#patchinputvalue-read-only)的值。
-
 ### `PatchInput.defaultValue`
 
 The default value for the input port.
-
-输入端口的默认值。
 
 ### `PatchInput.isDirty()` _function_
 
 Returns `true` if the input port’s value has changed since the last time it was evaluated, or `false` otherwise.
 
-如果输入端口的值自上次计算以来发生了变化，则返回`true`，否则返回`false`。
-
 ### `PatchInput.readRising()` _function_
 
 Returns `true` if the input port has just changed to a nonzero/“truthy” value, or `false` otherwise. Useful when dealing with Pulses (see [State & Pulses](https://origami.design/documentation/concepts/PulseSignal.html))
 
-如果输入端口刚刚更改为非零/`true`值，则返回`true`，否则返回`false`。在处理脉冲时很有用(参见[State & Pulse](https://origami.design/documentation/concepts/PulseSignal.html))
-
 ### `PatchInput.readFalling()` _function_
 
 Returns `true` if the input port has just changed to a zero/“falsey” value, or `false` otherwise. Useful when dealing with Pulses (see [State & Pulses](https://origami.design/documentation/concepts/PulseSignal.html))
-
-如果输入端口刚刚更改为 0 / " falsey "值，则返回`true`，否则返回`false`。在处理脉冲时很有用(参见[State & Pulse](https://origami.design/documentation/concepts/PulseSignal.html))
 
 ---
 
@@ -121,37 +107,25 @@ Use this constructor to create a new output port for the patch. You must give th
 
 The name of the output port, which is displayed next to the port in the Patch Graph.
 
-输出端口的名称，在模块图中显示在端口旁边。
-
 ### `PatchOutput.type`
 
 The type of the output port. Must be one of the values from the [types](https://origami.design/documentation/concepts/scriptingapi#types) enum.
-
-输出端口的类型。必须是[types](https://origami.design/documentation/concepts/scriptingapi#types)枚举中的一个值。
 
 ### `PatchOutput.value` _read-only_
 
 The current value being passed into the output port.
 
-传递到输出端口的当前值。
-
 ### `PatchOutput.values` _array, read-only_
 
 If the [patch.loopAware](https://origami.design/documentation/concepts/scriptingapi#patchloopaware-boolean-default-false) property is set to `true`, you may set this property to output a loop of values from the port. The property must be an array, and the type of each element of the array must match the type of the port.
-
-如果[patch.loopAware](https://origami.design/documentation/concepts/scriptingapi#patchloopaware-boolean-default-false)属性被设置为`true`，您可以将该属性设置为从端口输出一个值循环。该属性必须是一个数组，并且数组的每个元素的类型必须与端口的类型匹配。
 
 ### `PatchOutput.defaultValue`
 
 The default value for the output port.
 
-输出端口的默认值。
-
 ### `PatchOutput.pulse()` _function_
 
 If this ouput’s type is [PULSE](https://origami.design/documentation/concepts/scriptingapi#pulse), you may call this function to send a pulse on this output port.
-
-如果这个输出的类型是[PULSE](https://origami.design/documentation/concepts/scriptingapi#pulse)，您可以调用这个函数在这个输出端口上发送一个脉冲。
 
 ---
 
@@ -165,82 +139,54 @@ JavaScript 模块不支持 Origami 中所有可用的数据类型，例如图像
 
 Default type for most Patches in Origami. It’s a 64-bit floating value that can be used generically.
 
-Origami 中大多数模块的默认类型。它是一个可通用使用的 64 位浮动值。
-
 ### `PROGRESS`
 
 It’s an alias of [NUMBER](https://origami.design/documentation/concepts/scriptingapi#number) type. However can provide a semantic meaning that the intention for this number is to be normalized between 0-1 (see [Progress](https://origami.design/documentation/patches/builtin.progress.html))
-
-它是[NUMBER](https://origami.design/documentation/concepts/scriptingapi#number)类型的别名。然而可以提供一个语义意义，这个数字的意图是在 0-1 之间规范化(参见[Progress](https://origami.design/documentation/patches/builtin.progress.html))。
 
 ### `POSITION`
 
 A vector type with 2 floating value components `x` and `y` For example: `console.log('point:',point.x, point.y)` (see [Point](https://origami.design/documentation/patches/builtin.point.html))
 
-具有两个浮动值组件`x`和`y`的矢量类型。例如:`console.log('point:',point.x, point.y)`(参见[Point](https://origami.design/documentation/patches/builtin.point.html))
-
 ### `SIZE`
 
 A vector type with 2 components like [POSITION](https://origami.design/documentation/concepts/scriptingapi#position). The difference is the UI in the patch graph will treat the port as Size, but on the JavaScript side it should access its components with `x` representing the width and `y` representing the height.
-
-一个包含两个组件的矢量类型，如[POSITION](https://origami.design/documentation/concepts/scriptingapi#position)。不同之处在于，模块图中的 UI 会将端口视为 Size，但在 JavaScript 端，它应该使用`x`表示宽度，`y`表示高度访问组件。
 
 ### `ANCHOR`
 
 A vector type with 2 components like [POSITION](https://origami.design/documentation/concepts/scriptingapi#position). The difference is the UI in the patch graph will treat the port as Anchor, but on the JavaScript side it should access its components with `x` and `y` values are expected to be in the range from 0-1.
 
-一个包含两个组件的矢量类型，如[POSITION](https://origami.design/documentation/concepts/scriptingapi#position)。不同之处在于，模块图中的 UI 将把端口视为锚点，但在 JavaScript 端，它应该使用`x`和`y`值访问组件，这些值的范围预计在 0-1 之间。
-
 ### `POINT3D`
 
 A vector type with 3 floating value components `x`, `y` and `z`. For example: `console.log('point:',point.x, point.y, point.z)` (see [Point3D](https://origami.design/documentation/patches/builtin.point3d.html))
-
-一个具有三个浮动值分量`x`， `y`和`z`的矢量类型。例如:`console.log('point:',point.x, point.y, point.z)`(参见[Point3D](https://origami.design/documentation/patches/builtin.point3d.html))
 
 ### `POINT4D`
 
 A vector type with 4 floating value components `x`, `y`, `z` and `w`. For example: `console.log('point:',point.x, point.y, point.z)` (see [Vec4](https://origami.design/documentation/patches/builtin.vec4.html))
 
-一个具有 4 个浮动值分量`x`， `y`， `z`和`w`的矢量类型。例如:`console.log('point:',point.x, point.y, point.z)`(参见[Vec4](https://origami.design/documentation/patches/builtin.vec4.html))
-
 ### `COLOR`
 
 A vector type with 4 components like [POINT4D](https://origami.design/documentation/concepts/scriptingapi#point4d). Those components need to be accessed with `x`, `y`, `z` and `w` Those components represent a color in the format of RGBA `x` being red, `y` being green, `z` being blue and `w` corresponds to the alpha channel. All values are normalized from 0-1 (see [Color to RGB](https://origami.design/documentation/patches/builtin.color.torgb.html))
-
-具有 4 个组件的矢量类型，如[POINT4D](https://origami.design/documentation/concepts/scriptingapi#point4d)。这些组件需要通过`x`，`y`， `z`和`w`来访问。这些组件表示 RGBA 格式的一种颜色，`x`为红色，`y`为绿色，`z`为蓝色，`w`对应 alpha 通道。所有值都从 0-1 标准化(参见[Color to RGB](https://origami.design/documentation/patches/builtin.color.torgb.html))
 
 ### `BOOLEAN`
 
 A type that can be `true` or `false` (see [State & Pulses](https://origami.design/documentation/concepts/PulseSignal.html))
 
-类型可以是`true`或`false`(查看[State & Pulses](https://origami.design/documentation/concepts/PulseSignal.html))。
-
 ### `PULSE`
 
 Similar to [BOOLEAN](https://origami.design/documentation/concepts/scriptingapi#boolean) it can only hold a `true` or `false` but it is a transient value that is not persisted over time (see [State & Pulses](https://origami.design/documentation/concepts/PulseSignal.html))
-
-类似于[BOOLEAN](https://origami.design/documentation/concepts/scriptingapi#boolean)，它只能保存`true`或`false`，但它是一个瞬时值，不会随着时间的推移而持久(参见[State & Pulse](https://origami.design/documentation/concepts/PulseSignal.html))。
 
 ### `INTEGER`
 
 A numeric value that is not a fraction.
 
-不是分数的数值。
-
 ### `ENUM`
 
 The UI in the patch graph will display this as a list of values, but from the JavaScript perspective this is an [INTEGER](https://origami.design/documentation/concepts/scriptingapi#integer) where the value represents the index of the element in the list.
-
-模块图中的 UI 将其显示为一个值的列表，但从 JavaScript 的角度来看，这是一个[INTEGER](https://origami.design/documentation/concepts/scriptingapi#integer)，其中值表示列表中元素的索引。
 
 ### `STRING`
 
 This type represents a Text
 
-该类型表示一个文本。
-
 ### `JSON`
 
 This type represents a JSON Object (see [JSON Object](https://origami.design/documentation/patches/builtin.structure.object.html))
-
-该类型表示一个 JSON 对象(查看 [JSON Object](https://origami.design/documentation/patches/builtin.structure.object.html))。

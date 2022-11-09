@@ -1,14 +1,19 @@
 ---
+title: Gesture 手势
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Gesture 手势
+
+---
 
 A more advanced Interaction patch (see [Interaction](https://www.notion.so/Interaction-8cd3ac66434546eda4b4bcf8173958fc) for more information). Provides translation and velocity as outputs to build interruptible animations (e.g. with [Spring Animation](https://www.notion.so/Spring-Animation-a19684147ec740ccbf6d62d962990a98)).
 
 高级交互模块（有关更多信息，请参阅交互）。提供平移和速度来构建可中断的动画（例如，使用 Spring Animation）。
 
-![Image](@site/static/img/docs/Interaction/gesture.png)
+![Image](./../../../static/img/docs/Interaction/gesture.png)
 
 ### Layer 图层
 

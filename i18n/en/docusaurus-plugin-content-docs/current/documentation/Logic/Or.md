@@ -1,8 +1,13 @@
 ---
+title: Or 或
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Or 或
+
+---
 
 Check if any of two or more booleans are true.
 
@@ -12,7 +17,17 @@ Right-click to check more booleans.
 
 右键单击可查看更多布尔值。
 
-![Image](@site/static/img/docs/Logic/not.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Or</h3>
+        <ul className="inputs">
+            <li>Boolean<span></span></li>
+        </ul>
+        <ul className="outputs">
+            <li>&nbsp;<span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Input 输入
 

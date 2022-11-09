@@ -1,12 +1,16 @@
 ---
 title: Pinch Scale 捏放比例
 sidebar_position: 20
+last_update:
+  author: 蒯美政
 tags: [interaction]
 ---
 
 # Pinch Scale
 
 可以通过手指捏和，进行元素的放大和缩小。
+
+---
 
 <div className="patch-container">
     <div className="patch processor">
@@ -46,5 +50,4 @@ tags: [interaction]
 </div>
 </div>
 
-
-------
+---

@@ -11,7 +11,7 @@ Style the viewer window to look like a web browser. Use the Browser Buttons patc
 
 设置查看器窗口的样式，使其看起来像一个web浏览器。使用 Browser Buttons 模块来捕获交互。
 
-![Image](@site/static/img/docs/Device/browser-chrome.png)
+![Image](./../../../static/img/docs/Device/browser-chrome.png)
 
 ### Enable 启用
 

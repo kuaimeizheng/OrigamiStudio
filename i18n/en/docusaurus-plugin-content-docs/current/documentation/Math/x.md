@@ -1,8 +1,13 @@
 ---
+title: x 乘
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # x 乘
+
+---
 
 Multiply two or more values.
 
@@ -12,7 +17,7 @@ Right-click to multiply more values, or change the type (ex: number, position, r
 
 右键可选择输入接口数，或更改输入接口接入值类型（例如：数字，坐标，角度）。
 
-![Image](@site/static/img/docs/Math/x.png)
+![Image](./../../../static/img/docs/Math/x.png)
 
 ### Input 输入
 
@@ -32,7 +37,7 @@ The product of the values.
 
 计算结果值。
 
-------
+---
 
 ### Related Patches 相关模块
 

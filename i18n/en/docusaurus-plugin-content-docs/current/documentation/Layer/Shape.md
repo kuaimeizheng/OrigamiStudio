@@ -8,7 +8,7 @@ A shape specified by the shape input. Add a shape patch like Rectangle, Triangle
 
 由形状端口输入指定的形状。添加一个形状模块，如矩形，三角形，椭圆形，或形状组合。形状可以有颜色填充和描边。
 
-![Image](@site/static/img/docs/Layer/shape.png)
+![Image](./../../../static/img/docs/Layer/shape.png)
 
 ### Enable 启用
 

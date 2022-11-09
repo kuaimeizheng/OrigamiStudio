@@ -1,11 +1,14 @@
 ---
 title: SScroller 滚动器
 sidebar_position: 20
+last_update:
+  author: 蒯美政
 tags: [scroll]
 ---
 
 # SScroller
 
+---
 
 <div className="patch-container">
     <div className="patch processor">

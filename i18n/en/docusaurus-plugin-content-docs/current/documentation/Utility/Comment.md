@@ -7,6 +7,8 @@ last_update:
 
 # Comment 注释
 
+---
+
 Add comments and notes to the patch editor around patches to organize and clarify.
 
 Select any number of patches and press Patch > Comment Around Patches ctrl command c to add a comment sized to surround the patches.
@@ -19,4 +21,12 @@ Double-click the name or hit return to edit the comment. Right-click the patch t
 
 双击模块或按回车键编辑注释。在模块上右键更改颜色，以及拖动右下角调整尺寸。
 
-![Image](@site/static/img/docs/Utility/comment.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Comment</h3>
+        <ul className="inputs">
+        </ul>
+        <ul className="outputs">
+        </ul>
+    </div>
+</div>

@@ -7,6 +7,8 @@ last_update:
 
 # Switch 开关
 
+---
+
 Remember state (on or off). Switch patches are like light switches. They can be off or on and are useful when building simple two-state interactions (showing and hiding comments in a popover, for example).
 
 记住 On 或 Off 两个状态。Switch 模块跟灯的开关一样。开关可以被打开或关闭，用于需要在两个状态之间切换（如，隐藏或显示评论。）
@@ -21,9 +23,21 @@ On 和 Off 接口用于不同类型的交互控制同一个开关。例如在一
 
 See [State Basics](./../PatchEditor/States.md) for more information.
 
-更多信息请参考 State Basic。
+更多信息请参考 [State Basics](./../PatchEditor/States.md)。
 
-![Image](@site/static/img/docs/Utility/switch.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Switch</h3>
+        <ul className="inputs">
+            <li>Flip<span className="patch-pulse-preview"><span className="dot"></span></span></li>
+            <li>Turn On<span className="patch-pulse-preview"><span className="dot"></span></span></li>
+            <li>Turn Off<span className="patch-pulse-preview"><span className="dot"></span></span></li>
+        </ul>
+        <ul className="outputs">
+            <li>On/Off<span className="checkbox-off"></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Flip 反转
 
@@ -49,6 +63,6 @@ A boolean that is true if the switch is on.
 
 开关打开时布尔值为真。一般连接到动画模块。
 
-------
+---
 
 ### Related Patches 相关模块

@@ -1,0 +1,44 @@
+// .main table th:first-of-type {
+//     width: 264px;
+// }
+// .main table th:nth-of-type(2) {
+//     width: 264px;
+// }
+
+.main table {
+    width: auto;
+}
+
+.main table td:first-child::before {
+    content: counter(rowNumber);
+    min-width: 1em;
+    margin-right: 1em;
+    text-align: left;
+    float: left;
+    color: #58a000;
+}
+
+.main table tr:not(:first-child) {
+    counter-increment: rowNumber;
+}
+
+.main table tr, th, td {
+    border: 1px solid #D9DDE1;
+    color: #889198;
+}
+
+.main table {
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    counter-reset: rowNumber;
+}
+
+.main table th,
+tr,
+td {
+    background-color: white;
+}
+
+.main table td {
+    text-align: right;
+}

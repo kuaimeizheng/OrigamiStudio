@@ -1,8 +1,13 @@
 ---
-sidebar_position: 5
+title: Loop Shuffle 循环随机排序
+sidebar_position: 80
+last_update:
+  author: 蒯美政
 ---
 
-# Loop Shuffle 环随机排序
+# Loop Shuffle 循环随机排序
+
+---
 
 Randomly reorder values in a loop.
 
@@ -12,7 +17,19 @@ Right-click to change the type of the loop.
 
 右键单击以更改循环的类型。
 
-![Image](@site/static/img/docs/Loops/loop-shuffle.png)
+<div className="patch-container">
+    <div className="patch loop">
+        <h3>Loop Shuffle</h3>
+        <ul className="inputs">
+            <li>Loop<span>0</span></li>
+            <li>Shuffle<span className="patch-pulse-preview"><span className="dot"></span></span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Loop<span>0</span></li>
+            <li>Index<span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Loop 循环
 
@@ -34,9 +51,51 @@ The resulting loop with reordered values.
 
 ### 支持类型
 
-![Image](@site/static/img/docs/Loops/loop-shuffle-item.png)
+Anchor
 
-------
+Bezier
+
+Boolean
+
+Color
+
+Edges
+
+Image
+
+Index
+
+JSON
+
+Layer
+
+Number
+
+Photo Library Asset
+
+Point 3D
+
+Position
+
+Progress
+
+Pulse
+
+Size
+
+Size Axis
+
+Sound
+
+Space Axis
+
+Spacing
+
+Text
+
+Video
+
+---
 
 ### Related Patches 相关模块
 

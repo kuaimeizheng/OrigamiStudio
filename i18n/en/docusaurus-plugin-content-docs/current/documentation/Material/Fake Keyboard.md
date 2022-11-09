@@ -14,7 +14,7 @@ Used with the [Text Field](./Text%20Field.md) component.
 
 与 [Text Field](./Text%20Field.md) 组件一起使用。
 
-![Image](@site/static/img/docs/Material/fake-keyboard.png)
+![Image](./../../../static/img/docs/Material/fake-keyboard.png)
 
 ### Editing 编辑
 

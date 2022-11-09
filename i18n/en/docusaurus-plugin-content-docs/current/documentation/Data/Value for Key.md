@@ -15,7 +15,7 @@ Use a Splitter to cast the output to the expected type.
 
 使用 Splitter 将输出转换为想要的类型。
 
-![Image](@site/static/img/docs/Data/value-for-key.png)
+![Image](./../../../static/img/docs/Data/value-for-key.png)
 
 ### Object 对象
 

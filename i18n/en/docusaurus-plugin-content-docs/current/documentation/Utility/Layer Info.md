@@ -7,6 +7,8 @@ last_update:
 
 # Layer Info 图层信息
 
+---
+
 Access information about a layer.
 
 访问图层的信息。
@@ -53,7 +55,7 @@ The group the layer is in, or ‘none’ if the layer is not in a group. Connect
 
 将此接口连接到另一个 Layer Info 模块以获取信息。
 
-------
+---
 
 ### Related Layers 相关图层
 

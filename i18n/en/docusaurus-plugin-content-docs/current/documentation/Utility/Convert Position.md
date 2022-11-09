@@ -7,6 +7,8 @@ last_update:
 
 # Convert Position 转换点
 
+---
+
 Use this to align layers that have different parent layers. This can be helpful to align overlays with content in scrollviews, for example.
 
 使用这个可以对齐具有不同父级的图层。例如，这可以将叠加元素与滚动视图中的内容对齐。
@@ -27,7 +29,7 @@ The layer you would like to get the position of.
 
 Optionally, pass in a position within the layer parent layer. 0,0 works well.
 
-可选，在图层的父级中传递一个位置。 建议0,0。
+可选，在图层的父级中传递一个位置。 建议 0,0。
 
 ### Anchor 锚点
 

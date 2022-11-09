@@ -11,7 +11,7 @@ Measure the peak volume, current volume, and frequency data (sound wave) of an a
 
 测量音频源（麦克风、音频层或视频层）的峰值音量、当前音量和频率数据（声波）。
 
-![Image](@site/static/img/docs/Media/audio-metering.png)
+![Image](./../../../static/img/docs/Media/audio-metering.png)
 
 ### Input 输入
 

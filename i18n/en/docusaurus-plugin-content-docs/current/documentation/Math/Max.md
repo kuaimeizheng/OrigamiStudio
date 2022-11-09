@@ -1,8 +1,13 @@
 ---
+title: Max 最大值
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Max 最大值
+
+---
 
 Compare two or more values and output the largest one. Although the patch’s default type is number, it can be used to compare position, point, color and index values as well.
 
@@ -12,7 +17,7 @@ Right-click to add more values, or change the type (ex: number, position, rotati
 
 比较两个或多个值并输出最大值。虽然模块的默认类型是数字，但它也可以用于比较位置，点，颜色和索引值。
 
-![Image](@site/static/img/docs/Math/max.png)
+![Image](./../../../static/img/docs/Math/max.png)
 
 ### Input 输入
 
@@ -32,7 +37,7 @@ The largest of the input values.
 
 输出最大的值。
 
-------
+---
 
 ### Related Patches 相关模块
 

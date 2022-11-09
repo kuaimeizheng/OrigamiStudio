@@ -1,11 +1,14 @@
 ---
 title: Touch Indicator 触控指示
 sidebar_position: 20
+last_update:
+  author: 蒯美政
 tags: [interaction]
 ---
 
 # Touch Indicator
 
+---
 
 <div class="patch-container">
  <div class="patch layer">

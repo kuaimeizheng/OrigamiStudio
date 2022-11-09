@@ -7,6 +7,8 @@ last_update:
 
 # Face Detection 人脸检测
 
+---
+
 Detect faces in a still image, video, or from a camera stream.
 
 检测静止图像、视频或摄像机流中的人脸。
@@ -15,7 +17,7 @@ All the outputs are loops of the same size; and the indices of each loop matches
 
 所有输出都是相同大小的循环；每个循环的索引都与其他输出相匹配。
 
-例如，左眼位置[3]和脸大小[3]都对应于索引4处的同一个脸。
+例如，左眼位置[3]和脸大小[3]都对应于索引 4 处的同一个脸。
 
 ![Image](@site/static/img/docs/Utility/face-detection.png)
 
@@ -115,7 +117,7 @@ A Loop of Integer values that tries to identify the same face from a previous fr
 
 一个整数值循环，试图从前一帧中识别出同一张脸。只要面部在框架中，此 ID 就会一直存在。仅在选择高质量时可用。
 
-------
+---
 
 ### Related Patches 相关模块
 

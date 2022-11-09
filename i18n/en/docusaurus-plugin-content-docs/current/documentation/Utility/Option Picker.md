@@ -7,6 +7,8 @@ last_update:
 
 # Option Picker 选项选择器
 
+---
+
 This holds a list of options and then allows you to choose one of them. This can be used to switch between different colors for a layer, for example. The first input controls which value is chosen. Often used with Option Switch to control which option is picked. Formerly known as Multiplexer.
 
 包含一个选项列表，然后允许您选择其中一个。 例如，这可用于在图层的不同颜色之间切换。 第一个输入控制选择哪个值。 通常与选项开关一起使用来控制选择哪个选项。 以前称为多路复用器。
@@ -19,7 +21,20 @@ Right-click to change the type (ex: number, text, color), or to add additional o
 
 右键单击以更改类型（例如：数字、文本、颜色）或添加其他选项。
 
-![Image](@site/static/img/docs/Utility/option-picker.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Option Picker</h3>
+        <ul className="inputs">
+            <li>Option<span>0</span></li>
+            <li><span>0</span></li>
+            <li><span>0</span></li>
+            <li><span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Option<span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Option
 
@@ -51,7 +66,7 @@ The picked value.
 
 ![Image](@site/static/img/docs/Utility/option-picker-item.png)
 
-------
+---
 
 ### Related Patches 相关模块
 

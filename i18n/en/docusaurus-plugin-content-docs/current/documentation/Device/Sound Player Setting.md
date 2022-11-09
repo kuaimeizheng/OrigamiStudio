@@ -11,7 +11,7 @@ Customize a Sound Player.
 
 自定义声音播放器
 
-![Image](@site/static/img/docs/Device/sound-player-settings.png)
+![Image](./../../../static/img/docs/Device/sound-player-settings.png)
 
 ### Volume 音量
 

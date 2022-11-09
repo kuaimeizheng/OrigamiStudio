@@ -7,6 +7,8 @@ last_update:
 
 # Pulse on Change 脉冲变化
 
+---
+
 Output a pulse when the input value changes.
 
 当输入值改变时输出一个脉冲。
@@ -15,7 +17,17 @@ Right-click to change the type (ex: number, text, color).
 
 右键单击以更改类型（例如：数字、文本、颜色）。
 
-![Image](@site/static/img/docs/Utility/pulse-on-change.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Pulse on Change</h3>
+        <ul className="inputs">
+            <li>Value<span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li><span className="patch-pulse-preview"><span className="dot"></span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Value 值
 
@@ -29,7 +41,7 @@ A pulse on every frame the input value changes.
 
 输入值变化的每一帧都有一个脉冲。
 
-------
+---
 
 ### Related Patches 相关模块
 

@@ -1,11 +1,13 @@
 ---
-title: Option Equals
+title: Option Equals 选项相等
 sidebar_position: 5
 last_update:
   author: 蒯美政
 ---
 
-# Option Equals
+# Option Equals 选项相等
+
+---
 
 Check if a value is equal to any of the given inputs.
 
@@ -15,7 +17,21 @@ Right-click to change the type (ex: number, text, color), or to add additional o
 
 右键单击可以更改类型(例如:数字、文本、颜色)，或添加其他选项。
 
-![Image](@site/static/img/docs/Utility/option-equals.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Option Equals</h3>
+        <ul className="inputs">
+            <li>Value<span>0</span></li>
+            <li><span>0</span></li>
+            <li><span>0</span></li>
+            <li><span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Option<span>0</span></li>
+            <li>Equals<span className="patch-pulse-preview"><span className="dot"></span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Value 值
 
@@ -27,19 +43,19 @@ A value to compare with the option inputs.
 
 A value that represents option 0.
 
-表示选项0的值。
+表示选项 0 的值。
 
 ### Input 输入
 
 A value that represents option 1.
 
-表示选项1的值。
+表示选项 1 的值。
 
 ### Input 输入
 
 A value that represents option 2.
 
-表示选项1的值。
+表示选项 1 的值。
 
 ### Option 选项
 
@@ -53,7 +69,7 @@ A boolean that is true if the value input matches any of the option inputs.
 
 一个布尔值，表示如果值输入与任何选项输入匹配，则为真。
 
-------
+---
 
 ### Related Patches 相关模块
 

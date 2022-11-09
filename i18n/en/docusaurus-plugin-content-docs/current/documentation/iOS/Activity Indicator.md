@@ -8,7 +8,7 @@ An iOS activity indicator with customizable color and size.
 
 可定制颜色和大小的IOS活动指示器。
 
-![Image](@site/static/img/docs/iOS/activity-indicator.png)
+![Image](./../../../static/img/docs/iOS/activity-indicator.png)
 
 ### Enable 启用
 

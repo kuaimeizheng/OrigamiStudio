@@ -1,11 +1,14 @@
 ---
 title: Interaction Recorder 交互记录
 sidebar_position: 20
+last_update:
+  author: 蒯美政
 tags: [interaction]
 ---
 
 # Interaction Recorder
 
+---
 
 <div className="patch-container">
     <div className="patch processor">

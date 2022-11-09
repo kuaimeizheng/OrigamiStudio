@@ -11,7 +11,7 @@ Returns the index of an item in an array.
 
 返回数组中某选项的索引。
 
-![Image](@site/static/img/docs/Data/index-of.png)
+![Image](./../../../static/img/docs/Data/index-of.png)
 
 ### Array 数组
 

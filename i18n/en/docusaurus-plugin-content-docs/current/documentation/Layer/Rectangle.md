@@ -8,7 +8,7 @@ A rectangle of a specific size and fill color.
 
 特定尺寸和填充颜色的矩形。
 
-![Image](@site/static/img/docs/Layer/rectangle.png)
+![Image](./../../../static/img/docs/Layer/rectangle.png)
 
 ### Enable 启用
 

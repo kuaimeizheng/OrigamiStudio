@@ -12,7 +12,7 @@ Use the Touch button on the component to get the state of the checkbox.
 
 使用组件上的 Touch 按钮来获取复选框的状态。
 
-![Image](@site/static/img/docs/Material/checkbox.png)
+![Image](./../../../static/img/docs/Material/checkbox.png)
 
 ### Enable 启用
 

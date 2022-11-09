@@ -12,7 +12,7 @@ Use the Touch button on the component to get information about the screen’s pr
 
 使用组件上的触摸按钮获取有关屏幕的演示状态的信息。
 
-![Image](@site/static/img/docs/iOS/screen.png)
+![Image](./../../../static/img/docs/iOS/screen.png)
 
 ### Enable 启用
 

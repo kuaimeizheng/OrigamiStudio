@@ -15,7 +15,7 @@ Right-click to change the type of the set value.
 
 右键单击更改设置值的类型。
 
-![Image](@site/static/img/docs/Data/set-value-for-key.png)
+![Image](./../../../static/img/docs/Data/set-value-for-key.png)
 
 ### Object 对象
 

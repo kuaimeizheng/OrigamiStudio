@@ -7,15 +7,28 @@ last_update:
 
 # Pulse 脉冲
 
+---
+
 Output a pulse whenever a state changes from on to off.
 
-See [States & Pulses](https://www.notion.so/States-Pulses-758351d7e4104b75b06da93560565bc0) for more information.
+See [States & Pulses](./../Concepts/States%20&%20Pulses.md) for more information.
 
 每当状态从开始切换到关闭时，都会输出脉冲。
 
-了解更多信息请参考 States & Pulses。
+了解更多信息请参考 [States & Pulses](./../Concepts/States%20&%20Pulses.md)。
 
-![Image](@site/static/img/docs/Utility/pulse.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Pulse</h3>
+        <ul className="inputs">
+            <li>On/Off<span className="checkbox-off"></span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Turned On<span className="patch-pulse-preview"><span className="dot"></span></span></li>
+            <li>Turned Off<span className="patch-pulse-preview"><span className="dot"></span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### On/Off 开/关
 
@@ -35,7 +48,7 @@ A pulse that is output when the input turns off.
 
 一个脉冲，表示输入端口关闭时输出。
 
-------
+---
 
 ### Related Patches 相关模块
 

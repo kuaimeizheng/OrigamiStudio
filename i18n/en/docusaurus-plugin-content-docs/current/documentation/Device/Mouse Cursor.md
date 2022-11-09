@@ -11,7 +11,7 @@ Control the system mouse cursor.
 
 控制系统鼠标的光标。
 
-![Image](@site/static/img/docs/Device/mouse-cursor.png)
+![Image](./../../../static/img/docs/Device/mouse-cursor.png)
 
 ### Cursor 光标
 
@@ -35,7 +35,7 @@ This is the signal to actually change the cursor. When this pulse is on then the
 
 ### 支持的鼠标手势
 
-![Image](@site/static/img/docs/Device/mouse-cursor-item.png)
+![Image](./../../../static/img/docs/Device/mouse-cursor-item.png)
 
 ------
 

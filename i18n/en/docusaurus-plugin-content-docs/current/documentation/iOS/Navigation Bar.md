@@ -12,7 +12,7 @@ Use the Touch button on the component to capture taps on individual buttons in t
 
 使用组件上的Touch按钮来捕获导航栏中单个按钮上的点击。
 
-![Image](@site/static/img/docs/iOS/navigation-bar.png)
+![Image](./../../../static/img/docs/iOS/navigation-bar.png)
 
 ### Enable 启用
 

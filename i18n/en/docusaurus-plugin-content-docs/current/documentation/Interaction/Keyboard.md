@@ -1,5 +1,8 @@
 ---
+title: Keyboard 键盘
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Keyboard 键盘
@@ -12,7 +15,7 @@ Use a [Material Text Field](./../Material/Text%20Field.md) or [iOS Text Field](.
 
 使用Material Text Field或iOS Text Field作为自由文本输入。
 
-![Image](@site/static/img/docs/Interaction/keyboard.png)
+![Image](./../../../static/img/docs/Interaction/keyboard.png)
 
 ### Key 键
 

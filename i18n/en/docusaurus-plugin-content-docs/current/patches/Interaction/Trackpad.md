@@ -1,10 +1,14 @@
 ---
 title: Trackpad 触摸板
 sidebar_position: 20
+last_update:
+  author: 蒯美政
 tags: [interaction]
 ---
 
 # Trackpad
+
+---
 
 <div className="patch-container">
     <div className="patch consumer">

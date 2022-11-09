@@ -8,7 +8,7 @@ Create an oval to be used with a Shape Layer.
 
 创建一个椭圆形的形状图层。
 
-![Image](@site/static/img/docs/Shapes/oval.png)
+![Image](./../../../static/img/docs/Shapes/oval.png)
 
 ### Position 位置
 

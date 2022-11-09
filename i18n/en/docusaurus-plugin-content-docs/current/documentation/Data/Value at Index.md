@@ -11,7 +11,7 @@ Get a value from a JSON array. Use a [Splitter](../Utility/Splitter) to cast it 
 
 从 JSON 数组中获取值。使用 [Splitter 分离器](../Utility/Splitter)  将其转换为特定类型。
 
-![Image](@site/static/img/docs/Data/value-at-index.png)
+![Image](./../../../static/img/docs/Data/value-at-index.png)
 
 ### Array 数组
 

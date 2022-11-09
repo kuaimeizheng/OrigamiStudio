@@ -7,17 +7,46 @@ last_update:
 
 # Any 任意
 
+---
+
 Check if any of the booleans in a loop are true.
 
 检查循环中的任何布尔值是否为真。
 
-![Image](@site/static/img/docs/Loops/any-1.png)
+import styles from './styles.module.scss';
+
+<div className={styles.main}>
+
+| Loop |
+| ---- |
+|      |
+| ✓    |
+|      |
+|      |
+|      |
+
+| Output |
+| ------ |
+| ✓      |
+
+</div>
 
 Often used with an [Interaction](./../Interaction/Interaction.md) patch on a looped layer to check when any of the layers are tapped.
 
 通常与循环图层上的交互模块一起使用，以检查突出什么时候被点击。
 
-![Image](@site/static/img/docs/Loops/any.png)
+<div className="patch-container">
+    <div className="patch loop">
+        <h3>Any</h3>
+        <ul className="inputs">
+            <li>Loop<span className="checkbox-off"></span></li>
+            <li>Grouping<span>-1</span></li>
+        </ul>
+        <ul className="outputs">
+            <li><span className="checkbox-off"></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Loop 循环
 
@@ -39,7 +68,7 @@ A boolean that is true if any of the loop of booleans are true. If a loop is pas
 
 如果一个循环被传递到分组中，那么它就是一个布尔值循环。
 
-------
+---
 
 ### Related Patches 相关模块
 
@@ -48,4 +77,3 @@ A boolean that is true if any of the loop of booleans are true. If a loop is pas
 [Loop 循环](./Loop.md)
 
 [Loop Builder 循环生成器](./Loop%20Builder.md)
-

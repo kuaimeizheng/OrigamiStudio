@@ -11,7 +11,7 @@ Access the haptic engine on an iPhone or iPad.
 
 在iPhone或ipad上访问触觉引擎。
 
-![Image](@site/static/img/docs/Device/haptic.png)
+![Image](./../../../static/img/docs/Device/haptic.png)
 
 ### Play 播放
 
@@ -25,7 +25,7 @@ The type of haptic response to activate on the iPhone (Selection, Impact Light, 
 
 在iPhone上激活的触觉响应类型（选择，影响轻、影响中、影响重、通知成功，通知警告，通知错误）
 
-![Image](@site/static/img/docs/Device/haptic-item.png)
+![Image](./../../../static/img/docs/Device/haptic-item.png)
 
 ### File 文件
 

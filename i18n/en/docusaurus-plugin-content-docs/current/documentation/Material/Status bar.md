@@ -8,7 +8,7 @@ A Material status bar that is responsive and customizable.
 
 一种响应性和可定制的Material状态栏。
 
-![Image](@site/static/img/docs/Material/status-bar.png)
+![Image](./../../../static/img/docs/Material/status-bar.png)
 
 ### Enable 启用
 

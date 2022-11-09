@@ -1,5 +1,8 @@
 ---
+title: Scrollaway 滚动距离
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Scrollaway 滚动距离
@@ -8,7 +11,20 @@ Calculate the progress off a scrollaway navigation element.
 
 计算滚动导航元素的进度。
 
-![Image](@site/static/img/docs/Interaction/scrollaway.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Scrollaway</h3>
+        <ul className="inputs">
+            <li>Scroll Position<span>0</span></li>
+            <li>Scrollaway Offset<span>60</span></li>
+            <li>Bottom Bound<span>-50</span></li>
+            <li>Top Bound<span>500</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Progress<span>0.5</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Scroll Position 滚动位置
 
@@ -40,7 +56,7 @@ A number from 0-1 that represents the progress of the scrollaway. Connect to Tra
 
 一个 0-1 的数值，表示滚动的进度，连接到 Transition 模块以将其转换为位置、比例、不透明度或其他属性。
 
-------
+---
 
 ### Related Patches 相关模块
 

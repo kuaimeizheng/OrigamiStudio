@@ -8,7 +8,7 @@ Access information about a Photo media asset.
 
 访问有关照片媒体资产的信息。
 
-![Image](@site/static/img/docs/Media/photo-library-media.png)
+![Image](./../../../static/img/docs/Media/photo-library-media.png)
 
 ### Asset 资源
 

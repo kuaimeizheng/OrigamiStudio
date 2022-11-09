@@ -1,8 +1,13 @@
 ---
+title: Text Style 文本样式
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Text Style 文本样式
+
+---
 
 Set the style of a specific range of characters on a text layer.
 
@@ -12,7 +17,7 @@ Use [Text Style Builder](./Text%20Style%20Builder.md) to combine with multiple T
 
 使用文本样式生成器与多个文本样式模块组合。
 
-![Image](@site/static/img/docs/Text/text-style.png)
+![Image](./../../../static/img/docs/Text/text-style.png)
 
 ### Range Start 范围开始
 

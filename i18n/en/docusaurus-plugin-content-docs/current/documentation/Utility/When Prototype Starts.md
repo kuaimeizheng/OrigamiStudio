@@ -7,6 +7,8 @@ last_update:
 
 # When Prototype Starts 当原型启动时
 
+---
+
 Output a pulse when the prototype starts (on the first frame). Restart the prototype with ⌘R to trigger a pulse.
 
 This patch also outputs a pulse when it is added from the Layer Library.
@@ -15,7 +17,16 @@ This patch also outputs a pulse when it is added from the Layer Library.
 
 当从图层库中添加此模块时，它也会输出一个脉冲。
 
-![Image](@site/static/img/docs/Utility/when-prototype-starts.png)
+<div className="patch-container">
+    <div className="patch producer">
+        <h3>When Prototype Starts</h3>
+        <ul className="inputs">
+        </ul>
+        <ul className="outputs">
+            <li><span className="patch-pulse-preview"><span className="dot"></span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Output 输出
 
@@ -23,7 +34,7 @@ A pulse on the first frame of a prototype.
 
 连接到原型第一帧上的脉冲。一般连接到开关等事件类模块。
 
-------
+---
 
 ### Related Patches 相关模块
 

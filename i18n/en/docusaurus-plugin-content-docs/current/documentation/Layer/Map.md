@@ -8,7 +8,7 @@ Shows a static snapshot of a map using Apple Maps API.
 
 显示一个使用苹果地图API的地图的静态快照。
 
-![Image](@site/static/img/docs/Layer/map.png)
+![Image](./../../../static/img/docs/Layer/map.png)
 
 ### Enable 启用
 

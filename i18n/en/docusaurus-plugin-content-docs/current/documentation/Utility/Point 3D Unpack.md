@@ -5,13 +5,27 @@ last_update:
   author: 蒯美政
 ---
 
-# Point 3D Unpack 3D点解组
+# Point 3D Unpack 3D 点解组
+
+---
 
 Turn a point with 2 dimensions (position, rotation) into its individual X, Y, and Z values.
 
-将3维（位置，旋转）的点转换为单独的X、Y、Z值。
+将 3 维（位置，旋转）的点转换为单独的 X、Y、Z 值。
 
-![Image](@site/static/img/docs/Utility/point-3d-unpack.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Point 3D Unpack</h3>
+        <ul className="inputs">
+            <li>&nbsp;<span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>X<span>0</span></li>
+            <li>Y<span>0</span></li>
+            <li>Z<span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Input
 
@@ -23,21 +37,21 @@ A point with 3 dimensions.
 
 A number that represents the X value, which can represent a horizontal position or pitch rotation.
 
-一个数值，表示水平位置或俯仰旋转的X值。
+一个数值，表示水平位置或俯仰旋转的 X 值。
 
 ### Y
 
 A number that represents the Y value, which can represent a vertical position or yaw rotation.
 
-一个数值，表示垂直位置或偏航旋转的Y值。
+一个数值，表示垂直位置或偏航旋转的 Y 值。
 
 ### Z
 
 A number that represents the Z value, which can represent a depth position or roll rotation.
 
-一个数值，表示深度位置或滚动旋转的Z值。
+一个数值，表示深度位置或滚动旋转的 Z 值。
 
-------
+---
 
 ### Related Patches 相关模块
 

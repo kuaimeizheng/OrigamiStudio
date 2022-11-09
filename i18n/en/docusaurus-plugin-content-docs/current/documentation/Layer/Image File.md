@@ -8,7 +8,7 @@ Select an image to add as an Image Layer.
 
 选择要添加到图像图层的图像。
 
-![Image](@site/static/img/docs/Layer/image-file.png)
+![Image](./../../../static/img/docs/Layer/image-file.png)
 ### Enable 启用
 
 A boolean that is true when the layer is displayed.

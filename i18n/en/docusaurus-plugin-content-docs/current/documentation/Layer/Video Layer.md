@@ -8,7 +8,7 @@ A layer that can play a video.
 
 可以播放视频的图层。
 
-![Image](@site/static/img/docs/Layer/video-layer.png)
+![Image](./../../../static/img/docs/Layer/video-layer.png)
 
 属性：
 

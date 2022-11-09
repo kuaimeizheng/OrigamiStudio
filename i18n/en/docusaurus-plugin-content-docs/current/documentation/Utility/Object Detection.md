@@ -7,6 +7,8 @@ last_update:
 
 # Object Detection 目标检测
 
+---
+
 Detect regions in a still image, video, or from a camera stream.
 
 检测静止图像、视频或摄像机流中的区域。
@@ -17,7 +19,7 @@ Detect regions in a still image, video, or from a camera stream.
 
 A Boolean value that is true when detection is enabled.
 
-布尔值，启用检测时为true。
+布尔值，启用检测时为 true。
 
 ### Layer 图层
 
@@ -58,7 +60,7 @@ A Loop of sizes for each detected regions.
 
 A Boolean value that is true when the detection cannot be performed, one cause could be the OS, as this is only available on macOS 15+ and iOS 13+.
 
-当检测不能执行时，布尔值为true，一个原因可能是操作系统，因为这只在macOS 15+和iOS 13+上可用。
+当检测不能执行时，布尔值为 true，一个原因可能是操作系统，因为这只在 macOS 15+和 iOS 13+上可用。
 
 ### Error Description 错误描述
 
@@ -66,7 +68,7 @@ Text providing a more detailed explanation for why the detection cannot be perfo
 
 为无法执行检测提供更详细解释的文本。
 
-------
+---
 
 ### Related Patches 相关模块
 

@@ -1,8 +1,13 @@
 ---
+title: √ 根号
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # √ 根号
+
+---
 
 Calculate the square root of a value.
 
@@ -12,7 +17,7 @@ Right-click to change the type (ex: number, position, rotation).
 
 右键可选择输入接口数，或更改输入接口接入值类型（例如：数字，坐标，角度）。
 
-![Image](@site/static/img/docs/Math/square-root.png)
+![Image](./../../../static/img/docs/Math/square-root.png)
 
 ### Input 输入
 
@@ -26,7 +31,7 @@ The square root of the value.
 
 平方根的值。
 
-------
+---
 
 ### Related Patches 相关模块
 

@@ -7,6 +7,8 @@ last_update:
 
 # Splitter 分离器
 
+---
+
 Output the input value without changing it. Used to simplify and organize the patches. Press s when selecting or hovering on a port to insert a splitter. Press enter to rename it to add clarity. Right-click to change the value type (ex: from number to position), which can be used to cast values from one type to another.
 
 输出输入值而不改变它。用于简化和整理模块。
@@ -19,7 +21,17 @@ Can be used interchangeably with Variable Broadcasters and Variable Receivers.
 
 可以与变量发送器和变量接收器互换使用。
 
-![Image](@site/static/img/docs/Utility/splitter.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Splitter</h3>
+        <ul className="inputs">
+            <li><span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li><span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Input 输入
 
@@ -37,7 +49,7 @@ The same value from the input.
 
 ![Image](@site/static/img/docs/Utility/splitter-item.png)
 
-------
+---
 
 ### Related Patches 相关模块
 

@@ -7,11 +7,25 @@ last_update:
 
 # Random 随机
 
+---
+
 Generate a random number (with decimals) that falls between two numbers of your choice. The patch will generate and output a random number each time it receives a pulse on its Randomize port.
 
 生成一个介于您设置的两个数字之间的随机数（带小数）。模块每次在其 Randomize 端口上接收到脉冲时，都会生成并输出一个随机数。
 
-![Image](@site/static/img/docs/Utility/random.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Random</h3>
+        <ul className="inputs">
+            <li>Randomize<span className="patch-pulse-preview"><span className="dot"></span></span></li>
+            <li>Start Value<span>0</span></li>
+            <li>End Value<span>1</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Value<span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Randomize 随机化
 
@@ -37,7 +51,7 @@ A random number (with decimals). Use the [Round](./../Math/Round.md) patch to ro
 
 随机数(包括小数)。使用 [Round](./../Math/Round.md) 模块将数字四舍五入为整数。
 
-------
+---
 
 ### Related Patches 相关模块
 

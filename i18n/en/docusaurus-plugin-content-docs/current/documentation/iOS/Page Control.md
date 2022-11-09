@@ -8,7 +8,7 @@ An iOS page control with a customizable number of dots and colors.
 
 具可自定义数量的点和颜色的IOS页面控件。
 
-![Image](@site/static/img/docs/iOS/page-control.png)
+![Image](./../../../static/img/docs/iOS/page-control.png)
 
 ### Enable 启用
 

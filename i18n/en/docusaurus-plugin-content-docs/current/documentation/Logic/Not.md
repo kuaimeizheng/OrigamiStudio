@@ -1,14 +1,29 @@
 ---
+title: Not 非
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Not 非
+
+---
 
 Flip a boolean from true to false, or from false to true.
 
 翻转布尔值，从真到假，或从假到真。
 
-![Image](@site/static/img/docs/Logic/not.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Not</h3>
+        <ul className="inputs">
+            <li>Boolean<span></span></li>
+        </ul>
+        <ul className="outputs">
+            <li>&nbsp;<span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Boolean 布尔值
 
@@ -22,7 +37,7 @@ A boolean that is the opposite of the input (if input is true, then the output i
 
 一个布尔值，与输入的值相反（如果输入为 真，则输出为 假）。
 
-------
+---
 
 ### Related Patches 相关模块
 

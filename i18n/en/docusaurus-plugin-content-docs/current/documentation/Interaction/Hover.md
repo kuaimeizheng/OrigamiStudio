@@ -1,8 +1,13 @@
 ---
+title: Hover 悬停
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Hover 悬停
+
+---
 
 Capture hover events on individual layers. Note that layers must be enabled and have an opacity larger than 0 to receive hovers. Does not work on simulated or connected phones or tablets.
 
@@ -12,7 +17,7 @@ Use the Touch button on a layer to quickly add interactions.
 
 使用图层上的 Touch 触摸 按钮快速添加交互。
 
-![Image](@site/static/img/docs/Interaction/hover.png)
+![Image](./../../../static/img/docs/Interaction/hover.png)
 
 ### Layer 图层
 

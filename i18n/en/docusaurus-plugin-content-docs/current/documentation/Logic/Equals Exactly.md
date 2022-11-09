@@ -1,8 +1,13 @@
 ---
+title: Equals Exactly 完全等于
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Equals Exactly 完全等于
+
+---
 
 Check if two or more values are exactly the same as each other.
 
@@ -16,7 +21,18 @@ Right-click to add more values to compare, or change the type (ex: number, index
 
 右键可以添加更多接口去比较，或更改类型（如：数字、索引、布尔值）
 
-![Image](@site/static/img/docs/Logic/equals-exactly.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Equals Exactly</h3>
+        <ul className="inputs">
+            <li>&nbsp;<span></span></li>
+            <li>&nbsp;<span></span></li> 
+        </ul>
+        <ul className="outputs">
+            <li>&nbsp;<span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Input
 
@@ -36,7 +52,7 @@ A boolean that is true if the values are exactly equal to each other.
 
 一个布尔值，表示如果输入的值彼此完全相等，则为 真。
 
-------
+---
 
 ### Related Patches 相关模块
 

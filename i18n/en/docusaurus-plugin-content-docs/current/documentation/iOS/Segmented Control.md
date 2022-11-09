@@ -12,7 +12,7 @@ Use the Touch button on the component to get information about the selected segm
 
 使用组件上的触摸按钮获取有关所选段的信息。
 
-![Image](@site/static/img/docs/iOS/segmented-control.png)
+![Image](./../../../static/img/docs/iOS/segmented-control.png)
 
 ### Enable 启用
 

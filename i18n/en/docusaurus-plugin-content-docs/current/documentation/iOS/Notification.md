@@ -12,7 +12,7 @@ Use the Touch button on the component to capture when the notification was tappe
 
 使用组件上的Touch按钮来捕获何时点击通知。
 
-![Image](@site/static/img/docs/iOS/notification.png)
+![Image](./../../../static/img/docs/iOS/notification.png)
 
 ### Present 出现
 

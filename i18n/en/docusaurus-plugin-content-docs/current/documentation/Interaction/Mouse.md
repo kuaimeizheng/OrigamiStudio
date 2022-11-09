@@ -1,5 +1,8 @@
 ---
+title: Mouse 鼠标
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Mouse 鼠标
@@ -12,7 +15,7 @@ Use [Interaction](./Interaction.md) instead if you want clicks on a specific lay
 
 如果您想点击指定图层，请改用“交互”。
 
-![Image](@site/static/img/docs/Interaction/mouse.png)
+![Image](./../../../static/img/docs/Interaction/mouse.png)
 
 ### Left 左键
 

@@ -1,14 +1,19 @@
 ---
+title: Text Size 文本大小
 sidebar_position: 5
+last_update:
+  author: 蒯美政
 ---
 
 # Text Size 文本大小
+
+---
 
 Measure the size of some text. This is done on the same device as the comp is running, so you should make sure the selected font is available there.
 
 测量一些文本的大小。使用的字体要确保和原型在同一台电脑上运行。
 
-![Image](@site/static/img/docs/Text/text-size.png)
+![Image](./../../../static/img/docs/Text/text-size.png)
 
 ### Text 文本
 

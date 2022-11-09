@@ -1,8 +1,17 @@
 ---
-sidebar_position: 5
+title: Loop Select 循环选择
+sidebar_position: 75
+last_update:
+  author: 蒯美政
 ---
 
 # Loop Select 循环选择
+
+---
+
+import styles from './styles.module.scss';
+
+<div className={styles.main}>
 
 Select one or more values from a loop.
 
@@ -12,19 +21,71 @@ Example A: Select one value.
 
 示例 A：选择一个值。
 
-![Image](@site/static/img/docs/Loops/loop-select-1.png)
+| Input  |
+| ------ |
+| apple  |
+| carrot |
+| orange |
+
+| Index Loop |
+| ---------- |
+| 2          |
+
+| Output Loop |
+| ----------- |
+| orange      |
+
+| Output Index |
+| ------------ |
+| 2            |
 
 Example B: Select and reorder multiple values.
 
 示例 B：选择并重新排序多个值。
 
-![Image](@site/static/img/docs/Loops/loop-select-2.png)
+| Input  |
+| ------ |
+| apple  |
+| carrot |
+| orange |
+
+| Index Loop |
+| ---------- |
+| 2          |
+| 1          |
+| 0          |
+
+| Output Loop |
+| ----------- |
+| orange      |
+| carrot      |
+| apple       |
+
+| Output Index |
+| ------------ |
+| 0            |
+| 1            |
+| 2            |
+
+</div>
 
 Right-click the patch to change the expected type of the Input loop.
 
 右键单击模块以更改 输入循环 的类型。
 
-![Image](@site/static/img/docs/Loops/loop-select.png)
+<div className="patch-container">
+    <div className="patch loop">
+        <h3>Loop Select</h3>
+        <ul className="inputs">
+            <li>Input<span>0</span></li>
+            <li>Index Loop<span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li>Loop<span>0</span></li>
+            <li>Index<span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Input 输入
 
@@ -54,9 +115,51 @@ The new index or set of indices to related to the output loop.
 
 ### 支持类型
 
-![Image](@site/static/img/docs/Loops/loop-select-item.png)
+Anchor
 
-------
+Bezier
+
+Boolean
+
+Color
+
+Edges
+
+Image
+
+Index
+
+JSON
+
+Layer
+
+Number
+
+Photo Library Asset
+
+Point 3D
+
+Position
+
+Progress
+
+Pulse
+
+Size
+
+Size Axis
+
+Sound
+
+Space Axis
+
+Spacing
+
+Text
+
+Video
+
+---
 
 ### Related Patches 相关模块
 

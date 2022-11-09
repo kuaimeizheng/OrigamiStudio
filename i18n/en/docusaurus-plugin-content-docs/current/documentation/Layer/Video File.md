@@ -8,7 +8,7 @@ Select a video to add as a Video Layer.
 
 选择一个视频添加到 Video Layer。
 
-![Image](@site/static/img/docs/Layer/video-file.png)
+![Image](./../../../static/img/docs/Layer/video-file.png)
 
 属性：
 

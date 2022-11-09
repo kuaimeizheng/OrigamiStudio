@@ -7,6 +7,8 @@ last_update:
 
 # Variable Broadcaster 变量发送器
 
+---
+
 Sends a value to any Variable Receiver patch set to receive the same name. Used to simplify and organize patches by replacing the cables between patches.
 
 将值发送到任何变量接收器模块集以接收相同的名称。用于通过替换模块之间的连线来简化和整理模块。
@@ -31,7 +33,7 @@ A value to broadcast.
 
 要发送的值。
 
-------
+---
 
 ### Related Patches 相关模块
 
