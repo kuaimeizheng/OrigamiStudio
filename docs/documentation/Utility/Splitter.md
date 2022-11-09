@@ -21,7 +21,17 @@ Can be used interchangeably with Variable Broadcasters and Variable Receivers.
 
 可以与变量发送器和变量接收器互换使用。
 
-![Image](@site/static/img/docs/Utility/splitter.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Splitter</h3>
+        <ul className="inputs">
+            <li><span>0</span></li>
+        </ul>
+        <ul className="outputs">
+            <li><span></span></li>
+        </ul>
+    </div>
+</div>
 
 ### Input 输入
 
