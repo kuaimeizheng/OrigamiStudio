@@ -13,7 +13,18 @@ Turn spacing with 2 dimensions into its individual X and Y values. Useful when w
 
 将具有 2 个维度的间距转换为其单独的 X 和 Y 值。一般用于在使用图层布局处理间距时。
 
-![Image](@site/static/img/docs/Utility/spacing-unpack.png)
+<div className="patch-container">
+    <div className="patch processor">
+        <h3>Spacing Unpack</h3>
+        <ul className="inputs">
+            <li>Spacing<span></span></li>
+        </ul>
+        <ul className="outputs">
+            <li><span>0</span></li>
+            <li><span>0</span></li>
+        </ul>
+    </div>
+</div>
 
 ### Input 输入
 
