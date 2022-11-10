@@ -35,7 +35,7 @@ Allows for conversion from Apple’s Fluid Spring dynamics values (see SwiftUI) 
 
 ### Input 输入
 
-#### Response 回复
+#### Response 响应
 
 Approximately how long for the spring animation to reach its destination.
 
