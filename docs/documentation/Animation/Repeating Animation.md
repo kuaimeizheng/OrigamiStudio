@@ -7,6 +7,8 @@ last_update:
 
 # Repeating Animation 重复动画
 
+---
+
 Animate a number (ex: position, opacity, scale) repeatedly.
 
 重复数字动画（例如：位置、不透明度、比例）。
@@ -26,7 +28,6 @@ Animate a number (ex: position, opacity, scale) repeatedly.
         </ul>
     </div>
 </div>
-
 
 <div className="port-descriptions">
 <div className="inputs">
@@ -49,19 +50,29 @@ The length, in seconds, of the animation in one direction.
 
 The easing curve to animate with. The options are:
 
-用于动画的缓和曲线。有以下选项:
+用于动画的缓和曲线。
 
-1. Linear
-2. Quadratic In, Out, In & Out
-3. Cubic In, Out, In & Out
-4. Exponential In, Out, In & Out
-5. Sinusoidal In, Out, In & Out
+选项包括：
+
+1. Linear 线性，匀速
+2. Quadratic In 二次方缓入
+3. Quadratic Out 二次缓出
+4. Quadratic In-Out 二次缓入缓出
+5. Cubic In, Out, In & Out 三次缓入
+6. Cubic Out 三次缓出
+7. Cubic In-Out 三次缓入缓出
+8. Exponential In 指数缓入
+9. Exponential Out 指数缓出
+10. Exponential In-Out 指数缓入缓出
+11. Sinusoidal In 正弦缓入
+12. Sinusoidal Out 正弦缓出
+13. Sinusoidal In-Out 正弦缓入缓出
 
 #### Mirrored 镜像
 
 A boolean that makes the animation animate back and forth between 0 and 1. If false, the animation will reset immediately to 0 when it hits 1.
 
-一个布尔值，使动画在0和1之间来回动画。如果为false，动画将在点击 1 时立即重置为 0。
+一个布尔值，使动画在 0 和 1 之间来回动画。如果为 false，动画将在点击 1 时立即重置为 0。
 
 #### Reset 复位
 
@@ -76,9 +87,9 @@ A pulse that returns the animation to the beginning.
 
 #### Progress 进度
 
-A progress value. See [Animation Basics] for more information.
+A progress value. See [Animation Basics](./../PatchEditor/Animations.md) for more information.
 
-一个进度值。更多信息参考 [动画基础](#)。
+一个进度值。更多信息参考 [动画基础](./../PatchEditor/Animations.md)。
 
 </div>
 </div>
@@ -94,4 +105,3 @@ A progress value. See [Animation Basics] for more information.
 [Curve 曲线](./Curve.md)
 
 [Repeating Pulse 重复脉冲](./../Utility/Repeating%20Pulse.md)
-

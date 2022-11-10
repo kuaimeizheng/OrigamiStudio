@@ -7,11 +7,13 @@ last_update:
 
 # Classic Animation 经典动画
 
+---
+
 Animate a number (ex: position, opacity, scale) using a standard animation curve whenever the number is changed.
 
-每当数字改变时，使用标准动画曲线对数值 (例如:位置，不透明度，比例) 进行动画处理。
+每当数字改变时，使用标准动画曲线对数值 (例如：位置，不透明度，比例) 进行动画处理。
 
-See [Animation Basics] for more information.
+See [Animation Basics](./../PatchEditor/Animations.md) for more information.
 
 有关详细信息，请参考 [动画基础](./../PatchEditor/Animations.md)。
 
@@ -57,16 +59,16 @@ The options are:
 选项包括：
 
 1. Linear 线性，匀速
-2. Quadratic In, Out, In & Out 二次方缓入
+2. Quadratic In 二次方缓入
 3. Quadratic Out 二次缓出
 4. Quadratic In-Out 二次缓入缓出
 5. Cubic In, Out, In & Out 三次缓入
 6. Cubic Out 三次缓出
 7. Cubic In-Out 三次缓入缓出
-8. Exponential In, Out, In & Out 指数缓入
+8. Exponential In 指数缓入
 9. Exponential Out 指数缓出
 10. Exponential In-Out 指数缓入缓出
-11. Sinusoidal In, Out, In & Out 正弦缓入
+11. Sinusoidal In 正弦缓入
 12. Sinusoidal Out 正弦缓出
 13. Sinusoidal In-Out 正弦缓入缓出
 
@@ -95,7 +97,7 @@ A number that is tweened with an easing curve as it moves toward the Number inpu
 
 一个数字，当它向数值输入移动时，使用缓和曲线进行补间，
 
-Typically a progress value. See [Animation Basics]for more information.
+Typically a progress value. See [Animation Basics](./../PatchEditor/Animations.md)for more information.
 
 通常是一个进度值，更多信息请参考 [动画基础](./../PatchEditor/Animations.md)。
 
@@ -111,4 +113,3 @@ Typically a progress value. See [Animation Basics]for more information.
 [Repeating Animation 重复动画](./Repeating%20Animation.md)
 
 [Transition 过渡](./../Utility/Transition.md)
-

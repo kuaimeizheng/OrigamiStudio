@@ -7,6 +7,8 @@ last_update:
 
 # Spring Converter 弹性转换器
 
+---
+
 Allows for conversion from Apple’s Fluid Spring dynamics values (see SwiftUI) to either Tension / Friction (for use with [Spring Animation]) or Bounciness / Speed ([Pop Animation])
 
 允许将 Apple 的流体弹簧动力学值（请参阅 SwiftUI）转换为张力/摩擦力（用于弹性动画）或弹力/速度（流行动画）
@@ -27,7 +29,6 @@ Allows for conversion from Apple’s Fluid Spring dynamics values (see SwiftUI) 
         </ul>
     </div>
 </div>
-
 
 <div className="port-descriptions">
 <div className="inputs">

@@ -7,6 +7,8 @@ last_update:
 
 # Spring Animation 弹性动画
 
+---
+
 Creates a animation based on a physically modeled spring. This also allows for interruptible animations by controlling the velocity of the spring.
 
 基于物理建模的弹簧创建动画。这也允许通过控制弹簧的速度来进行可中断的动画。
@@ -92,4 +94,3 @@ The current value of the animation.
 [Pop Animation 流行动画](./Pop%20Animation.md)
 
 [Gesture 手势](./../Interaction/Gesture.md)
-

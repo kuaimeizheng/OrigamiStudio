@@ -44,10 +44,18 @@ The options are:
 选项包括：
 
 1. Linear 线性，匀速
-2. Quadratic In, Out, In & Out 二次方缓入，缓出，缓入缓出
-3. Cubic In, Out, In & Out 三次方缓入，缓处，缓入缓出
-4. Exponential In, Out, In & Out 指数缓入，缓处，缓入缓出
-5. Sinusoidal In, Out, In & Out 正弦缓入，缓处，缓入缓出
+2. Quadratic In 二次方缓入
+3. Quadratic Out 二次缓出
+4. Quadratic In-Out 二次缓入缓出
+5. Cubic In, Out, In & Out 三次缓入
+6. Cubic Out 三次缓出
+7. Cubic In-Out 三次缓入缓出
+8. Exponential In 指数缓入
+9. Exponential Out 指数缓出
+10. Exponential In-Out 指数缓入缓出
+11. Sinusoidal In 正弦缓入
+12. Sinusoidal Out 正弦缓出
+13. Sinusoidal In-Out 正弦缓入缓出
 
 </div>
 <div className="outputs">
@@ -72,4 +80,3 @@ The progress value derived from the new animation curve.
 [Progress 进度](./../Utility/Progress.md)
 
 [Transition 过渡](./../Utility/Transition.md)
-

@@ -1,11 +1,13 @@
 ---
-title: Cubic Bezier Animation 三次贝塞尔动画
+title: Cubic Bezier Curve 三次贝塞尔曲线
 sidebar_position: 5
 last_update:
   author: 蒯美政
 ---
 
 # Cubic Bezier Curve 三次贝塞尔曲线
+
+---
 
 Allows you to define custom animation curves by specifying 2 control points. The cubic bezier curve is normalized, meaning the start point of the curve is always (0,0) and the end is always (1,1).
 
@@ -74,7 +76,7 @@ The progress value derived from the new cubic bezier curve.
 
 从新的三次贝塞尔曲线导出的进度值。
 
-#### 2D Progress 2D进度
+#### 2D Progress 2D 进度
 
 The X, Y position of the input progress on the curve. This can be used to plot the bezier curve.
 
@@ -82,7 +84,6 @@ The X, Y position of the input progress on the curve. This can be used to plot t
 
 </div>
 </div>
-
 
 ---
 
@@ -95,5 +96,3 @@ The X, Y position of the input progress on the curve. This can be used to plot t
 [Progress 进度](./../Utility/Progress.md)
 
 [Transition 过渡](./../Utility/Transition.md)
-
-

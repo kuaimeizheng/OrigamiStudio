@@ -7,6 +7,8 @@ last_update:
 
 # Cubic Bezier Animation 三次贝塞尔动画
 
+---
+
 Allows you to define custom animation curves by specifying 2 control points. The cubic bezier curve is normalized and then scaled based on the number to animate to, meaning the start point of the curve is always (0,0) and the end is always (number,number).
 
 允许您通过指定 2 个控制点来定义自定义动画曲线。三次贝塞尔曲线经过标准化，然后根据要设置动画的数字进行缩放，这意味着曲线的起点始终为 (0,0)，终点始终为 (number,number)。
@@ -34,7 +36,7 @@ Allows you to define custom animation curves by specifying 2 control points. The
 
 ### Input 输入
 
-#### Number  数字
+#### Number 数字
 
 The number to animate to.
 
@@ -101,5 +103,3 @@ The X, Y position of the input progress on the curve. This can be used to plot t
 [Progress 进度](./../Utility/Progress.md)
 
 [Transition 过渡](./../Utility/Transition.md)
-
-
