@@ -1,12 +1,12 @@
 ---
-title: Drag Scale Rotate
+title: Drag Scale Rotate 拖拽缩放旋转
 sidebar_position: 20
 last_update:
   author: 蒯美政
 tags: [interaction]
 ---
 
-# Drag Scale Rotate
+# Drag Scale Rotate 拖拽缩放旋转
 
 ---
 
@@ -35,23 +35,23 @@ tags: [interaction]
 
 ### Input 输入
 
-#### Momentum
+#### Momentum 动力
 
-#### Momentum Friction
+#### Momentum Friction 动力摩擦
 
-#### Clip
+#### Clip 裁剪
 
-#### Rotate
+#### Rotate 旋转
 
 #### Pan
 
-#### Zoom
+#### Zoom  缩放
 
-#### Recording
+#### Recording 记录
 
-#### Zoom Offset
+#### Zoom Offset 缩放偏差
 
-#### Rotate Offset
+#### Rotate Offset 旋转偏差
 
 </div>
 <div className="outputs">
