@@ -8,7 +8,7 @@ Retrieve images and videos from Camera Roll on iOS or Photo Library on macOS
 
 从 iOS 上的相机胶卷或 macOS 上的照片库中检索图像和视频
 
-![Image](./../../../static/img/docs/Media/photo-library.png)
+![Image](@site/static/img/docs/Media/photo-library.png)
 
 ### Sort By 排序方式
 

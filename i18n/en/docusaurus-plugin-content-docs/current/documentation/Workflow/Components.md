@@ -43,7 +43,7 @@ The group of patches above will be replaced by a new single patch component name
 
 上面的一组模块将被一个名为“偶数或奇数”的新模块组件所取代，该组件包含其所连接节点的输入和输出。
 
-![Image](./../../../static/img/docs/Workflow/components-1.png)
+![Image](@site/static/img/docs/Workflow/components-1.png)
 
 _Note: Layer property patches cannot be grouped into a patch component - to build patch groups with layers, use layer components._
 

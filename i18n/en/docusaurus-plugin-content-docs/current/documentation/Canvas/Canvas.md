@@ -49,7 +49,7 @@ To adjust layer properties via patches, click on the property in the inspector, 
 
 要通过模块来调整图层属性，在检查器中单击属性，就会创建一个蓝色的图层属性模块，其中包含图层的名称和一个输入值连接到这的输入端口。
 
-![](./../../../static/img/docs/Canvas/canvas-2.png)
+![](@site/static/img/docs/Canvas/canvas-2.png)
 
 Clicking on the Opacity port on a Rectangle's property will add this patch to the Patch Editor.
 
@@ -63,13 +63,13 @@ If a property has multiple coordinates (ex: Position X/Y, Size W/H), you can cli
 
 如果一个属性有多个坐标值(例如：位置 X/Y，大小 W/H)，你可以点击特定的坐标值，例如：X
 
-![](./../../../static/img/docs/Canvas/canvas-3.png)
+![](@site/static/img/docs/Canvas/canvas-3.png)
 
 … or click on the property as a whole, ex: Position
 
 或者点击整个属性，例如: 位置
 
-![](./../../../static/img/docs/Canvas/canvas-4.png)
+![](@site/static/img/docs/Canvas/canvas-4.png)
 
 Clicking on a property with multiple coordinates (ex: Position, Size, Rotation) will automatically insert a Point patch, which can expose additional coordinates (ex: Z) that aren't shown by default.
 

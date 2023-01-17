@@ -8,7 +8,7 @@ A particle emitter. Configure the specific birthrate, velocity, angle and color 
 
 粒子发射器。设置其生命周期内的特定出生率、速度、角度和颜色变化。添加图像以替换默认的圆形粒子。
 
-![Image](./../../../static/img/docs/Layer/particle-system.png)
+![Image](@site/static/img/docs/Layer/particle-system.png)
 
 ### Enable 启用
 
@@ -48,7 +48,7 @@ The duration a particle lasts, in seconds.
 
 寿命：值越大生存时间越长
 
-![particle-system-1.gif](./../../../static/img/docs/Layer/particle-system-1.gif)
+![particle-system-1.gif](@site/static/img/docs/Layer/particle-system-1.gif)
 
 ### Birthrate 出生率
 
@@ -56,7 +56,7 @@ The number of particles generated.
 
 出生率：值越大数量越多
 
-![particle-system-2.gif](./../../../static/img/docs/Layer/particle-system-2.gif)
+![particle-system-2.gif](@site/static/img/docs/Layer/particle-system-2.gif)
 
 生成的粒子数量。
 
@@ -74,7 +74,7 @@ The base speed of a particle as it flies out.
 
 速度：值越大速度越快，对角度的执行越明显
 
-![particle-system-3.gif](./../../../static/img/docs/Layer/particle-system-3.gif)
+![particle-system-3.gif](@site/static/img/docs/Layer/particle-system-3.gif)
 
 ### Velocity Variance 随机速度范围
 
@@ -90,7 +90,7 @@ The base angle of a particle as it flies out.
 
 角度：对应旋转属性的Z轴方向，0～360度为从三点钟方向开始顺时针旋转一周
 
-![particle-system-4.gif](./../../../static/img/docs/Layer/particle-system-4.gif)
+![particle-system-4.gif](@site/static/img/docs/Layer/particle-system-4.gif)
 
 ### Angle Range 随机角度范围
 
@@ -100,7 +100,7 @@ A number that represents the range of randomized angles of a particle.
 
 随机角度范围：0～360之间的数，数字控制范围，不区分正负值
 
-![particle-system-5.gif](./../../../static/img/docs/Layer/particle-system-5.gif)
+![particle-system-5.gif](@site/static/img/docs/Layer/particle-system-5.gif)
 
 ### Acceleration 加速度
 
@@ -110,13 +110,13 @@ A vector that represents the acceleration of particles in each axis.
 
 加速度：XYZ轴的正负值控制方向，数字的大小控制速度快慢
 
-![particle-system-6.gif](./../../../static/img/docs/Layer/particle-system-6.gif)
+![particle-system-6.gif](@site/static/img/docs/Layer/particle-system-6.gif)
 
 补充：
 
 “速度+角度”控制出生的速度和角度，“加速度”控制消亡的速度和角度，三个属性相互影响。
 
-![particle-system-7.gif](./../../../static/img/docs/Layer/particle-system-7.gif)
+![particle-system-7.gif](@site/static/img/docs/Layer/particle-system-7.gif)
 
 ### Delta 大小增量
 
@@ -126,7 +126,7 @@ A number that represents the range of randomized sizes of a particle.
 
 大小增量：0为不放大不缩小，负数为缩小，正数为放大
 
-![particle-system-8.gif](./../../../static/img/docs/Layer/particle-system-8.gif)
+![particle-system-8.gif](@site/static/img/docs/Layer/particle-system-8.gif)
 
 ### Image 图像
 
@@ -136,7 +136,7 @@ An image that replaces the default circle as the particle.
 
 图片的 Color 无法改变，Color Change 只能调整透明度；双击Image 的值添加图片；选中 Image 的值按 Del 删除图片。
 
-![Image](./../../../static/img/docs/Layer/particle-system-example.jpg)
+![Image](@site/static/img/docs/Layer/particle-system-example.jpg)
 
 ------
 

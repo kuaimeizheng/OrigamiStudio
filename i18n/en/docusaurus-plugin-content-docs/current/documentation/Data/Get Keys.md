@@ -11,7 +11,7 @@ Returns all of the keys within a JSON object.
 
 返回JSON对象中的所有键。
 
-![Image](./../../../static/img/docs/Data/get-keys.png)
+![Image](@site/static/img/docs/Data/get-keys.png)
 
 ### Object 对象
 

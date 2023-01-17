@@ -11,7 +11,7 @@ Access accelerometer and gyroscope information from the phone, tablet, or comput
 
 从手机，平板电脑或计算机访问加速度和陀螺信息。
 
-![Image](./../../../static/img/docs/Device/device-motion.png)
+![Image](@site/static/img/docs/Device/device-motion.png)
 
 ### Has Acceleration 有加速
 

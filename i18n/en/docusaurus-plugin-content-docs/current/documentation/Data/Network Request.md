@@ -15,7 +15,7 @@ Right-click to change the type (image, JSON, or text) of the request.
 
 右键单击以更改请求的类型（图像、JSON 或文本）。
 
-![Image](./../../../static/img/docs/Data/network-request.png)
+![Image](@site/static/img/docs/Data/network-request.png)
 
 ### URL 链接
 

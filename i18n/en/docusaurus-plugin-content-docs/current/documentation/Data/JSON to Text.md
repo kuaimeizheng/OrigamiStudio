@@ -11,7 +11,7 @@ Formats any JSON value into a text string to be used with a Text Layer for debug
 
 将任何JSON值格式化为一个文本字符串，用文本图层进行测试。
 
-![Image](./../../../static/img/docs/Data/json-to-text.png)
+![Image](@site/static/img/docs/Data/json-to-text.png)
 
 ### Input 输入
 

@@ -12,7 +12,7 @@ Use the Touch button on the component to get information about the selected tab.
 
 使用组件上的触摸按钮获取有关所选选项卡的信息。
 
-![Image](./../../../static/img/docs/iOS/tab-bar.png)
+![Image](@site/static/img/docs/iOS/tab-bar.png)
 
 ### Enable 启用
 

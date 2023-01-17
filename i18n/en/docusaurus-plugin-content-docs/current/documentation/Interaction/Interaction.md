@@ -19,7 +19,7 @@ Use the Touch button on a layer to quickly add interactions.
 
 使用图层上的 Touch触摸 按钮快速添加交互。
 
-![Image](./../../../static/img/docs/Interaction/interaction.png)
+![Image](@site/static/img/docs/Interaction/interaction.png)
 
 ### Layer 图层
 

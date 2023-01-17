@@ -15,7 +15,7 @@ Right-click to change the type of value.
 
 右键单击可以更改值的类型，
 
-![Image](./../../../static/img/docs/Data/json-object.png)
+![Image](@site/static/img/docs/Data/json-object.png)
 
 ### Key 键
 

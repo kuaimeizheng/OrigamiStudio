@@ -11,7 +11,7 @@ Play from a collection of UI sound effects. For expanded descriptions and docume
 
 从一组 UI 音效中播放。如需详细说明和文档，请访问 Facebook 设计资源。
 
-![Image](./../../../static/img/docs/Device/sound-kit.png)
+![Image](@site/static/img/docs/Device/sound-kit.png)
 
 ### Sound 声音
 

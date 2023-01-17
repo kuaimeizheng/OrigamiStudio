@@ -21,7 +21,7 @@ Right-click to add more values, or change the type (ex: number, position, rotati
 
 右键单击可添加更多值，或更改类型（例如：数值、位置、旋转）。
 
-![Image](./../../../static/img/docs/Math/mod.png)
+![Image](@site/static/img/docs/Math/mod.png)
 
 ### Input 输入
 

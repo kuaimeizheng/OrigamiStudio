@@ -17,7 +17,7 @@ See [Wikipedia](https://en.wikipedia.org/wiki/Trigonometric_functions) for more 
 
 有关详细信息，请参阅[百度百科](https://link.jianshu.com/?t=http://baike.baidu.com/link?url=LHHVermrOYp8XKHATVvRg21Vj4eRaCXqGk6RoMr0_0rDuUUbseZeTiQIiRIBGbTHugB_2noAlJhOXBqO5L9NF31T669u77XzjiBM7X1XGELJgca6XgAsz0sNsWxNluEePz5-lfBVeMDS3Zho-q2vwa)。
 
-![Image](./../../../static/img/docs/Math/arctangent.png)
+![Image](@site/static/img/docs/Math/arctangent.png)
 
 ### Y
 

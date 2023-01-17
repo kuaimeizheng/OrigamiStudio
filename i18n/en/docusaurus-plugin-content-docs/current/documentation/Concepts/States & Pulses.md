@@ -82,7 +82,7 @@ There are a couple ways to create a pulse from state. The more explicit way is t
 
 [Pulse](./../Utility/Pulse.md)模块接受一个称为 On / Off 的状态，并在状态打开时在 Turned On 端口输出脉冲，当状态关闭时，将输出 Turned Off 端口的脉冲。 这是在用户触摸屏幕的瞬间切换开关的示例。
 
-![Image](./../../../static/img/docs/Concepts/states-pulses-3.png)
+![Image](@site/static/img/docs/Concepts/states-pulses-3.png)
 
 Another way is to infer a state change is to connect a state directly to a port accepting a pulse. What’ll happen is the port that accepts a pulse will look to when the state changes from off to on, and at that moment infer a pulse. So if you wanted a switch to flip when the user’s finger touches down on the screen, you can connect the Down port directly to the Switch’s Flip port, without needing to use a Pulse patch.
 
@@ -104,4 +104,4 @@ The Delay patch can take state that’s changing and delay the change by an amou
 
 Delay 模块可以采取正在更改的状态，并将更改延迟时间设置为指定的值。还可以定义类型是有操作就激活，还是只在关闭到打开或打开到关闭时更改。
 
-![Image](./../../../static/img/docs/Concepts/states-pulses-4.png)
+![Image](@site/static/img/docs/Concepts/states-pulses-4.png)

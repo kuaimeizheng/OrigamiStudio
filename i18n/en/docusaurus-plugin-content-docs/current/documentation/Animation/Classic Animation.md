@@ -72,15 +72,15 @@ The options are:
 
 曲线动画参考：
 
-![曲线 In ：慢 ➔ 快](./../../../static/img/docs/Animation/classic-animation-1.gif)
+![曲线 In ：慢 ➔ 快](@site/static/img/docs/Animation/classic-animation-1.gif)
 
 曲线 In ：慢 ➔ 快
 
-![曲线 Out ：快 ➔ 慢](./../../../static/img/docs/Animation/classic-animation-2.gif)
+![曲线 Out ：快 ➔ 慢](@site/static/img/docs/Animation/classic-animation-2.gif)
 
 曲线 Out ：快 ➔ 慢
 
-![曲线 In & Out ：慢 ➔ 快 ➔ 慢](./../../../static/img/docs/Animation/classic-animation-3.gif)
+![曲线 In & Out ：慢 ➔ 快 ➔ 慢](@site/static/img/docs/Animation/classic-animation-3.gif)
 
 曲线 In & Out ：慢 ➔ 快 ➔ 慢
 

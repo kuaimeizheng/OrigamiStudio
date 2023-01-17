@@ -17,7 +17,7 @@ Right-click to multiply more values, or change the type (ex: number, position, r
 
 右键可选择输入接口数，或更改输入接口接入值类型（例如：数字，坐标，角度）。
 
-![Image](./../../../static/img/docs/Math/x.png)
+![Image](@site/static/img/docs/Math/x.png)
 
 ### Input 输入
 

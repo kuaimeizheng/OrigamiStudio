@@ -11,7 +11,7 @@ Play any sound or music file.
 
 播放任意声音或音乐文件。
 
-![Image](./../../../static/img/docs/Device/sound-player.png)
+![Image](@site/static/img/docs/Device/sound-player.png)
 
 ### Sound 声音
 

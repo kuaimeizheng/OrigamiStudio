@@ -11,7 +11,7 @@ Access the haptic engine on a macOS trackpad.
 
 在macOS触控板上访问触觉引擎。
 
-![Image](./../../../static/img/docs/Device/trackpad-haptic.png)
+![Image](@site/static/img/docs/Device/trackpad-haptic.png)
 
 ### PlaY
 

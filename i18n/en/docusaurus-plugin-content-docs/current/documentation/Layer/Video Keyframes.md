@@ -8,7 +8,7 @@ A layer that can play output of the Keyframes Exporter as a video. [Keyframes](h
 
 一个图层，可以将 Keyframes Exporter的输出作为视频播放的。 Keyframes 是一个库，用于将Adobe After Effects基于形状的动画转换为数据格式，以便在iOS和Android设备上进行渲染。
 
-![Image](./../../../static/img/docs/Layer/video-keyframes.png)
+![Image](@site/static/img/docs/Layer/video-keyframes.png)
 
 ### Enable 启用
 

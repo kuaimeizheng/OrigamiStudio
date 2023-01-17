@@ -8,7 +8,7 @@ Create a customizable circular progress layer.
 
 创建一个可自定义的圆形进度图层。
 
-![Image](./../../../static/img/docs/Layer/progress-ring.png)
+![Image](@site/static/img/docs/Layer/progress-ring.png)
 
 ### Enable 启用
 

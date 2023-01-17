@@ -11,7 +11,7 @@ Access the buttons on a phone or tablet. Currently supports the Android back but
 
 访问手机或平板电脑上的按钮。目前支持 Android 的 Back 按钮。
 
-![Image](./../../../static/img/docs/Device/device-buttons.png)
+![Image](@site/static/img/docs/Device/device-buttons.png)
 
 ### Back 返回
 

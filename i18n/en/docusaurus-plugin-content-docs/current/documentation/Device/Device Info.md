@@ -11,7 +11,7 @@ Access information about the simluated or connected phone, tablet or computer.
 
 访问有关模拟或连接的手机、平板电脑或计算机的信息。
 
-![Image](./../../../static/img/docs/Device/device-info.png)
+![Image](@site/static/img/docs/Device/device-info.png)
 
 ### Screen Size 屏幕尺寸
 

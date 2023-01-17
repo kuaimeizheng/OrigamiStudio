@@ -11,7 +11,7 @@ Captures clicks on the back and forward buttons when using the [Browser Chrome](
 
 使用 Brower Chrome 模块时，可以捕捉浏览器中点击后退按钮和前进按钮的事件。
 
-![Image](./../../../static/img/docs/Device/browser-buttons.png)
+![Image](@site/static/img/docs/Device/browser-buttons.png)
 
 ### Back 后退
 

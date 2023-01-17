@@ -23,7 +23,7 @@ Right-click to add additional values.
 
 右键单击可以添加更多值。
 
-![Image](./../../../static/img/docs/Data/json-array.png)
+![Image](@site/static/img/docs/Data/json-array.png)
 
 ### Input 输入
 

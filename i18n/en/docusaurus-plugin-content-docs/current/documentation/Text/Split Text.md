@@ -56,7 +56,7 @@ A loop of the parts of the text split by the token. The entire text will be retu
 
 Output 输出将输出循环为：[这是] [文本]。
 
-![Image](./../../../static/img/docs/Text/split-text-example.png)
+![Image](@site/static/img/docs/Text/split-text-example.png)
 
 ---
 

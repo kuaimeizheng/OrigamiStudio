@@ -15,7 +15,7 @@ For advanced iOS-only haptic engine, see the [Haptic](./Haptic.md) patch.
 
 如需iOS专属高级触觉引擎，见 [Haptic](./Haptic.md) 模块。
 
-![Image](./../../../static/img/docs/Device/vibrate.png)
+![Image](@site/static/img/docs/Device/vibrate.png)
 
 ### Input 输入
 

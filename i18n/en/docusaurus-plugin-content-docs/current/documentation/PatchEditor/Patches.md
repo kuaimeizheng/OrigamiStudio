@@ -18,7 +18,7 @@ last_update:
 
 包括简单的数学模块：
 
-![](./../../../static/img/docs/PatchEditor/patches-1.png)
+![](@site/static/img/docs/PatchEditor/patches-1.png)
 
 [+]模块在左边端口接收两个数字输入，在右边输出它们的和。例如：2 + 3 = 5。
 
@@ -26,19 +26,19 @@ last_update:
 
 添加图层[interactions 交互](./../Interaction/Interaction.md) 的模块:
 
-![](./../../../static/img/docs/PatchEditor/patches-2.png)
+![](@site/static/img/docs/PatchEditor/patches-2.png)
 
 [Interaction 交互](./../Interaction/Interaction.md)模块在图层的查看器上输出关于触摸的信息。当手指按下选择的图层时，在 down 端口输出 ✓。
 
 管理状态的模块：
 
-![](./../../../static/img/docs/PatchEditor/patches-3.png)
+![](@site/static/img/docs/PatchEditor/patches-3.png)
 
 [Switch](./../Utility/Switch.md) 开关模块可以通过左边的输入端口设置打开或关闭，右边输出当前开关状态。
 
 控制图层属性的模块：
 
-![](./../../../static/img/docs/PatchEditor/patches-4.png)
+![](@site/static/img/docs/PatchEditor/patches-4.png)
 
 点击图层检查器中的任何属性添加图层属性模块。这个模块控制一个矩形图层是否 显示/隐藏。
 
@@ -90,7 +90,7 @@ last_update:
 
 在下面的例子中，三个不同的模块通过连接到各自端口的连线相互传递值。这些模块组合在一起表示了一种打开和关闭图层的交互。
 
-![](./../../../static/img/docs/PatchEditor/patches-5.png)
+![](@site/static/img/docs/PatchEditor/patches-5.png)
 
 ---
 

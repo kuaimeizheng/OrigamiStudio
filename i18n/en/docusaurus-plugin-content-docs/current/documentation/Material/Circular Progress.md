@@ -8,7 +8,7 @@ A Material circular progress indicator with customizable colors, size, and anima
 
 具有可自定义颜色、大小和动画的 Material 圆形进度指示器。
 
-![Image](./../../../static/img/docs/Material/circular-progress.png)
+![Image](@site/static/img/docs/Material/circular-progress.png)
 
 ### Enable 启用
 

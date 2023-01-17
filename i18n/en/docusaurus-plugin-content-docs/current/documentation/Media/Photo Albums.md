@@ -8,7 +8,7 @@ Retrieve album information from Camera Roll on iOS or Photo Library on macOS
 
 从iOS上的Camera Roll或macOS上的Photo Library中检索相册信息
 
-![Image](./../../../static/img/docs/Media/photo-albums.png)
+![Image](@site/static/img/docs/Media/photo-albums.png)
 
 ### Sort By 排序方式
 
