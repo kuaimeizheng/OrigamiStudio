@@ -199,11 +199,11 @@ const config = {
               label: '官方文档',
               position: 'right',
             },
-          {
-            href: 'https://github.com/kuaimeizheng/OrigamiStudio',
-            label: 'GitHub',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://github.com/kuaimeizheng/OrigamiStudio',
+          //   label: 'GitHub',
+          //   position: 'right',
+          // },
         ],
       },
 
