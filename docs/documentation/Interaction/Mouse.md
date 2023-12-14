@@ -15,7 +15,7 @@ Use [Interaction](./Interaction.md) instead if you want clicks on a specific lay
 
 如果您想点击指定图层，请改用“交互”。
 
-![Image](./../../../static/img/docs/Interaction/mouse.png)
+![Image](@site/static/img/docs/Interaction/mouse.png)
 
 ### Left 左键
 

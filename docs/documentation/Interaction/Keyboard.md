@@ -15,7 +15,7 @@ Use a [Material Text Field](./../Material/Text%20Field.md) or [iOS Text Field](.
 
 使用Material Text Field或iOS Text Field作为自由文本输入。
 
-![Image](./../../../static/img/docs/Interaction/keyboard.png)
+![Image](@site/static/img/docs/Interaction/keyboard.png)
 
 ### Key 键
 

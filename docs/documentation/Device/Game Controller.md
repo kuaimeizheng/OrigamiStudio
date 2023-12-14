@@ -11,7 +11,7 @@ Control your prototype using any [MFI-compatible](https://developer.apple.com/pr
 
 使用任何兼容 MFI 的游戏控制器控制您的原型。支持 Game Pad 和 Extended Game Pad 配置文件。 Micro Game Pad 配置文件在 macOS 上不可用。
 
-![Image](./../../../static/img/docs/Device/game-controller.png)
+![Image](@site/static/img/docs/Device/game-controller.png)
 
 ### Connected 连接
 

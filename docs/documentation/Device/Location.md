@@ -11,7 +11,7 @@ Gets the current location of the device (using its GPS) and returns coordinates 
 
 获取设备的当前位置（使用其 GPS）并以纬度和经度的形式返回坐标。连接到 [Map Layer](./../Layer/Map.md) 以可视化位置。
 
-![Image](./../../../static/img/docs/Device/location.png)
+![Image](@site/static/img/docs/Device/location.png)
 
 ### Override 覆盖
 
@@ -19,7 +19,7 @@ Override the current location with one from a list of places from around the wor
 
 使用来自世界各地的地点列表中的一个覆盖当前位置。
 
-![Image](./../../../static/img/docs/Device/location-item.png)
+![Image](@site/static/img/docs/Device/location-item.png)
 
 ### Latitude 纬度
 

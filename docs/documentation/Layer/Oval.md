@@ -8,7 +8,7 @@ An oval of specific size and fill color.
 
 具有特定大小和填充颜色的椭圆形。
 
-![Image](./../../../static/img/docs/Layer/oval.png)
+![Image](@site/static/img/docs/Layer/oval.png)
 
 ### Enable 启用
 

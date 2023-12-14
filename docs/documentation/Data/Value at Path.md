@@ -22,7 +22,7 @@ Starting the path with two dots will get a recursive search for the following va
 
 以两个点开始的路径将递归搜索以下值，例如“..title”将获取键“title”的所有值，无论它们在 JSON 对象中有多深。
 
-![Image](./../../../static/img/docs/Data/value-at-path.png)
+![Image](@site/static/img/docs/Data/value-at-path.png)
 
 ### Object 对象
 

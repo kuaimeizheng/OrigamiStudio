@@ -13,7 +13,7 @@ Drag a layer in any direction. Choose the layer to drag and then connect the Pos
 
 沿任何方向拖动一层。选择要拖动的图层，然后将 位置 输出端口连接到图层的 位置 端口。
 
-![Image](./../../../static/img/docs/Interaction/drag.png)
+![Image](@site/static/img/docs/Interaction/drag.png)
 
 ### Enable 启用
 

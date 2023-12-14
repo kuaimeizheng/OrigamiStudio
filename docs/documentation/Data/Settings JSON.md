@@ -11,7 +11,7 @@ Create a JSON object from input ports to create a Settings patch like [Scroll Se
 
 从输入端口创建 JSON 对象以创建设置模块，例如 [Scroll Settings 滚动设置](../Interaction/Scroll%20Settings) 或 [Drag Settings 拖动设置](../Interaction/Drag%20Settings)。使用 “.” 键取消链接模块，并使用模块信息弹窗编辑输入端口。了解有关从库取消链接和编辑模块端口的更多信息。
 
-![Image](./../../../static/img/docs/Data/settings-json.png)
+![Image](@site/static/img/docs/Data/settings-json.png)
 
 ### Foo
 

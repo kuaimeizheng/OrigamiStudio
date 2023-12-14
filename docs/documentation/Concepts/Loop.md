@@ -81,7 +81,7 @@ https://origami.design/public/images/videos/group_into_component.mp4
 
 循环也可以通过使用 [Loop Over Array 数组遍历](./../Loops/Loop%20Over%20Array.md)模块从数组中创建。这一般用于使用[Network Request 网络请求](./../Data/Network%20Request.md)模块处理 web API 数据源。
 
-![Image](./../../../static/img/docs/Concepts/loop-1.png)
+![Image](@site/static/img/docs/Concepts/loop-1.png)
 
 Nested arrays to Loops of Loops 嵌套数组到循环的循环
 
@@ -99,7 +99,7 @@ https://origami.design/public/images/videos/multiple_loops.mp4
 
 当我们在 Origami 中创建一个组件时，组件信息弹窗允许我们设置连接的循环在组件上有什么特性。
 
-![Image](./../../../static/img/docs/Concepts/loop-2.png)
+![Image](@site/static/img/docs/Concepts/loop-2.png)
 
 ### Loop Behavior 循环特性
 
@@ -117,7 +117,7 @@ https://origami.design/public/images/videos/loop_of_loops.mp4
 
 构建循环组件的另一种方法是使用带有嵌套数组的 [Loop Over Array 数组遍历](./../Loops/Loop%20Over%20Array.md) 模块。这一般用于处理包含多维数组的 web API 的数据。
 
-![Image](./../../../static/img/docs/Concepts/loop-3.png)
+![Image](@site/static/img/docs/Concepts/loop-3.png)
 
 Nested arrays to Loops of Loops
 
@@ -129,7 +129,7 @@ Nested arrays to Loops of Loops
 
 比如在之前的循环组件中添加一个点击输出，这将输出一个包含 25 个脉冲输出的扁平循环，因为 5 x 5 等于 25。
 
-![Image](./../../../static/img/docs/Concepts/loop-4.png)
+![Image](@site/static/img/docs/Concepts/loop-4.png)
 
 Looped Component Outputs 循环组件输出
 

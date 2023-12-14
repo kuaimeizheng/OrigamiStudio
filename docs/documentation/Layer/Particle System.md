@@ -8,7 +8,7 @@ A particle emitter. Configure the specific birthrate, velocity, angle and color 
 
 粒子发射器。设置其生命周期内的特定出生率、速度、角度和颜色变化。添加图像以替换默认的圆形粒子。
 
-![Image](./../../../static/img/docs/Layer/particle-system.png)
+![Image](@site/static/img/docs/Layer/particle-system.png)
 
 ### Enable 启用
 
@@ -136,7 +136,7 @@ An image that replaces the default circle as the particle.
 
 图片的 Color 无法改变，Color Change 只能调整透明度；双击Image 的值添加图片；选中 Image 的值按 Del 删除图片。
 
-![Image](./../../../static/img/docs/Layer/particle-system-example.jpg)
+![Image](@site/static/img/docs/Layer/particle-system-example.jpg)
 
 ------
 

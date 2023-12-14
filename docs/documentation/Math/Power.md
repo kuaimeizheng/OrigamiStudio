@@ -19,7 +19,7 @@ Right-click to add ports for additional exponents to chain, or change the type (
 
 右键选择更多的端口数量，或更改类型（例如：数字，位置，角度）。
 
-![Image](./../../../static/img/docs/Math/power.png)
+![Image](@site/static/img/docs/Math/power.png)
 
 ### Input 输入
 

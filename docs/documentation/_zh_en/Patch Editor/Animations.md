@@ -36,7 +36,7 @@ This example below will scale a Layer from 0 to 1 (or 0% to 100%) when you touch
 
 下面的示例将在您按下时将图层从 0 缩放到 1（或 0% 到 100%），并带有反转且有弹性的动画：
 
-![Image](./../../../static/img/docs/PatchEditor/animations-1.png)
+![Image](@site/static/img/docs/PatchEditor/animations-1.png)
 
 ## Transitions 过渡
 
@@ -48,7 +48,7 @@ Animating from 0 to 1 is simple, but what about animating between other values?
 
 转换模块可以让你将 0/1 转换为任何 开始/结束值:
 
-![Image](./../../../static/img/docs/PatchEditor/animations-2.png)
+![Image](@site/static/img/docs/PatchEditor/animations-2.png)
 
 For example, if you want to animate a Layer’s width from 100px to 200px. You would specify a Start Value of 100, and an End Value of 200. In combination with the animated 0 to 1 value from above, you can easily animate a Layer’s width.
 
@@ -58,25 +58,25 @@ With a Progress of 0:
 
 进度为 0 时:
 
-![Image](./../../../static/img/docs/PatchEditor/animations-3.png)
+![Image](@site/static/img/docs/PatchEditor/animations-3.png)
 
 With a Progress of .5:
 
 进度为 0.5 时:
 
-![Image](./../../../static/img/docs/PatchEditor/animations-4.png)
+![Image](@site/static/img/docs/PatchEditor/animations-4.png)
 
 With a Progress of 1:
 
 进度为 1 时:
 
-![Image](./../../../static/img/docs/PatchEditor/animations-5.png)
+![Image](@site/static/img/docs/PatchEditor/animations-5.png)
 
 In combination with an animation patch, you can now animate between any two values easily:
 
 结合动画模块，您现在可以轻松地在任意两个值之间制作动画：
 
-![Image](./../../../static/img/docs/PatchEditor/animations-6.png)
+![Image](@site/static/img/docs/PatchEditor/animations-6.png)
 
 ---
 

@@ -12,7 +12,7 @@ Use the Touch button on the component to get information about the slider.
 
 使用组件上的触摸按钮获取有关滑块的信息。
 
-![Image](./../../../static/img/docs/iOS/slider.png)
+![Image](@site/static/img/docs/iOS/slider.png)
 
 ### Enable 启用
 

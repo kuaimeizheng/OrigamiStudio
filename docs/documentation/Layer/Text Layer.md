@@ -8,7 +8,7 @@ Display text. The alignment, size, font, and all other standard attributes of te
 
 显示文字。文本的对齐方式、大小、字体和所有其他标准属性都可以在该层上进行设置。
 
-![Image](./../../../static/img/docs/Layer/text-layer.png)
+![Image](@site/static/img/docs/Layer/text-layer.png)
 
 ### Enable 启用
 

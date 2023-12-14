@@ -12,7 +12,7 @@ Right-click the patch to add additional inputs for shapes.
 
 右键单击模块以添加形状的其他输入。
 
-![Image](./../../../static/img/docs/Shapes/union.png)
+![Image](@site/static/img/docs/Shapes/union.png)
 
 ### Input 输入
 

@@ -76,7 +76,7 @@ Allows you to build prototypes using Apple’s Peek/Pop 3D Touch feature from iO
 
 ### ### Sample 示例
 
-![Image](./../../../static/img/docs/Interaction/peek-pop-example.png)
+![Image](@site/static/img/docs/Interaction/peek-pop-example.png)
 
 如图：
 

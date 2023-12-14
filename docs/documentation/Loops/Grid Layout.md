@@ -13,7 +13,7 @@ Repeat a layer or group in a list or grid. Evenly divides the total grid width b
 
 在列表或网格中重复图层或组。将总网格宽度平均除以列数，以快速调整项目的大小和位置。
 
-![Image](./../../../static/img/docs/Loops/grid-layout.png)
+![Image](@site/static/img/docs/Loops/grid-layout.png)
 
 ### Index 索引
 

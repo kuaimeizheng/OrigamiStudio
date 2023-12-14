@@ -17,7 +17,7 @@ Create multiple outputs by entering multiple expressions separated by semicolons
 
 通过输入以分号分隔的多个表达式来创建多个输出。可以通过在表达式前添加“&lt;name&gt; =”来命名输出，其中 &lt;name&gt; 是输出的名称。
 
-![Image](./../../../static/img/docs/Math/math-expression.png)
+![Image](@site/static/img/docs/Math/math-expression.png)
 
 ---
 

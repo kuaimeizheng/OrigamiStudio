@@ -17,7 +17,7 @@ Right-click to add more values, or change the type (ex: number, position, rotati
 
 比较两个或多个值并输出最大值。虽然模块的默认类型是数字，但它也可以用于比较位置，点，颜色和索引值。
 
-![Image](./../../../static/img/docs/Math/max.png)
+![Image](@site/static/img/docs/Math/max.png)
 
 ### Input 输入
 

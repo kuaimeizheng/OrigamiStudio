@@ -11,7 +11,7 @@ Get a subset of items from an array.
 
 从数组中获取项目的子集。
 
-![Image](./../../../static/img/docs/Data/subarray.png)
+![Image](@site/static/img/docs/Data/subarray.png)
 
 ### Array 数组
 

@@ -13,7 +13,7 @@ Access information about text inputs. Used with Text Field on iOS and Android.
 
 访问有关文本输入的信息。与 iOS 和 Android 上的文本字段一起使用。
 
-![Image](./../../../static/img/docs/Text/text-input-info.png)
+![Image](@site/static/img/docs/Text/text-input-info.png)
 
 ### Editing 编辑
 

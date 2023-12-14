@@ -15,7 +15,7 @@ Use the Touch button on a layer to quickly add interactions.
 
 使用触摸按钮在图层上面快速添加交互
 
-![Image](./../../../static/img/docs/Interaction/pop-switch.png)
+![Image](@site/static/img/docs/Interaction/pop-switch.png)
 
 ### Enable 启用
 

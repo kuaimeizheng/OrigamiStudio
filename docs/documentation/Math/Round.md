@@ -13,7 +13,7 @@ Round a number.
 
 四舍五入数字。
 
-![Image](./../../../static/img/docs/Math/round.png)
+![Image](@site/static/img/docs/Math/round.png)
 
 ### Input
 

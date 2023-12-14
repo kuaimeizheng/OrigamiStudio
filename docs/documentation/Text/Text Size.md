@@ -13,7 +13,7 @@ Measure the size of some text. This is done on the same device as the comp is ru
 
 测量一些文本的大小。使用的字体要确保和原型在同一台电脑上运行。
 
-![Image](./../../../static/img/docs/Text/text-size.png)
+![Image](@site/static/img/docs/Text/text-size.png)
 
 ### Text 文本
 

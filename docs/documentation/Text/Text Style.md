@@ -17,7 +17,7 @@ Use [Text Style Builder](./Text%20Style%20Builder.md) to combine with multiple T
 
 使用文本样式生成器与多个文本样式模块组合。
 
-![Image](./../../../static/img/docs/Text/text-style.png)
+![Image](@site/static/img/docs/Text/text-style.png)
 
 ### Range Start 范围开始
 

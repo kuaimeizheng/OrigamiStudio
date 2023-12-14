@@ -32,7 +32,7 @@ https://origami.design/public/images/videos/even-or-odd.mp4
 
 上面的一组模块将被一个名为 “Even or Odd 偶数或奇数” 的新模块组件所取代，该组件包含其所连接节点的输入和输出。
 
-![Image](./../../../static/img/docs/Workflow/components-1.png)
+![Image](@site/static/img/docs/Workflow/components-1.png)
 
 注意：图层属性模块不能被组合到一个模块组件中——要用图层构建模块组件，请使用图层组件。
 

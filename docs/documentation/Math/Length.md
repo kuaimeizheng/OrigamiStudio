@@ -17,7 +17,7 @@ Right-click to change the type (ex: number, position, rotation).
 
 右键更改输入接口接入值类型（例如：数字，坐标，角度）。
 
-![Image](./../../../static/img/docs/Math/length.png)
+![Image](@site/static/img/docs/Math/length.png)
 
 ### Input 输入
 

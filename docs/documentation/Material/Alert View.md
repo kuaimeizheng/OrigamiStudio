@@ -15,7 +15,7 @@ Use the Touch button on the component to get the tap events on the buttons.
 
 使用组件上的 Touch 按钮来获取按钮上的点击事件。
 
-![Image](./../../../static/img/docs/Material/alert-view.png)
+![Image](@site/static/img/docs/Material/alert-view.png)
 
 ### Present 出现
 

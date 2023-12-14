@@ -13,7 +13,7 @@ last_update:
 
 您可以插入单个 [Math Expression](./../Math/Math%20Expression.md) 模块，输入要计算的表达式，并连接其输入和输出，而不是为每个计算操作添加模块并将它们连接在一起。下面是一个简单的例子:
 
-![Image](./../../../static/img/docs/Concepts/math-expressions-1.png)
+![Image](@site/static/img/docs/Concepts/math-expressions-1.png)
 
 ---
 
@@ -37,7 +37,7 @@ last_update:
 distance = Math.sqrt((x2-x1) 2 + (y2-y1) 2)
 ```
 
-![Image](./../../../static/img/docs/Concepts/math-expressions-3.png)
+![Image](@site/static/img/docs/Concepts/math-expressions-3.png)
 
 通过编写用分号分隔的多个表达式，创建一个带有多个输出的模块:
 
@@ -45,4 +45,4 @@ distance = Math.sqrt((x2-x1) 2 + (y2-y1) 2)
 quotient 商数 = a/b; remainder 余数 = a % b
 ```
 
-![Image](./../../../static/img/docs/Concepts/math-expressions-4.png)
+![Image](@site/static/img/docs/Concepts/math-expressions-4.png)
