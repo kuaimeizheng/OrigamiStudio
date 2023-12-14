@@ -8,6 +8,7 @@ on:
       - main
     paths:
       - '.github/workflows/deploy.yml'
+      - 'package.json'
       - 'build/**'
       - 'docs/**'
 #      - 'learn/**'
