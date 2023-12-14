@@ -13,7 +13,7 @@ const config = {
   title: 'Origami 研习社',
   tagline: 'Origami 中文文档&使用手册&教程',
   url: 'https://kuaimeizheng.github.io',
-  baseUrl: '/OrigamiStudio/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
