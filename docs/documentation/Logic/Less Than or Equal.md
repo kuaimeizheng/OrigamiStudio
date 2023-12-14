@@ -13,11 +13,11 @@ Check if a value is less than or equal to another.
 
 检查一个值是否小于或等于其它的值。
 
-Each value is compared to the next one in order, and results are combined in one output. For example, 1 <= 1 <= 3 is true, while 3 <= 3 <= 1 is false.
+Each value is compared to the next one in order, and results are combined in one output. For example, `1 <= 1 <= 3` is true, while `3 <= 3 <= 1` is false.
 
 每个值按顺序与下一个值进行比较，结果合并在一个输出中。
 
-例：1 <= 1 <= 3 为真，而 3 <= 3 <= 1 为假。
+例：`1 <= 1 <= 3` 为真，而 `3 <= 3 <= 1` 为假。
 
 Right-click to add more values to compare, or change the type (ex: number, index, boolean).
 

@@ -27,34 +27,34 @@ Origami Studio 提供了常用功能的快捷键。 熟记模块的的快捷方�
 
 提示：悬停或选中一个模块的输出端口，再通过快捷键添加新模块可以快速将两个模块连接起来。
 
-| 快捷键 | 英文                 | 中文       |
-| :----- | :------------------- | :--------- |
-| I      | Interaction          | 添加交互   |
-| S      | Switch               | 开关       |
-| A      | Pop Animation        | 弹性动画   |
-| C      | Classic Animation    | 经典动画   |
-| T      | Transition           | 过渡       |
-| K      | Keyboard             | 键盘       |
-| D      | Delay                | 延迟       |
-| ⇧ I    | Option Switch        | 选项开关   |
-| O      | Option Picker        | 选项选择器 |
-| X      | Splitter             | 分离器     |
-| W      | Wireless Broadcaster | 无线发送器 |
-| ⇧ W    | Wireless Receiver    | 无线接收器 |
-| U      | Pulse                | 脉冲       |
-| +      | Add                  | 加法       |
-| -      | Minus                | 减法       |
-| \*     | Multiple             | 乘法       |
-| /      | Divide               | 除法       |
-| %      | Modulus/Remainder    | 模数/余数  |
-| ⇧ A    | AND (Logic)          | 和(逻辑)   |
-| ⇧ O    | OR (Logic)           | 或(逻辑)   |
-| ⇧ N    | NOT (Logic)          | 非(逻辑)   |
-| E      | Equals               | 等于       |
-| >      | Greater Than         | 大于       |
-| <      | Less Than            | 小于       |
-| ⇧ R    | Progress             | 进度       |
-| R      | Reverse Progress     | 反转进度   |
+| 快捷键   | 英文                 | 中文       |
+|:------| :------------------- | :--------- |
+| I     | Interaction          | 添加交互   |
+| S     | Switch               | 开关       |
+| A     | Pop Animation        | 弹性动画   |
+| C     | Classic Animation    | 经典动画   |
+| T     | Transition           | 过渡       |
+| K     | Keyboard             | 键盘       |
+| D     | Delay                | 延迟       |
+| ⇧ I   | Option Switch        | 选项开关   |
+| O     | Option Picker        | 选项选择器 |
+| X     | Splitter             | 分离器     |
+| W     | Wireless Broadcaster | 无线发送器 |
+| ⇧ W   | Wireless Receiver    | 无线接收器 |
+| U     | Pulse                | 脉冲       |
+| +     | Add                  | 加法       |
+| -     | Minus                | 减法       |
+| \*    | Multiple             | 乘法       |
+| /     | Divide               | 除法       |
+| %     | Modulus/Remainder    | 模数/余数  |
+| ⇧ A   | AND (Logic)          | 和(逻辑)   |
+| ⇧ O   | OR (Logic)           | 或(逻辑)   |
+| ⇧ N   | NOT (Logic)          | 非(逻辑)   |
+| E     | Equals               | 等于       |
+| >     | Greater Than         | 大于       |
+| &lt;      | Less Than            | 小于       |
+| ⇧ R   | Progress             | 进度       |
+| R     | Reverse Progress     | 反转进度   |
 
 ### Organizing Patches 整理模块
 
