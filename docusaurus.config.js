@@ -14,7 +14,7 @@ const config = {
   tagline: 'Origami 中文文档&使用手册&教程',
   url: 'https://kuaimeizheng.github.io',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
 
