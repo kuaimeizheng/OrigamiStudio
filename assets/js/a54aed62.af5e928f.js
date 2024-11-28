@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkorigami_studio=self.webpackChunkorigami_studio||[]).push([[61188],{15153:e=>{e.exports=JSON.parse('{"title":"Phone","slug":"/category/phone","permalink":"/docs/category/phone","navigation":{"previous":{"title":"SonySmartWatch","permalink":"/docs/device/Watch/SonySmartWatch"},"next":{"title":"Android","permalink":"/docs/category/android"}}}')}}]);

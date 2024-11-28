@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkorigami_studio=self.webpackChunkorigami_studio||[]).push([[25416],{50923:i=>{i.exports=JSON.parse('{"label":"android","permalink":"/en/docs/tags/android","allTagsPath":"/en/docs/tags","count":1,"items":[{"id":"special/Android/Android","title":"Android","description":"------","permalink":"/en/docs/special/Android/"}],"unlisted":false}')}}]);

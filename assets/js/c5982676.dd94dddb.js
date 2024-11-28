@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkorigami_studio=self.webpackChunkorigami_studio||[]).push([[89231],{98159:i=>{i.exports=JSON.parse('{"title":"iOS","slug":"/category/ios","permalink":"/docs/category/ios","navigation":{"previous":{"title":"Intrduction \u4ecb\u7ecd","permalink":"/docs/special/intro"},"next":{"title":"3D Touch","permalink":"/docs/special/iOS/3D Touch/"}}}')}}]);

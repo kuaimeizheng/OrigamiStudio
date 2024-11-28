@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkorigami_studio=self.webpackChunkorigami_studio||[]).push([[62063],{21444:e=>{e.exports=JSON.parse('{"title":"Tablet","slug":"/category/tablet","permalink":"/docs/category/tablet","navigation":{"previous":{"title":"iPhone SE","permalink":"/docs/device/Phone/iPhone/iPhone SE"},"next":{"title":"iPad","permalink":"/docs/device/Tablet/iPad"}}}')}}]);

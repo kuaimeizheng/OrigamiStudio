@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkorigami_studio=self.webpackChunkorigami_studio||[]).push([[26536],{98969:a=>{a.exports=JSON.parse('{"label":"macos","permalink":"/docs/tags/macos","allTagsPath":"/docs/tags","count":1,"items":[{"id":"special/Mac/Dock Animation","title":"Dock Animation","description":"------","permalink":"/docs/special/Mac/Dock Animation"}],"unlisted":false}')}}]);
